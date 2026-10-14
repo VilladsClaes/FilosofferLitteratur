@@ -1,0 +1,184 @@
+:ID,id,da,en,born,died,wiki,:LABEL
+philosopher:thales,thales,Thales fra Milet,Thales of Miletus,-624,-546,Thales_of_Miletus,Philosopher
+philosopher:pythagoras,pythagoras,Pythagoras,Pythagoras,-570,-495,Pythagoras,Philosopher
+philosopher:anaxagoras,anaxagoras,Anaxagoras,Anaxagoras,-500,-428,Anaxagoras,Philosopher
+philosopher:heraklit,heraklit,Heraklit,Heraclitus,-535,-475,Heraclitus,Philosopher
+philosopher:parmenides,parmenides,Parmenides,Parmenides,-515,-450,Parmenides,Philosopher
+philosopher:protagoras,protagoras,Protagoras,Protagoras,-490,-420,Protagoras,Philosopher
+philosopher:demokrit,demokrit,Demokrit,Democritus,-460,-370,Democritus,Philosopher
+philosopher:sokrates,sokrates,Sokrates,Socrates,-470,-399,Socrates,Philosopher
+philosopher:platon,platon,Platon,Plato,-427,-347,Plato,Philosopher
+philosopher:aristoteles,aristoteles,Aristoteles,Aristotle,-384,-322,Aristotle,Philosopher
+philosopher:diogenes,diogenes,Diogenes,Diogenes,-412,-323,Diogenes,Philosopher
+philosopher:epikur,epikur,Epikur,Epicurus,-341,-270,Epicurus,Philosopher
+philosopher:zenon-af-kition,zenon-af-kition,Zenon af Kition,Zeno of Citium,-334,-262,Zeno_of_Citium,Philosopher
+philosopher:chrysippos,chrysippos,Chrysippos,Chrysippus,-279,-206,Chrysippus,Philosopher
+philosopher:cicero,cicero,Cicero,Cicero,-106,-43,Cicero,Philosopher
+philosopher:seneca,seneca,Seneca,Seneca the Younger,-4,65,Seneca_the_Younger,Philosopher
+philosopher:epiktet,epiktet,Epiktet,Epictetus,50,135,Epictetus,Philosopher
+philosopher:marcus-aurelius,marcus-aurelius,Marcus Aurelius,Marcus Aurelius,121,180,Marcus_Aurelius,Philosopher
+philosopher:sextus-empiricus,sextus-empiricus,Sextus Empiricus,Sextus Empiricus,160,210,Sextus_Empiricus,Philosopher
+philosopher:plotin,plotin,Plotin,Plotinus,204,270,Plotinus,Philosopher
+philosopher:augustin,augustin,Augustin af Hippo,Augustine of Hippo,354,430,Augustine_of_Hippo,Philosopher
+philosopher:boethius,boethius,Boëthius,Boethius,477,524,Boethius,Philosopher
+philosopher:avicenna,avicenna,Avicenna (Ibn Sina),Avicenna,980,1037,Avicenna,Philosopher
+philosopher:al-ghazali,al-ghazali,Al-Ghazali,Al-Ghazali,1058,1111,Al-Ghazali,Philosopher
+philosopher:abelard,abelard,Peter Abelard,Peter Abelard,1079,1142,Peter_Abelard,Philosopher
+philosopher:averroes,averroes,Averroes (Ibn Rushd),Averroes,1126,1198,Averroes,Philosopher
+philosopher:maimonides,maimonides,Maimonides,Maimonides,1138,1204,Maimonides,Philosopher
+philosopher:aquinas,aquinas,Thomas Aquinas,Thomas Aquinas,1225,1274,Thomas_Aquinas,Philosopher
+philosopher:duns-scotus,duns-scotus,Duns Scotus,Duns Scotus,1266,1308,Duns_Scotus,Philosopher
+philosopher:ockham,ockham,William af Ockham,William of Ockham,1287,1347,William_of_Ockham,Philosopher
+philosopher:tabatabai,tabatabai,Muhammad Husayn Tabataba'i,Muhammad Husayn Tabataba'i,1892,1981,Muhammad_Husayn_Tabataba%27i,Philosopher
+philosopher:grotius,grotius,Hugo Grotius,Hugo Grotius,1583,1645,Hugo_Grotius,Philosopher
+philosopher:erasmus,erasmus,Erasmus af Rotterdam,Erasmus,1466,1536,Erasmus,Philosopher
+philosopher:machiavelli,machiavelli,Niccolò Machiavelli,Niccolò Machiavelli,1469,1527,Niccol%C3%B2_Machiavelli,Philosopher
+philosopher:more,more,Thomas More,Thomas More,1478,1535,Thomas_More,Philosopher
+philosopher:bruno,bruno,Giordano Bruno,Giordano Bruno,1548,1600,Giordano_Bruno,Philosopher
+philosopher:bacon,bacon,Francis Bacon,Francis Bacon,1561,1626,Francis_Bacon_(philosopher),Philosopher
+philosopher:hobbes,hobbes,Thomas Hobbes,Thomas Hobbes,1588,1679,Thomas_Hobbes,Philosopher
+philosopher:descartes,descartes,René Descartes,René Descartes,1596,1650,Ren%C3%A9_Descartes,Philosopher
+philosopher:pascal,pascal,Blaise Pascal,Blaise Pascal,1623,1662,Blaise_Pascal,Philosopher
+philosopher:spinoza,spinoza,Baruch Spinoza,Baruch Spinoza,1632,1677,Baruch_Spinoza,Philosopher
+philosopher:locke,locke,John Locke,John Locke,1632,1704,John_Locke,Philosopher
+philosopher:leibniz,leibniz,Gottfried Wilhelm Leibniz,Gottfried Wilhelm Leibniz,1646,1716,Gottfried_Wilhelm_Leibniz,Philosopher
+philosopher:berkeley,berkeley,George Berkeley,George Berkeley,1685,1753,George_Berkeley,Philosopher
+philosopher:montesquieu,montesquieu,Montesquieu,Montesquieu,1689,1755,Montesquieu,Philosopher
+philosopher:voltaire,voltaire,Voltaire,Voltaire,1694,1778,Voltaire,Philosopher
+philosopher:hume,hume,David Hume,David Hume,1711,1776,David_Hume,Philosopher
+philosopher:rousseau,rousseau,Jean-Jacques Rousseau,Jean-Jacques Rousseau,1712,1778,Jean-Jacques_Rousseau,Philosopher
+philosopher:diderot,diderot,Denis Diderot,Denis Diderot,1713,1784,Denis_Diderot,Philosopher
+philosopher:smith,smith,Adam Smith,Adam Smith,1723,1790,Adam_Smith,Philosopher
+philosopher:kant,kant,Immanuel Kant,Immanuel Kant,1724,1804,Immanuel_Kant,Philosopher
+philosopher:burke,burke,Edmund Burke,Edmund Burke,1729,1797,Edmund_Burke,Philosopher
+philosopher:bentham,bentham,Jeremy Bentham,Jeremy Bentham,1748,1832,Jeremy_Bentham,Philosopher
+philosopher:reid,reid,Thomas Reid,Thomas Reid,1710,1796,Thomas_Reid,Philosopher
+philosopher:fichte,fichte,Johann Gottlieb Fichte,Johann Gottlieb Fichte,1762,1814,Johann_Gottlieb_Fichte,Philosopher
+philosopher:schelling,schelling,Friedrich Schelling,Friedrich Wilhelm Joseph Schelling,1775,1854,Friedrich_Wilhelm_Joseph_Schelling,Philosopher
+philosopher:hegel,hegel,Georg Wilhelm Friedrich Hegel,Georg Wilhelm Friedrich Hegel,1770,1831,Georg_Wilhelm_Friedrich_Hegel,Philosopher
+philosopher:schleiermacher,schleiermacher,Friedrich Schleiermacher,Friedrich Schleiermacher,1768,1834,Friedrich_Schleiermacher,Philosopher
+philosopher:schopenhauer,schopenhauer,Arthur Schopenhauer,Arthur Schopenhauer,1788,1860,Arthur_Schopenhauer,Philosopher
+philosopher:comte,comte,Auguste Comte,Auguste Comte,1798,1857,Auguste_Comte,Philosopher
+philosopher:kierkegaard,kierkegaard,Søren Kierkegaard,Søren Kierkegaard,1813,1855,S%C3%B8ren_Kierkegaard,Philosopher
+philosopher:mill,mill,John Stuart Mill,John Stuart Mill,1806,1873,John_Stuart_Mill,Philosopher
+philosopher:marx,marx,Karl Marx,Karl Marx,1818,1883,Karl_Marx,Philosopher
+philosopher:engels,engels,Friedrich Engels,Friedrich Engels,1820,1895,Friedrich_Engels,Philosopher
+philosopher:emerson,emerson,Ralph Waldo Emerson,Ralph Waldo Emerson,1803,1882,Ralph_Waldo_Emerson,Philosopher
+philosopher:stirner,stirner,Max Stirner,Max Stirner,1806,1856,Max_Stirner,Philosopher
+philosopher:proudhon,proudhon,Pierre-Joseph Proudhon,Pierre-Joseph Proudhon,1809,1865,Pierre-Joseph_Proudhon,Philosopher
+philosopher:bakunin,bakunin,Mikhail Bakunin,Mikhail Bakunin,1814,1876,Mikhail_Bakunin,Philosopher
+philosopher:ricardo,ricardo,David Ricardo,David Ricardo,1772,1823,David_Ricardo,Philosopher
+philosopher:nietzsche,nietzsche,Friedrich Nietzsche,Friedrich Nietzsche,1844,1900,Friedrich_Nietzsche,Philosopher
+philosopher:peirce,peirce,Charles Sanders Peirce,Charles Sanders Peirce,1839,1914,Charles_Sanders_Peirce,Philosopher
+philosopher:james,james,William James,William James,1842,1910,William_James,Philosopher
+philosopher:frege,frege,Gottlob Frege,Gottlob Frege,1848,1925,Gottlob_Frege,Philosopher
+philosopher:dilthey,dilthey,Wilhelm Dilthey,Wilhelm Dilthey,1833,1911,Wilhelm_Dilthey,Philosopher
+philosopher:de-maistre,de-maistre,Joseph de Maistre,Joseph de Maistre,1753,1821,Joseph_de_Maistre,Philosopher
+philosopher:tocqueville,tocqueville,Alexis de Tocqueville,Alexis de Tocqueville,1805,1859,Alexis_de_Tocqueville,Philosopher
+philosopher:kropotkin,kropotkin,Peter Kropotkin,Peter Kropotkin,1842,1921,Peter_Kropotkin,Philosopher
+philosopher:luxemburg,luxemburg,Rosa Luxemburg,Rosa Luxemburg,1871,1919,Rosa_Luxemburg,Philosopher
+philosopher:keynes,keynes,John Maynard Keynes,John Maynard Keynes,1883,1946,John_Maynard_Keynes,Philosopher
+philosopher:husserl,husserl,Edmund Husserl,Edmund Husserl,1859,1938,Edmund_Husserl,Philosopher
+philosopher:bergson,bergson,Henri Bergson,Henri Bergson,1859,1941,Henri_Bergson,Philosopher
+philosopher:russell,russell,Bertrand Russell,Bertrand Russell,1872,1970,Bertrand_Russell,Philosopher
+philosopher:whitehead,whitehead,Alfred North Whitehead,Alfred North Whitehead,1861,1947,Alfred_North_Whitehead,Philosopher
+philosopher:dewey,dewey,John Dewey,John Dewey,1859,1952,John_Dewey,Philosopher
+philosopher:santayana,santayana,George Santayana,George Santayana,1863,1952,George_Santayana,Philosopher
+philosopher:royce,royce,Josiah Royce,Josiah Royce,1855,1916,Josiah_Royce,Philosopher
+philosopher:wittgenstein,wittgenstein,Ludwig Wittgenstein,Ludwig Wittgenstein,1889,1951,Ludwig_Wittgenstein,Philosopher
+philosopher:heidegger,heidegger,Martin Heidegger,Martin Heidegger,1889,1976,Martin_Heidegger,Philosopher
+philosopher:schlick,schlick,Moritz Schlick,Moritz Schlick,1882,1936,Moritz_Schlick,Philosopher
+philosopher:carnap,carnap,Rudolf Carnap,Rudolf Carnap,1891,1970,Rudolf_Carnap,Philosopher
+philosopher:simmel,simmel,Georg Simmel,Georg Simmel,1858,1918,Georg_Simmel,Philosopher
+philosopher:weber,weber,Max Weber,Max Weber,1864,1920,Max_Weber,Philosopher
+philosopher:freud,freud,Sigmund Freud,Sigmund Freud,1856,1939,Sigmund_Freud,Philosopher
+philosopher:croce,croce,Benedetto Croce,Benedetto Croce,1866,1952,Benedetto_Croce,Philosopher
+philosopher:gentile,gentile,Giovanni Gentile,Giovanni Gentile,1875,1944,Giovanni_Gentile,Philosopher
+philosopher:ortega,ortega,José Ortega y Gasset,José Ortega y Gasset,1883,1955,Jos%C3%A9_Ortega_y_Gasset,Philosopher
+philosopher:berdyaev,berdyaev,Nikolai Berdyaev,Nikolai Berdyaev,1874,1948,Nikolai_Berdyaev,Philosopher
+philosopher:gramsci,gramsci,Antonio Gramsci,Antonio Gramsci,1891,1937,Antonio_Gramsci,Philosopher
+philosopher:lukacs,lukacs,György Lukács,György Lukács,1885,1971,Gy%C3%B6rgy_Luk%C3%A1cs,Philosopher
+philosopher:steiner,steiner,Rudolf Steiner,Rudolf Steiner,1861,1925,Rudolf_Steiner,Philosopher
+philosopher:schmitt,schmitt,Carl Schmitt,Carl Schmitt,1888,1985,Carl_Schmitt,Philosopher
+philosopher:jaspers,jaspers,Karl Jaspers,Karl Jaspers,1883,1969,Karl_Jaspers,Philosopher
+philosopher:bachelard,bachelard,Gaston Bachelard,Gaston Bachelard,1884,1962,Gaston_Bachelard,Philosopher
+philosopher:popper,popper,Karl Popper,Karl Popper,1902,1994,Karl_Popper,Philosopher
+philosopher:benjamin,benjamin,Walter Benjamin,Walter Benjamin,1892,1940,Walter_Benjamin,Philosopher
+philosopher:adorno,adorno,Theodor W. Adorno,Theodor W. Adorno,1903,1969,Theodor_W._Adorno,Philosopher
+philosopher:marcuse,marcuse,Herbert Marcuse,Herbert Marcuse,1898,1979,Herbert_Marcuse,Philosopher
+philosopher:sartre,sartre,Jean-Paul Sartre,Jean-Paul Sartre,1905,1980,Jean-Paul_Sartre,Philosopher
+philosopher:beauvoir,beauvoir,Simone de Beauvoir,Simone de Beauvoir,1908,1986,Simone_de_Beauvoir,Philosopher
+philosopher:camus,camus,Albert Camus,Albert Camus,1913,1960,Albert_Camus,Philosopher
+philosopher:merleau-ponty,merleau-ponty,Maurice Merleau-Ponty,Maurice Merleau-Ponty,1908,1961,Maurice_Merleau-Ponty,Philosopher
+philosopher:levinas,levinas,Emmanuel Levinas,Emmanuel Levinas,1906,1995,Emmanuel_Levinas,Philosopher
+philosopher:arendt,arendt,Hannah Arendt,Hannah Arendt,1906,1975,Hannah_Arendt,Philosopher
+philosopher:ricoeur,ricoeur,Paul Ricoeur,Paul Ricoeur,1913,2005,Paul_Ricoeur,Philosopher
+philosopher:gadamer,gadamer,Hans-Georg Gadamer,Hans-Georg Gadamer,1900,2002,Hans-Georg_Gadamer,Philosopher
+philosopher:ayer,ayer,Alfred Jules Ayer,Alfred Jules Ayer,1910,1989,Alfred_Jules_Ayer,Philosopher
+philosopher:ryle,ryle,Gilbert Ryle,Gilbert Ryle,1900,1976,Gilbert_Ryle,Philosopher
+philosopher:quine,quine,Willard Van Orman Quine,Willard Van Orman Quine,1908,2000,Willard_Van_Orman_Quine,Philosopher
+philosopher:austin,austin,J.L. Austin,J. L. Austin,1911,1960,J._L._Austin,Philosopher
+philosopher:anscombe,anscombe,G.E.M. Anscombe,G. E. M. Anscombe,1919,2001,G._E._M._Anscombe,Philosopher
+philosopher:althusser,althusser,Louis Althusser,Louis Althusser,1918,1990,Louis_Althusser,Philosopher
+philosopher:strauss,strauss,Leo Strauss,Leo Strauss,1899,1973,Leo_Strauss,Philosopher
+philosopher:voegelin,voegelin,Eric Voegelin,Eric Voegelin,1901,1985,Eric_Voegelin,Philosopher
+philosopher:mises,mises,Ludwig von Mises,Ludwig von Mises,1881,1973,Ludwig_von_Mises,Philosopher
+philosopher:hayek,hayek,Friedrich Hayek,Friedrich Hayek,1899,1992,Friedrich_Hayek,Philosopher
+philosopher:rand,rand,Ayn Rand,Ayn Rand,1905,1982,Ayn_Rand,Philosopher
+philosopher:rothbard,rothbard,Murray Rothbard,Murray Rothbard,1926,1995,Murray_Rothbard,Philosopher
+philosopher:kuhn,kuhn,Thomas Kuhn,Thomas Kuhn,1922,1996,Thomas_Kuhn,Philosopher
+philosopher:lakatos,lakatos,Imre Lakatos,Imre Lakatos,1922,1974,Imre_Lakatos,Philosopher
+philosopher:feyerabend,feyerabend,Paul Feyerabend,Paul Feyerabend,1924,1994,Paul_Feyerabend,Philosopher
+philosopher:davidson,davidson,Donald Davidson,Donald Davidson,1917,2003,Donald_Davidson_(philosopher),Philosopher
+philosopher:goodman,goodman,Nelson Goodman,Nelson Goodman,1906,1998,Nelson_Goodman,Philosopher
+philosopher:kripke,kripke,Saul Kripke,Saul Kripke,1940,2022,Saul_Kripke,Philosopher
+philosopher:foucault,foucault,Michel Foucault,Michel Foucault,1926,1984,Michel_Foucault,Philosopher
+philosopher:derrida,derrida,Jacques Derrida,Jacques Derrida,1930,2004,Jacques_Derrida,Philosopher
+philosopher:deleuze,deleuze,Gilles Deleuze,Gilles Deleuze,1925,1995,Gilles_Deleuze,Philosopher
+philosopher:habermas,habermas,Jürgen Habermas,Jürgen Habermas,1929,2026,J%C3%BCrgen_Habermas,Philosopher
+philosopher:chomsky,chomsky,Noam Chomsky,Noam Chomsky,1928,2026,Noam_Chomsky,Philosopher
+philosopher:putnam,putnam,Hilary Putnam,Hilary Putnam,1926,2016,Hilary_Putnam,Philosopher
+philosopher:rorty,rorty,Richard Rorty,Richard Rorty,1931,2007,Richard_Rorty,Philosopher
+philosopher:dennett,dennett,Daniel Dennett,Daniel Dennett,1942,2024,Daniel_Dennett,Philosopher
+philosopher:nozick,nozick,Robert Nozick,Robert Nozick,1938,2002,Robert_Nozick,Philosopher
+philosopher:singer,singer,Peter Singer,Peter Singer,1946,2026,Peter_Singer,Philosopher
+philosopher:zizek,zizek,Slavoj Žižek,Slavoj Žižek,1949,2026,Slavoj_%C5%BDi%C5%BEek,Philosopher
+philosopher:butler,butler,Judith Butler,Judith Butler,1956,2026,Judith_Butler,Philosopher
+philosopher:badiou,badiou,Alain Badiou,Alain Badiou,1937,2026,Alain_Badiou,Philosopher
+philosopher:macintyre,macintyre,Alasdair MacIntyre,Alasdair MacIntyre,1929,2026,Alasdair_MacIntyre,Philosopher
+philosopher:taylor,taylor,Charles Taylor,Charles Taylor,1931,2026,Charles_Taylor_(philosopher),Philosopher
+philosopher:nussbaum,nussbaum,Martha Nussbaum,Martha Nussbaum,1947,2026,Martha_Nussbaum,Philosopher
+philosopher:west,west,Cornel West,Cornel West,1953,2026,Cornel_West,Philosopher
+philosopher:bloom,bloom,Allan Bloom,Allan Bloom,1930,1992,Allan_Bloom,Philosopher
+philosopher:konfucius,konfucius,Konfucius,Confucius,-551,-479,Confucius,Philosopher
+philosopher:laozi,laozi,Lao Tzu,Laozi,-571,-471,Laozi,Philosopher
+philosopher:comenius,comenius,John Amos Comenius,John Amos Comenius,1592,1670,John_Amos_Comenius,Philosopher
+philosopher:pestalozzi,pestalozzi,Johann Heinrich Pestalozzi,Johann Heinrich Pestalozzi,1746,1827,Johann_Heinrich_Pestalozzi,Philosopher
+philosopher:herbart,herbart,Johann Friedrich Herbart,Johann Friedrich Herbart,1776,1841,Johann_Friedrich_Herbart,Philosopher
+philosopher:frobel,frobel,Friedrich Fröbel,Friedrich Fröbel,1782,1852,Friedrich_Fr%C3%B6bel,Philosopher
+philosopher:grundtvig,grundtvig,N.F.S. Grundtvig,N. F. S. Grundtvig,1783,1872,N._F._S._Grundtvig,Philosopher
+philosopher:kold,kold,Christen Kold,Christen Kold,1816,1870,Christen_Kold,Philosopher
+philosopher:montessori,montessori,Maria Montessori,Maria Montessori,1870,1952,Maria_Montessori,Philosopher
+philosopher:huizinga,huizinga,Johan Huizinga,Johan Huizinga,1872,1945,Johan_Huizinga,Philosopher
+philosopher:vygotsky,vygotsky,Lev Vygotsky,Lev Vygotsky,1896,1934,Lev_Vygotsky,Philosopher
+philosopher:piaget,piaget,Jean Piaget,Jean Piaget,1896,1980,Jean_Piaget,Philosopher
+philosopher:winnicott,winnicott,Donald Winnicott,Donald Winnicott,1896,1971,Donald_Winnicott,Philosopher
+philosopher:erikson,erikson,Erik Erikson,Erik Erikson,1902,1994,Erik_Erikson,Philosopher
+philosopher:bowlby,bowlby,John Bowlby,John Bowlby,1907,1990,John_Bowlby,Philosopher
+philosopher:maslow,maslow,Abraham Maslow,Abraham Maslow,1908,1970,Abraham_Maslow,Philosopher
+philosopher:bloom-benjamin,bloom-benjamin,Benjamin Bloom,Benjamin Bloom,1913,1999,Benjamin_Bloom,Philosopher
+philosopher:caillois,caillois,Roger Caillois,Roger Caillois,1913,1978,Roger_Caillois,Philosopher
+philosopher:aries,aries,Philippe Ariès,Philippe Ariès,1914,1984,Philippe_Ari%C3%A8s,Philosopher
+philosopher:bruner,bruner,Jerome Bruner,Jerome Bruner,1915,2016,Jerome_Bruner,Philosopher
+philosopher:herzberg,herzberg,Frederick Herzberg,Frederick Herzberg,1923,2000,Frederick_Herzberg,Philosopher
+philosopher:polanyi,polanyi,Michael Polanyi,Michael Polanyi,1891,1976,Michael_Polanyi,Philosopher
+philosopher:freire,freire,Paulo Freire,Paulo Freire,1921,1997,Paulo_Freire,Philosopher
+philosopher:illich,illich,Ivan Illich,Ivan Illich,1926,2002,Ivan_Illich,Philosopher
+philosopher:bandura,bandura,Albert Bandura,Albert Bandura,1925,2021,Albert_Bandura,Philosopher
+philosopher:gettier,gettier,Edmund Gettier,Edmund Gettier,1927,2021,Edmund_Gettier,Philosopher
+philosopher:luckmann,luckmann,Thomas Luckmann,Thomas Luckmann,1927,2016,Thomas_Luckmann,Philosopher
+philosopher:berger,berger,Peter L. Berger,Peter L. Berger,1929,2017,Peter_L._Berger,Philosopher
+philosopher:csikszentmihalyi,csikszentmihalyi,Mihaly Csikszentmihalyi,Mihaly Csikszentmihalyi,1934,2021,Mihaly_Csikszentmihalyi,Philosopher
+philosopher:lave,lave,Jean Lave,Jean Lave,1939,2026,Jean_Lave,Philosopher
+philosopher:dweck,dweck,Carol Dweck,Carol Dweck,1942,2026,Carol_Dweck,Philosopher
+philosopher:wenger,wenger,Etienne Wenger,Etienne Wenger,1952,2026,Etienne_Wenger,Philosopher

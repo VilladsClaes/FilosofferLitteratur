@@ -1,0 +1,11 @@
+:ID,id,da,en,start,end,order,note,:LABEL
+era:klassisk-kina,klassisk-kina,Klassisk kinesisk filosofi,Classical Chinese philosophy,-551,-233,1,"Den kinesiske ""hundredårige skoleskrig"" – konfucianisme, daoisme og deres samtidige.",Era
+era:antikken,antikken,Antikken,Antiquity,-624,270,2,Fra Thales og den ioniske naturfilosofi til Plotin og nyplatonismen.,Era
+era:middelalderen,middelalderen,Middelalderen og den islamiske verdens guldalder,Middle Ages & the Islamic Golden Age,354,1400,3,"Patristik, skolastik og den arabisk-jødiske aristotelisme (falsafa).",Era
+era:renaessancen,renaessancen,Renæssance og tidlig moderne tid,Renaissance & early modern,1466,1753,4,"Humanisme, naturvidenskabens fødsel, rationalisme og empirisme.",Era
+era:oplysningen,oplysningen,Oplysningstiden,The Enlightenment,1689,1796,5,"Forfatterne til magtens tredeling, oplysningskritikken, utilitarismen og den kritiske filosofi.",Era
+era:tysk-idealisme,tysk-idealisme,Tysk idealisme,German idealism,1762,1860,6,"Fichte, Schelling, Hegel, Schleiermacher og den tidlige Schopenhauer.",Era
+era:1800-tallet,1800-tallet,1800-tallet,19th century,1798,1919,7,"Positivisme, eksistentialisme, marxisme, anarkisme, pragmatisme og logik.",Era
+era:tidligt-1900-tal,tidligt-1900-tal,Tidligt 1900-tal,Early 20th century,1859,1954,8,"Fænomenologi, analytisk filosofi, logisk positivisme, psykoanalyse og kritisk teori.",Era
+era:midt-1900-tal,midt-1900-tal,Midt-1900-tallet,Mid-20th century,1889,1979,9,"Eksistentialisme, hermeneutik, sprogfilosofi, videnskabsfilosofi og vestlig marxisme.",Era
+era:sen-1900-tal-og-nutid,sen-1900-tal-og-nutid,Sen 1900-tal og nutiden,Late 20th century & today,1926,2026,10,"Poststrukturalisme, kommunitarisme, feministisk og politisk filosofi samt nutidens etik og bevidsthedsfilosofi.",Era

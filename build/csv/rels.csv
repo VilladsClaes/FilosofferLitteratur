@@ -1,0 +1,2585 @@
+:START_ID,:END_ID,:TYPE,kilde,evidens
+era:klassisk-kina,era:antikken,FOLLOWS,,katalog
+era:antikken,era:middelalderen,FOLLOWS,,katalog
+era:middelalderen,era:renaessancen,FOLLOWS,,katalog
+era:renaessancen,era:oplysningen,FOLLOWS,,katalog
+era:oplysningen,era:tysk-idealisme,FOLLOWS,,katalog
+era:tysk-idealisme,era:1800-tallet,FOLLOWS,,katalog
+era:1800-tallet,era:tidligt-1900-tal,FOLLOWS,,katalog
+era:tidligt-1900-tal,era:midt-1900-tal,FOLLOWS,,katalog
+era:midt-1900-tal,era:sen-1900-tal-og-nutid,FOLLOWS,,katalog
+philosopher:thales,era:antikken,LIVED_IN,,katalog
+philosopher:thales,concept:naturfilosofi,INVENTED,,katalog
+philosopher:thales,concept:vand-som-grundstof,INVENTED,,katalog
+philosopher:thales,concept:ionisk-naturfilosofi,FOUNDED,,katalog
+philosopher:thales,artifact:thales-fragmenter,AUTHORED,,katalog
+philosopher:pythagoras,era:antikken,LIVED_IN,,katalog
+philosopher:pythagoras,concept:talfilosofi,INVENTED,,katalog
+philosopher:pythagoras,concept:matematisk-harmoni,INVENTED,,katalog
+philosopher:pythagoras,concept:sjaelens-vandring,INVENTED,,katalog
+philosopher:pythagoras,concept:pythagoraeisme,FOUNDED,,katalog
+philosopher:pythagoras,artifact:pythagoras-skolen,CREATED,,katalog
+philosopher:anaxagoras,era:antikken,LIVED_IN,,katalog
+philosopher:anaxagoras,concept:nous,INVENTED,,katalog
+philosopher:anaxagoras,concept:pluralisme,INVENTED,,katalog
+philosopher:anaxagoras,concept:ionisk-naturfilosofi,MEMBER_OF,,katalog
+philosopher:anaxagoras,artifact:anaxagoras-fragmenter,AUTHORED,,katalog
+philosopher:heraklit,era:antikken,LIVED_IN,,katalog
+philosopher:heraklit,concept:panta-rhei,INVENTED,,katalog
+philosopher:heraklit,concept:logos,INVENTED,,katalog
+philosopher:heraklit,concept:forandringens-filosofi,INVENTED,,katalog
+philosopher:heraklit,artifact:heraklit-fragmenter,AUTHORED,,katalog
+philosopher:parmenides,era:antikken,LIVED_IN,,katalog
+philosopher:parmenides,concept:vaeren-uforanderlig,INVENTED,,katalog
+philosopher:parmenides,concept:monisme,INVENTED,,katalog
+philosopher:parmenides,concept:eleatisk-skole,FOUNDED,,katalog
+philosopher:anaxagoras,philosopher:parmenides,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:heraklit,philosopher:parmenides,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:parmenides,artifact:parmenides-digte,AUTHORED,,katalog
+philosopher:protagoras,era:antikken,LIVED_IN,,katalog
+philosopher:protagoras,concept:relativisme,INVENTED,,katalog
+philosopher:protagoras,concept:homo-mensura,INVENTED,,katalog
+philosopher:protagoras,concept:sofisme,FOUNDED,,katalog
+philosopher:heraklit,philosopher:protagoras,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:protagoras,artifact:protagoras-fragmenter,AUTHORED,,katalog
+philosopher:demokrit,era:antikken,LIVED_IN,,katalog
+philosopher:demokrit,concept:materialisme,INVENTED,,katalog
+philosopher:demokrit,concept:atomisme,FOUNDED,,katalog
+philosopher:anaxagoras,philosopher:demokrit,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:demokrit,artifact:demokrit-fragmenter,AUTHORED,,katalog
+philosopher:sokrates,era:antikken,LIVED_IN,,katalog
+philosopher:sokrates,concept:sokratisk-metode,INVENTED,,katalog
+philosopher:sokrates,concept:mayeutik,INVENTED,,katalog
+philosopher:sokrates,concept:etisk-intellektualisme,INVENTED,,katalog
+philosopher:parmenides,philosopher:sokrates,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:anaxagoras,philosopher:sokrates,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:protagoras,philosopher:sokrates,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:platon,era:antikken,LIVED_IN,,katalog
+philosopher:platon,concept:formernes-teori,INVENTED,,katalog
+philosopher:platon,concept:hulelignelsen,INVENTED,,katalog
+philosopher:platon,concept:idealismen,INVENTED,,katalog
+philosopher:platon,concept:platonisme,FOUNDED,,katalog
+philosopher:sokrates,philosopher:platon,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:pythagoras,philosopher:platon,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:heraklit,philosopher:platon,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:parmenides,philosopher:platon,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:platon,artifact:platon-politeia,AUTHORED,,katalog
+philosopher:platon,artifact:platon-symposion,AUTHORED,,katalog
+philosopher:platon,artifact:platon-faidon,AUTHORED,,katalog
+philosopher:platon,artifact:platon-timaios,AUTHORED,,katalog
+philosopher:platon,artifact:platon-akademiet,CREATED,,katalog
+philosopher:aristoteles,era:antikken,LIVED_IN,,katalog
+philosopher:aristoteles,concept:syllogismen,INVENTED,,katalog
+philosopher:aristoteles,concept:hylomorfisme,INVENTED,,katalog
+philosopher:aristoteles,concept:de-fire-aarsager,INVENTED,,katalog
+philosopher:aristoteles,concept:teleologi,INVENTED,,katalog
+philosopher:aristoteles,concept:dydsetik,INVENTED,,katalog
+philosopher:aristoteles,concept:formernes-teori,CRITIQUED,,katalog
+philosopher:aristoteles,concept:aristotelisme,FOUNDED,,katalog
+philosopher:platon,philosopher:aristoteles,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:aristoteles,artifact:aristoteles-organon,AUTHORED,,katalog
+philosopher:aristoteles,artifact:aristoteles-metafysik,AUTHORED,,katalog
+philosopher:aristoteles,artifact:aristoteles-fysik,AUTHORED,,katalog
+philosopher:aristoteles,artifact:aristoteles-nikomacheiske-etik,AUTHORED,,katalog
+philosopher:aristoteles,artifact:aristoteles-politik,AUTHORED,,katalog
+philosopher:aristoteles,artifact:aristoteles-lykeion,CREATED,,katalog
+philosopher:diogenes,era:antikken,LIVED_IN,,katalog
+philosopher:diogenes,concept:asketisme,INVENTED,,katalog
+philosopher:diogenes,concept:kynisk-naturlighed,INVENTED,,katalog
+philosopher:diogenes,concept:kynisme,FOUNDED,,katalog
+philosopher:sokrates,philosopher:diogenes,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:diogenes,artifact:diogenes-fragmenter,AUTHORED,,katalog
+philosopher:epikur,era:antikken,LIVED_IN,,katalog
+philosopher:epikur,concept:hedonisme,INVENTED,,katalog
+philosopher:epikur,concept:ataraxia,INVENTED,,katalog
+philosopher:epikur,concept:atomisme,DEVELOPED,,katalog
+philosopher:epikur,concept:materialisme,DEVELOPED,,katalog
+philosopher:epikur,concept:epikuraeisme,FOUNDED,,katalog
+philosopher:demokrit,philosopher:epikur,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:epikur,artifact:epikurs-brev,AUTHORED,,katalog
+philosopher:epikur,artifact:epikurs-have,CREATED,,katalog
+philosopher:zenon-af-kition,era:antikken,LIVED_IN,,katalog
+philosopher:zenon-af-kition,concept:dyd-er-det-eneste-gode,INVENTED,,katalog
+philosopher:zenon-af-kition,concept:stoicisme,FOUNDED,,katalog
+philosopher:sokrates,philosopher:zenon-af-kition,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:heraklit,philosopher:zenon-af-kition,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:chrysippos,era:antikken,LIVED_IN,,katalog
+philosopher:chrysippos,concept:stoisk-logik,INVENTED,,katalog
+philosopher:chrysippos,concept:determinisme,INVENTED,,katalog
+philosopher:chrysippos,concept:stoicisme,MEMBER_OF,,katalog
+philosopher:zenon-af-kition,philosopher:chrysippos,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:chrysippos,artifact:krisippos-fragmenter,AUTHORED,,katalog
+philosopher:cicero,era:antikken,LIVED_IN,,katalog
+philosopher:cicero,concept:naturret,INVENTED,,katalog
+philosopher:cicero,concept:retorisk-filosofi,INVENTED,,katalog
+philosopher:cicero,concept:humanitas,INVENTED,,katalog
+philosopher:cicero,concept:eklekticisme,FOUNDED,,katalog
+philosopher:platon,philosopher:cicero,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:aristoteles,philosopher:cicero,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:zenon-af-kition,philosopher:cicero,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:cicero,artifact:cicero-om-pligterne,AUTHORED,,katalog
+philosopher:cicero,artifact:cicero-om-lovene,AUTHORED,,katalog
+philosopher:seneca,era:antikken,LIVED_IN,,katalog
+philosopher:seneca,concept:stoisk-livskunst,INVENTED,,katalog
+philosopher:seneca,concept:dydsetik,DEVELOPED,,katalog
+philosopher:seneca,concept:stoicisme,MEMBER_OF,,katalog
+philosopher:cicero,philosopher:seneca,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:zenon-af-kition,philosopher:seneca,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:seneca,artifact:senecas-breve,AUTHORED,,katalog
+philosopher:epiktet,era:antikken,LIVED_IN,,katalog
+philosopher:epiktet,concept:indre-frihed,INVENTED,,katalog
+philosopher:epiktet,concept:amor-fati,INVENTED,,katalog
+philosopher:epiktet,concept:stoicisme,MEMBER_OF,,katalog
+philosopher:zenon-af-kition,philosopher:epiktet,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:seneca,philosopher:epiktet,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:epiktet,artifact:epiktet-haandbogen,AUTHORED,,katalog
+philosopher:marcus-aurelius,era:antikken,LIVED_IN,,katalog
+philosopher:marcus-aurelius,concept:stoisk-selvdisciplin,INVENTED,,katalog
+philosopher:marcus-aurelius,concept:stoicisme,MEMBER_OF,,katalog
+philosopher:epiktet,philosopher:marcus-aurelius,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:marcus-aurelius,artifact:marcus-aurelius-til-sig-selv,AUTHORED,,katalog
+philosopher:sextus-empiricus,era:antikken,LIVED_IN,,katalog
+philosopher:sextus-empiricus,concept:epoche,INVENTED,,katalog
+philosopher:sextus-empiricus,concept:skepticisme,FOUNDED,,katalog
+philosopher:sextus-empiricus,artifact:sextus-pyrrhonske-skitse,AUTHORED,,katalog
+philosopher:plotin,era:antikken,LIVED_IN,,katalog
+philosopher:plotin,concept:emanation,INVENTED,,katalog
+philosopher:plotin,concept:det-ene,INVENTED,,katalog
+philosopher:plotin,concept:nyplatonisme,FOUNDED,,katalog
+philosopher:platon,philosopher:plotin,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:plotin,artifact:plotin-enneaderne,AUTHORED,,katalog
+philosopher:augustin,era:middelalderen,LIVED_IN,,katalog
+philosopher:augustin,concept:arvesynden,INVENTED,,katalog
+philosopher:augustin,concept:naadelaeren,INVENTED,,katalog
+philosopher:augustin,concept:fri-vilje,INVENTED,,katalog
+philosopher:augustin,concept:gudsstaten,INVENTED,,katalog
+philosopher:augustin,concept:patristik,FOUNDED,,katalog
+philosopher:platon,philosopher:augustin,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:plotin,philosopher:augustin,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:cicero,philosopher:augustin,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:augustin,artifact:augustin-bekendelser,AUTHORED,,katalog
+philosopher:augustin,artifact:augustin-gudsstaten,AUTHORED,,katalog
+philosopher:boethius,era:middelalderen,LIVED_IN,,katalog
+philosopher:boethius,concept:forsyn-og-skaebne,INVENTED,,katalog
+philosopher:boethius,concept:universaliestriden,INVENTED,,katalog
+philosopher:boethius,concept:aristotelisme,DEVELOPED,,katalog
+philosopher:boethius,concept:nyplatonisme,DEVELOPED,,katalog
+philosopher:aristoteles,philosopher:boethius,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:plotin,philosopher:boethius,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:augustin,philosopher:boethius,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:boethius,artifact:boethius-troest,AUTHORED,,katalog
+philosopher:avicenna,era:middelalderen,LIVED_IN,,katalog
+philosopher:avicenna,concept:nodvendig-eksistens,INVENTED,,katalog
+philosopher:avicenna,concept:essens-og-eksistens,INVENTED,,katalog
+philosopher:avicenna,concept:det-flyvende-menneske,INVENTED,,katalog
+philosopher:avicenna,concept:islamisk-filosofi,FOUNDED,,katalog
+philosopher:aristoteles,philosopher:avicenna,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:avicenna,artifact:avicenna-al-shifa,AUTHORED,,katalog
+philosopher:avicenna,artifact:avicenna-kanon,AUTHORED,,katalog
+philosopher:al-ghazali,era:middelalderen,LIVED_IN,,katalog
+philosopher:al-ghazali,concept:okkasionalisme,INVENTED,,katalog
+philosopher:al-ghazali,concept:sufisme,INVENTED,,katalog
+philosopher:al-ghazali,concept:aristotelisme,CRITIQUED,,katalog
+philosopher:al-ghazali,concept:islamisk-filosofi,MEMBER_OF,,katalog
+philosopher:avicenna,philosopher:al-ghazali,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:al-ghazali,artifact:al-ghazali-tahafut,AUTHORED,,katalog
+philosopher:abelard,era:middelalderen,LIVED_IN,,katalog
+philosopher:abelard,concept:konceptualisme,INVENTED,,katalog
+philosopher:abelard,concept:dialektisk-metode,INVENTED,,katalog
+philosopher:abelard,concept:skolastik,FOUNDED,,katalog
+philosopher:boethius,philosopher:abelard,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:abelard,artifact:abelard-sic-et-non,AUTHORED,,katalog
+philosopher:averroes,era:middelalderen,LIVED_IN,,katalog
+philosopher:averroes,concept:dobbelt-sandhed,INVENTED,,katalog
+philosopher:averroes,concept:aristotelisme,DEVELOPED,,katalog
+philosopher:averroes,concept:okkasionalisme,CRITIQUED,,katalog
+philosopher:averroes,concept:averroisme,FOUNDED,,katalog
+philosopher:averroes,concept:islamisk-filosofi,MEMBER_OF,,katalog
+philosopher:aristoteles,philosopher:averroes,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:avicenna,philosopher:averroes,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:averroes,artifact:averroes-tahafut-tahafut,AUTHORED,,katalog
+philosopher:averroes,artifact:averroes-kommentarer,AUTHORED,,katalog
+philosopher:maimonides,era:middelalderen,LIVED_IN,,katalog
+philosopher:maimonides,concept:negativ-teologi,INVENTED,,katalog
+philosopher:maimonides,concept:fornuft-og-aabenbaring,INVENTED,,katalog
+philosopher:maimonides,concept:jodisk-filosofi,FOUNDED,,katalog
+philosopher:aristoteles,philosopher:maimonides,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:averroes,philosopher:maimonides,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:avicenna,philosopher:maimonides,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:maimonides,artifact:maimonides-dukvane,AUTHORED,,katalog
+philosopher:maimonides,artifact:maimonides-mishne-torah,AUTHORED,,katalog
+philosopher:aquinas,era:middelalderen,LIVED_IN,,katalog
+philosopher:aquinas,concept:de-fem-gudsbeviser,INVENTED,,katalog
+philosopher:aquinas,concept:naturret,DEVELOPED,,katalog
+philosopher:aquinas,concept:hylomorfisme,DEVELOPED,,katalog
+philosopher:aquinas,concept:dydsetik,DEVELOPED,,katalog
+philosopher:aquinas,concept:aristotelisme,REVISED,,katalog
+philosopher:aquinas,concept:thomisme,FOUNDED,,katalog
+philosopher:aristoteles,philosopher:aquinas,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:augustin,philosopher:aquinas,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:avicenna,philosopher:aquinas,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:maimonides,philosopher:aquinas,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:aquinas,artifact:aquinas-summa-theologica,AUTHORED,,katalog
+philosopher:aquinas,artifact:aquinas-summa-contra-gentiles,AUTHORED,,katalog
+philosopher:duns-scotus,era:middelalderen,LIVED_IN,,katalog
+philosopher:duns-scotus,concept:voluntarisme,INVENTED,,katalog
+philosopher:duns-scotus,concept:haecceitas,INVENTED,,katalog
+philosopher:duns-scotus,concept:skolastik,MEMBER_OF,,katalog
+philosopher:aristoteles,philosopher:duns-scotus,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:augustin,philosopher:duns-scotus,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:duns-scotus,artifact:duns-scotus-ordinatio,AUTHORED,,katalog
+philosopher:ockham,era:middelalderen,LIVED_IN,,katalog
+philosopher:ockham,concept:nominalisme,INVENTED,,katalog
+philosopher:ockham,concept:ockhams-ragekniv,INVENTED,,katalog
+philosopher:ockham,concept:skolastik,MEMBER_OF,,katalog
+philosopher:duns-scotus,philosopher:ockham,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:ockham,artifact:ockham-summa-logicae,AUTHORED,,katalog
+philosopher:tabatabai,era:middelalderen,LIVED_IN,,katalog
+philosopher:tabatabai,concept:transcendent-filosofi,INVENTED,,katalog
+philosopher:tabatabai,concept:koranfortolkning,INVENTED,,katalog
+philosopher:tabatabai,concept:islamisk-filosofi,MEMBER_OF,,katalog
+philosopher:avicenna,philosopher:tabatabai,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:maimonides,philosopher:tabatabai,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:tabatabai,artifact:al-mizan,AUTHORED,,katalog
+philosopher:tabatabai,artifact:sadras-transcendente-filosofi,AUTHORED,,katalog
+philosopher:grotius,era:renaessancen,LIVED_IN,,katalog
+philosopher:grotius,concept:havets-frihed,INVENTED,,katalog
+philosopher:grotius,concept:naturret,DEVELOPED,,katalog
+philosopher:cicero,philosopher:grotius,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:aquinas,philosopher:grotius,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:grotius,artifact:grotius-krigens-ret,AUTHORED,,katalog
+philosopher:grotius,artifact:grotius-mare-liberum,AUTHORED,,katalog
+philosopher:erasmus,era:renaessancen,LIVED_IN,,katalog
+philosopher:erasmus,concept:tekstfilologi,INVENTED,,katalog
+philosopher:erasmus,concept:kristen-reformisme,INVENTED,,katalog
+philosopher:erasmus,concept:humanisme,FOUNDED,,katalog
+philosopher:cicero,philosopher:erasmus,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:augustin,philosopher:erasmus,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:erasmus,artifact:erasmus-daarskabens-lovprisning,AUTHORED,,katalog
+philosopher:machiavelli,era:renaessancen,LIVED_IN,,katalog
+philosopher:machiavelli,concept:politisk-realismen,INVENTED,,katalog
+philosopher:machiavelli,concept:machiavellisme,INVENTED,,katalog
+philosopher:machiavelli,concept:republikanisme,INVENTED,,katalog
+philosopher:cicero,philosopher:machiavelli,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:aristoteles,philosopher:machiavelli,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:machiavelli,artifact:machiavelli-fyrsten,AUTHORED,,katalog
+philosopher:machiavelli,artifact:machiavelli-discorsi,AUTHORED,,katalog
+philosopher:more,era:renaessancen,LIVED_IN,,katalog
+philosopher:more,concept:utopi,INVENTED,,katalog
+philosopher:more,concept:naturret,DEVELOPED,,katalog
+philosopher:more,concept:humanisme,MEMBER_OF,,katalog
+philosopher:platon,philosopher:more,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:erasmus,philosopher:more,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:augustin,philosopher:more,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:more,artifact:more-utopia,AUTHORED,,katalog
+philosopher:bruno,era:renaessancen,LIVED_IN,,katalog
+philosopher:bruno,concept:kosmologisk-pluralisme,INVENTED,,katalog
+philosopher:bruno,concept:hermetisme,INVENTED,,katalog
+philosopher:bruno,concept:panteisme,DEVELOPED,,katalog
+philosopher:plotin,philosopher:bruno,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:avicenna,philosopher:bruno,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:bruno,artifact:bruno-uendelige-univers,AUTHORED,,katalog
+philosopher:bacon,era:renaessancen,LIVED_IN,,katalog
+philosopher:bacon,concept:induktiv-metode,INVENTED,,katalog
+philosopher:bacon,concept:idolernes-laere,INVENTED,,katalog
+philosopher:bacon,concept:videnskabelig-metode,INVENTED,,katalog
+philosopher:bacon,concept:empirisme,FOUNDED,,katalog
+philosopher:bacon,artifact:bacon-novum-organum,AUTHORED,,katalog
+philosopher:hobbes,era:renaessancen,LIVED_IN,,katalog
+philosopher:hobbes,concept:samfundskontrakten,INVENTED,,katalog
+philosopher:hobbes,concept:naturtilstanden,INVENTED,,katalog
+philosopher:hobbes,concept:absolutisme,INVENTED,,katalog
+philosopher:hobbes,concept:materialisme,DEVELOPED,,katalog
+philosopher:bacon,philosopher:hobbes,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:machiavelli,philosopher:hobbes,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:hobbes,artifact:hobbes-leviathan,AUTHORED,,katalog
+philosopher:descartes,era:renaessancen,LIVED_IN,,katalog
+philosopher:descartes,concept:cogito-ergo-sum,INVENTED,,katalog
+philosopher:descartes,concept:metodisk-tvivl,INVENTED,,katalog
+philosopher:descartes,concept:dualisme,INVENTED,,katalog
+philosopher:descartes,concept:aristotelisme,REVISED,,katalog
+philosopher:descartes,concept:rationalisme,FOUNDED,,katalog
+philosopher:aquinas,philosopher:descartes,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:augustin,philosopher:descartes,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:avicenna,philosopher:descartes,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:descartes,artifact:descartes-metode,AUTHORED,,katalog
+philosopher:descartes,artifact:descartes-meditationer,AUTHORED,,katalog
+philosopher:pascal,era:renaessancen,LIVED_IN,,katalog
+philosopher:pascal,concept:pascals-vaeddemal,INVENTED,,katalog
+philosopher:pascal,concept:fideisme,INVENTED,,katalog
+philosopher:pascal,concept:sandsynlighedsteori,INVENTED,,katalog
+philosopher:pascal,concept:jansenisme,INVENTED,,katalog
+philosopher:pascal,concept:jansenisme,MEMBER_OF,,katalog
+philosopher:augustin,philosopher:pascal,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:descartes,philosopher:pascal,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:pascal,artifact:pascal-tanker,AUTHORED,,katalog
+philosopher:spinoza,era:renaessancen,LIVED_IN,,katalog
+philosopher:spinoza,concept:deus-sive-natura,INVENTED,,katalog
+philosopher:spinoza,concept:panteisme,DEVELOPED,,katalog
+philosopher:spinoza,concept:monisme,DEVELOPED,,katalog
+philosopher:spinoza,concept:determinisme,DEVELOPED,,katalog
+philosopher:spinoza,concept:dualisme,REVISED,,katalog
+philosopher:spinoza,concept:rationalisme,MEMBER_OF,,katalog
+philosopher:descartes,philosopher:spinoza,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:bruno,philosopher:spinoza,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:hobbes,philosopher:spinoza,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:spinoza,artifact:spinoza-etik,AUTHORED,,katalog
+philosopher:locke,era:renaessancen,LIVED_IN,,katalog
+philosopher:locke,concept:tabula-rasa,INVENTED,,katalog
+philosopher:locke,concept:naturlige-rettigheder,INVENTED,,katalog
+philosopher:locke,concept:personlig-identitet,INVENTED,,katalog
+philosopher:locke,concept:erfaringspaedagogik,INVENTED,,katalog
+philosopher:locke,concept:samfundskontrakten,DEVELOPED,,katalog
+philosopher:locke,concept:naturret,REVISED,,katalog
+philosopher:locke,concept:empirisme,MEMBER_OF,,katalog
+philosopher:locke,concept:liberalisme,MEMBER_OF,,katalog
+philosopher:bacon,philosopher:locke,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:hobbes,philosopher:locke,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:locke,artifact:locke-forstand,AUTHORED,,katalog
+philosopher:locke,artifact:locke-styre,AUTHORED,,katalog
+philosopher:locke,artifact:locke-opdragelse,AUTHORED,,katalog
+philosopher:leibniz,era:renaessancen,LIVED_IN,,katalog
+philosopher:leibniz,concept:monadelaeren,INVENTED,,katalog
+philosopher:leibniz,concept:praeetableret-harmoni,INVENTED,,katalog
+philosopher:leibniz,concept:theodice,INVENTED,,katalog
+philosopher:leibniz,concept:dualisme,REVISED,,katalog
+philosopher:leibniz,concept:rationalisme,MEMBER_OF,,katalog
+philosopher:descartes,philosopher:leibniz,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:spinoza,philosopher:leibniz,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:aristoteles,philosopher:leibniz,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:leibniz,artifact:leibniz-monadologien,AUTHORED,,katalog
+philosopher:leibniz,artifact:leibniz-theodicee,AUTHORED,,katalog
+philosopher:berkeley,era:renaessancen,LIVED_IN,,katalog
+philosopher:berkeley,concept:subjektiv-idealisme,INVENTED,,katalog
+philosopher:berkeley,concept:immaterialisme,INVENTED,,katalog
+philosopher:berkeley,concept:esse-est-percipi,INVENTED,,katalog
+philosopher:berkeley,concept:materialisme,CRITIQUED,,katalog
+philosopher:berkeley,concept:empirisme,MEMBER_OF,,katalog
+philosopher:locke,philosopher:berkeley,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:berkeley,artifact:berkeley-traktat,AUTHORED,,katalog
+philosopher:montesquieu,era:oplysningen,LIVED_IN,,katalog
+philosopher:montesquieu,concept:magtens-tredeling,INVENTED,,katalog
+philosopher:montesquieu,concept:konstitutionalisme,INVENTED,,katalog
+philosopher:locke,philosopher:montesquieu,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:aristoteles,philosopher:montesquieu,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:montesquieu,artifact:montesquieu-lovens-and,AUTHORED,,katalog
+philosopher:voltaire,era:oplysningen,LIVED_IN,,katalog
+philosopher:voltaire,concept:deisme,INVENTED,,katalog
+philosopher:voltaire,concept:ytringsfrihed,INVENTED,,katalog
+philosopher:voltaire,concept:religionskritik,INVENTED,,katalog
+philosopher:voltaire,concept:oplysningsfilosofi,FOUNDED,,katalog
+philosopher:locke,philosopher:voltaire,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:bacon,philosopher:voltaire,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:voltaire,artifact:voltaire-candide,AUTHORED,,katalog
+philosopher:voltaire,artifact:voltaire-filosofiske-breve,AUTHORED,,katalog
+philosopher:hume,era:oplysningen,LIVED_IN,,katalog
+philosopher:hume,concept:kausalitetskritik,INVENTED,,katalog
+philosopher:hume,concept:induktionsproblemet,INVENTED,,katalog
+philosopher:hume,concept:naturalisme,INVENTED,,katalog
+philosopher:hume,concept:empirisme,MEMBER_OF,,katalog
+philosopher:locke,philosopher:hume,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:berkeley,philosopher:hume,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:cicero,philosopher:hume,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:hume,artifact:hume-traktat,AUTHORED,,katalog
+philosopher:rousseau,era:oplysningen,LIVED_IN,,katalog
+philosopher:rousseau,concept:almenviljen,INVENTED,,katalog
+philosopher:rousseau,concept:den-aeble-vilde,INVENTED,,katalog
+philosopher:rousseau,concept:naturlig-opdragelse,INVENTED,,katalog
+philosopher:rousseau,concept:samfundskontrakten,DEVELOPED,,katalog
+philosopher:rousseau,concept:samfundskontrakten,REVISED,,katalog
+philosopher:rousseau,concept:romantik,MEMBER_OF,,katalog
+philosopher:hobbes,philosopher:rousseau,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:locke,philosopher:rousseau,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:platon,philosopher:rousseau,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:rousseau,artifact:rousseau-samfundskontrakten,AUTHORED,,katalog
+philosopher:rousseau,artifact:rousseau-emile,AUTHORED,,katalog
+philosopher:diderot,era:oplysningen,LIVED_IN,,katalog
+philosopher:diderot,concept:encyklopaedisme,INVENTED,,katalog
+philosopher:diderot,concept:materialisme,DEVELOPED,,katalog
+philosopher:diderot,concept:oplysningsfilosofi,MEMBER_OF,,katalog
+philosopher:bacon,philosopher:diderot,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:locke,philosopher:diderot,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:diderot,artifact:diderot-encyclopedien,AUTHORED,,katalog
+philosopher:smith,era:oplysningen,LIVED_IN,,katalog
+philosopher:smith,concept:den-usynlige-haand,INVENTED,,katalog
+philosopher:smith,concept:arbejdsdeling,INVENTED,,katalog
+philosopher:smith,concept:okonomisk-liberalisme,FOUNDED,,katalog
+philosopher:hume,philosopher:smith,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:locke,philosopher:smith,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:smith,artifact:smith-nationernes-velstand,AUTHORED,,katalog
+philosopher:kant,era:oplysningen,LIVED_IN,,katalog
+philosopher:kant,concept:transcendental-idealisme,INVENTED,,katalog
+philosopher:kant,concept:det-kategoriske-imperativ,INVENTED,,katalog
+philosopher:kant,concept:deontologi,INVENTED,,katalog
+philosopher:kant,concept:kritisk-filosofi,INVENTED,,katalog
+philosopher:kant,concept:autonomi,INVENTED,,katalog
+philosopher:kant,concept:evig-fred,INVENTED,,katalog
+philosopher:kant,concept:myndighed,INVENTED,,katalog
+philosopher:kant,concept:empirisme,REVISED,,katalog
+philosopher:kant,concept:rationalisme,REVISED,,katalog
+philosopher:kant,concept:tysk-idealisme,FOUNDED,,katalog
+philosopher:hume,philosopher:kant,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:rousseau,philosopher:kant,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:leibniz,philosopher:kant,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:kant,artifact:kant-ren-fornuft,AUTHORED,,katalog
+philosopher:kant,artifact:kant-praktisk-fornuft,AUTHORED,,katalog
+philosopher:kant,artifact:kant-dommekraften,AUTHORED,,katalog
+philosopher:kant,artifact:kant-hvad-er-oplysning,AUTHORED,,katalog
+philosopher:burke,era:oplysningen,LIVED_IN,,katalog
+philosopher:burke,concept:det-sublime,INVENTED,,katalog
+philosopher:burke,concept:organisk-samfundssyn,INVENTED,,katalog
+philosopher:burke,concept:konservatisme,FOUNDED,,katalog
+philosopher:hume,philosopher:burke,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:cicero,philosopher:burke,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:burke,artifact:burke-refleksioner,AUTHORED,,katalog
+philosopher:bentham,era:oplysningen,LIVED_IN,,katalog
+philosopher:bentham,concept:utilitarisme,INVENTED,,katalog
+philosopher:bentham,concept:panoptisme,INVENTED,,katalog
+philosopher:bentham,concept:hedonistisk-kalkule,INVENTED,,katalog
+philosopher:bentham,concept:retspositivisme,INVENTED,,katalog
+philosopher:hume,philosopher:bentham,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:locke,philosopher:bentham,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:bentham,artifact:bentham-indledning,AUTHORED,,katalog
+philosopher:bentham,artifact:bentham-panoptikon,CREATED,,katalog
+philosopher:reid,era:oplysningen,LIVED_IN,,katalog
+philosopher:reid,concept:common-sense-realismen,INVENTED,,katalog
+philosopher:hume,philosopher:reid,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:bacon,philosopher:reid,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:reid,artifact:reid-menneskelige-sind,AUTHORED,,katalog
+philosopher:fichte,era:tysk-idealisme,LIVED_IN,,katalog
+philosopher:fichte,concept:jeget-som-princip,INVENTED,,katalog
+philosopher:fichte,concept:subjektiv-idealisme,DEVELOPED,,katalog
+philosopher:fichte,concept:transcendental-idealisme,REVISED,,katalog
+philosopher:fichte,concept:tysk-idealisme,MEMBER_OF,,katalog
+philosopher:kant,philosopher:fichte,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:fichte,artifact:fichte-videnskabslaeren,AUTHORED,,katalog
+philosopher:schelling,era:tysk-idealisme,LIVED_IN,,katalog
+philosopher:schelling,concept:naturfilosofi-schelling,INVENTED,,katalog
+philosopher:schelling,concept:identitetsfilosofi,INVENTED,,katalog
+philosopher:schelling,concept:transcendental-idealisme,REVISED,,katalog
+philosopher:schelling,concept:romantik,FOUNDED,,katalog
+philosopher:schelling,concept:tysk-idealisme,MEMBER_OF,,katalog
+philosopher:kant,philosopher:schelling,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:fichte,philosopher:schelling,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:spinoza,philosopher:schelling,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:schelling,artifact:schelling-transcendentale-idealisme,AUTHORED,,katalog
+philosopher:hegel,era:tysk-idealisme,LIVED_IN,,katalog
+philosopher:hegel,concept:dialektik,INVENTED,,katalog
+philosopher:hegel,concept:absolut-idealisme,INVENTED,,katalog
+philosopher:hegel,concept:verdensaanden,INVENTED,,katalog
+philosopher:hegel,concept:anerkendelse,INVENTED,,katalog
+philosopher:hegel,concept:historiefilosofi,INVENTED,,katalog
+philosopher:hegel,concept:transcendental-idealisme,REVISED,,katalog
+philosopher:hegel,concept:tysk-idealisme,MEMBER_OF,,katalog
+philosopher:kant,philosopher:hegel,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:fichte,philosopher:hegel,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:schelling,philosopher:hegel,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:heraklit,philosopher:hegel,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:rousseau,philosopher:hegel,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:hegel,artifact:hegel-aandens-faenomenologi,AUTHORED,,katalog
+philosopher:hegel,artifact:hegel-retsfilosofien,AUTHORED,,katalog
+philosopher:hegel,artifact:hegel-forelaesninger-filosofiens-historie,AUTHORED,,katalog
+philosopher:schleiermacher,era:tysk-idealisme,LIVED_IN,,katalog
+philosopher:schleiermacher,concept:absolut-afhaengighed,INVENTED,,katalog
+philosopher:schleiermacher,concept:romantisk-teologi,INVENTED,,katalog
+philosopher:schleiermacher,concept:hermeneutik,DEVELOPED,,katalog
+philosopher:schleiermacher,concept:romantik,MEMBER_OF,,katalog
+philosopher:kant,philosopher:schleiermacher,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:schelling,philosopher:schleiermacher,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:schleiermacher,artifact:schleiermacher-om-religion,AUTHORED,,katalog
+philosopher:schopenhauer,era:tysk-idealisme,LIVED_IN,,katalog
+philosopher:schopenhauer,concept:pessimisme,INVENTED,,katalog
+philosopher:schopenhauer,concept:viljen-som-tingen-i-sig,INVENTED,,katalog
+philosopher:schopenhauer,concept:transcendental-idealisme,REVISED,,katalog
+philosopher:kant,philosopher:schopenhauer,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:platon,philosopher:schopenhauer,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:spinoza,philosopher:schopenhauer,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:schopenhauer,artifact:schopenhauer-verden-som-vilje,AUTHORED,,katalog
+philosopher:comte,era:1800-tallet,LIVED_IN,,katalog
+philosopher:comte,concept:trestadie-loven,INVENTED,,katalog
+philosopher:comte,concept:sociologi-begreb,INVENTED,,katalog
+philosopher:comte,concept:positivisme,FOUNDED,,katalog
+philosopher:hume,philosopher:comte,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:comte,artifact:comte-positiv-filosofi,AUTHORED,,katalog
+philosopher:kierkegaard,era:1800-tallet,LIVED_IN,,katalog
+philosopher:kierkegaard,concept:subjektivitet,INVENTED,,katalog
+philosopher:kierkegaard,concept:troens-spring,INVENTED,,katalog
+philosopher:kierkegaard,concept:angstbegrebet,INVENTED,,katalog
+philosopher:kierkegaard,concept:absolut-idealisme,CRITIQUED,,katalog
+philosopher:kierkegaard,concept:eksistentialisme,FOUNDED,,katalog
+philosopher:sokrates,philosopher:kierkegaard,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:augustin,philosopher:kierkegaard,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:hegel,philosopher:kierkegaard,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:kierkegaard,artifact:kierkegaard-enten-eller,AUTHORED,,katalog
+philosopher:kierkegaard,artifact:kierkegaard-angstens-begreb,AUTHORED,,katalog
+philosopher:kierkegaard,artifact:kierkegaard-efterkrift,AUTHORED,,katalog
+philosopher:mill,era:1800-tallet,LIVED_IN,,katalog
+philosopher:mill,concept:skadeprincippet,INVENTED,,katalog
+philosopher:mill,concept:kvindefrigoerelse,INVENTED,,katalog
+philosopher:mill,concept:utilitarisme,DEVELOPED,,katalog
+philosopher:mill,concept:induktionsproblemet,DEVELOPED,,katalog
+philosopher:mill,concept:liberalisme,DEVELOPED,,katalog
+philosopher:mill,concept:liberalisme,MEMBER_OF,,katalog
+philosopher:bentham,philosopher:mill,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:hume,philosopher:mill,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:rousseau,philosopher:mill,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:mill,artifact:mill-om-friheden,AUTHORED,,katalog
+philosopher:mill,artifact:mill-utilitarismen,AUTHORED,,katalog
+philosopher:mill,artifact:mill-kvindernes-underkastelse,AUTHORED,,katalog
+philosopher:marx,era:1800-tallet,LIVED_IN,,katalog
+philosopher:marx,concept:historisk-materialisme,INVENTED,,katalog
+philosopher:marx,concept:klassekamp,INVENTED,,katalog
+philosopher:marx,concept:dialektisk-materialisme,INVENTED,,katalog
+philosopher:marx,concept:fremmedgoerelse,INVENTED,,katalog
+philosopher:marx,concept:varefetichisme,INVENTED,,katalog
+philosopher:marx,concept:mervaerdi,INVENTED,,katalog
+philosopher:marx,concept:dialektik,REVISED,,katalog
+philosopher:marx,concept:marxisme,FOUNDED,,katalog
+philosopher:hegel,philosopher:marx,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:smith,philosopher:marx,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:ricardo,philosopher:marx,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:marx,artifact:kommunistiske-manifest,AUTHORED,,katalog
+philosopher:marx,artifact:marx-kapitalen,AUTHORED,,katalog
+philosopher:engels,era:1800-tallet,LIVED_IN,,katalog
+philosopher:engels,concept:historisk-materialisme,DEVELOPED,,katalog
+philosopher:engels,concept:dialektisk-materialisme,DEVELOPED,,katalog
+philosopher:engels,concept:marxisme,MEMBER_OF,,katalog
+philosopher:hegel,philosopher:engels,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:marx,philosopher:engels,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:engels,artifact:engels-dialektik-naturen,AUTHORED,,katalog
+philosopher:emerson,era:1800-tallet,LIVED_IN,,katalog
+philosopher:emerson,concept:individualisme-emerson,INVENTED,,katalog
+philosopher:emerson,concept:selvrealisering,INVENTED,,katalog
+philosopher:emerson,concept:transcendentalisme,FOUNDED,,katalog
+philosopher:platon,philosopher:emerson,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:kant,philosopher:emerson,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:emerson,artifact:emerson-nature,AUTHORED,,katalog
+philosopher:emerson,artifact:emerson-selvtillid,AUTHORED,,katalog
+philosopher:stirner,era:1800-tallet,LIVED_IN,,katalog
+philosopher:stirner,concept:egoisme,INVENTED,,katalog
+philosopher:stirner,concept:individualanarkisme,INVENTED,,katalog
+philosopher:stirner,concept:anarkisme,MEMBER_OF,,katalog
+philosopher:hegel,philosopher:stirner,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:stirner,artifact:stirner-den-eneste,AUTHORED,,katalog
+philosopher:proudhon,era:1800-tallet,LIVED_IN,,katalog
+philosopher:proudhon,concept:mutualisme,INVENTED,,katalog
+philosopher:proudhon,concept:ejendomskritik,INVENTED,,katalog
+philosopher:proudhon,concept:anarkisme,FOUNDED,,katalog
+philosopher:hegel,philosopher:proudhon,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:rousseau,philosopher:proudhon,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:proudhon,artifact:proudhon-hvad-er-ejendom,AUTHORED,,katalog
+philosopher:bakunin,era:1800-tallet,LIVED_IN,,katalog
+philosopher:bakunin,concept:kollektiv-anarkisme,INVENTED,,katalog
+philosopher:bakunin,concept:anti-autoritarisme,INVENTED,,katalog
+philosopher:bakunin,concept:anarkisme,MEMBER_OF,,katalog
+philosopher:proudhon,philosopher:bakunin,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:hegel,philosopher:bakunin,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:bakunin,artifact:bakunin-gud-og-staten,AUTHORED,,katalog
+philosopher:ricardo,era:1800-tallet,LIVED_IN,,katalog
+philosopher:ricardo,concept:komparative-fordele,INVENTED,,katalog
+philosopher:ricardo,concept:arbejdsvaerditeori,INVENTED,,katalog
+philosopher:ricardo,concept:okonomisk-liberalisme,MEMBER_OF,,katalog
+philosopher:smith,philosopher:ricardo,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:ricardo,artifact:ricardo-politisk-okonomi,AUTHORED,,katalog
+philosopher:nietzsche,era:1800-tallet,LIVED_IN,,katalog
+philosopher:nietzsche,concept:nihilisme,INVENTED,,katalog
+philosopher:nietzsche,concept:overmennesket,INVENTED,,katalog
+philosopher:nietzsche,concept:viljen-til-magt,INVENTED,,katalog
+philosopher:nietzsche,concept:evig-genkomst,INVENTED,,katalog
+philosopher:nietzsche,concept:ressentiment,INVENTED,,katalog
+philosopher:nietzsche,concept:viljen-som-tingen-i-sig,REVISED,,katalog
+philosopher:nietzsche,concept:pessimisme,CRITIQUED,,katalog
+philosopher:schopenhauer,philosopher:nietzsche,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:emerson,philosopher:nietzsche,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:nietzsche,artifact:nietzsche-zarathustra,AUTHORED,,katalog
+philosopher:nietzsche,artifact:nietzsche-hinsides-godt-ondt,AUTHORED,,katalog
+philosopher:nietzsche,artifact:nietzsche-moralens-genealogi,AUTHORED,,katalog
+philosopher:peirce,era:1800-tallet,LIVED_IN,,katalog
+philosopher:peirce,concept:semiotik,INVENTED,,katalog
+philosopher:peirce,concept:fallibilisme,INVENTED,,katalog
+philosopher:peirce,concept:abduktion,INVENTED,,katalog
+philosopher:peirce,concept:pragmatisme,FOUNDED,,katalog
+philosopher:kant,philosopher:peirce,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:hume,philosopher:peirce,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:peirce,artifact:peirce-klare-ideer,AUTHORED,,katalog
+philosopher:james,era:1800-tallet,LIVED_IN,,katalog
+philosopher:james,concept:radikal-empirisme,INVENTED,,katalog
+philosopher:james,concept:den-religioese-erfaring,INVENTED,,katalog
+philosopher:james,concept:pragmatisme,MEMBER_OF,,katalog
+philosopher:peirce,philosopher:james,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:emerson,philosopher:james,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:james,artifact:james-pragmatismen,AUTHORED,,katalog
+philosopher:frege,era:1800-tallet,LIVED_IN,,katalog
+philosopher:frege,concept:praedikatslogik,INVENTED,,katalog
+philosopher:frege,concept:logicisme,INVENTED,,katalog
+philosopher:frege,concept:betydning-og-reference,INVENTED,,katalog
+philosopher:frege,concept:analytisk-filosofi,FOUNDED,,katalog
+philosopher:leibniz,philosopher:frege,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:kant,philosopher:frege,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:frege,artifact:frege-begriffsschrift,AUTHORED,,katalog
+philosopher:dilthey,era:1800-tallet,LIVED_IN,,katalog
+philosopher:dilthey,concept:forstaaelse,INVENTED,,katalog
+philosopher:dilthey,concept:livsfilosofi,INVENTED,,katalog
+philosopher:dilthey,concept:hermeneutik,DEVELOPED,,katalog
+philosopher:kant,philosopher:dilthey,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:schleiermacher,philosopher:dilthey,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:dilthey,artifact:dilthey-aandsvidenskaberne,AUTHORED,,katalog
+philosopher:de-maistre,era:1800-tallet,LIVED_IN,,katalog
+philosopher:de-maistre,concept:ultramontanisme,INVENTED,,katalog
+philosopher:de-maistre,concept:modoplysning,INVENTED,,katalog
+philosopher:de-maistre,concept:konservatisme,MEMBER_OF,,katalog
+philosopher:burke,philosopher:de-maistre,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:de-maistre,artifact:de-maistre-om-paven,AUTHORED,,katalog
+philosopher:tocqueville,era:1800-tallet,LIVED_IN,,katalog
+philosopher:tocqueville,concept:demokratianalyse,INVENTED,,katalog
+philosopher:tocqueville,concept:flertallets-tyranni,INVENTED,,katalog
+philosopher:tocqueville,concept:civilsamfundet,INVENTED,,katalog
+philosopher:tocqueville,concept:liberalisme,MEMBER_OF,,katalog
+philosopher:montesquieu,philosopher:tocqueville,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:rousseau,philosopher:tocqueville,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:pascal,philosopher:tocqueville,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:tocqueville,artifact:tocqueville-demokratiet,AUTHORED,,katalog
+philosopher:kropotkin,era:1800-tallet,LIVED_IN,,katalog
+philosopher:kropotkin,concept:anarkokommunisme,INVENTED,,katalog
+philosopher:kropotkin,concept:gensidig-hjaelp,INVENTED,,katalog
+philosopher:kropotkin,concept:anarkisme,MEMBER_OF,,katalog
+philosopher:proudhon,philosopher:kropotkin,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:bakunin,philosopher:kropotkin,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:kropotkin,artifact:kropotkin-gensidig-hjaelp,AUTHORED,,katalog
+philosopher:luxemburg,era:1800-tallet,LIVED_IN,,katalog
+philosopher:luxemburg,concept:revolutionaer-socialisme,INVENTED,,katalog
+philosopher:luxemburg,concept:spontanitetsteori,INVENTED,,katalog
+philosopher:luxemburg,concept:antiimperialisme,INVENTED,,katalog
+philosopher:luxemburg,concept:marxisme,MEMBER_OF,,katalog
+philosopher:marx,philosopher:luxemburg,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:kropotkin,philosopher:luxemburg,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:luxemburg,artifact:luxemburg-akkumulationen,AUTHORED,,katalog
+philosopher:keynes,era:tidligt-1900-tal,LIVED_IN,,katalog
+philosopher:keynes,concept:keynesianisme,INVENTED,,katalog
+philosopher:smith,philosopher:keynes,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:ricardo,philosopher:keynes,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:keynes,artifact:keynes-general-teori,AUTHORED,,katalog
+philosopher:husserl,era:tidligt-1900-tal,LIVED_IN,,katalog
+philosopher:husserl,concept:intentionalitet,INVENTED,,katalog
+philosopher:husserl,concept:transcendental-reduktion,INVENTED,,katalog
+philosopher:husserl,concept:livsverdenen,INVENTED,,katalog
+philosopher:husserl,concept:faenomenologi,FOUNDED,,katalog
+philosopher:husserl,concept:kontinental-filosofi,MEMBER_OF,,katalog
+philosopher:descartes,philosopher:husserl,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:hume,philosopher:husserl,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:husserl,artifact:husserl-ideer,AUTHORED,,katalog
+philosopher:husserl,artifact:husserl-krisen,AUTHORED,,katalog
+philosopher:bergson,era:tidligt-1900-tal,LIVED_IN,,katalog
+philosopher:bergson,concept:varighed,INVENTED,,katalog
+philosopher:bergson,concept:intuitionisme,INVENTED,,katalog
+philosopher:bergson,concept:elan-vital,INVENTED,,katalog
+philosopher:spinoza,philosopher:bergson,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:plotin,philosopher:bergson,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:bergson,artifact:bergson-skabende-evolution,AUTHORED,,katalog
+philosopher:russell,era:tidligt-1900-tal,LIVED_IN,,katalog
+philosopher:russell,concept:logisk-atomisme,INVENTED,,katalog
+philosopher:russell,concept:typeteori,INVENTED,,katalog
+philosopher:russell,concept:logicisme,DEVELOPED,,katalog
+philosopher:russell,concept:analytisk-filosofi,MEMBER_OF,,katalog
+philosopher:frege,philosopher:russell,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:leibniz,philosopher:russell,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:mill,philosopher:russell,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:russell,artifact:principia-mathematica,AUTHORED,,katalog
+philosopher:whitehead,era:tidligt-1900-tal,LIVED_IN,,katalog
+philosopher:whitehead,concept:procesfilosofi,INVENTED,,katalog
+philosopher:whitehead,concept:organisk-filosofi,INVENTED,,katalog
+philosopher:whitehead,concept:logicisme,DEVELOPED,,katalog
+philosopher:bergson,philosopher:whitehead,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:james,philosopher:whitehead,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:platon,philosopher:whitehead,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:russell,philosopher:whitehead,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:whitehead,artifact:whitehead-proces-og-virkelighed,AUTHORED,,katalog
+philosopher:dewey,era:tidligt-1900-tal,LIVED_IN,,katalog
+philosopher:dewey,concept:instrumentalisme,INVENTED,,katalog
+philosopher:dewey,concept:progressiv-paedagogik,INVENTED,,katalog
+philosopher:dewey,concept:pragmatisme,DEVELOPED,,katalog
+philosopher:peirce,philosopher:dewey,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:james,philosopher:dewey,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:hegel,philosopher:dewey,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:dewey,artifact:dewey-demokrati-og-uddannelse,AUTHORED,,katalog
+philosopher:dewey,artifact:lab-school,CREATED,,katalog
+philosopher:santayana,era:tidligt-1900-tal,LIVED_IN,,katalog
+philosopher:santayana,concept:kritisk-realismen,INVENTED,,katalog
+philosopher:santayana,concept:aestetisk-erfaring,INVENTED,,katalog
+philosopher:santayana,concept:naturalisme,DEVELOPED,,katalog
+philosopher:james,philosopher:santayana,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:spinoza,philosopher:santayana,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:emerson,philosopher:santayana,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:santayana,artifact:santayana-sans-for-skønhed,AUTHORED,,katalog
+philosopher:royce,era:tidligt-1900-tal,LIVED_IN,,katalog
+philosopher:royce,concept:loyalitetens-filosofi,INVENTED,,katalog
+philosopher:royce,concept:absolut-idealisme,DEVELOPED,,katalog
+philosopher:hegel,philosopher:royce,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:emerson,philosopher:royce,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:royce,artifact:royce-loyalitetens-filosofi,AUTHORED,,katalog
+philosopher:wittgenstein,era:tidligt-1900-tal,LIVED_IN,,katalog
+philosopher:wittgenstein,concept:sprogspil,INVENTED,,katalog
+philosopher:wittgenstein,concept:billedteori,INVENTED,,katalog
+philosopher:wittgenstein,concept:sprogfilosofi,INVENTED,,katalog
+philosopher:wittgenstein,concept:logisk-atomisme,DEVELOPED,,katalog
+philosopher:wittgenstein,concept:billedteori,REVISED,,katalog
+philosopher:wittgenstein,concept:analytisk-filosofi,MEMBER_OF,,katalog
+philosopher:frege,philosopher:wittgenstein,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:russell,philosopher:wittgenstein,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:schopenhauer,philosopher:wittgenstein,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:wittgenstein,artifact:wittgenstein-tractatus,AUTHORED,,katalog
+philosopher:wittgenstein,artifact:wittgenstein-undersoegelser,AUTHORED,,katalog
+philosopher:heidegger,era:tidligt-1900-tal,LIVED_IN,,katalog
+philosopher:heidegger,concept:dasein,INVENTED,,katalog
+philosopher:heidegger,concept:vaeren-i-verden,INVENTED,,katalog
+philosopher:heidegger,concept:teknikfilosofi,INVENTED,,katalog
+philosopher:heidegger,concept:faenomenologi,DEVELOPED,,katalog
+philosopher:heidegger,concept:eksistentialisme,DEVELOPED,,katalog
+philosopher:heidegger,concept:faenomenologi,REVISED,,katalog
+philosopher:heidegger,concept:kontinental-filosofi,MEMBER_OF,,katalog
+philosopher:husserl,philosopher:heidegger,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:kierkegaard,philosopher:heidegger,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:nietzsche,philosopher:heidegger,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:aristoteles,philosopher:heidegger,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:heidegger,artifact:heidegger-vaeren-og-tid,AUTHORED,,katalog
+philosopher:schlick,era:tidligt-1900-tal,LIVED_IN,,katalog
+philosopher:schlick,concept:verifikationsprincip,INVENTED,,katalog
+philosopher:schlick,concept:logisk-positivisme,FOUNDED,,katalog
+philosopher:hume,philosopher:schlick,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:comte,philosopher:schlick,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:schlick,artifact:wienerkredsens-manifest,AUTHORED,,katalog
+philosopher:carnap,era:tidligt-1900-tal,LIVED_IN,,katalog
+philosopher:carnap,concept:logisk-analyse,INVENTED,,katalog
+philosopher:carnap,concept:verifikationsprincip,DEVELOPED,,katalog
+philosopher:carnap,concept:logisk-positivisme,MEMBER_OF,,katalog
+philosopher:frege,philosopher:carnap,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:russell,philosopher:carnap,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:schlick,philosopher:carnap,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:carnap,artifact:carnap-verdens-opbygning,AUTHORED,,katalog
+philosopher:simmel,era:tidligt-1900-tal,LIVED_IN,,katalog
+philosopher:simmel,concept:formal-sociologi,INVENTED,,katalog
+philosopher:simmel,concept:kulturfilosofi,INVENTED,,katalog
+philosopher:kant,philosopher:simmel,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:nietzsche,philosopher:simmel,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:simmel,artifact:simmel-pengefilosofi,AUTHORED,,katalog
+philosopher:weber,era:tidligt-1900-tal,LIVED_IN,,katalog
+philosopher:weber,concept:idealtyper,INVENTED,,katalog
+philosopher:weber,concept:bureaukrati,INVENTED,,katalog
+philosopher:weber,concept:protestantismens-etik,INVENTED,,katalog
+philosopher:kant,philosopher:weber,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:nietzsche,philosopher:weber,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:marx,philosopher:weber,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:weber,artifact:weber-protestantismens-etik,AUTHORED,,katalog
+philosopher:freud,era:tidligt-1900-tal,LIVED_IN,,katalog
+philosopher:freud,concept:psykoanalyse,INVENTED,,katalog
+philosopher:freud,concept:det-ubevidste,INVENTED,,katalog
+philosopher:freud,concept:oedipuskomplekset,INVENTED,,katalog
+philosopher:freud,concept:det-topiske-system,INVENTED,,katalog
+philosopher:schopenhauer,philosopher:freud,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:nietzsche,philosopher:freud,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:freud,artifact:freud-droemmetydning,AUTHORED,,katalog
+philosopher:freud,artifact:freud-jeg-og-det,AUTHORED,,katalog
+philosopher:croce,era:tidligt-1900-tal,LIVED_IN,,katalog
+philosopher:croce,concept:historicisme,INVENTED,,katalog
+philosopher:croce,concept:aestetisk-intuition,INVENTED,,katalog
+philosopher:hegel,philosopher:croce,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:marx,philosopher:croce,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:croce,artifact:croce-aestetik,AUTHORED,,katalog
+philosopher:gentile,era:tidligt-1900-tal,LIVED_IN,,katalog
+philosopher:gentile,concept:aktuel-idealisme,INVENTED,,katalog
+philosopher:gentile,concept:totalitarisme,INVENTED,,katalog
+philosopher:hegel,philosopher:gentile,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:croce,philosopher:gentile,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:gentile,artifact:fascismens-doktrin,CREATED,,katalog
+philosopher:ortega,era:tidligt-1900-tal,LIVED_IN,,katalog
+philosopher:ortega,concept:ratiovitalisme,INVENTED,,katalog
+philosopher:ortega,concept:perspektivisme,INVENTED,,katalog
+philosopher:ortega,concept:massemennesket,INVENTED,,katalog
+philosopher:nietzsche,philosopher:ortega,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:dilthey,philosopher:ortega,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:kant,philosopher:ortega,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:ortega,artifact:ortega-massernes-oproer,AUTHORED,,katalog
+philosopher:berdyaev,era:tidligt-1900-tal,LIVED_IN,,katalog
+philosopher:berdyaev,concept:religioes-eksistentialisme,INVENTED,,katalog
+philosopher:berdyaev,concept:kreativitet,INVENTED,,katalog
+philosopher:kierkegaard,philosopher:berdyaev,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:nietzsche,philosopher:berdyaev,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:berdyaev,artifact:berdyaev-frihedens-filosofi,AUTHORED,,katalog
+philosopher:gramsci,era:tidligt-1900-tal,LIVED_IN,,katalog
+philosopher:gramsci,concept:kulturhegemoni,INVENTED,,katalog
+philosopher:gramsci,concept:organisk-intellektuel,INVENTED,,katalog
+philosopher:gramsci,concept:vestlig-marxisme,FOUNDED,,katalog
+philosopher:marx,philosopher:gramsci,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:croce,philosopher:gramsci,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:machiavelli,philosopher:gramsci,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:gramsci,artifact:gramsci-faengselsnoter,AUTHORED,,katalog
+philosopher:lukacs,era:tidligt-1900-tal,LIVED_IN,,katalog
+philosopher:lukacs,concept:reifikation,INVENTED,,katalog
+philosopher:lukacs,concept:klassebevidsthed,INVENTED,,katalog
+philosopher:lukacs,concept:vestlig-marxisme,MEMBER_OF,,katalog
+philosopher:hegel,philosopher:lukacs,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:marx,philosopher:lukacs,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:simmel,philosopher:lukacs,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:weber,philosopher:lukacs,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:lukacs,artifact:lukacs-klassebevidsthed,AUTHORED,,katalog
+philosopher:steiner,era:tidligt-1900-tal,LIVED_IN,,katalog
+philosopher:steiner,concept:aandsvidenskab,INVENTED,,katalog
+philosopher:steiner,concept:tregrening,INVENTED,,katalog
+philosopher:steiner,concept:steinerpaedagogik,INVENTED,,katalog
+philosopher:steiner,concept:antroposofi,FOUNDED,,katalog
+philosopher:fichte,philosopher:steiner,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:steiner,artifact:antroposofisk-selskab,CREATED,,katalog
+philosopher:steiner,artifact:waldorfpaedagogik,CREATED,,katalog
+philosopher:steiner,artifact:goetheanum,CREATED,,katalog
+philosopher:schmitt,era:tidligt-1900-tal,LIVED_IN,,katalog
+philosopher:schmitt,concept:det-politiske,INVENTED,,katalog
+philosopher:schmitt,concept:suveraenitet,INVENTED,,katalog
+philosopher:schmitt,concept:ven-fjende-distinktionen,INVENTED,,katalog
+philosopher:schmitt,concept:politisk-teologi,INVENTED,,katalog
+philosopher:hobbes,philosopher:schmitt,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:machiavelli,philosopher:schmitt,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:de-maistre,philosopher:schmitt,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:schmitt,artifact:schmitt-det-politiske,AUTHORED,,katalog
+philosopher:jaspers,era:tidligt-1900-tal,LIVED_IN,,katalog
+philosopher:jaspers,concept:graensesituationer,INVENTED,,katalog
+philosopher:jaspers,concept:den-aksiale-tid,INVENTED,,katalog
+philosopher:jaspers,concept:eksistensfilosofi,INVENTED,,katalog
+philosopher:kierkegaard,philosopher:jaspers,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:nietzsche,philosopher:jaspers,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:weber,philosopher:jaspers,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:jaspers,artifact:jaspers-filosofien,AUTHORED,,katalog
+philosopher:bachelard,era:tidligt-1900-tal,LIVED_IN,,katalog
+philosopher:bachelard,concept:epistemologisk-brud,INVENTED,,katalog
+philosopher:bachelard,concept:epistemologi,INVENTED,,katalog
+philosopher:bergson,philosopher:bachelard,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:kant,philosopher:bachelard,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:bachelard,artifact:bachelard-videnskabelige-sind,AUTHORED,,katalog
+philosopher:popper,era:midt-1900-tal,LIVED_IN,,katalog
+philosopher:popper,concept:falsifikationisme,INVENTED,,katalog
+philosopher:popper,concept:det-aabne-samfund,INVENTED,,katalog
+philosopher:popper,concept:kritisk-rationalisme,INVENTED,,katalog
+philosopher:popper,concept:videnskabsfilosofi,MEMBER_OF,,katalog
+philosopher:hume,philosopher:popper,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:kant,philosopher:popper,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:marx,philosopher:popper,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:popper,artifact:popper-logikken-i-forskningen,AUTHORED,,katalog
+philosopher:popper,artifact:popper-det-aabne-samfund,AUTHORED,,katalog
+philosopher:benjamin,era:midt-1900-tal,LIVED_IN,,katalog
+philosopher:benjamin,concept:kunstvaerkets-aura,INVENTED,,katalog
+philosopher:benjamin,concept:kritisk-historieflosofi,INVENTED,,katalog
+philosopher:benjamin,concept:kritisk-teori,MEMBER_OF,,katalog
+philosopher:marx,philosopher:benjamin,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:nietzsche,philosopher:benjamin,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:benjamin,artifact:benjamin-kunstvaerket,AUTHORED,,katalog
+philosopher:adorno,era:midt-1900-tal,LIVED_IN,,katalog
+philosopher:adorno,concept:oplysningens-dialektik,INVENTED,,katalog
+philosopher:adorno,concept:kulturindustri,INVENTED,,katalog
+philosopher:adorno,concept:negativ-dialektik,INVENTED,,katalog
+philosopher:adorno,concept:kritisk-teori,MEMBER_OF,,katalog
+philosopher:hegel,philosopher:adorno,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:marx,philosopher:adorno,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:benjamin,philosopher:adorno,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:nietzsche,philosopher:adorno,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:adorno,artifact:adorno-oplysningens-dialektik,AUTHORED,,katalog
+philosopher:adorno,artifact:adorno-negativ-dialektik,AUTHORED,,katalog
+philosopher:marcuse,era:midt-1900-tal,LIVED_IN,,katalog
+philosopher:marcuse,concept:det-endimensionelle-menneske,INVENTED,,katalog
+philosopher:marcuse,concept:den-store-afvisning,INVENTED,,katalog
+philosopher:marcuse,concept:kritisk-teori,MEMBER_OF,,katalog
+philosopher:hegel,philosopher:marcuse,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:marx,philosopher:marcuse,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:heidegger,philosopher:marcuse,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:marcuse,artifact:marcuse-endimensionelle-menneske,AUTHORED,,katalog
+philosopher:sartre,era:midt-1900-tal,LIVED_IN,,katalog
+philosopher:sartre,concept:eksistensen-forud-for-essensen,INVENTED,,katalog
+philosopher:sartre,concept:daarlig-tro,INVENTED,,katalog
+philosopher:sartre,concept:radikal-frihed,INVENTED,,katalog
+philosopher:sartre,concept:faenomenologi,REVISED,,katalog
+philosopher:sartre,concept:eksistentialisme,MEMBER_OF,,katalog
+philosopher:sartre,concept:marxisme,MEMBER_OF,,katalog
+philosopher:heidegger,philosopher:sartre,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:husserl,philosopher:sartre,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:kierkegaard,philosopher:sartre,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:marx,philosopher:sartre,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:sartre,artifact:sartre-vaeren-og-intethed,AUTHORED,,katalog
+philosopher:sartre,artifact:sartre-eksistentialisme-er-humanisme,AUTHORED,,katalog
+philosopher:beauvoir,era:midt-1900-tal,LIVED_IN,,katalog
+philosopher:beauvoir,concept:det-andet-koen,INVENTED,,katalog
+philosopher:beauvoir,concept:eksistentialistisk-etik,INVENTED,,katalog
+philosopher:beauvoir,concept:feministisk-filosofi,FOUNDED,,katalog
+philosopher:beauvoir,concept:eksistentialisme,MEMBER_OF,,katalog
+philosopher:sartre,philosopher:beauvoir,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:hegel,philosopher:beauvoir,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:marx,philosopher:beauvoir,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:beauvoir,artifact:beauvoir-det-andet-koen,AUTHORED,,katalog
+philosopher:camus,era:midt-1900-tal,LIVED_IN,,katalog
+philosopher:camus,concept:absurdisme,INVENTED,,katalog
+philosopher:camus,concept:det-absurde-oproer,INVENTED,,katalog
+philosopher:camus,concept:dialektisk-materialisme,CRITIQUED,,katalog
+philosopher:kierkegaard,philosopher:camus,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:nietzsche,philosopher:camus,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:sartre,philosopher:camus,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:camus,artifact:camus-sisyfos-myten,AUTHORED,,katalog
+philosopher:camus,artifact:camus-oproerets-menneske,AUTHORED,,katalog
+philosopher:merleau-ponty,era:midt-1900-tal,LIVED_IN,,katalog
+philosopher:merleau-ponty,concept:kropslig-perception,INVENTED,,katalog
+philosopher:merleau-ponty,concept:faenomenologi,DEVELOPED,,katalog
+philosopher:merleau-ponty,concept:faenomenologi,REVISED,,katalog
+philosopher:merleau-ponty,concept:kontinental-filosofi,MEMBER_OF,,katalog
+philosopher:husserl,philosopher:merleau-ponty,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:heidegger,philosopher:merleau-ponty,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:sartre,philosopher:merleau-ponty,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:merleau-ponty,artifact:merleau-ponty-perceptionen,AUTHORED,,katalog
+philosopher:levinas,era:midt-1900-tal,LIVED_IN,,katalog
+philosopher:levinas,concept:ansigtets-etik,INVENTED,,katalog
+philosopher:levinas,concept:den-anden,INVENTED,,katalog
+philosopher:levinas,concept:etik-som-foerstefilosofi,INVENTED,,katalog
+philosopher:husserl,philosopher:levinas,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:heidegger,philosopher:levinas,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:maimonides,philosopher:levinas,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:levinas,artifact:levinas-totalitet-og-uendelighed,AUTHORED,,katalog
+philosopher:arendt,era:midt-1900-tal,LIVED_IN,,katalog
+philosopher:arendt,concept:ondskabens-banalitet,INVENTED,,katalog
+philosopher:arendt,concept:vita-activa,INVENTED,,katalog
+philosopher:arendt,concept:totalitarisme,INVENTED,,katalog
+philosopher:heidegger,philosopher:arendt,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:jaspers,philosopher:arendt,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:kant,philosopher:arendt,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:arendt,artifact:arendt-menneskets-vilkaar,AUTHORED,,katalog
+philosopher:arendt,artifact:arendt-eichmann,AUTHORED,,katalog
+philosopher:ricoeur,era:midt-1900-tal,LIVED_IN,,katalog
+philosopher:ricoeur,concept:narrativ-identitet,INVENTED,,katalog
+philosopher:ricoeur,concept:hermeneutik,DEVELOPED,,katalog
+philosopher:ricoeur,concept:hermeneutik,REVISED,,katalog
+philosopher:husserl,philosopher:ricoeur,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:gadamer,philosopher:ricoeur,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:freud,philosopher:ricoeur,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:ricoeur,artifact:ricoeur-tid-og-fortaelling,AUTHORED,,katalog
+philosopher:gadamer,era:midt-1900-tal,LIVED_IN,,katalog
+philosopher:gadamer,concept:horisontsammensmeltning,INVENTED,,katalog
+philosopher:gadamer,concept:virkningshistorie,INVENTED,,katalog
+philosopher:gadamer,concept:hermeneutik,DEVELOPED,,katalog
+philosopher:gadamer,concept:hermeneutik,REVISED,,katalog
+philosopher:heidegger,philosopher:gadamer,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:dilthey,philosopher:gadamer,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:schleiermacher,philosopher:gadamer,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:gadamer,artifact:gadamer-sandhed-og-metode,AUTHORED,,katalog
+philosopher:ayer,era:midt-1900-tal,LIVED_IN,,katalog
+philosopher:ayer,concept:emotivisme,INVENTED,,katalog
+philosopher:ayer,concept:verifikationsprincip,DEVELOPED,,katalog
+philosopher:ayer,concept:logisk-positivisme,DEVELOPED,,katalog
+philosopher:ayer,concept:analytisk-filosofi,MEMBER_OF,,katalog
+philosopher:hume,philosopher:ayer,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:carnap,philosopher:ayer,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:russell,philosopher:ayer,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:ayer,artifact:ayer-sprog-sandhed-logik,AUTHORED,,katalog
+philosopher:ryle,era:midt-1900-tal,LIVED_IN,,katalog
+philosopher:ryle,concept:kategorifejl,INVENTED,,katalog
+philosopher:ryle,concept:spoegelset-i-maskinen,INVENTED,,katalog
+philosopher:ryle,concept:analytisk-filosofi,MEMBER_OF,,katalog
+philosopher:wittgenstein,philosopher:ryle,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:russell,philosopher:ryle,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:ryle,artifact:ryle-sindets-begreb,AUTHORED,,katalog
+philosopher:quine,era:midt-1900-tal,LIVED_IN,,katalog
+philosopher:quine,concept:holisme,INVENTED,,katalog
+philosopher:quine,concept:naturalisme,DEVELOPED,,katalog
+philosopher:quine,concept:empirisme,DEVELOPED,,katalog
+philosopher:quine,concept:logisk-positivisme,CRITIQUED,,katalog
+philosopher:quine,concept:analytisk-filosofi,MEMBER_OF,,katalog
+philosopher:carnap,philosopher:quine,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:frege,philosopher:quine,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:russell,philosopher:quine,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:quine,artifact:quine-to-dogmer,AUTHORED,,katalog
+philosopher:austin,era:midt-1900-tal,LIVED_IN,,katalog
+philosopher:austin,concept:talehandlingsteori,INVENTED,,katalog
+philosopher:austin,concept:performativer,INVENTED,,katalog
+philosopher:austin,concept:analytisk-filosofi,MEMBER_OF,,katalog
+philosopher:wittgenstein,philosopher:austin,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:ryle,philosopher:austin,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:austin,artifact:austin-talehandlinger,AUTHORED,,katalog
+philosopher:anscombe,era:midt-1900-tal,LIVED_IN,,katalog
+philosopher:anscombe,concept:handlingsfilosofi,INVENTED,,katalog
+philosopher:anscombe,concept:dydsetik,DEVELOPED,,katalog
+philosopher:wittgenstein,philosopher:anscombe,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:aquinas,philosopher:anscombe,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:anscombe,artifact:anscombe-intention,AUTHORED,,katalog
+philosopher:althusser,era:midt-1900-tal,LIVED_IN,,katalog
+philosopher:althusser,concept:ideologiske-statsapparater,INVENTED,,katalog
+philosopher:althusser,concept:strukturel-marxisme,INVENTED,,katalog
+philosopher:althusser,concept:vestlig-marxisme,MEMBER_OF,,katalog
+philosopher:marx,philosopher:althusser,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:bachelard,philosopher:althusser,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:gramsci,philosopher:althusser,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:althusser,artifact:althusser-ideologiske-statsapparater,AUTHORED,,katalog
+philosopher:strauss,era:midt-1900-tal,LIVED_IN,,katalog
+philosopher:strauss,concept:esoterisk-hermeneutik,INVENTED,,katalog
+philosopher:strauss,concept:naturret,DEVELOPED,,katalog
+philosopher:hobbes,philosopher:strauss,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:machiavelli,philosopher:strauss,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:platon,philosopher:strauss,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:strauss,artifact:strauss-naturret-og-historie,AUTHORED,,katalog
+philosopher:voegelin,era:midt-1900-tal,LIVED_IN,,katalog
+philosopher:voegelin,concept:gnosticismekritik,INVENTED,,katalog
+philosopher:voegelin,concept:bevidsthedshistorie,INVENTED,,katalog
+philosopher:platon,philosopher:voegelin,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:hegel,philosopher:voegelin,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:jaspers,philosopher:voegelin,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:voegelin,artifact:voegelin-orden-og-historie,AUTHORED,,katalog
+philosopher:mises,era:midt-1900-tal,LIVED_IN,,katalog
+philosopher:mises,concept:praxeologi,INVENTED,,katalog
+philosopher:mises,concept:ostrigsk-skole,FOUNDED,,katalog
+philosopher:kant,philosopher:mises,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:smith,philosopher:mises,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:mises,artifact:mises-menneskelig-handlen,AUTHORED,,katalog
+philosopher:hayek,era:midt-1900-tal,LIVED_IN,,katalog
+philosopher:hayek,concept:spontan-orden,INVENTED,,katalog
+philosopher:hayek,concept:ostrigsk-skole,MEMBER_OF,,katalog
+philosopher:hayek,concept:liberalisme,MEMBER_OF,,katalog
+philosopher:mises,philosopher:hayek,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:hume,philosopher:hayek,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:smith,philosopher:hayek,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:hayek,artifact:hayek-vejen-til-traeldom,AUTHORED,,katalog
+philosopher:rand,era:midt-1900-tal,LIVED_IN,,katalog
+philosopher:rand,concept:objektivisme,INVENTED,,katalog
+philosopher:rand,concept:rationel-egoisme,INVENTED,,katalog
+philosopher:rand,concept:laissez-faire-kapitalisme,INVENTED,,katalog
+philosopher:rand,concept:libertarianisme,MEMBER_OF,,katalog
+philosopher:aristoteles,philosopher:rand,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:stirner,philosopher:rand,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:nietzsche,philosopher:rand,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:rand,artifact:rand-fountainhead,AUTHORED,,katalog
+philosopher:rand,artifact:rand-atlas-shrugged,AUTHORED,,katalog
+philosopher:rothbard,era:midt-1900-tal,LIVED_IN,,katalog
+philosopher:rothbard,concept:anarkokapitalisme,INVENTED,,katalog
+philosopher:rothbard,concept:ostrigsk-skole,MEMBER_OF,,katalog
+philosopher:rothbard,concept:libertarianisme,MEMBER_OF,,katalog
+philosopher:mises,philosopher:rothbard,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:rand,philosopher:rothbard,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:locke,philosopher:rothbard,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:rothbard,artifact:rothbard-menneske-okonomi-stat,AUTHORED,,katalog
+philosopher:kuhn,era:midt-1900-tal,LIVED_IN,,katalog
+philosopher:kuhn,concept:paradigme,INVENTED,,katalog
+philosopher:kuhn,concept:paradigmeskift,INVENTED,,katalog
+philosopher:kuhn,concept:normalvidenskab,INVENTED,,katalog
+philosopher:kuhn,concept:videnskabelig-metode,REVISED,,katalog
+philosopher:kuhn,concept:videnskabsfilosofi,MEMBER_OF,,katalog
+philosopher:bachelard,philosopher:kuhn,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:popper,philosopher:kuhn,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:kuhn,artifact:kuhn-videnskabelige-revolutioner,AUTHORED,,katalog
+philosopher:lakatos,era:midt-1900-tal,LIVED_IN,,katalog
+philosopher:lakatos,concept:forskningsprogrammer,INVENTED,,katalog
+philosopher:lakatos,concept:sofistikeret-falsifikationisme,INVENTED,,katalog
+philosopher:lakatos,concept:falsifikationisme,REVISED,,katalog
+philosopher:lakatos,concept:videnskabsfilosofi,MEMBER_OF,,katalog
+philosopher:popper,philosopher:lakatos,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:kuhn,philosopher:lakatos,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:hegel,philosopher:lakatos,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:lakatos,artifact:lakatos-forskningsprogrammer,AUTHORED,,katalog
+philosopher:feyerabend,era:midt-1900-tal,LIVED_IN,,katalog
+philosopher:feyerabend,concept:epistemologisk-anarkisme,INVENTED,,katalog
+philosopher:feyerabend,concept:videnskabsfilosofi,MEMBER_OF,,katalog
+philosopher:popper,philosopher:feyerabend,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:kuhn,philosopher:feyerabend,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:wittgenstein,philosopher:feyerabend,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:feyerabend,artifact:feyerabend-mod-metoden,AUTHORED,,katalog
+philosopher:davidson,era:midt-1900-tal,LIVED_IN,,katalog
+philosopher:davidson,concept:anomal-monisme,INVENTED,,katalog
+philosopher:davidson,concept:radikal-fortolkning,INVENTED,,katalog
+philosopher:davidson,concept:analytisk-filosofi,MEMBER_OF,,katalog
+philosopher:quine,philosopher:davidson,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:wittgenstein,philosopher:davidson,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:anscombe,philosopher:davidson,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:davidson,artifact:davidson-handlinger,AUTHORED,,katalog
+philosopher:goodman,era:midt-1900-tal,LIVED_IN,,katalog
+philosopher:goodman,concept:nyt-induktionsproblem,INVENTED,,katalog
+philosopher:goodman,concept:konstruktionisme,INVENTED,,katalog
+philosopher:goodman,concept:symbolteori,INVENTED,,katalog
+philosopher:hume,philosopher:goodman,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:carnap,philosopher:goodman,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:quine,philosopher:goodman,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:goodman,artifact:goodman-kendsgerninger,AUTHORED,,katalog
+philosopher:kripke,era:midt-1900-tal,LIVED_IN,,katalog
+philosopher:kripke,concept:mulige-verdener,INVENTED,,katalog
+philosopher:kripke,concept:modallogik,INVENTED,,katalog
+philosopher:kripke,concept:stiv-identifikation,INVENTED,,katalog
+philosopher:kripke,concept:analytisk-filosofi,MEMBER_OF,,katalog
+philosopher:frege,philosopher:kripke,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:russell,philosopher:kripke,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:wittgenstein,philosopher:kripke,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:kripke,artifact:kripke-navngivning,AUTHORED,,katalog
+philosopher:foucault,era:sen-1900-tal-og-nutid,LIVED_IN,,katalog
+philosopher:foucault,concept:magt-viden,INVENTED,,katalog
+philosopher:foucault,concept:biopolitik,INVENTED,,katalog
+philosopher:foucault,concept:diskursanalyse,INVENTED,,katalog
+philosopher:foucault,concept:poststrukturalisme,FOUNDED,,katalog
+philosopher:foucault,concept:kontinental-filosofi,MEMBER_OF,,katalog
+philosopher:nietzsche,philosopher:foucault,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:heidegger,philosopher:foucault,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:bachelard,philosopher:foucault,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:althusser,philosopher:foucault,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:foucault,artifact:foucault-overvaagning-og-straf,AUTHORED,,katalog
+philosopher:foucault,artifact:foucault-seksualitetens-historie,AUTHORED,,katalog
+philosopher:derrida,era:sen-1900-tal-og-nutid,LIVED_IN,,katalog
+philosopher:derrida,concept:dekonstruktion,INVENTED,,katalog
+philosopher:derrida,concept:differance,INVENTED,,katalog
+philosopher:derrida,concept:logocentrisme,INVENTED,,katalog
+philosopher:derrida,concept:faenomenologi,REVISED,,katalog
+philosopher:derrida,concept:poststrukturalisme,MEMBER_OF,,katalog
+philosopher:heidegger,philosopher:derrida,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:husserl,philosopher:derrida,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:nietzsche,philosopher:derrida,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:levinas,philosopher:derrida,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:derrida,artifact:derrida-grammatologien,AUTHORED,,katalog
+philosopher:derrida,artifact:derrida-skriften-og-differancen,AUTHORED,,katalog
+philosopher:deleuze,era:sen-1900-tal-og-nutid,LIVED_IN,,katalog
+philosopher:deleuze,concept:rhizom,INVENTED,,katalog
+philosopher:deleuze,concept:differens-og-gentagelse,INVENTED,,katalog
+philosopher:deleuze,concept:immanens,INVENTED,,katalog
+philosopher:deleuze,concept:poststrukturalisme,MEMBER_OF,,katalog
+philosopher:nietzsche,philosopher:deleuze,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:bergson,philosopher:deleuze,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:spinoza,philosopher:deleuze,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:hume,philosopher:deleuze,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:deleuze,artifact:deleuze-tusind-plateauer,AUTHORED,,katalog
+philosopher:habermas,era:sen-1900-tal-og-nutid,LIVED_IN,,katalog
+philosopher:habermas,concept:kommunikativ-handlen,INVENTED,,katalog
+philosopher:habermas,concept:diskursetik,INVENTED,,katalog
+philosopher:habermas,concept:offentlighed,INVENTED,,katalog
+philosopher:habermas,concept:kritisk-teori,REVISED,,katalog
+philosopher:habermas,concept:kritisk-teori,MEMBER_OF,,katalog
+philosopher:adorno,philosopher:habermas,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:kant,philosopher:habermas,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:hegel,philosopher:habermas,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:habermas,artifact:habermas-kommunikativ-handlen,AUTHORED,,katalog
+philosopher:habermas,artifact:habermas-offentlighed,AUTHORED,,katalog
+philosopher:chomsky,era:sen-1900-tal-og-nutid,LIVED_IN,,katalog
+philosopher:chomsky,concept:generativ-grammatik,INVENTED,,katalog
+philosopher:chomsky,concept:nativisme,INVENTED,,katalog
+philosopher:chomsky,concept:mediekritik,INVENTED,,katalog
+philosopher:chomsky,concept:anarkosyndikalisme,INVENTED,,katalog
+philosopher:chomsky,concept:anarkisme,MEMBER_OF,,katalog
+philosopher:descartes,philosopher:chomsky,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:russell,philosopher:chomsky,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:hume,philosopher:chomsky,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:chomsky,artifact:chomsky-syntaktiske-strukturer,AUTHORED,,katalog
+philosopher:chomsky,artifact:chomsky-manufacturing-consent,AUTHORED,,katalog
+philosopher:putnam,era:sen-1900-tal-og-nutid,LIVED_IN,,katalog
+philosopher:putnam,concept:funktionalisme,INVENTED,,katalog
+philosopher:putnam,concept:semantisk-eksternalisme,INVENTED,,katalog
+philosopher:putnam,concept:hjerne-i-et-kar,INVENTED,,katalog
+philosopher:putnam,concept:analytisk-filosofi,MEMBER_OF,,katalog
+philosopher:quine,philosopher:putnam,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:wittgenstein,philosopher:putnam,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:james,philosopher:putnam,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:putnam,artifact:putnam-fornuft-sandhed-historie,AUTHORED,,katalog
+philosopher:rorty,era:sen-1900-tal-og-nutid,LIVED_IN,,katalog
+philosopher:rorty,concept:neopragmatisme,INVENTED,,katalog
+philosopher:rorty,concept:anti-fundamentisme,INVENTED,,katalog
+philosopher:rorty,concept:liberal-ironiker,INVENTED,,katalog
+philosopher:rorty,concept:pragmatisme,MEMBER_OF,,katalog
+philosopher:dewey,philosopher:rorty,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:heidegger,philosopher:rorty,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:wittgenstein,philosopher:rorty,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:rorty,artifact:rorty-filosofi-og-spejlet,AUTHORED,,katalog
+philosopher:dennett,era:sen-1900-tal-og-nutid,LIVED_IN,,katalog
+philosopher:dennett,concept:kompatibilisme,INVENTED,,katalog
+philosopher:dennett,concept:multiple-drafts,INVENTED,,katalog
+philosopher:dennett,concept:evolutionaer-filosofi,INVENTED,,katalog
+philosopher:dennett,concept:analytisk-filosofi,MEMBER_OF,,katalog
+philosopher:quine,philosopher:dennett,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:ryle,philosopher:dennett,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:davidson,philosopher:dennett,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:dennett,artifact:dennett-bevidsthed,AUTHORED,,katalog
+philosopher:nozick,era:sen-1900-tal-og-nutid,LIVED_IN,,katalog
+philosopher:nozick,concept:rettighedsteori,INVENTED,,katalog
+philosopher:nozick,concept:minimalstaten,INVENTED,,katalog
+philosopher:nozick,concept:libertarianisme,MEMBER_OF,,katalog
+philosopher:locke,philosopher:nozick,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:hayek,philosopher:nozick,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:rand,philosopher:nozick,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:nozick,artifact:nozick-anarki-stat-utopi,AUTHORED,,katalog
+philosopher:singer,era:sen-1900-tal-og-nutid,LIVED_IN,,katalog
+philosopher:singer,concept:praeferenceutilitarisme,INVENTED,,katalog
+philosopher:singer,concept:dyreetik,INVENTED,,katalog
+philosopher:singer,concept:effektiv-altruisme,INVENTED,,katalog
+philosopher:singer,concept:artsformynderi,INVENTED,,katalog
+philosopher:bentham,philosopher:singer,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:mill,philosopher:singer,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:goodman,philosopher:singer,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:singer,artifact:singer-dyrenes-frigoerelse,AUTHORED,,katalog
+philosopher:zizek,era:sen-1900-tal-og-nutid,LIVED_IN,,katalog
+philosopher:zizek,concept:ideologikritik,INVENTED,,katalog
+philosopher:zizek,concept:lacansk-marxisme,INVENTED,,katalog
+philosopher:zizek,concept:vestlig-marxisme,MEMBER_OF,,katalog
+philosopher:hegel,philosopher:zizek,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:marx,philosopher:zizek,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:adorno,philosopher:zizek,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:zizek,artifact:zizek-ideologiens-sublime-objekt,AUTHORED,,katalog
+philosopher:butler,era:sen-1900-tal-og-nutid,LIVED_IN,,katalog
+philosopher:butler,concept:performativitet,INVENTED,,katalog
+philosopher:butler,concept:koensteori,INVENTED,,katalog
+philosopher:butler,concept:queer-teori,INVENTED,,katalog
+philosopher:butler,concept:feministisk-filosofi,MEMBER_OF,,katalog
+philosopher:butler,concept:poststrukturalisme,MEMBER_OF,,katalog
+philosopher:foucault,philosopher:butler,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:derrida,philosopher:butler,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:beauvoir,philosopher:butler,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:austin,philosopher:butler,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:butler,artifact:butler-koenets-besvaer,AUTHORED,,katalog
+philosopher:badiou,era:sen-1900-tal-og-nutid,LIVED_IN,,katalog
+philosopher:badiou,concept:begivenhedsfilosofi,INVENTED,,katalog
+philosopher:badiou,concept:sandhedsprocedurer,INVENTED,,katalog
+philosopher:althusser,philosopher:badiou,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:deleuze,philosopher:badiou,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:platon,philosopher:badiou,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:badiou,artifact:badiou-vaeren-og-begivenhed,AUTHORED,,katalog
+philosopher:macintyre,era:sen-1900-tal-og-nutid,LIVED_IN,,katalog
+philosopher:macintyre,concept:dydsetik,DEVELOPED,,katalog
+philosopher:macintyre,concept:deontologi,CRITIQUED,,katalog
+philosopher:macintyre,concept:kommunitarisme,FOUNDED,,katalog
+philosopher:aristoteles,philosopher:macintyre,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:aquinas,philosopher:macintyre,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:marx,philosopher:macintyre,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:macintyre,artifact:macintyre-after-virtue,AUTHORED,,katalog
+philosopher:taylor,era:sen-1900-tal-og-nutid,LIVED_IN,,katalog
+philosopher:taylor,concept:autenticitet,INVENTED,,katalog
+philosopher:taylor,concept:multikulturalisme,INVENTED,,katalog
+philosopher:taylor,concept:kommunitarisme,MEMBER_OF,,katalog
+philosopher:hegel,philosopher:taylor,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:merleau-ponty,philosopher:taylor,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:macintyre,philosopher:taylor,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:taylor,artifact:taylor-selvets-kilder,AUTHORED,,katalog
+philosopher:nussbaum,era:sen-1900-tal-og-nutid,LIVED_IN,,katalog
+philosopher:nussbaum,concept:kapabilitetstilgangen,INVENTED,,katalog
+philosopher:nussbaum,concept:kosmopolitisme,INVENTED,,katalog
+philosopher:nussbaum,concept:dydsetik,DEVELOPED,,katalog
+philosopher:nussbaum,concept:dyreetik,DEVELOPED,,katalog
+philosopher:aristoteles,philosopher:nussbaum,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:mill,philosopher:nussbaum,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:macintyre,philosopher:nussbaum,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:nussbaum,artifact:nussbaum-det-gode-livs-skaerhed,AUTHORED,,katalog
+philosopher:west,era:sen-1900-tal-og-nutid,LIVED_IN,,katalog
+philosopher:west,concept:profetisk-pragmatisme,INVENTED,,katalog
+philosopher:west,concept:racekritik,INVENTED,,katalog
+philosopher:west,concept:pragmatisme,MEMBER_OF,,katalog
+philosopher:dewey,philosopher:west,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:rorty,philosopher:west,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:benjamin,philosopher:west,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:west,artifact:west-race-matters,AUTHORED,,katalog
+philosopher:bloom,era:sen-1900-tal-og-nutid,LIVED_IN,,katalog
+philosopher:bloom,concept:kulturkritik,INVENTED,,katalog
+philosopher:bloom,concept:kulturel-relativisme,INVENTED,,katalog
+philosopher:strauss,philosopher:bloom,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:platon,philosopher:bloom,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:rousseau,philosopher:bloom,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:bloom,artifact:bloom-american-mind,AUTHORED,,katalog
+philosopher:konfucius,era:klassisk-kina,LIVED_IN,,katalog
+philosopher:konfucius,concept:ren-medmenneskelighed,INVENTED,,katalog
+philosopher:konfucius,concept:li-ritualer,INVENTED,,katalog
+philosopher:konfucius,concept:den-edle-mand,INVENTED,,katalog
+philosopher:konfucius,concept:meritokrati,INVENTED,,katalog
+philosopher:konfucius,concept:konfucianisme,FOUNDED,,katalog
+philosopher:konfucius,artifact:konfucius-analekterne,AUTHORED,,katalog
+philosopher:laozi,era:klassisk-kina,LIVED_IN,,katalog
+philosopher:laozi,concept:wu-wei,INVENTED,,katalog
+philosopher:laozi,concept:dao,INVENTED,,katalog
+philosopher:laozi,concept:naturlig-harmoni,INVENTED,,katalog
+philosopher:laozi,concept:daoisme,FOUNDED,,katalog
+philosopher:laozi,artifact:laozi-daodejing,AUTHORED,,katalog
+philosopher:comenius,era:renaessancen,LIVED_IN,,katalog
+philosopher:comenius,concept:pansofisme,INVENTED,,katalog
+philosopher:comenius,concept:didaktik,INVENTED,,katalog
+philosopher:bacon,philosopher:comenius,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:comenius,artifact:comenius-didactica-magna,AUTHORED,,katalog
+philosopher:comenius,artifact:comenius-orbis-pictus,AUTHORED,,katalog
+philosopher:pestalozzi,era:oplysningen,LIVED_IN,,katalog
+philosopher:pestalozzi,concept:elementarmetoden,INVENTED,,katalog
+philosopher:rousseau,philosopher:pestalozzi,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:pestalozzi,artifact:pestalozzi-leonard-og-gertrud,AUTHORED,,katalog
+philosopher:herbart,era:tysk-idealisme,LIVED_IN,,katalog
+philosopher:herbart,concept:videnskabelig-paedagogik,INVENTED,,katalog
+philosopher:kant,philosopher:herbart,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:pestalozzi,philosopher:herbart,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:herbart,artifact:herbart-almindelig-paedagogik,AUTHORED,,katalog
+philosopher:frobel,era:tysk-idealisme,LIVED_IN,,katalog
+philosopher:frobel,concept:leg-som-dannelse,INVENTED,,katalog
+philosopher:pestalozzi,philosopher:frobel,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:schelling,philosopher:frobel,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:frobel,artifact:frobel-menneskets-opdragelse,AUTHORED,,katalog
+philosopher:grundtvig,era:1800-tallet,LIVED_IN,,katalog
+philosopher:grundtvig,concept:skole-for-livet,INVENTED,,katalog
+philosopher:grundtvig,concept:det-levende-ord,INVENTED,,katalog
+philosopher:grundtvig,artifact:grundtvig-nordens-mytologi,AUTHORED,,katalog
+philosopher:kold,era:1800-tallet,LIVED_IN,,katalog
+philosopher:kold,concept:det-levende-ord,DEVELOPED,,katalog
+philosopher:grundtvig,philosopher:kold,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:montessori,era:tidligt-1900-tal,LIVED_IN,,katalog
+philosopher:montessori,concept:forberedte-omgivelser,INVENTED,,katalog
+philosopher:montessori,artifact:montessori-metoden,AUTHORED,,katalog
+philosopher:huizinga,era:tidligt-1900-tal,LIVED_IN,,katalog
+philosopher:huizinga,concept:leg-som-kultur,INVENTED,,katalog
+philosopher:huizinga,artifact:huizinga-homo-ludens,AUTHORED,,katalog
+philosopher:vygotsky,era:tidligt-1900-tal,LIVED_IN,,katalog
+philosopher:vygotsky,concept:zonen-for-naermeste-udvikling,INVENTED,,katalog
+philosopher:vygotsky,concept:legens-betydning,INVENTED,,katalog
+philosopher:marx,philosopher:vygotsky,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:vygotsky,artifact:vygotsky-taenkning-og-sprog,AUTHORED,,katalog
+philosopher:piaget,era:midt-1900-tal,LIVED_IN,,katalog
+philosopher:piaget,concept:kognitiv-udviklingstrappe,INVENTED,,katalog
+philosopher:piaget,artifact:piaget-sprog-og-taenkning,AUTHORED,,katalog
+philosopher:piaget,artifact:piaget-leg-drom-efterligning,AUTHORED,,katalog
+philosopher:winnicott,era:midt-1900-tal,LIVED_IN,,katalog
+philosopher:winnicott,concept:overgangsobjekt,INVENTED,,katalog
+philosopher:freud,philosopher:winnicott,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:winnicott,artifact:winnicott-leg-og-virkelighed,AUTHORED,,katalog
+philosopher:erikson,era:midt-1900-tal,LIVED_IN,,katalog
+philosopher:erikson,concept:psykosociale-stadier,INVENTED,,katalog
+philosopher:freud,philosopher:erikson,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:erikson,artifact:erikson-childhood-and-society,AUTHORED,,katalog
+philosopher:bowlby,era:midt-1900-tal,LIVED_IN,,katalog
+philosopher:bowlby,concept:tilknytningsteori,INVENTED,,katalog
+philosopher:freud,philosopher:bowlby,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:bowlby,artifact:bowlby-maternal-care,AUTHORED,,katalog
+philosopher:maslow,era:midt-1900-tal,LIVED_IN,,katalog
+philosopher:maslow,concept:behovspyramiden,INVENTED,,katalog
+philosopher:maslow,artifact:maslow-motivation-og-personlighed,AUTHORED,,katalog
+philosopher:bloom-benjamin,era:midt-1900-tal,LIVED_IN,,katalog
+philosopher:bloom-benjamin,concept:blooms-taksonomi,INVENTED,,katalog
+philosopher:bloom-benjamin,artifact:bloom-taksonomi,AUTHORED,,katalog
+philosopher:caillois,era:midt-1900-tal,LIVED_IN,,katalog
+philosopher:caillois,concept:legenes-former,INVENTED,,katalog
+philosopher:huizinga,philosopher:caillois,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:caillois,artifact:caillois-leg-og-spil,AUTHORED,,katalog
+philosopher:aries,era:midt-1900-tal,LIVED_IN,,katalog
+philosopher:aries,concept:barndommen-som-konstruktion,INVENTED,,katalog
+philosopher:aries,artifact:aries-barndommens-historie,AUTHORED,,katalog
+philosopher:bruner,era:midt-1900-tal,LIVED_IN,,katalog
+philosopher:bruner,concept:stilladsering,INVENTED,,katalog
+philosopher:bruner,concept:spiral-laereplan,INVENTED,,katalog
+philosopher:piaget,philosopher:bruner,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:vygotsky,philosopher:bruner,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:bruner,artifact:bruner-process-of-education,AUTHORED,,katalog
+philosopher:bruner,artifact:wood-bruner-ross-stilladsering,AUTHORED,,katalog
+philosopher:herzberg,era:midt-1900-tal,LIVED_IN,,katalog
+philosopher:herzberg,concept:tofaktorteori,INVENTED,,katalog
+philosopher:maslow,philosopher:herzberg,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:herzberg,artifact:herzberg-one-more-time,AUTHORED,,katalog
+philosopher:polanyi,era:midt-1900-tal,LIVED_IN,,katalog
+philosopher:polanyi,concept:tavs-viden,INVENTED,,katalog
+philosopher:polanyi,artifact:polanyi-tavs-viden,AUTHORED,,katalog
+philosopher:freire,era:sen-1900-tal-og-nutid,LIVED_IN,,katalog
+philosopher:freire,concept:kritisk-paedagogik,INVENTED,,katalog
+philosopher:marx,philosopher:freire,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:freire,artifact:freire-de-undertryktes-paedagogik,AUTHORED,,katalog
+philosopher:illich,era:sen-1900-tal-og-nutid,LIVED_IN,,katalog
+philosopher:illich,concept:afskoling,INVENTED,,katalog
+philosopher:illich,artifact:illich-deschooling,AUTHORED,,katalog
+philosopher:bandura,era:sen-1900-tal-og-nutid,LIVED_IN,,katalog
+philosopher:bandura,concept:tiltro-til-egen-formaaen,INVENTED,,katalog
+philosopher:bandura,artifact:bandura-self-efficacy,AUTHORED,,katalog
+philosopher:gettier,era:sen-1900-tal-og-nutid,LIVED_IN,,katalog
+philosopher:gettier,concept:gettier-problemet,INVENTED,,katalog
+philosopher:gettier,artifact:gettier-artikel,AUTHORED,,katalog
+philosopher:luckmann,era:sen-1900-tal-og-nutid,LIVED_IN,,katalog
+philosopher:luckmann,concept:social-konstruktion,DEVELOPED,,katalog
+philosopher:luckmann,artifact:berger-luckmann-social-konstruktion,AUTHORED,,katalog
+philosopher:berger,era:sen-1900-tal-og-nutid,LIVED_IN,,katalog
+philosopher:berger,concept:social-konstruktion,INVENTED,,katalog
+philosopher:berger,artifact:berger-luckmann-social-konstruktion,AUTHORED,,katalog
+philosopher:csikszentmihalyi,era:sen-1900-tal-og-nutid,LIVED_IN,,katalog
+philosopher:csikszentmihalyi,concept:flow,INVENTED,,katalog
+philosopher:maslow,philosopher:csikszentmihalyi,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:csikszentmihalyi,artifact:csikszentmihalyi-flow,AUTHORED,,katalog
+philosopher:lave,era:sen-1900-tal-og-nutid,LIVED_IN,,katalog
+philosopher:lave,concept:situeret-laering,INVENTED,,katalog
+philosopher:lave,artifact:lave-wenger-situeret-laering,AUTHORED,,katalog
+philosopher:dweck,era:sen-1900-tal-og-nutid,LIVED_IN,,katalog
+philosopher:dweck,concept:vaeksttankesaet,INVENTED,,katalog
+philosopher:bandura,philosopher:dweck,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:dweck,artifact:dweck-mindset,AUTHORED,,katalog
+philosopher:wenger,era:sen-1900-tal-og-nutid,LIVED_IN,,katalog
+philosopher:wenger,concept:situeret-laering,DEVELOPED,,katalog
+philosopher:lave,philosopher:wenger,INFLUENCED,Wikipedia/Afledt af Raper 2012,afledt
+philosopher:wenger,artifact:lave-wenger-situeret-laering,AUTHORED,,katalog
+concept:naturfilosofi,artifact:thales-fragmenter,EXPRESSED_IN,,katalog
+concept:naturfilosofi,artifact:de-fire-elementer,GAVE_RISE_TO,,slaegtskab
+concept:naturfilosofi,artifact:atomteorien,GAVE_RISE_TO,,slaegtskab
+concept:vand-som-grundstof,artifact:thales-fragmenter,EXPRESSED_IN,,katalog
+concept:vand-som-grundstof,artifact:de-fire-elementer,GAVE_RISE_TO,,slaegtskab
+concept:talfilosofi,artifact:pythagoras-skolen,EXPRESSED_IN,,katalog
+concept:talfilosofi,artifact:platon-timaios,GAVE_RISE_TO,,slaegtskab
+concept:matematisk-harmoni,artifact:pythagoras-skolen,EXPRESSED_IN,,katalog
+concept:matematisk-harmoni,artifact:platon-timaios,GAVE_RISE_TO,,slaegtskab
+concept:matematisk-harmoni,artifact:wagner-tristan,GAVE_RISE_TO,,slaegtskab
+concept:sjaelens-vandring,artifact:pythagoras-skolen,EXPRESSED_IN,,katalog
+concept:sjaelens-vandring,artifact:platon-faidon,GAVE_RISE_TO,,slaegtskab
+concept:panta-rhei,artifact:heraklit-fragmenter,EXPRESSED_IN,,katalog
+concept:panta-rhei,artifact:whitehead-proces-og-virkelighed,GAVE_RISE_TO,,slaegtskab
+concept:panta-rhei,artifact:hegel-aandens-faenomenologi,GAVE_RISE_TO,,slaegtskab
+concept:logos,artifact:heraklit-fragmenter,EXPRESSED_IN,,katalog
+concept:logos,artifact:kristendommen,GAVE_RISE_TO,,slaegtskab
+concept:forandringens-filosofi,artifact:heraklit-fragmenter,EXPRESSED_IN,,katalog
+concept:forandringens-filosofi,artifact:whitehead-proces-og-virkelighed,GAVE_RISE_TO,,slaegtskab
+concept:vaeren-uforanderlig,artifact:parmenides-digte,EXPRESSED_IN,,katalog
+concept:vaeren-uforanderlig,artifact:aristoteles-metafysik,GAVE_RISE_TO,,slaegtskab
+concept:monisme,artifact:parmenides-digte,EXPRESSED_IN,,katalog
+concept:monisme,artifact:spinoza-etik,EXPRESSED_IN,,katalog
+concept:monisme,artifact:panteismestriden,GAVE_RISE_TO,,slaegtskab
+concept:nous,artifact:anaxagoras-fragmenter,EXPRESSED_IN,,katalog
+concept:nous,artifact:aristoteles-metafysik,GAVE_RISE_TO,,slaegtskab
+concept:pluralisme,artifact:anaxagoras-fragmenter,EXPRESSED_IN,,katalog
+concept:pluralisme,artifact:atomteorien,GAVE_RISE_TO,,slaegtskab
+concept:relativisme,artifact:protagoras-fragmenter,EXPRESSED_IN,,katalog
+concept:relativisme,artifact:retorik-som-fag,GAVE_RISE_TO,,slaegtskab
+concept:homo-mensura,artifact:protagoras-fragmenter,EXPRESSED_IN,,katalog
+concept:homo-mensura,artifact:retorik-som-fag,GAVE_RISE_TO,,slaegtskab
+concept:materialisme,artifact:demokrit-fragmenter,EXPRESSED_IN,,katalog
+concept:materialisme,artifact:atomteorien,GAVE_RISE_TO,,slaegtskab
+concept:sokratisk-metode,artifact:platon-faidon,EXPRESSED_IN,,katalog
+concept:sokratisk-metode,artifact:sokratisk-samtale,GAVE_RISE_TO,,slaegtskab
+concept:sokratisk-metode,artifact:sofies-verden,GAVE_RISE_TO,,slaegtskab
+concept:sokratisk-metode,artifact:sofies-verden-filmen,GAVE_RISE_TO,,slaegtskab
+concept:mayeutik,artifact:platon-symposion,EXPRESSED_IN,,katalog
+concept:mayeutik,artifact:sokratisk-samtale,GAVE_RISE_TO,,slaegtskab
+concept:etisk-intellektualisme,artifact:platon-politeia,EXPRESSED_IN,,katalog
+concept:etisk-intellektualisme,artifact:sokratisk-samtale,GAVE_RISE_TO,,slaegtskab
+concept:formernes-teori,artifact:platon-politeia,EXPRESSED_IN,,katalog
+concept:formernes-teori,artifact:the-matrix,GAVE_RISE_TO,,slaegtskab
+concept:formernes-teori,artifact:sixtinske-kapel-skabelsen,GAVE_RISE_TO,,slaegtskab
+concept:formernes-teori,artifact:platon-akademiet,GAVE_RISE_TO,,slaegtskab
+concept:hulelignelsen,artifact:platon-politeia,EXPRESSED_IN,,katalog
+concept:hulelignelsen,artifact:the-matrix,GAVE_RISE_TO,,slaegtskab
+concept:hulelignelsen,artifact:the-truman-show,GAVE_RISE_TO,,slaegtskab
+concept:idealismen,artifact:platon-politeia,EXPRESSED_IN,,katalog
+concept:idealismen,artifact:hegel-aandens-faenomenologi,GAVE_RISE_TO,,slaegtskab
+concept:idealismen,artifact:kristendommen,GAVE_RISE_TO,,slaegtskab
+concept:syllogismen,artifact:aristoteles-organon,EXPRESSED_IN,,katalog
+concept:syllogismen,artifact:principia-mathematica,GAVE_RISE_TO,,slaegtskab
+concept:hylomorfisme,artifact:aristoteles-metafysik,EXPRESSED_IN,,katalog
+concept:hylomorfisme,artifact:aquinas-summa-theologica,GAVE_RISE_TO,,slaegtskab
+concept:de-fire-aarsager,artifact:aristoteles-fysik,EXPRESSED_IN,,katalog
+concept:de-fire-aarsager,artifact:kant-dommekraften,GAVE_RISE_TO,,slaegtskab
+concept:teleologi,artifact:aristoteles-fysik,EXPRESSED_IN,,katalog
+concept:teleologi,artifact:kant-dommekraften,GAVE_RISE_TO,,slaegtskab
+concept:dydsetik,artifact:aristoteles-nikomacheiske-etik,EXPRESSED_IN,,katalog
+concept:dydsetik,artifact:macintyre-after-virtue,GAVE_RISE_TO,,slaegtskab
+concept:dydsetik,artifact:nussbaum-det-gode-livs-skaerhed,GAVE_RISE_TO,,slaegtskab
+concept:asketisme,artifact:diogenes-fragmenter,EXPRESSED_IN,,katalog
+concept:asketisme,artifact:benediktinerreglen,GAVE_RISE_TO,,slaegtskab
+concept:kynisk-naturlighed,artifact:diogenes-fragmenter,EXPRESSED_IN,,katalog
+concept:kynisk-naturlighed,artifact:epikurs-have,GAVE_RISE_TO,,slaegtskab
+concept:hedonisme,artifact:epikurs-brev,EXPRESSED_IN,,katalog
+concept:hedonisme,artifact:bentham-indledning,GAVE_RISE_TO,,slaegtskab
+concept:hedonisme,artifact:lucretius-de-rerum-natura,GAVE_RISE_TO,,slaegtskab
+concept:ataraxia,artifact:epikurs-brev,EXPRESSED_IN,,katalog
+concept:ataraxia,artifact:epikurs-have,GAVE_RISE_TO,,slaegtskab
+concept:dyd-er-det-eneste-gode,artifact:marcus-aurelius-til-sig-selv,EXPRESSED_IN,,katalog
+concept:dyd-er-det-eneste-gode,artifact:romerretten,GAVE_RISE_TO,,slaegtskab
+concept:stoisk-logik,artifact:krisippos-fragmenter,EXPRESSED_IN,,katalog
+concept:stoisk-logik,artifact:principia-mathematica,GAVE_RISE_TO,,slaegtskab
+concept:determinisme,artifact:krisippos-fragmenter,EXPRESSED_IN,,katalog
+concept:determinisme,artifact:spinoza-etik,EXPRESSED_IN,,katalog
+concept:determinisme,artifact:mr-nobody,GAVE_RISE_TO,,slaegtskab
+concept:determinisme,artifact:nietzsche-zarathustra,GAVE_RISE_TO,,slaegtskab
+concept:naturret,artifact:cicero-om-lovene,EXPRESSED_IN,,katalog
+concept:naturret,artifact:romerretten,GAVE_RISE_TO,,slaegtskab
+concept:naturret,artifact:codex-justinianus,GAVE_RISE_TO,,slaegtskab
+concept:naturret,artifact:kanonisk-ret,GAVE_RISE_TO,,slaegtskab
+concept:naturret,artifact:napoleons-code-civil,GAVE_RISE_TO,,slaegtskab
+concept:naturret,artifact:den-amerikanske-forfatning,GAVE_RISE_TO,,slaegtskab
+concept:naturret,artifact:fns-menneskerettighedserklaering,GAVE_RISE_TO,,slaegtskab
+concept:naturret,artifact:folkeretten,GAVE_RISE_TO,https://iep.utm.edu/grotius/,belagt
+concept:naturret,artifact:geneve-konventionerne,GAVE_RISE_TO,https://www.icrc.org/en/law-and-policy/geneva-conventions-and-their-commentaries,belagt
+concept:naturret,artifact:den-europaeiske-menneskerettighedskonvention,GAVE_RISE_TO,https://lex.dk/Den_Europ%C3%A6iske_Menneskerettighedskonvention,belagt
+concept:naturret,artifact:fns-bornekonvention,GAVE_RISE_TO,https://www.unicef.org/child-rights-convention/convention-text,belagt
+concept:retorisk-filosofi,artifact:cicero-om-pligterne,EXPRESSED_IN,,katalog
+concept:retorisk-filosofi,artifact:retorik-som-fag,GAVE_RISE_TO,,slaegtskab
+concept:humanitas,artifact:cicero-om-pligterne,EXPRESSED_IN,,katalog
+concept:humanitas,artifact:dannelsesidealet,GAVE_RISE_TO,,slaegtskab
+concept:stoisk-livskunst,artifact:senecas-breve,EXPRESSED_IN,,katalog
+concept:stoisk-livskunst,artifact:jediernes-kodeks,GAVE_RISE_TO,,slaegtskab
+concept:stoisk-livskunst,artifact:kognitiv-adfaerdsterapi,GAVE_RISE_TO,https://pmc.ncbi.nlm.nih.gov/articles/PMC10175387/,belagt
+concept:indre-frihed,artifact:epiktet-haandbogen,EXPRESSED_IN,,katalog
+concept:indre-frihed,artifact:gladiator,GAVE_RISE_TO,,slaegtskab
+concept:indre-frihed,artifact:jediernes-kodeks,GAVE_RISE_TO,,slaegtskab
+concept:amor-fati,artifact:epiktet-haandbogen,EXPRESSED_IN,,katalog
+concept:amor-fati,artifact:gladiator,GAVE_RISE_TO,,slaegtskab
+concept:amor-fati,artifact:nietzsche-zarathustra,GAVE_RISE_TO,,slaegtskab
+concept:stoisk-selvdisciplin,artifact:marcus-aurelius-til-sig-selv,EXPRESSED_IN,,katalog
+concept:stoisk-selvdisciplin,artifact:gladiator,GAVE_RISE_TO,,slaegtskab
+concept:epoche,artifact:sextus-pyrrhonske-skitse,EXPRESSED_IN,,katalog
+concept:epoche,artifact:hume-traktat,GAVE_RISE_TO,,slaegtskab
+concept:epoche,artifact:husserl-ideer,GAVE_RISE_TO,,slaegtskab
+concept:emanation,artifact:plotin-enneaderne,EXPRESSED_IN,,katalog
+concept:emanation,artifact:kristendommen,GAVE_RISE_TO,,slaegtskab
+concept:emanation,artifact:dantes-guddommelige-komedie,GAVE_RISE_TO,,slaegtskab
+concept:det-ene,artifact:plotin-enneaderne,EXPRESSED_IN,,katalog
+concept:det-ene,artifact:sixtinske-kapel-skabelsen,GAVE_RISE_TO,,slaegtskab
+concept:arvesynden,artifact:augustin-bekendelser,EXPRESSED_IN,,katalog
+concept:arvesynden,artifact:jansenismen,GAVE_RISE_TO,,slaegtskab
+concept:arvesynden,artifact:protestantismen,GAVE_RISE_TO,,slaegtskab
+concept:arvesynden,artifact:de-ti-bud,GAVE_RISE_TO,,slaegtskab
+concept:naadelaeren,artifact:augustin-bekendelser,EXPRESSED_IN,,katalog
+concept:naadelaeren,artifact:protestantismen,GAVE_RISE_TO,,slaegtskab
+concept:naadelaeren,artifact:jansenismen,GAVE_RISE_TO,,slaegtskab
+concept:fri-vilje,artifact:augustin-gudsstaten,EXPRESSED_IN,,katalog
+concept:fri-vilje,artifact:clockwork-orange,GAVE_RISE_TO,,slaegtskab
+concept:fri-vilje,artifact:mr-nobody,GAVE_RISE_TO,,slaegtskab
+concept:fri-vilje,artifact:the-good-place,GAVE_RISE_TO,,slaegtskab
+concept:gudsstaten,artifact:augustin-gudsstaten,EXPRESSED_IN,,katalog
+concept:gudsstaten,artifact:kristendommen,GAVE_RISE_TO,,slaegtskab
+concept:forsyn-og-skaebne,artifact:boethius-troest,EXPRESSED_IN,,katalog
+concept:forsyn-og-skaebne,artifact:dantes-guddommelige-komedie,GAVE_RISE_TO,,slaegtskab
+concept:universaliestriden,artifact:boethius-troest,EXPRESSED_IN,,katalog
+concept:universaliestriden,artifact:ockham-summa-logicae,GAVE_RISE_TO,,slaegtskab
+concept:nodvendig-eksistens,artifact:avicenna-al-shifa,EXPRESSED_IN,,katalog
+concept:nodvendig-eksistens,artifact:aquinas-summa-theologica,GAVE_RISE_TO,,slaegtskab
+concept:nodvendig-eksistens,artifact:leibniz-theodicee,GAVE_RISE_TO,,slaegtskab
+concept:essens-og-eksistens,artifact:avicenna-al-shifa,EXPRESSED_IN,,katalog
+concept:essens-og-eksistens,artifact:aquinas-summa-theologica,GAVE_RISE_TO,,slaegtskab
+concept:det-flyvende-menneske,artifact:avicenna-al-shifa,EXPRESSED_IN,,katalog
+concept:det-flyvende-menneske,artifact:descartes-meditationer,GAVE_RISE_TO,,slaegtskab
+concept:okkasionalisme,artifact:al-ghazali-tahafut,EXPRESSED_IN,,katalog
+concept:okkasionalisme,artifact:hume-traktat,GAVE_RISE_TO,,slaegtskab
+concept:sufisme,artifact:al-ghazali-tahafut,EXPRESSED_IN,,katalog
+concept:sufisme,artifact:islam,GAVE_RISE_TO,,slaegtskab
+concept:sufisme,artifact:daoismen-som-religion,GAVE_RISE_TO,,slaegtskab
+concept:konceptualisme,artifact:abelard-sic-et-non,EXPRESSED_IN,,katalog
+concept:konceptualisme,artifact:ockham-summa-logicae,GAVE_RISE_TO,,slaegtskab
+concept:dialektisk-metode,artifact:abelard-sic-et-non,EXPRESSED_IN,,katalog
+concept:dialektisk-metode,artifact:aquinas-summa-theologica,GAVE_RISE_TO,,slaegtskab
+concept:dobbelt-sandhed,artifact:averroes-tahafut-tahafut,EXPRESSED_IN,,katalog
+concept:dobbelt-sandhed,artifact:universitetet-i-paris,GAVE_RISE_TO,,slaegtskab
+concept:negativ-teologi,artifact:maimonides-dukvane,EXPRESSED_IN,,katalog
+concept:negativ-teologi,artifact:aquinas-summa-theologica,GAVE_RISE_TO,,slaegtskab
+concept:fornuft-og-aabenbaring,artifact:maimonides-dukvane,EXPRESSED_IN,,katalog
+concept:fornuft-og-aabenbaring,artifact:aquinas-summa-theologica,GAVE_RISE_TO,,slaegtskab
+concept:de-fem-gudsbeviser,artifact:aquinas-summa-theologica,EXPRESSED_IN,,katalog
+concept:de-fem-gudsbeviser,artifact:kanonisk-ret,GAVE_RISE_TO,,slaegtskab
+concept:de-fem-gudsbeviser,artifact:tysklands-grundgesetz,GAVE_RISE_TO,,slaegtskab
+concept:voluntarisme,artifact:duns-scotus-ordinatio,EXPRESSED_IN,,katalog
+concept:voluntarisme,artifact:ockham-summa-logicae,GAVE_RISE_TO,,slaegtskab
+concept:haecceitas,artifact:duns-scotus-ordinatio,EXPRESSED_IN,,katalog
+concept:haecceitas,artifact:ockham-summa-logicae,GAVE_RISE_TO,,slaegtskab
+concept:nominalisme,artifact:ockham-summa-logicae,EXPRESSED_IN,,katalog
+concept:nominalisme,artifact:hume-traktat,GAVE_RISE_TO,,slaegtskab
+concept:ockhams-ragekniv,artifact:ockham-summa-logicae,EXPRESSED_IN,,katalog
+concept:ockhams-ragekniv,artifact:generativ-ai,GAVE_RISE_TO,,slaegtskab
+concept:ockhams-ragekniv,artifact:feyerabend-mod-metoden,GAVE_RISE_TO,,slaegtskab
+concept:transcendent-filosofi,artifact:sadras-transcendente-filosofi,EXPRESSED_IN,,katalog
+concept:transcendent-filosofi,artifact:al-mizan,GAVE_RISE_TO,,slaegtskab
+concept:koranfortolkning,artifact:al-mizan,EXPRESSED_IN,,katalog
+concept:koranfortolkning,artifact:islamisk-retstradition,GAVE_RISE_TO,,slaegtskab
+concept:tekstfilologi,artifact:erasmus-daarskabens-lovprisning,EXPRESSED_IN,,katalog
+concept:tekstfilologi,artifact:dannelsesidealet,GAVE_RISE_TO,,slaegtskab
+concept:kristen-reformisme,artifact:erasmus-daarskabens-lovprisning,EXPRESSED_IN,,katalog
+concept:kristen-reformisme,artifact:protestantismen,GAVE_RISE_TO,,slaegtskab
+concept:politisk-realismen,artifact:machiavelli-fyrsten,EXPRESSED_IN,,katalog
+concept:politisk-realismen,artifact:undtagelsestilstanden,GAVE_RISE_TO,,slaegtskab
+concept:machiavellisme,artifact:machiavelli-fyrsten,EXPRESSED_IN,,katalog
+concept:machiavellisme,artifact:1984,GAVE_RISE_TO,,slaegtskab
+concept:republikanisme,artifact:machiavelli-discorsi,EXPRESSED_IN,,katalog
+concept:republikanisme,artifact:den-amerikanske-forfatning,GAVE_RISE_TO,,slaegtskab
+concept:utopi,artifact:more-utopia,EXPRESSED_IN,,katalog
+concept:utopi,artifact:le-guin-moerket,GAVE_RISE_TO,,slaegtskab
+concept:utopi,artifact:velfaerdsstaten,GAVE_RISE_TO,,slaegtskab
+concept:panteisme,artifact:bruno-uendelige-univers,EXPRESSED_IN,,katalog
+concept:panteisme,artifact:spinoza-etik,EXPRESSED_IN,,katalog
+concept:panteisme,artifact:panteismestriden,GAVE_RISE_TO,,slaegtskab
+concept:panteisme,artifact:romantikbevaegelsen,GAVE_RISE_TO,,slaegtskab
+concept:kosmologisk-pluralisme,artifact:bruno-uendelige-univers,EXPRESSED_IN,,katalog
+concept:kosmologisk-pluralisme,artifact:heliocentrismen,GAVE_RISE_TO,,slaegtskab
+concept:hermetisme,artifact:bruno-uendelige-univers,EXPRESSED_IN,,katalog
+concept:hermetisme,artifact:romantikbevaegelsen,GAVE_RISE_TO,,slaegtskab
+concept:induktiv-metode,artifact:bacon-novum-organum,EXPRESSED_IN,,katalog
+concept:induktiv-metode,artifact:royal-society,GAVE_RISE_TO,,slaegtskab
+concept:induktiv-metode,artifact:kognitionsvidenskaben,GAVE_RISE_TO,,slaegtskab
+concept:idolernes-laere,artifact:bacon-novum-organum,EXPRESSED_IN,,katalog
+concept:idolernes-laere,artifact:kognitionsvidenskaben,GAVE_RISE_TO,,slaegtskab
+concept:videnskabelig-metode,artifact:bacon-novum-organum,EXPRESSED_IN,,katalog
+concept:videnskabelig-metode,artifact:royal-society,GAVE_RISE_TO,,slaegtskab
+concept:videnskabelig-metode,artifact:atomteorien,GAVE_RISE_TO,,slaegtskab
+concept:samfundskontrakten,artifact:hobbes-leviathan,EXPRESSED_IN,,katalog
+concept:samfundskontrakten,artifact:rousseau-samfundskontrakten,EXPRESSED_IN,,katalog
+concept:samfundskontrakten,artifact:den-amerikanske-forfatning,GAVE_RISE_TO,,slaegtskab
+concept:samfundskontrakten,artifact:den-danske-grundlov,GAVE_RISE_TO,,slaegtskab
+concept:naturtilstanden,artifact:hobbes-leviathan,EXPRESSED_IN,,katalog
+concept:naturtilstanden,artifact:1984,GAVE_RISE_TO,,slaegtskab
+concept:naturtilstanden,artifact:fight-club,GAVE_RISE_TO,,slaegtskab
+concept:absolutisme,artifact:hobbes-leviathan,EXPRESSED_IN,,katalog
+concept:absolutisme,artifact:nationalsocialismen,GAVE_RISE_TO,,slaegtskab
+concept:cogito-ergo-sum,artifact:descartes-meditationer,EXPRESSED_IN,,katalog
+concept:cogito-ergo-sum,artifact:kant-ren-fornuft,GAVE_RISE_TO,,slaegtskab
+concept:cogito-ergo-sum,artifact:the-matrix,GAVE_RISE_TO,,slaegtskab
+concept:metodisk-tvivl,artifact:descartes-meditationer,EXPRESSED_IN,,katalog
+concept:metodisk-tvivl,artifact:inception,GAVE_RISE_TO,,slaegtskab
+concept:metodisk-tvivl,artifact:the-matrix,GAVE_RISE_TO,,slaegtskab
+concept:dualisme,artifact:descartes-meditationer,EXPRESSED_IN,,katalog
+concept:dualisme,artifact:blade-runner,GAVE_RISE_TO,,slaegtskab
+concept:dualisme,artifact:ghost-in-the-shell,GAVE_RISE_TO,,slaegtskab
+concept:pascals-vaeddemal,artifact:pascal-tanker,EXPRESSED_IN,,katalog
+concept:pascals-vaeddemal,artifact:jansenismen,GAVE_RISE_TO,,slaegtskab
+concept:fideisme,artifact:pascal-tanker,EXPRESSED_IN,,katalog
+concept:fideisme,artifact:jansenismen,GAVE_RISE_TO,,slaegtskab
+concept:sandsynlighedsteori,artifact:pascal-tanker,EXPRESSED_IN,,katalog
+concept:sandsynlighedsteori,artifact:velfaerdsstaten,GAVE_RISE_TO,,slaegtskab
+concept:jansenisme,artifact:pascal-tanker,EXPRESSED_IN,,katalog
+concept:jansenisme,artifact:jansenismen,GAVE_RISE_TO,,slaegtskab
+concept:deus-sive-natura,artifact:spinoza-etik,EXPRESSED_IN,,katalog
+concept:deus-sive-natura,artifact:panteismestriden,GAVE_RISE_TO,,slaegtskab
+concept:deus-sive-natura,artifact:romantikbevaegelsen,GAVE_RISE_TO,,slaegtskab
+concept:tabula-rasa,artifact:locke-forstand,EXPRESSED_IN,,katalog
+concept:tabula-rasa,artifact:locke-opdragelse,GAVE_RISE_TO,,slaegtskab
+concept:naturlige-rettigheder,artifact:locke-styre,EXPRESSED_IN,,katalog
+concept:naturlige-rettigheder,artifact:den-amerikanske-forfatning,GAVE_RISE_TO,,slaegtskab
+concept:naturlige-rettigheder,artifact:borgerretsloven-1964,GAVE_RISE_TO,,slaegtskab
+concept:personlig-identitet,artifact:locke-forstand,EXPRESSED_IN,,katalog
+concept:personlig-identitet,artifact:memento,GAVE_RISE_TO,,slaegtskab
+concept:personlig-identitet,artifact:total-recall,GAVE_RISE_TO,,slaegtskab
+concept:erfaringspaedagogik,artifact:locke-opdragelse,EXPRESSED_IN,,katalog
+concept:erfaringspaedagogik,artifact:progressiv-paedagogik,GAVE_RISE_TO,,slaegtskab
+concept:erfaringspaedagogik,artifact:foraeldrevejledning,GAVE_RISE_TO,https://www.neh.gov/article/discovering-childhood,belagt
+concept:monadelaeren,artifact:leibniz-monadologien,EXPRESSED_IN,,katalog
+concept:monadelaeren,artifact:whitehead-proces-og-virkelighed,GAVE_RISE_TO,,slaegtskab
+concept:praeetableret-harmoni,artifact:leibniz-monadologien,EXPRESSED_IN,,katalog
+concept:praeetableret-harmoni,artifact:leibniz-theodicee,GAVE_RISE_TO,,slaegtskab
+concept:theodice,artifact:leibniz-theodicee,EXPRESSED_IN,,katalog
+concept:theodice,artifact:voltaire-candide,GAVE_RISE_TO,,slaegtskab
+concept:subjektiv-idealisme,artifact:berkeley-traktat,EXPRESSED_IN,,katalog
+concept:subjektiv-idealisme,artifact:kant-ren-fornuft,GAVE_RISE_TO,,slaegtskab
+concept:immaterialisme,artifact:berkeley-traktat,EXPRESSED_IN,,katalog
+concept:immaterialisme,artifact:the-matrix,GAVE_RISE_TO,,slaegtskab
+concept:esse-est-percipi,artifact:berkeley-traktat,EXPRESSED_IN,,katalog
+concept:esse-est-percipi,artifact:the-matrix,GAVE_RISE_TO,,slaegtskab
+concept:esse-est-percipi,artifact:the-truman-show,GAVE_RISE_TO,,slaegtskab
+concept:magtens-tredeling,artifact:montesquieu-lovens-and,EXPRESSED_IN,,katalog
+concept:magtens-tredeling,artifact:den-amerikanske-forfatning,GAVE_RISE_TO,,slaegtskab
+concept:magtens-tredeling,artifact:den-danske-grundlov,GAVE_RISE_TO,,slaegtskab
+concept:magtens-tredeling,artifact:eu-samarbejdet,GAVE_RISE_TO,,slaegtskab
+concept:konstitutionalisme,artifact:montesquieu-lovens-and,EXPRESSED_IN,,katalog
+concept:konstitutionalisme,artifact:den-danske-grundlov,GAVE_RISE_TO,,slaegtskab
+concept:konstitutionalisme,artifact:tysklands-grundgesetz,GAVE_RISE_TO,,slaegtskab
+concept:deisme,artifact:voltaire-filosofiske-breve,EXPRESSED_IN,,katalog
+concept:deisme,artifact:deismen,GAVE_RISE_TO,,slaegtskab
+concept:deisme,artifact:den-amerikanske-forfatning,GAVE_RISE_TO,,slaegtskab
+concept:ytringsfrihed,artifact:voltaire-filosofiske-breve,EXPRESSED_IN,,katalog
+concept:ytringsfrihed,artifact:franske-rettighedserklaering,GAVE_RISE_TO,,slaegtskab
+concept:ytringsfrihed,artifact:den-danske-grundlov,GAVE_RISE_TO,,slaegtskab
+concept:religionskritik,artifact:voltaire-candide,EXPRESSED_IN,,katalog
+concept:religionskritik,artifact:oplysningsbevaegelsen,GAVE_RISE_TO,,slaegtskab
+concept:kausalitetskritik,artifact:hume-traktat,EXPRESSED_IN,,katalog
+concept:kausalitetskritik,artifact:kant-ren-fornuft,GAVE_RISE_TO,,slaegtskab
+concept:kausalitetskritik,artifact:mr-nobody,GAVE_RISE_TO,,slaegtskab
+concept:induktionsproblemet,artifact:hume-traktat,EXPRESSED_IN,,katalog
+concept:induktionsproblemet,artifact:popper-logikken-i-forskningen,GAVE_RISE_TO,,slaegtskab
+concept:induktionsproblemet,artifact:goodman-kendsgerninger,GAVE_RISE_TO,,slaegtskab
+concept:naturalisme,artifact:hume-traktat,EXPRESSED_IN,,katalog
+concept:naturalisme,artifact:dennett-bevidsthed,GAVE_RISE_TO,,slaegtskab
+concept:almenviljen,artifact:rousseau-samfundskontrakten,EXPRESSED_IN,,katalog
+concept:almenviljen,artifact:franske-rettighedserklaering,GAVE_RISE_TO,,slaegtskab
+concept:almenviljen,artifact:den-danske-grundlov,GAVE_RISE_TO,,slaegtskab
+concept:den-aeble-vilde,artifact:rousseau-samfundskontrakten,EXPRESSED_IN,,katalog
+concept:den-aeble-vilde,artifact:romantikbevaegelsen,GAVE_RISE_TO,,slaegtskab
+concept:naturlig-opdragelse,artifact:rousseau-emile,EXPRESSED_IN,,katalog
+concept:naturlig-opdragelse,artifact:progressiv-paedagogik,GAVE_RISE_TO,,slaegtskab
+concept:naturlig-opdragelse,artifact:montessori-paedagogik,GAVE_RISE_TO,,slaegtskab
+concept:encyklopaedisme,artifact:diderot-encyclopedien,EXPRESSED_IN,,katalog
+concept:encyklopaedisme,artifact:folkeskolen,GAVE_RISE_TO,,slaegtskab
+concept:encyklopaedisme,artifact:oplysningsbevaegelsen,GAVE_RISE_TO,,slaegtskab
+concept:den-usynlige-haand,artifact:smith-nationernes-velstand,EXPRESSED_IN,,katalog
+concept:den-usynlige-haand,artifact:ricardo-politisk-okonomi,GAVE_RISE_TO,,slaegtskab
+concept:den-usynlige-haand,artifact:hayek-vejen-til-traeldom,GAVE_RISE_TO,,slaegtskab
+concept:arbejdsdeling,artifact:smith-nationernes-velstand,EXPRESSED_IN,,katalog
+concept:arbejdsdeling,artifact:modern-times,GAVE_RISE_TO,,slaegtskab
+concept:arbejdsdeling,artifact:metropolis,GAVE_RISE_TO,,slaegtskab
+concept:transcendental-idealisme,artifact:kant-ren-fornuft,EXPRESSED_IN,,katalog
+concept:transcendental-idealisme,artifact:hegel-aandens-faenomenologi,GAVE_RISE_TO,,slaegtskab
+concept:transcendental-idealisme,artifact:schopenhauer-verden-som-vilje,GAVE_RISE_TO,,slaegtskab
+concept:det-kategoriske-imperativ,artifact:kant-praktisk-fornuft,EXPRESSED_IN,,katalog
+concept:det-kategoriske-imperativ,artifact:fns-menneskerettighedserklaering,GAVE_RISE_TO,,slaegtskab
+concept:det-kategoriske-imperativ,artifact:tysklands-grundgesetz,GAVE_RISE_TO,,slaegtskab
+concept:det-kategoriske-imperativ,artifact:nurnbergkodekset,GAVE_RISE_TO,,slaegtskab
+concept:deontologi,artifact:kant-praktisk-fornuft,EXPRESSED_IN,,katalog
+concept:deontologi,artifact:the-good-place,GAVE_RISE_TO,,slaegtskab
+concept:deontologi,artifact:tysklands-grundgesetz,GAVE_RISE_TO,,slaegtskab
+concept:deontologi,artifact:rawls-retfaerdighed,GAVE_RISE_TO,,slaegtskab
+concept:kritisk-filosofi,artifact:kant-ren-fornuft,EXPRESSED_IN,,katalog
+concept:kritisk-filosofi,artifact:humboldt-universitetet,GAVE_RISE_TO,,slaegtskab
+concept:autonomi,artifact:kant-praktisk-fornuft,EXPRESSED_IN,,katalog
+concept:autonomi,artifact:handicapkonventionen,GAVE_RISE_TO,,slaegtskab
+concept:autonomi,artifact:informeret-samtykke,GAVE_RISE_TO,https://plato.stanford.edu/entries/informed-consent/,belagt
+concept:autonomi,artifact:helsinki-deklarationen,GAVE_RISE_TO,https://www.wma.net/policies-post/wma-declaration-of-helsinki/,belagt
+concept:det-sublime,artifact:burke-refleksioner,EXPRESSED_IN,,katalog
+concept:det-sublime,artifact:vandringsmanden-over-taagen,GAVE_RISE_TO,,slaegtskab
+concept:organisk-samfundssyn,artifact:burke-refleksioner,EXPRESSED_IN,,katalog
+concept:organisk-samfundssyn,artifact:de-maistre-om-paven,GAVE_RISE_TO,,slaegtskab
+concept:organisk-samfundssyn,artifact:velfaerdsstaten,GAVE_RISE_TO,,slaegtskab
+concept:utilitarisme,artifact:bentham-indledning,EXPRESSED_IN,,katalog
+concept:utilitarisme,artifact:dyrevelfaerdsloven,GAVE_RISE_TO,,slaegtskab
+concept:utilitarisme,artifact:velfaerdsstaten,GAVE_RISE_TO,,slaegtskab
+concept:utilitarisme,artifact:mill-utilitarismen,GAVE_RISE_TO,,slaegtskab
+concept:utilitarisme,artifact:cost-benefit-analyse,GAVE_RISE_TO,https://pmc.ncbi.nlm.nih.gov/articles/PMC6446322/,belagt
+concept:panoptisme,artifact:bentham-panoptikon,EXPRESSED_IN,,katalog
+concept:panoptisme,artifact:penitentiary-act,GAVE_RISE_TO,,slaegtskab
+concept:hedonistisk-kalkule,artifact:bentham-indledning,EXPRESSED_IN,,katalog
+concept:hedonistisk-kalkule,artifact:velfaerdsstaten,GAVE_RISE_TO,,slaegtskab
+concept:retspositivisme,artifact:bentham-indledning,EXPRESSED_IN,,katalog
+concept:retspositivisme,artifact:den-danske-grundlov,GAVE_RISE_TO,,slaegtskab
+concept:retspositivisme,artifact:undtagelsestilstanden,GAVE_RISE_TO,,slaegtskab
+concept:common-sense-realismen,artifact:reid-menneskelige-sind,EXPRESSED_IN,,katalog
+concept:common-sense-realismen,artifact:ryle-sindets-begreb,GAVE_RISE_TO,,slaegtskab
+concept:common-sense-realismen,artifact:austin-talehandlinger,GAVE_RISE_TO,,slaegtskab
+concept:jeget-som-princip,artifact:fichte-videnskabslaeren,EXPRESSED_IN,,katalog
+concept:jeget-som-princip,artifact:hegel-aandens-faenomenologi,GAVE_RISE_TO,,slaegtskab
+concept:naturfilosofi-schelling,artifact:schelling-transcendentale-idealisme,EXPRESSED_IN,,katalog
+concept:naturfilosofi-schelling,artifact:romantikbevaegelsen,GAVE_RISE_TO,,slaegtskab
+concept:naturfilosofi-schelling,artifact:vandringsmanden-over-taagen,GAVE_RISE_TO,,slaegtskab
+concept:identitetsfilosofi,artifact:schelling-transcendentale-idealisme,EXPRESSED_IN,,katalog
+concept:identitetsfilosofi,artifact:hegel-aandens-faenomenologi,GAVE_RISE_TO,,slaegtskab
+concept:dialektik,artifact:hegel-aandens-faenomenologi,EXPRESSED_IN,,katalog
+concept:dialektik,artifact:marx-kapitalen,GAVE_RISE_TO,,slaegtskab
+concept:dialektik,artifact:adorno-negativ-dialektik,GAVE_RISE_TO,,slaegtskab
+concept:dialektik,artifact:dialektikken,GAVE_RISE_TO,,slaegtskab
+concept:absolut-idealisme,artifact:hegel-aandens-faenomenologi,EXPRESSED_IN,,katalog
+concept:absolut-idealisme,artifact:fascismens-doktrin,GAVE_RISE_TO,,slaegtskab
+concept:verdensaanden,artifact:hegel-aandens-faenomenologi,EXPRESSED_IN,,katalog
+concept:verdensaanden,artifact:hegel-forelaesninger-filosofiens-historie,GAVE_RISE_TO,,slaegtskab
+concept:anerkendelse,artifact:hegel-aandens-faenomenologi,EXPRESSED_IN,,katalog
+concept:anerkendelse,artifact:taylor-selvets-kilder,GAVE_RISE_TO,,slaegtskab
+concept:anerkendelse,artifact:beauvoir-det-andet-koen,GAVE_RISE_TO,,slaegtskab
+concept:historiefilosofi,artifact:hegel-forelaesninger-filosofiens-historie,EXPRESSED_IN,,katalog
+concept:historiefilosofi,artifact:marx-kapitalen,GAVE_RISE_TO,,slaegtskab
+concept:absolut-afhaengighed,artifact:schleiermacher-om-religion,EXPRESSED_IN,,katalog
+concept:absolut-afhaengighed,artifact:romantikbevaegelsen,GAVE_RISE_TO,,slaegtskab
+concept:romantisk-teologi,artifact:schleiermacher-om-religion,EXPRESSED_IN,,katalog
+concept:romantisk-teologi,artifact:protestantismen,GAVE_RISE_TO,,slaegtskab
+concept:pessimisme,artifact:schopenhauer-verden-som-vilje,EXPRESSED_IN,,katalog
+concept:pessimisme,artifact:wagner-tristan,GAVE_RISE_TO,,slaegtskab
+concept:pessimisme,artifact:munch-skriget,GAVE_RISE_TO,,slaegtskab
+concept:viljen-som-tingen-i-sig,artifact:schopenhauer-verden-som-vilje,EXPRESSED_IN,,katalog
+concept:viljen-som-tingen-i-sig,artifact:nietzsche-zarathustra,GAVE_RISE_TO,,slaegtskab
+concept:trestadie-loven,artifact:comte-positiv-filosofi,EXPRESSED_IN,,katalog
+concept:trestadie-loven,artifact:sociologien,GAVE_RISE_TO,,slaegtskab
+concept:sociologi-begreb,artifact:comte-positiv-filosofi,EXPRESSED_IN,,katalog
+concept:sociologi-begreb,artifact:sociologien,GAVE_RISE_TO,,slaegtskab
+concept:subjektivitet,artifact:kierkegaard-efterkrift,EXPRESSED_IN,,katalog
+concept:subjektivitet,artifact:sartre-vaeren-og-intethed,GAVE_RISE_TO,,slaegtskab
+concept:subjektivitet,artifact:waking-life,GAVE_RISE_TO,,slaegtskab
+concept:troens-spring,artifact:kierkegaard-enten-eller,EXPRESSED_IN,,katalog
+concept:troens-spring,artifact:waking-life,GAVE_RISE_TO,,slaegtskab
+concept:angstbegrebet,artifact:kierkegaard-angstens-begreb,EXPRESSED_IN,,katalog
+concept:angstbegrebet,artifact:munch-skriget,GAVE_RISE_TO,,slaegtskab
+concept:angstbegrebet,artifact:heidegger-vaeren-og-tid,GAVE_RISE_TO,,slaegtskab
+concept:skadeprincippet,artifact:mill-om-friheden,EXPRESSED_IN,,katalog
+concept:skadeprincippet,artifact:den-danske-grundlov,GAVE_RISE_TO,,slaegtskab
+concept:skadeprincippet,artifact:borgerretsloven-1964,GAVE_RISE_TO,,slaegtskab
+concept:kvindefrigoerelse,artifact:mill-kvindernes-underkastelse,EXPRESSED_IN,,katalog
+concept:kvindefrigoerelse,artifact:ligestillingsloven,GAVE_RISE_TO,,slaegtskab
+concept:kvindefrigoerelse,artifact:me-too,GAVE_RISE_TO,,slaegtskab
+concept:kvindefrigoerelse,artifact:kvindelig-valgret-1915,GAVE_RISE_TO,https://danmarkshistorien.lex.dk/Kvindelig_valgret_1849-1915,belagt
+concept:historisk-materialisme,artifact:kommunistiske-manifest,EXPRESSED_IN,,katalog
+concept:historisk-materialisme,artifact:sovjetunionen,GAVE_RISE_TO,,slaegtskab
+concept:historisk-materialisme,artifact:folkerepublikken-kina,GAVE_RISE_TO,,slaegtskab
+concept:klassekamp,artifact:kommunistiske-manifest,EXPRESSED_IN,,katalog
+concept:klassekamp,artifact:metropolis,GAVE_RISE_TO,,slaegtskab
+concept:klassekamp,artifact:panserkrydseren-potyomkin,GAVE_RISE_TO,,slaegtskab
+concept:klassekamp,artifact:socialdemokratiet,GAVE_RISE_TO,,slaegtskab
+concept:klassekamp,artifact:fagbevaegelsen,GAVE_RISE_TO,,slaegtskab
+concept:klassekamp,artifact:ilo,GAVE_RISE_TO,https://www.ilo.org/resource/article/convention-no-1-landmark-workers%E2%80%99-rights,belagt
+concept:klassekamp,artifact:otte-timers-arbejdsdagen,GAVE_RISE_TO,https://www.ilo.org/resource/article/convention-no-1-landmark-workers%E2%80%99-rights,belagt
+concept:dialektisk-materialisme,artifact:engels-dialektik-naturen,EXPRESSED_IN,,katalog
+concept:dialektisk-materialisme,artifact:sovjetunionen,GAVE_RISE_TO,,slaegtskab
+concept:dialektisk-materialisme,artifact:folkerepublikken-kina,GAVE_RISE_TO,,slaegtskab
+concept:fremmedgoerelse,artifact:marx-kapitalen,EXPRESSED_IN,,katalog
+concept:fremmedgoerelse,artifact:modern-times,GAVE_RISE_TO,,slaegtskab
+concept:fremmedgoerelse,artifact:fight-club,GAVE_RISE_TO,,slaegtskab
+concept:varefetichisme,artifact:marx-kapitalen,EXPRESSED_IN,,katalog
+concept:varefetichisme,artifact:wall-e,GAVE_RISE_TO,,slaegtskab
+concept:varefetichisme,artifact:metropolis,GAVE_RISE_TO,,slaegtskab
+concept:mervaerdi,artifact:marx-kapitalen,EXPRESSED_IN,,katalog
+concept:mervaerdi,artifact:sovjetunionen,GAVE_RISE_TO,,slaegtskab
+concept:individualisme-emerson,artifact:emerson-selvtillid,EXPRESSED_IN,,katalog
+concept:individualisme-emerson,artifact:transcendentalistklubben,GAVE_RISE_TO,,slaegtskab
+concept:selvrealisering,artifact:emerson-selvtillid,EXPRESSED_IN,,katalog
+concept:selvrealisering,artifact:bloom-american-mind,GAVE_RISE_TO,,slaegtskab
+concept:egoisme,artifact:stirner-den-eneste,EXPRESSED_IN,,katalog
+concept:egoisme,artifact:rand-atlas-shrugged,GAVE_RISE_TO,,slaegtskab
+concept:egoisme,artifact:amerikansk-psyko,GAVE_RISE_TO,,slaegtskab
+concept:individualanarkisme,artifact:stirner-den-eneste,EXPRESSED_IN,,katalog
+concept:individualanarkisme,artifact:den-forste-internationale,GAVE_RISE_TO,,slaegtskab
+concept:mutualisme,artifact:proudhon-hvad-er-ejendom,EXPRESSED_IN,,katalog
+concept:mutualisme,artifact:den-forste-internationale,GAVE_RISE_TO,,slaegtskab
+concept:ejendomskritik,artifact:proudhon-hvad-er-ejendom,EXPRESSED_IN,,katalog
+concept:ejendomskritik,artifact:le-guin-moerket,GAVE_RISE_TO,,slaegtskab
+concept:kollektiv-anarkisme,artifact:bakunin-gud-og-staten,EXPRESSED_IN,,katalog
+concept:kollektiv-anarkisme,artifact:den-forste-internationale,GAVE_RISE_TO,,slaegtskab
+concept:anti-autoritarisme,artifact:bakunin-gud-og-staten,EXPRESSED_IN,,katalog
+concept:anti-autoritarisme,artifact:le-guin-moerket,GAVE_RISE_TO,,slaegtskab
+concept:komparative-fordele,artifact:ricardo-politisk-okonomi,EXPRESSED_IN,,katalog
+concept:komparative-fordele,artifact:eu-samarbejdet,GAVE_RISE_TO,,slaegtskab
+concept:arbejdsvaerditeori,artifact:ricardo-politisk-okonomi,EXPRESSED_IN,,katalog
+concept:arbejdsvaerditeori,artifact:marx-kapitalen,GAVE_RISE_TO,,slaegtskab
+concept:nihilisme,artifact:nietzsche-zarathustra,EXPRESSED_IN,,katalog
+concept:nihilisme,artifact:fight-club,GAVE_RISE_TO,,slaegtskab
+concept:nihilisme,artifact:apocalypse-now,GAVE_RISE_TO,,slaegtskab
+concept:nihilisme,artifact:muldvarpens-dag,GAVE_RISE_TO,,slaegtskab
+concept:overmennesket,artifact:nietzsche-zarathustra,EXPRESSED_IN,,katalog
+concept:overmennesket,artifact:2001-en-rumrejse,GAVE_RISE_TO,,slaegtskab
+concept:overmennesket,artifact:nationalsocialismen,GAVE_RISE_TO,,slaegtskab
+concept:viljen-til-magt,artifact:nietzsche-hinsides-godt-ondt,EXPRESSED_IN,,katalog
+concept:viljen-til-magt,artifact:nationalsocialismen,GAVE_RISE_TO,,slaegtskab
+concept:viljen-til-magt,artifact:fight-club,GAVE_RISE_TO,,slaegtskab
+concept:evig-genkomst,artifact:nietzsche-zarathustra,EXPRESSED_IN,,katalog
+concept:evig-genkomst,artifact:muldvarpens-dag,GAVE_RISE_TO,,slaegtskab
+concept:evig-genkomst,artifact:deleuze-tusind-plateauer,GAVE_RISE_TO,,slaegtskab
+concept:ressentiment,artifact:nietzsche-moralens-genealogi,EXPRESSED_IN,,katalog
+concept:ressentiment,artifact:janteloven,GAVE_RISE_TO,,slaegtskab
+concept:semiotik,artifact:peirce-klare-ideer,EXPRESSED_IN,,katalog
+concept:semiotik,artifact:kognitionsvidenskaben,GAVE_RISE_TO,,slaegtskab
+concept:fallibilisme,artifact:peirce-klare-ideer,EXPRESSED_IN,,katalog
+concept:fallibilisme,artifact:popper-logikken-i-forskningen,GAVE_RISE_TO,,slaegtskab
+concept:abduktion,artifact:peirce-klare-ideer,EXPRESSED_IN,,katalog
+concept:abduktion,artifact:kognitionsvidenskaben,GAVE_RISE_TO,,slaegtskab
+concept:radikal-empirisme,artifact:james-pragmatismen,EXPRESSED_IN,,katalog
+concept:radikal-empirisme,artifact:whitehead-proces-og-virkelighed,GAVE_RISE_TO,,slaegtskab
+concept:den-religioese-erfaring,artifact:james-pragmatismen,EXPRESSED_IN,,katalog
+concept:den-religioese-erfaring,artifact:transcendentalistklubben,GAVE_RISE_TO,,slaegtskab
+concept:praedikatslogik,artifact:frege-begriffsschrift,EXPRESSED_IN,,katalog
+concept:praedikatslogik,artifact:principia-mathematica,GAVE_RISE_TO,,slaegtskab
+concept:logicisme,artifact:frege-begriffsschrift,EXPRESSED_IN,,katalog
+concept:logicisme,artifact:principia-mathematica,GAVE_RISE_TO,,slaegtskab
+concept:betydning-og-reference,artifact:frege-begriffsschrift,EXPRESSED_IN,,katalog
+concept:betydning-og-reference,artifact:kripke-navngivning,GAVE_RISE_TO,,slaegtskab
+concept:forstaaelse,artifact:dilthey-aandsvidenskaberne,EXPRESSED_IN,,katalog
+concept:forstaaelse,artifact:gadamer-sandhed-og-metode,GAVE_RISE_TO,,slaegtskab
+concept:livsfilosofi,artifact:dilthey-aandsvidenskaberne,EXPRESSED_IN,,katalog
+concept:livsfilosofi,artifact:bergson-skabende-evolution,GAVE_RISE_TO,,slaegtskab
+concept:ultramontanisme,artifact:de-maistre-om-paven,EXPRESSED_IN,,katalog
+concept:ultramontanisme,artifact:kristendommen,GAVE_RISE_TO,,slaegtskab
+concept:modoplysning,artifact:de-maistre-om-paven,EXPRESSED_IN,,katalog
+concept:modoplysning,artifact:romantikbevaegelsen,GAVE_RISE_TO,,slaegtskab
+concept:demokratianalyse,artifact:tocqueville-demokratiet,EXPRESSED_IN,,katalog
+concept:demokratianalyse,artifact:velfaerdsstaten,GAVE_RISE_TO,,slaegtskab
+concept:flertallets-tyranni,artifact:tocqueville-demokratiet,EXPRESSED_IN,,katalog
+concept:flertallets-tyranni,artifact:1984,GAVE_RISE_TO,,slaegtskab
+concept:flertallets-tyranni,artifact:borgerretsloven-1964,GAVE_RISE_TO,,slaegtskab
+concept:civilsamfundet,artifact:tocqueville-demokratiet,EXPRESSED_IN,,katalog
+concept:civilsamfundet,artifact:fagbevaegelsen,GAVE_RISE_TO,,slaegtskab
+concept:anarkokommunisme,artifact:kropotkin-gensidig-hjaelp,EXPRESSED_IN,,katalog
+concept:anarkokommunisme,artifact:le-guin-moerket,GAVE_RISE_TO,,slaegtskab
+concept:gensidig-hjaelp,artifact:kropotkin-gensidig-hjaelp,EXPRESSED_IN,,katalog
+concept:gensidig-hjaelp,artifact:velfaerdsstaten,GAVE_RISE_TO,,slaegtskab
+concept:gensidig-hjaelp,artifact:fagbevaegelsen,GAVE_RISE_TO,,slaegtskab
+concept:revolutionaer-socialisme,artifact:luxemburg-akkumulationen,EXPRESSED_IN,,katalog
+concept:revolutionaer-socialisme,artifact:sovjetunionen,GAVE_RISE_TO,,slaegtskab
+concept:revolutionaer-socialisme,artifact:fagbevaegelsen,GAVE_RISE_TO,,slaegtskab
+concept:spontanitetsteori,artifact:luxemburg-akkumulationen,EXPRESSED_IN,,katalog
+concept:spontanitetsteori,artifact:marcuse-studentoproeet,GAVE_RISE_TO,,slaegtskab
+concept:antiimperialisme,artifact:luxemburg-akkumulationen,EXPRESSED_IN,,katalog
+concept:antiimperialisme,artifact:kubas-revolution,GAVE_RISE_TO,,slaegtskab
+concept:intentionalitet,artifact:husserl-ideer,EXPRESSED_IN,,katalog
+concept:intentionalitet,artifact:merleau-ponty-perceptionen,GAVE_RISE_TO,,slaegtskab
+concept:intentionalitet,artifact:dennett-bevidsthed,GAVE_RISE_TO,,slaegtskab
+concept:transcendental-reduktion,artifact:husserl-ideer,EXPRESSED_IN,,katalog
+concept:transcendental-reduktion,artifact:heidegger-vaeren-og-tid,GAVE_RISE_TO,,slaegtskab
+concept:livsverdenen,artifact:husserl-krisen,EXPRESSED_IN,,katalog
+concept:livsverdenen,artifact:habermas-kommunikativ-handlen,GAVE_RISE_TO,,slaegtskab
+concept:varighed,artifact:bergson-skabende-evolution,EXPRESSED_IN,,katalog
+concept:varighed,artifact:proust-tabte-tid,GAVE_RISE_TO,,slaegtskab
+concept:intuitionisme,artifact:bergson-skabende-evolution,EXPRESSED_IN,,katalog
+concept:intuitionisme,artifact:waking-life,GAVE_RISE_TO,,slaegtskab
+concept:elan-vital,artifact:bergson-skabende-evolution,EXPRESSED_IN,,katalog
+concept:elan-vital,artifact:whitehead-proces-og-virkelighed,GAVE_RISE_TO,,slaegtskab
+concept:logisk-atomisme,artifact:principia-mathematica,EXPRESSED_IN,,katalog
+concept:logisk-atomisme,artifact:wittgenstein-tractatus,GAVE_RISE_TO,,slaegtskab
+concept:logisk-atomisme,artifact:wienerkredsen,GAVE_RISE_TO,,slaegtskab
+concept:typeteori,artifact:principia-mathematica,EXPRESSED_IN,,katalog
+concept:typeteori,artifact:turing-testen,GAVE_RISE_TO,,slaegtskab
+concept:procesfilosofi,artifact:whitehead-proces-og-virkelighed,EXPRESSED_IN,,katalog
+concept:procesfilosofi,artifact:deleuze-tusind-plateauer,GAVE_RISE_TO,,slaegtskab
+concept:organisk-filosofi,artifact:whitehead-proces-og-virkelighed,EXPRESSED_IN,,katalog
+concept:organisk-filosofi,artifact:kinesisk-medicin,GAVE_RISE_TO,,slaegtskab
+concept:instrumentalisme,artifact:dewey-demokrati-og-uddannelse,EXPRESSED_IN,,katalog
+concept:instrumentalisme,artifact:progressiv-paedagogik,GAVE_RISE_TO,,slaegtskab
+concept:progressiv-paedagogik,artifact:dewey-demokrati-og-uddannelse,EXPRESSED_IN,,katalog
+concept:progressiv-paedagogik,artifact:folkeskolen,GAVE_RISE_TO,,slaegtskab
+concept:progressiv-paedagogik,artifact:montessori-paedagogik,GAVE_RISE_TO,,slaegtskab
+concept:progressiv-paedagogik,artifact:lab-school,GAVE_RISE_TO,https://www.britannica.com/topic/University-of-Chicago-Laboratory-Schools,belagt
+concept:progressiv-paedagogik,artifact:projektmetoden,GAVE_RISE_TO,https://education-uk.org/documents/kilpatrick1918/index.html,belagt
+concept:kritisk-realismen,artifact:santayana-sans-for-skønhed,EXPRESSED_IN,,katalog
+concept:kritisk-realismen,artifact:kognitionsvidenskaben,GAVE_RISE_TO,,slaegtskab
+concept:aestetisk-erfaring,artifact:santayana-sans-for-skønhed,EXPRESSED_IN,,katalog
+concept:aestetisk-erfaring,artifact:wagner-tristan,GAVE_RISE_TO,,slaegtskab
+concept:loyalitetens-filosofi,artifact:royce-loyalitetens-filosofi,EXPRESSED_IN,,katalog
+concept:loyalitetens-filosofi,artifact:transcendentalistklubben,GAVE_RISE_TO,,slaegtskab
+concept:sprogspil,artifact:wittgenstein-undersoegelser,EXPRESSED_IN,,katalog
+concept:sprogspil,artifact:austin-talehandlinger,GAVE_RISE_TO,,slaegtskab
+concept:billedteori,artifact:wittgenstein-tractatus,EXPRESSED_IN,,katalog
+concept:billedteori,artifact:wienerkredsen,GAVE_RISE_TO,,slaegtskab
+concept:sprogfilosofi,artifact:wittgenstein-undersoegelser,EXPRESSED_IN,,katalog
+concept:sprogfilosofi,artifact:turing-testen,GAVE_RISE_TO,,slaegtskab
+concept:sprogfilosofi,artifact:generativ-ai,GAVE_RISE_TO,,slaegtskab
+concept:dasein,artifact:heidegger-vaeren-og-tid,EXPRESSED_IN,,katalog
+concept:dasein,artifact:sartre-vaeren-og-intethed,GAVE_RISE_TO,,slaegtskab
+concept:dasein,artifact:waking-life,GAVE_RISE_TO,,slaegtskab
+concept:vaeren-i-verden,artifact:heidegger-vaeren-og-tid,EXPRESSED_IN,,katalog
+concept:vaeren-i-verden,artifact:merleau-ponty-perceptionen,GAVE_RISE_TO,,slaegtskab
+concept:teknikfilosofi,artifact:heidegger-vaeren-og-tid,EXPRESSED_IN,,katalog
+concept:teknikfilosofi,artifact:generativ-ai,GAVE_RISE_TO,,slaegtskab
+concept:teknikfilosofi,artifact:wall-e,GAVE_RISE_TO,,slaegtskab
+concept:verifikationsprincip,artifact:wienerkredsens-manifest,EXPRESSED_IN,,katalog
+concept:verifikationsprincip,artifact:ayer-sprog-sandhed-logik,GAVE_RISE_TO,,slaegtskab
+concept:logisk-analyse,artifact:carnap-verdens-opbygning,EXPRESSED_IN,,katalog
+concept:logisk-analyse,artifact:kognitionsvidenskaben,GAVE_RISE_TO,,slaegtskab
+concept:formal-sociologi,artifact:simmel-pengefilosofi,EXPRESSED_IN,,katalog
+concept:formal-sociologi,artifact:sociologien,GAVE_RISE_TO,,slaegtskab
+concept:kulturfilosofi,artifact:simmel-pengefilosofi,EXPRESSED_IN,,katalog
+concept:kulturfilosofi,artifact:frankfurterskolen,GAVE_RISE_TO,,slaegtskab
+concept:idealtyper,artifact:weber-protestantismens-etik,EXPRESSED_IN,,katalog
+concept:idealtyper,artifact:sociologien,GAVE_RISE_TO,,slaegtskab
+concept:bureaukrati,artifact:weber-protestantismens-etik,EXPRESSED_IN,,katalog
+concept:bureaukrati,artifact:1984,GAVE_RISE_TO,,slaegtskab
+concept:bureaukrati,artifact:velfaerdsstaten,GAVE_RISE_TO,,slaegtskab
+concept:protestantismens-etik,artifact:weber-protestantismens-etik,EXPRESSED_IN,,katalog
+concept:protestantismens-etik,artifact:protestantismen,GAVE_RISE_TO,,slaegtskab
+concept:psykoanalyse,artifact:freud-droemmetydning,EXPRESSED_IN,,katalog
+concept:psykoanalyse,artifact:surrealismen,GAVE_RISE_TO,,slaegtskab
+concept:psykoanalyse,artifact:en-andalusisk-hund,GAVE_RISE_TO,,slaegtskab
+concept:psykoanalyse,artifact:psykofarmakologi,GAVE_RISE_TO,,slaegtskab
+concept:det-ubevidste,artifact:freud-droemmetydning,EXPRESSED_IN,,katalog
+concept:det-ubevidste,artifact:fight-club,GAVE_RISE_TO,,slaegtskab
+concept:det-ubevidste,artifact:surrealismen,GAVE_RISE_TO,,slaegtskab
+concept:oedipuskomplekset,artifact:freud-droemmetydning,EXPRESSED_IN,,katalog
+concept:oedipuskomplekset,artifact:fight-club,GAVE_RISE_TO,,slaegtskab
+concept:det-topiske-system,artifact:freud-jeg-og-det,EXPRESSED_IN,,katalog
+concept:det-topiske-system,artifact:fight-club,GAVE_RISE_TO,,slaegtskab
+concept:det-topiske-system,artifact:waking-life,GAVE_RISE_TO,,slaegtskab
+concept:historicisme,artifact:croce-aestetik,EXPRESSED_IN,,katalog
+concept:historicisme,artifact:voegelin-orden-og-historie,GAVE_RISE_TO,,slaegtskab
+concept:aestetisk-intuition,artifact:croce-aestetik,EXPRESSED_IN,,katalog
+concept:aestetisk-intuition,artifact:proust-tabte-tid,GAVE_RISE_TO,,slaegtskab
+concept:aktuel-idealisme,artifact:fascismens-doktrin,EXPRESSED_IN,,katalog
+concept:aktuel-idealisme,artifact:nationalsocialismen,GAVE_RISE_TO,,slaegtskab
+concept:totalitarisme,artifact:fascismens-doktrin,EXPRESSED_IN,,katalog
+concept:totalitarisme,artifact:1984,GAVE_RISE_TO,,slaegtskab
+concept:totalitarisme,artifact:undtagelsestilstanden,GAVE_RISE_TO,,slaegtskab
+concept:ratiovitalisme,artifact:ortega-massernes-oproer,EXPRESSED_IN,,katalog
+concept:ratiovitalisme,artifact:waking-life,GAVE_RISE_TO,,slaegtskab
+concept:perspektivisme,artifact:ortega-massernes-oproer,EXPRESSED_IN,,katalog
+concept:perspektivisme,artifact:rorty-filosofi-og-spejlet,GAVE_RISE_TO,,slaegtskab
+concept:perspektivisme,artifact:postmodernismen,GAVE_RISE_TO,https://plato.stanford.edu/entries/postmodernism/,belagt
+concept:massemennesket,artifact:ortega-massernes-oproer,EXPRESSED_IN,,katalog
+concept:massemennesket,artifact:wall-e,GAVE_RISE_TO,,slaegtskab
+concept:massemennesket,artifact:1984,GAVE_RISE_TO,,slaegtskab
+concept:religioes-eksistentialisme,artifact:berdyaev-frihedens-filosofi,EXPRESSED_IN,,katalog
+concept:religioes-eksistentialisme,artifact:sartre-vaeren-og-intethed,GAVE_RISE_TO,,slaegtskab
+concept:kreativitet,artifact:berdyaev-frihedens-filosofi,EXPRESSED_IN,,katalog
+concept:kreativitet,artifact:bauhaus,GAVE_RISE_TO,,slaegtskab
+concept:kulturhegemoni,artifact:gramsci-faengselsnoter,EXPRESSED_IN,,katalog
+concept:kulturhegemoni,artifact:chomsky-manufacturing-consent,GAVE_RISE_TO,,slaegtskab
+concept:kulturhegemoni,artifact:1984,GAVE_RISE_TO,,slaegtskab
+concept:organisk-intellektuel,artifact:gramsci-faengselsnoter,EXPRESSED_IN,,katalog
+concept:organisk-intellektuel,artifact:folkeskolen,GAVE_RISE_TO,,slaegtskab
+concept:reifikation,artifact:lukacs-klassebevidsthed,EXPRESSED_IN,,katalog
+concept:reifikation,artifact:marcuse-endimensionelle-menneske,GAVE_RISE_TO,,slaegtskab
+concept:reifikation,artifact:wall-e,GAVE_RISE_TO,,slaegtskab
+concept:klassebevidsthed,artifact:lukacs-klassebevidsthed,EXPRESSED_IN,,katalog
+concept:klassebevidsthed,artifact:sovjetunionen,GAVE_RISE_TO,,slaegtskab
+concept:aandsvidenskab,artifact:antroposofisk-selskab,EXPRESSED_IN,,katalog
+concept:aandsvidenskab,artifact:waldorfpaedagogik,GAVE_RISE_TO,,slaegtskab
+concept:tregrening,artifact:antroposofisk-selskab,EXPRESSED_IN,,katalog
+concept:tregrening,artifact:goetheanum,GAVE_RISE_TO,,slaegtskab
+concept:steinerpaedagogik,artifact:antroposofisk-selskab,EXPRESSED_IN,,katalog
+concept:steinerpaedagogik,artifact:waldorfpaedagogik,GAVE_RISE_TO,,slaegtskab
+concept:det-politiske,artifact:schmitt-det-politiske,EXPRESSED_IN,,katalog
+concept:det-politiske,artifact:undtagelsestilstanden,GAVE_RISE_TO,,slaegtskab
+concept:suveraenitet,artifact:schmitt-det-politiske,EXPRESSED_IN,,katalog
+concept:suveraenitet,artifact:undtagelsestilstanden,GAVE_RISE_TO,,slaegtskab
+concept:suveraenitet,artifact:nationalsocialismen,GAVE_RISE_TO,,slaegtskab
+concept:ven-fjende-distinktionen,artifact:schmitt-det-politiske,EXPRESSED_IN,,katalog
+concept:ven-fjende-distinktionen,artifact:nationalsocialismen,GAVE_RISE_TO,,slaegtskab
+concept:politisk-teologi,artifact:schmitt-det-politiske,EXPRESSED_IN,,katalog
+concept:politisk-teologi,artifact:undtagelsestilstanden,GAVE_RISE_TO,,slaegtskab
+concept:graensesituationer,artifact:jaspers-filosofien,EXPRESSED_IN,,katalog
+concept:graensesituationer,artifact:sartre-vaeren-og-intethed,GAVE_RISE_TO,,slaegtskab
+concept:graensesituationer,artifact:mr-nobody,GAVE_RISE_TO,,slaegtskab
+concept:den-aksiale-tid,artifact:jaspers-filosofien,EXPRESSED_IN,,katalog
+concept:den-aksiale-tid,artifact:hegel-forelaesninger-filosofiens-historie,GAVE_RISE_TO,,slaegtskab
+concept:eksistensfilosofi,artifact:jaspers-filosofien,EXPRESSED_IN,,katalog
+concept:eksistensfilosofi,artifact:waking-life,GAVE_RISE_TO,,slaegtskab
+concept:eksistensfilosofi,artifact:eksistentiel-psykoterapi,GAVE_RISE_TO,https://plato.stanford.edu/entries/existentialism/,belagt
+concept:epistemologisk-brud,artifact:bachelard-videnskabelige-sind,EXPRESSED_IN,,katalog
+concept:epistemologisk-brud,artifact:althusser-ideologiske-statsapparater,GAVE_RISE_TO,,slaegtskab
+concept:epistemologi,artifact:bachelard-videnskabelige-sind,EXPRESSED_IN,,katalog
+concept:epistemologi,artifact:kuhn-videnskabelige-revolutioner,GAVE_RISE_TO,,slaegtskab
+concept:falsifikationisme,artifact:popper-logikken-i-forskningen,EXPRESSED_IN,,katalog
+concept:falsifikationisme,artifact:lakatos-forskningsprogrammer,GAVE_RISE_TO,,slaegtskab
+concept:falsifikationisme,artifact:feyerabend-mod-metoden,GAVE_RISE_TO,,slaegtskab
+concept:det-aabne-samfund,artifact:popper-det-aabne-samfund,EXPRESSED_IN,,katalog
+concept:det-aabne-samfund,artifact:eu-samarbejdet,GAVE_RISE_TO,,slaegtskab
+concept:det-aabne-samfund,artifact:den-danske-grundlov,GAVE_RISE_TO,,slaegtskab
+concept:kritisk-rationalisme,artifact:popper-det-aabne-samfund,EXPRESSED_IN,,katalog
+concept:kritisk-rationalisme,artifact:feyerabend-mod-metoden,GAVE_RISE_TO,,slaegtskab
+concept:kunstvaerkets-aura,artifact:benjamin-kunstvaerket,EXPRESSED_IN,,katalog
+concept:kunstvaerkets-aura,artifact:modern-times,GAVE_RISE_TO,,slaegtskab
+concept:kunstvaerkets-aura,artifact:metropolis,GAVE_RISE_TO,,slaegtskab
+concept:kritisk-historieflosofi,artifact:benjamin-kunstvaerket,EXPRESSED_IN,,katalog
+concept:kritisk-historieflosofi,artifact:west-race-matters,GAVE_RISE_TO,,slaegtskab
+concept:oplysningens-dialektik,artifact:adorno-oplysningens-dialektik,EXPRESSED_IN,,katalog
+concept:oplysningens-dialektik,artifact:1984,GAVE_RISE_TO,,slaegtskab
+concept:oplysningens-dialektik,artifact:wall-e,GAVE_RISE_TO,,slaegtskab
+concept:kulturindustri,artifact:adorno-oplysningens-dialektik,EXPRESSED_IN,,katalog
+concept:kulturindustri,artifact:wall-e,GAVE_RISE_TO,,slaegtskab
+concept:kulturindustri,artifact:the-good-place,GAVE_RISE_TO,,slaegtskab
+concept:negativ-dialektik,artifact:adorno-negativ-dialektik,EXPRESSED_IN,,katalog
+concept:negativ-dialektik,artifact:dialektikken,GAVE_RISE_TO,,slaegtskab
+concept:det-endimensionelle-menneske,artifact:marcuse-endimensionelle-menneske,EXPRESSED_IN,,katalog
+concept:det-endimensionelle-menneske,artifact:wall-e,GAVE_RISE_TO,,slaegtskab
+concept:det-endimensionelle-menneske,artifact:hippiebevaegelsen,GAVE_RISE_TO,,slaegtskab
+concept:den-store-afvisning,artifact:marcuse-endimensionelle-menneske,EXPRESSED_IN,,katalog
+concept:den-store-afvisning,artifact:marcuse-studentoproeet,GAVE_RISE_TO,,slaegtskab
+concept:den-store-afvisning,artifact:hippiebevaegelsen,GAVE_RISE_TO,,slaegtskab
+concept:eksistensen-forud-for-essensen,artifact:sartre-eksistentialisme-er-humanisme,EXPRESSED_IN,,katalog
+concept:eksistensen-forud-for-essensen,artifact:waking-life,GAVE_RISE_TO,,slaegtskab
+concept:eksistensen-forud-for-essensen,artifact:fight-club,GAVE_RISE_TO,,slaegtskab
+concept:daarlig-tro,artifact:sartre-vaeren-og-intethed,EXPRESSED_IN,,katalog
+concept:daarlig-tro,artifact:waking-life,GAVE_RISE_TO,,slaegtskab
+concept:radikal-frihed,artifact:sartre-vaeren-og-intethed,EXPRESSED_IN,,katalog
+concept:radikal-frihed,artifact:the-good-place,GAVE_RISE_TO,,slaegtskab
+concept:det-andet-koen,artifact:beauvoir-det-andet-koen,EXPRESSED_IN,,katalog
+concept:det-andet-koen,artifact:me-too,GAVE_RISE_TO,,slaegtskab
+concept:det-andet-koen,artifact:ligestillingsloven,GAVE_RISE_TO,,slaegtskab
+concept:eksistentialistisk-etik,artifact:beauvoir-det-andet-koen,EXPRESSED_IN,,katalog
+concept:eksistentialistisk-etik,artifact:me-too,GAVE_RISE_TO,,slaegtskab
+concept:absurdisme,artifact:camus-sisyfos-myten,EXPRESSED_IN,,katalog
+concept:absurdisme,artifact:muldvarpens-dag,GAVE_RISE_TO,,slaegtskab
+concept:absurdisme,artifact:fight-club,GAVE_RISE_TO,,slaegtskab
+concept:det-absurde-oproer,artifact:camus-oproerets-menneske,EXPRESSED_IN,,katalog
+concept:det-absurde-oproer,artifact:marcuse-studentoproeet,GAVE_RISE_TO,,slaegtskab
+concept:kropslig-perception,artifact:merleau-ponty-perceptionen,EXPRESSED_IN,,katalog
+concept:kropslig-perception,artifact:ghost-in-the-shell,GAVE_RISE_TO,,slaegtskab
+concept:kropslig-perception,artifact:blade-runner,GAVE_RISE_TO,,slaegtskab
+concept:ansigtets-etik,artifact:levinas-totalitet-og-uendelighed,EXPRESSED_IN,,katalog
+concept:ansigtets-etik,artifact:handicapkonventionen,GAVE_RISE_TO,,slaegtskab
+concept:ansigtets-etik,artifact:fns-menneskerettighedserklaering,GAVE_RISE_TO,,slaegtskab
+concept:den-anden,artifact:levinas-totalitet-og-uendelighed,EXPRESSED_IN,,katalog
+concept:den-anden,artifact:butler-koenets-besvaer,GAVE_RISE_TO,,slaegtskab
+concept:etik-som-foerstefilosofi,artifact:levinas-totalitet-og-uendelighed,EXPRESSED_IN,,katalog
+concept:etik-som-foerstefilosofi,artifact:handicapkonventionen,GAVE_RISE_TO,,slaegtskab
+concept:ondskabens-banalitet,artifact:arendt-eichmann,EXPRESSED_IN,,katalog
+concept:ondskabens-banalitet,artifact:hannah-arendt-filmen,GAVE_RISE_TO,,slaegtskab
+concept:ondskabens-banalitet,artifact:1984,GAVE_RISE_TO,,slaegtskab
+concept:vita-activa,artifact:arendt-menneskets-vilkaar,EXPRESSED_IN,,katalog
+concept:vita-activa,artifact:me-too,GAVE_RISE_TO,,slaegtskab
+concept:narrativ-identitet,artifact:ricoeur-tid-og-fortaelling,EXPRESSED_IN,,katalog
+concept:narrativ-identitet,artifact:taylor-selvets-kilder,GAVE_RISE_TO,,slaegtskab
+concept:narrativ-identitet,artifact:memento,GAVE_RISE_TO,,slaegtskab
+concept:horisontsammensmeltning,artifact:gadamer-sandhed-og-metode,EXPRESSED_IN,,katalog
+concept:horisontsammensmeltning,artifact:taylor-selvets-kilder,GAVE_RISE_TO,,slaegtskab
+concept:virkningshistorie,artifact:gadamer-sandhed-og-metode,EXPRESSED_IN,,katalog
+concept:virkningshistorie,artifact:habermas-kommunikativ-handlen,GAVE_RISE_TO,,slaegtskab
+concept:emotivisme,artifact:ayer-sprog-sandhed-logik,EXPRESSED_IN,,katalog
+concept:emotivisme,artifact:the-good-place,GAVE_RISE_TO,,slaegtskab
+concept:kategorifejl,artifact:ryle-sindets-begreb,EXPRESSED_IN,,katalog
+concept:kategorifejl,artifact:dennett-bevidsthed,GAVE_RISE_TO,,slaegtskab
+concept:kategorifejl,artifact:kognitionsvidenskaben,GAVE_RISE_TO,,slaegtskab
+concept:spoegelset-i-maskinen,artifact:ryle-sindets-begreb,EXPRESSED_IN,,katalog
+concept:spoegelset-i-maskinen,artifact:ex-machina,GAVE_RISE_TO,,slaegtskab
+concept:spoegelset-i-maskinen,artifact:ghost-in-the-shell,GAVE_RISE_TO,,slaegtskab
+concept:holisme,artifact:quine-to-dogmer,EXPRESSED_IN,,katalog
+concept:holisme,artifact:kognitionsvidenskaben,GAVE_RISE_TO,,slaegtskab
+concept:talehandlingsteori,artifact:austin-talehandlinger,EXPRESSED_IN,,katalog
+concept:talehandlingsteori,artifact:kognitionsvidenskaben,GAVE_RISE_TO,,slaegtskab
+concept:talehandlingsteori,artifact:generativ-ai,GAVE_RISE_TO,,slaegtskab
+concept:performativer,artifact:austin-talehandlinger,EXPRESSED_IN,,katalog
+concept:performativer,artifact:butler-koenets-besvaer,GAVE_RISE_TO,,slaegtskab
+concept:handlingsfilosofi,artifact:anscombe-intention,EXPRESSED_IN,,katalog
+concept:handlingsfilosofi,artifact:dennett-bevidsthed,GAVE_RISE_TO,,slaegtskab
+concept:ideologiske-statsapparater,artifact:althusser-ideologiske-statsapparater,EXPRESSED_IN,,katalog
+concept:ideologiske-statsapparater,artifact:1984,GAVE_RISE_TO,,slaegtskab
+concept:ideologiske-statsapparater,artifact:folkeskolen,GAVE_RISE_TO,,slaegtskab
+concept:strukturel-marxisme,artifact:althusser-ideologiske-statsapparater,EXPRESSED_IN,,katalog
+concept:strukturel-marxisme,artifact:folkerepublikken-kina,GAVE_RISE_TO,,slaegtskab
+concept:esoterisk-hermeneutik,artifact:strauss-naturret-og-historie,EXPRESSED_IN,,katalog
+concept:esoterisk-hermeneutik,artifact:bloom-american-mind,GAVE_RISE_TO,,slaegtskab
+concept:gnosticismekritik,artifact:voegelin-orden-og-historie,EXPRESSED_IN,,katalog
+concept:gnosticismekritik,artifact:nationalsocialismen,GAVE_RISE_TO,,slaegtskab
+concept:bevidsthedshistorie,artifact:voegelin-orden-og-historie,EXPRESSED_IN,,katalog
+concept:bevidsthedshistorie,artifact:1984,GAVE_RISE_TO,,slaegtskab
+concept:praxeologi,artifact:mises-menneskelig-handlen,EXPRESSED_IN,,katalog
+concept:praxeologi,artifact:rothbard-menneske-okonomi-stat,GAVE_RISE_TO,,slaegtskab
+concept:spontan-orden,artifact:hayek-vejen-til-traeldom,EXPRESSED_IN,,katalog
+concept:spontan-orden,artifact:mont-pelerin-selskabet,GAVE_RISE_TO,,slaegtskab
+concept:spontan-orden,artifact:thatcherismen,GAVE_RISE_TO,,slaegtskab
+concept:objektivisme,artifact:rand-atlas-shrugged,EXPRESSED_IN,,katalog
+concept:objektivisme,artifact:fountainhead-filmen,GAVE_RISE_TO,,slaegtskab
+concept:objektivisme,artifact:amerikansk-psyko,GAVE_RISE_TO,,slaegtskab
+concept:rationel-egoisme,artifact:rand-fountainhead,EXPRESSED_IN,,katalog
+concept:rationel-egoisme,artifact:amerikansk-psyko,GAVE_RISE_TO,,slaegtskab
+concept:laissez-faire-kapitalisme,artifact:rand-atlas-shrugged,EXPRESSED_IN,,katalog
+concept:laissez-faire-kapitalisme,artifact:thatcherismen,GAVE_RISE_TO,,slaegtskab
+concept:laissez-faire-kapitalisme,artifact:mont-pelerin-selskabet,GAVE_RISE_TO,,slaegtskab
+concept:anarkokapitalisme,artifact:rothbard-menneske-okonomi-stat,EXPRESSED_IN,,katalog
+concept:anarkokapitalisme,artifact:mont-pelerin-selskabet,GAVE_RISE_TO,,slaegtskab
+concept:paradigme,artifact:kuhn-videnskabelige-revolutioner,EXPRESSED_IN,,katalog
+concept:paradigme,artifact:kognitionsvidenskaben,GAVE_RISE_TO,,slaegtskab
+concept:paradigmeskift,artifact:kuhn-videnskabelige-revolutioner,EXPRESSED_IN,,katalog
+concept:paradigmeskift,artifact:generativ-ai,GAVE_RISE_TO,,slaegtskab
+concept:normalvidenskab,artifact:kuhn-videnskabelige-revolutioner,EXPRESSED_IN,,katalog
+concept:normalvidenskab,artifact:sociologien,GAVE_RISE_TO,,slaegtskab
+concept:forskningsprogrammer,artifact:lakatos-forskningsprogrammer,EXPRESSED_IN,,katalog
+concept:forskningsprogrammer,artifact:kognitionsvidenskaben,GAVE_RISE_TO,,slaegtskab
+concept:sofistikeret-falsifikationisme,artifact:lakatos-forskningsprogrammer,EXPRESSED_IN,,katalog
+concept:sofistikeret-falsifikationisme,artifact:feyerabend-mod-metoden,GAVE_RISE_TO,,slaegtskab
+concept:epistemologisk-anarkisme,artifact:feyerabend-mod-metoden,EXPRESSED_IN,,katalog
+concept:epistemologisk-anarkisme,artifact:le-guin-moerket,GAVE_RISE_TO,,slaegtskab
+concept:anomal-monisme,artifact:davidson-handlinger,EXPRESSED_IN,,katalog
+concept:anomal-monisme,artifact:dennett-bevidsthed,GAVE_RISE_TO,,slaegtskab
+concept:radikal-fortolkning,artifact:davidson-handlinger,EXPRESSED_IN,,katalog
+concept:radikal-fortolkning,artifact:kognitionsvidenskaben,GAVE_RISE_TO,,slaegtskab
+concept:nyt-induktionsproblem,artifact:goodman-kendsgerninger,EXPRESSED_IN,,katalog
+concept:nyt-induktionsproblem,artifact:kognitionsvidenskaben,GAVE_RISE_TO,,slaegtskab
+concept:konstruktionisme,artifact:goodman-kendsgerninger,EXPRESSED_IN,,katalog
+concept:konstruktionisme,artifact:the-truman-show,GAVE_RISE_TO,,slaegtskab
+concept:konstruktionisme,artifact:the-matrix,GAVE_RISE_TO,,slaegtskab
+concept:symbolteori,artifact:goodman-kendsgerninger,EXPRESSED_IN,,katalog
+concept:symbolteori,artifact:surrealismen,GAVE_RISE_TO,,slaegtskab
+concept:mulige-verdener,artifact:kripke-navngivning,EXPRESSED_IN,,katalog
+concept:mulige-verdener,artifact:turing-testen,GAVE_RISE_TO,,slaegtskab
+concept:modallogik,artifact:kripke-navngivning,EXPRESSED_IN,,katalog
+concept:modallogik,artifact:generativ-ai,GAVE_RISE_TO,,slaegtskab
+concept:stiv-identifikation,artifact:kripke-navngivning,EXPRESSED_IN,,katalog
+concept:stiv-identifikation,artifact:putnam-fornuft-sandhed-historie,GAVE_RISE_TO,,slaegtskab
+concept:magt-viden,artifact:foucault-overvaagning-og-straf,EXPRESSED_IN,,katalog
+concept:magt-viden,artifact:1984,GAVE_RISE_TO,,slaegtskab
+concept:magt-viden,artifact:de-andres-liv,GAVE_RISE_TO,,slaegtskab
+concept:magt-viden,artifact:gip-faengselsgruppen,GAVE_RISE_TO,https://plato.stanford.edu/entries/foucault/,belagt
+concept:biopolitik,artifact:foucault-seksualitetens-historie,EXPRESSED_IN,,katalog
+concept:biopolitik,artifact:me-too,GAVE_RISE_TO,,slaegtskab
+concept:biopolitik,artifact:ligestillingsloven,GAVE_RISE_TO,,slaegtskab
+concept:diskursanalyse,artifact:foucault-seksualitetens-historie,EXPRESSED_IN,,katalog
+concept:diskursanalyse,artifact:butler-koenets-besvaer,GAVE_RISE_TO,,slaegtskab
+concept:dekonstruktion,artifact:derrida-grammatologien,EXPRESSED_IN,,katalog
+concept:dekonstruktion,artifact:butler-koenets-besvaer,GAVE_RISE_TO,,slaegtskab
+concept:differance,artifact:derrida-grammatologien,EXPRESSED_IN,,katalog
+concept:differance,artifact:deleuze-tusind-plateauer,GAVE_RISE_TO,,slaegtskab
+concept:logocentrisme,artifact:derrida-grammatologien,EXPRESSED_IN,,katalog
+concept:logocentrisme,artifact:west-race-matters,GAVE_RISE_TO,,slaegtskab
+concept:rhizom,artifact:deleuze-tusind-plateauer,EXPRESSED_IN,,katalog
+concept:rhizom,artifact:generativ-ai,GAVE_RISE_TO,,slaegtskab
+concept:differens-og-gentagelse,artifact:deleuze-tusind-plateauer,EXPRESSED_IN,,katalog
+concept:differens-og-gentagelse,artifact:muldvarpens-dag,GAVE_RISE_TO,,slaegtskab
+concept:immanens,artifact:deleuze-tusind-plateauer,EXPRESSED_IN,,katalog
+concept:immanens,artifact:whitehead-proces-og-virkelighed,GAVE_RISE_TO,,slaegtskab
+concept:kommunikativ-handlen,artifact:habermas-kommunikativ-handlen,EXPRESSED_IN,,katalog
+concept:kommunikativ-handlen,artifact:eu-samarbejdet,GAVE_RISE_TO,,slaegtskab
+concept:kommunikativ-handlen,artifact:den-danske-grundlov,GAVE_RISE_TO,,slaegtskab
+concept:diskursetik,artifact:habermas-kommunikativ-handlen,EXPRESSED_IN,,katalog
+concept:diskursetik,artifact:nurnbergkodekset,GAVE_RISE_TO,,slaegtskab
+concept:offentlighed,artifact:habermas-offentlighed,EXPRESSED_IN,,katalog
+concept:offentlighed,artifact:me-too,GAVE_RISE_TO,,slaegtskab
+concept:offentlighed,artifact:oplysningsbevaegelsen,GAVE_RISE_TO,,slaegtskab
+concept:generativ-grammatik,artifact:chomsky-syntaktiske-strukturer,EXPRESSED_IN,,katalog
+concept:generativ-grammatik,artifact:kognitionsvidenskaben,GAVE_RISE_TO,,slaegtskab
+concept:generativ-grammatik,artifact:generativ-ai,GAVE_RISE_TO,,slaegtskab
+concept:nativisme,artifact:chomsky-syntaktiske-strukturer,EXPRESSED_IN,,katalog
+concept:nativisme,artifact:kognitionsvidenskaben,GAVE_RISE_TO,,slaegtskab
+concept:mediekritik,artifact:chomsky-manufacturing-consent,EXPRESSED_IN,,katalog
+concept:mediekritik,artifact:1984,GAVE_RISE_TO,,slaegtskab
+concept:anarkosyndikalisme,artifact:chomsky-manufacturing-consent,EXPRESSED_IN,,katalog
+concept:anarkosyndikalisme,artifact:le-guin-moerket,GAVE_RISE_TO,,slaegtskab
+concept:funktionalisme,artifact:putnam-fornuft-sandhed-historie,EXPRESSED_IN,,katalog
+concept:funktionalisme,artifact:kognitionsvidenskaben,GAVE_RISE_TO,,slaegtskab
+concept:funktionalisme,artifact:ex-machina,GAVE_RISE_TO,,slaegtskab
+concept:funktionalisme,artifact:turing-testen,GAVE_RISE_TO,,slaegtskab
+concept:semantisk-eksternalisme,artifact:putnam-fornuft-sandhed-historie,EXPRESSED_IN,,katalog
+concept:semantisk-eksternalisme,artifact:generativ-ai,GAVE_RISE_TO,,slaegtskab
+concept:hjerne-i-et-kar,artifact:putnam-fornuft-sandhed-historie,EXPRESSED_IN,,katalog
+concept:hjerne-i-et-kar,artifact:the-matrix,GAVE_RISE_TO,,slaegtskab
+concept:hjerne-i-et-kar,artifact:ex-machina,GAVE_RISE_TO,,slaegtskab
+concept:neopragmatisme,artifact:rorty-filosofi-og-spejlet,EXPRESSED_IN,,katalog
+concept:neopragmatisme,artifact:west-race-matters,GAVE_RISE_TO,,slaegtskab
+concept:anti-fundamentisme,artifact:rorty-filosofi-og-spejlet,EXPRESSED_IN,,katalog
+concept:anti-fundamentisme,artifact:derrida-grammatologien,GAVE_RISE_TO,,slaegtskab
+concept:liberal-ironiker,artifact:rorty-filosofi-og-spejlet,EXPRESSED_IN,,katalog
+concept:liberal-ironiker,artifact:bloom-american-mind,GAVE_RISE_TO,,slaegtskab
+concept:kompatibilisme,artifact:dennett-bevidsthed,EXPRESSED_IN,,katalog
+concept:kompatibilisme,artifact:the-good-place,GAVE_RISE_TO,,slaegtskab
+concept:kompatibilisme,artifact:mr-nobody,GAVE_RISE_TO,,slaegtskab
+concept:multiple-drafts,artifact:dennett-bevidsthed,EXPRESSED_IN,,katalog
+concept:multiple-drafts,artifact:blade-runner,GAVE_RISE_TO,,slaegtskab
+concept:evolutionaer-filosofi,artifact:dennett-bevidsthed,EXPRESSED_IN,,katalog
+concept:evolutionaer-filosofi,artifact:kognitionsvidenskaben,GAVE_RISE_TO,,slaegtskab
+concept:rettighedsteori,artifact:nozick-anarki-stat-utopi,EXPRESSED_IN,,katalog
+concept:rettighedsteori,artifact:den-amerikanske-forfatning,GAVE_RISE_TO,,slaegtskab
+concept:minimalstaten,artifact:nozick-anarki-stat-utopi,EXPRESSED_IN,,katalog
+concept:minimalstaten,artifact:thatcherismen,GAVE_RISE_TO,,slaegtskab
+concept:minimalstaten,artifact:mont-pelerin-selskabet,GAVE_RISE_TO,,slaegtskab
+concept:praeferenceutilitarisme,artifact:singer-dyrenes-frigoerelse,EXPRESSED_IN,,katalog
+concept:praeferenceutilitarisme,artifact:dyrevelfaerdsloven,GAVE_RISE_TO,,slaegtskab
+concept:dyreetik,artifact:singer-dyrenes-frigoerelse,EXPRESSED_IN,,katalog
+concept:dyreetik,artifact:dyrevelfaerdsloven,GAVE_RISE_TO,,slaegtskab
+concept:effektiv-altruisme,artifact:singer-dyrenes-frigoerelse,EXPRESSED_IN,,katalog
+concept:effektiv-altruisme,artifact:dyrevelfaerdsloven,GAVE_RISE_TO,,slaegtskab
+concept:ideologikritik,artifact:zizek-ideologiens-sublime-objekt,EXPRESSED_IN,,katalog
+concept:ideologikritik,artifact:1984,GAVE_RISE_TO,,slaegtskab
+concept:ideologikritik,artifact:fight-club,GAVE_RISE_TO,,slaegtskab
+concept:lacansk-marxisme,artifact:zizek-ideologiens-sublime-objekt,EXPRESSED_IN,,katalog
+concept:lacansk-marxisme,artifact:frankfurterskolen,GAVE_RISE_TO,,slaegtskab
+concept:performativitet,artifact:butler-koenets-besvaer,EXPRESSED_IN,,katalog
+concept:performativitet,artifact:me-too,GAVE_RISE_TO,,slaegtskab
+concept:performativitet,artifact:ligestillingsloven,GAVE_RISE_TO,,slaegtskab
+concept:koensteori,artifact:butler-koenets-besvaer,EXPRESSED_IN,,katalog
+concept:koensteori,artifact:me-too,GAVE_RISE_TO,,slaegtskab
+concept:queer-teori,artifact:butler-koenets-besvaer,EXPRESSED_IN,,katalog
+concept:queer-teori,artifact:me-too,GAVE_RISE_TO,,slaegtskab
+concept:begivenhedsfilosofi,artifact:badiou-vaeren-og-begivenhed,EXPRESSED_IN,,katalog
+concept:begivenhedsfilosofi,artifact:marcuse-studentoproeet,GAVE_RISE_TO,,slaegtskab
+concept:sandhedsprocedurer,artifact:badiou-vaeren-og-begivenhed,EXPRESSED_IN,,katalog
+concept:sandhedsprocedurer,artifact:folkeskolen,GAVE_RISE_TO,,slaegtskab
+concept:autenticitet,artifact:taylor-selvets-kilder,EXPRESSED_IN,,katalog
+concept:autenticitet,artifact:bloom-american-mind,GAVE_RISE_TO,,slaegtskab
+concept:multikulturalisme,artifact:taylor-selvets-kilder,EXPRESSED_IN,,katalog
+concept:multikulturalisme,artifact:handicapkonventionen,GAVE_RISE_TO,,slaegtskab
+concept:kapabilitetstilgangen,artifact:nussbaum-det-gode-livs-skaerhed,EXPRESSED_IN,,katalog
+concept:kapabilitetstilgangen,artifact:handicapkonventionen,GAVE_RISE_TO,,slaegtskab
+concept:kapabilitetstilgangen,artifact:fns-menneskerettighedserklaering,GAVE_RISE_TO,,slaegtskab
+concept:kosmopolitisme,artifact:nussbaum-det-gode-livs-skaerhed,EXPRESSED_IN,,katalog
+concept:kosmopolitisme,artifact:eu-samarbejdet,GAVE_RISE_TO,,slaegtskab
+concept:profetisk-pragmatisme,artifact:west-race-matters,EXPRESSED_IN,,katalog
+concept:profetisk-pragmatisme,artifact:borgerretsloven-1964,GAVE_RISE_TO,,slaegtskab
+concept:profetisk-pragmatisme,artifact:me-too,GAVE_RISE_TO,,slaegtskab
+concept:racekritik,artifact:west-race-matters,EXPRESSED_IN,,katalog
+concept:racekritik,artifact:borgerretsloven-1964,GAVE_RISE_TO,,slaegtskab
+concept:racekritik,artifact:den-sorte-borgerretsbevaegelse,GAVE_RISE_TO,,slaegtskab
+concept:kulturkritik,artifact:bloom-american-mind,EXPRESSED_IN,,katalog
+concept:kulturkritik,artifact:dannelsesidealet,GAVE_RISE_TO,,slaegtskab
+concept:kulturel-relativisme,artifact:bloom-american-mind,EXPRESSED_IN,,katalog
+concept:kulturel-relativisme,artifact:me-too,GAVE_RISE_TO,,slaegtskab
+concept:ren-medmenneskelighed,artifact:konfucius-analekterne,EXPRESSED_IN,,katalog
+concept:ren-medmenneskelighed,artifact:den-gyldne-regel,GAVE_RISE_TO,,slaegtskab
+concept:li-ritualer,artifact:konfucius-analekterne,EXPRESSED_IN,,katalog
+concept:li-ritualer,artifact:filial-piety,GAVE_RISE_TO,,slaegtskab
+concept:li-ritualer,artifact:konfuciansk-eksamensvaesen,GAVE_RISE_TO,,slaegtskab
+concept:den-edle-mand,artifact:konfucius-analekterne,EXPRESSED_IN,,katalog
+concept:den-edle-mand,artifact:konfuciansk-eksamensvaesen,GAVE_RISE_TO,,slaegtskab
+concept:meritokrati,artifact:konfucius-analekterne,EXPRESSED_IN,,katalog
+concept:meritokrati,artifact:konfuciansk-eksamensvaesen,GAVE_RISE_TO,,slaegtskab
+concept:wu-wei,artifact:laozi-daodejing,EXPRESSED_IN,,katalog
+concept:wu-wei,artifact:tai-chi,GAVE_RISE_TO,,slaegtskab
+concept:wu-wei,artifact:the-big-lebowski,GAVE_RISE_TO,,slaegtskab
+concept:wu-wei,artifact:star-wars,GAVE_RISE_TO,,slaegtskab
+concept:wu-wei,artifact:kung-fu-panda,GAVE_RISE_TO,,slaegtskab
+concept:dao,artifact:laozi-daodejing,EXPRESSED_IN,,katalog
+concept:dao,artifact:daoismen-som-religion,GAVE_RISE_TO,,slaegtskab
+concept:dao,artifact:zenbuddhisme,GAVE_RISE_TO,,slaegtskab
+concept:naturlig-harmoni,artifact:laozi-daodejing,EXPRESSED_IN,,katalog
+concept:naturlig-harmoni,artifact:feng-shui,GAVE_RISE_TO,,slaegtskab
+concept:naturlig-harmoni,artifact:kinesisk-medicin,GAVE_RISE_TO,,slaegtskab
+concept:evig-fred,artifact:kant-evig-fred,EXPRESSED_IN,,katalog
+concept:evig-fred,artifact:folkeforbundet,GAVE_RISE_TO,https://www.ungeneva.org/en/about/league-of-nations/overview,belagt
+concept:evig-fred,artifact:fn-pagten,GAVE_RISE_TO,https://www.un.org/en/about-us/un-charter,belagt
+concept:havets-frihed,artifact:grotius-mare-liberum,EXPRESSED_IN,,katalog
+concept:havets-frihed,artifact:folkeretten,GAVE_RISE_TO,https://iep.utm.edu/grotius/,belagt
+concept:keynesianisme,artifact:keynes-general-teori,EXPRESSED_IN,,katalog
+concept:keynesianisme,artifact:imf,GAVE_RISE_TO,https://www.imf.org/external/pubs/ft/fandd/2014/09/basics.htm,belagt
+concept:keynesianisme,artifact:verdensbanken,GAVE_RISE_TO,https://www.worldbank.org/en/archive/history/exhibits/Bretton-Woods-and-the-Birth-of-the-World-Bank,belagt
+concept:artsformynderi,artifact:singer-dyrenes-frigoerelse,EXPRESSED_IN,,katalog
+concept:artsformynderi,artifact:dyrevelfaerdsloven,GAVE_RISE_TO,https://www.animallaw.info/article/overview-historical-materials,belagt
+concept:pansofisme,artifact:comenius-didactica-magna,EXPRESSED_IN,,katalog
+concept:pansofisme,artifact:den-trinopdelte-skole,GAVE_RISE_TO,https://www.britannica.com/biography/John-Amos-Comenius,belagt
+concept:didaktik,artifact:comenius-didactica-magna,EXPRESSED_IN,,katalog
+concept:didaktik,artifact:comenius-orbis-pictus,GAVE_RISE_TO,https://www.encyclopedia.com/education/encyclopedias-almanacs-transcripts-and-maps/comenius-johann-1592-1670,belagt
+concept:elementarmetoden,artifact:pestalozzi-leonard-og-gertrud,EXPRESSED_IN,,katalog
+concept:elementarmetoden,artifact:pestalozzi-yverdon,GAVE_RISE_TO,https://www.britannica.com/biography/Johann-Heinrich-Pestalozzi,belagt
+concept:videnskabelig-paedagogik,artifact:herbart-almindelig-paedagogik,EXPRESSED_IN,,katalog
+concept:videnskabelig-paedagogik,artifact:herbart-seminaret,GAVE_RISE_TO,https://www.britannica.com/topic/Herbartianism,belagt
+concept:leg-som-dannelse,artifact:frobel-menneskets-opdragelse,EXPRESSED_IN,,katalog
+concept:leg-som-dannelse,artifact:byggelegepladsen,EXPRESSED_IN,https://dac.dk/en/magazine/danish-playgrounds-move-into-childrens-imaginations-around-the-world,belagt
+concept:leg-som-dannelse,artifact:bornehaven,GAVE_RISE_TO,https://lex.dk/b%C3%B8rnehave,belagt
+concept:leg-som-dannelse,artifact:froebelseminariet,GAVE_RISE_TO,https://lex.dk/Hedevig_Bagger,belagt
+concept:skole-for-livet,artifact:grundtvig-nordens-mytologi,EXPRESSED_IN,,katalog
+concept:skole-for-livet,artifact:folkehojskolen,GAVE_RISE_TO,https://nordics.info/show/artikel/folk-high-schools,belagt
+concept:skole-for-livet,artifact:folkehojskoleloven,GAVE_RISE_TO,https://eng.uvm.dk/adult-education-and-continuing-training/non-formal-adult-education/,belagt
+concept:det-levende-ord,artifact:grundtvig-nordens-mytologi,EXPRESSED_IN,,katalog
+concept:det-levende-ord,artifact:grundtvig-koldske-friskoler,GAVE_RISE_TO,https://lex.dk/grundtvig-koldske_friskoler,belagt
+concept:forberedte-omgivelser,artifact:montessori-metoden,EXPRESSED_IN,,katalog
+concept:forberedte-omgivelser,artifact:montessori-paedagogik,GAVE_RISE_TO,https://plato.stanford.edu/entries/montessori-maria/,belagt
+concept:myndighed,artifact:kant-hvad-er-oplysning,EXPRESSED_IN,,katalog
+concept:myndighed,artifact:oplysningsbevaegelsen,GAVE_RISE_TO,https://www.columbia.edu/acis/ets/CCREAD/etscc/kant.html,belagt
+concept:kognitiv-udviklingstrappe,artifact:piaget-sprog-og-taenkning,EXPRESSED_IN,,katalog
+concept:kognitiv-udviklingstrappe,artifact:piaget-leg-drom-efterligning,EXPRESSED_IN,,katalog
+concept:kognitiv-udviklingstrappe,artifact:udviklingspsykologien,GAVE_RISE_TO,https://theeducationhub.org.nz/piagets-theory-of-education/,belagt
+concept:zonen-for-naermeste-udvikling,artifact:vygotsky-taenkning-og-sprog,EXPRESSED_IN,,katalog
+concept:zonen-for-naermeste-udvikling,artifact:stilladsering-i-undervisningen,GAVE_RISE_TO,https://www.simplypsychology.org/zone-of-proximal-development.html,belagt
+concept:legens-betydning,artifact:vygotsky-taenkning-og-sprog,EXPRESSED_IN,,katalog
+concept:legens-betydning,artifact:dagtilbudsloven,GAVE_RISE_TO,https://eng.uvm.dk/early-childhood-education-and-care-ecec/pedagogical-framework/,belagt
+concept:stilladsering,artifact:wood-bruner-ross-stilladsering,EXPRESSED_IN,,katalog
+concept:stilladsering,artifact:stilladsering-i-undervisningen,GAVE_RISE_TO,https://www.simplypsychology.org/zone-of-proximal-development.html,belagt
+concept:spiral-laereplan,artifact:bruner-process-of-education,EXPRESSED_IN,,katalog
+concept:spiral-laereplan,artifact:laereplansreform,GAVE_RISE_TO,https://www.ebsco.com/research-starters/education/spiral-curriculum/,belagt
+concept:blooms-taksonomi,artifact:bloom-taksonomi,EXPRESSED_IN,,katalog
+concept:blooms-taksonomi,artifact:laeringsmaalsformulering,GAVE_RISE_TO,https://pmc.ncbi.nlm.nih.gov/articles/PMC4511057/,belagt
+concept:tavs-viden,artifact:polanyi-tavs-viden,EXPRESSED_IN,,katalog
+concept:tavs-viden,artifact:vidensledelse,GAVE_RISE_TO,https://hbr.org/2007/07/the-knowledge-creating-company,belagt
+concept:gettier-problemet,artifact:gettier-artikel,EXPRESSED_IN,,katalog
+concept:gettier-problemet,artifact:post-gettier-epistemologi,GAVE_RISE_TO,https://iep.utm.edu/gettier/,belagt
+concept:social-konstruktion,artifact:berger-luckmann-social-konstruktion,EXPRESSED_IN,,katalog
+concept:social-konstruktion,artifact:konstruktivistisk-paedagogik,GAVE_RISE_TO,https://www.exeter.ac.uk/research/groups/education/pmej/pome12/article8.htm,belagt
+concept:situeret-laering,artifact:lave-wenger-situeret-laering,EXPRESSED_IN,,katalog
+concept:situeret-laering,artifact:arbejdspladslaering,GAVE_RISE_TO,https://newlearningonline.com/new-learning/chapter-6/supporting-material/lave-and-wenger-on-situated-learning,belagt
+concept:kritisk-paedagogik,artifact:freire-de-undertryktes-paedagogik,EXPRESSED_IN,,katalog
+concept:kritisk-paedagogik,artifact:angicos,GAVE_RISE_TO,https://angicos50anos.paulofreire.org/en/cronologia/,belagt
+concept:kritisk-paedagogik,artifact:deltagende-aktionsforskning,GAVE_RISE_TO,https://www.participatorymethods.org/resource/an-introduction-to-paulo-freire-and-his-influence-on-participatory-action-research,belagt
+concept:afskoling,artifact:illich-deschooling,EXPRESSED_IN,https://www.britannica.com/biography/Ivan-Illich,belagt
+concept:behovspyramiden,artifact:maslow-motivation-og-personlighed,EXPRESSED_IN,,katalog
+concept:behovspyramiden,artifact:hr-ledelse,GAVE_RISE_TO,https://www.ebsco.com/research-starters/psychology/maslows-hierarchy-needs/,belagt
+concept:tofaktorteori,artifact:herzberg-one-more-time,EXPRESSED_IN,,katalog
+concept:tofaktorteori,artifact:jobberigelse,GAVE_RISE_TO,https://hbr.org/1969/03/job-enrichment-pays-off,belagt
+concept:flow,artifact:csikszentmihalyi-flow,EXPRESSED_IN,,katalog
+concept:flow,artifact:spildesign-og-flow,GAVE_RISE_TO,https://pmc.ncbi.nlm.nih.gov/articles/PMC8943660/,belagt
+concept:tiltro-til-egen-formaaen,artifact:bandura-self-efficacy,EXPRESSED_IN,,katalog
+concept:tiltro-til-egen-formaaen,artifact:adfaerdsinterventioner,GAVE_RISE_TO,https://www.cambridge.org/core/books/handbook-of-behavior-change/selfefficacy-interventions/D4EC41A2F16CB6171058C5B00AE575AB,belagt
+concept:vaeksttankesaet,artifact:dweck-mindset,EXPRESSED_IN,,katalog
+concept:vaeksttankesaet,artifact:mindset-interventioner,GAVE_RISE_TO,https://pmc.ncbi.nlm.nih.gov/articles/PMC8299535/,belagt
+concept:psykosociale-stadier,artifact:erikson-childhood-and-society,EXPRESSED_IN,,katalog
+concept:psykosociale-stadier,artifact:udviklingspsykologien,GAVE_RISE_TO,https://openbooks.library.baylor.edu/lifespanhumandevelopment/chapter/chapter-19-1-eriksons-theory-of-psychosocial-development/,belagt
+concept:leg-som-kultur,artifact:huizinga-homo-ludens,EXPRESSED_IN,,katalog
+concept:leg-som-kultur,artifact:spilforskningen,GAVE_RISE_TO,https://gamestudies.org/0601/articles/rodriges,belagt
+concept:legenes-former,artifact:caillois-leg-og-spil,EXPRESSED_IN,,katalog
+concept:legenes-former,artifact:spilforskningen,GAVE_RISE_TO,https://oasis.library.unlv.edu/gaming_institute/2023/May25/20/,belagt
+concept:overgangsobjekt,artifact:winnicott-leg-og-virkelighed,EXPRESSED_IN,,katalog
+concept:overgangsobjekt,artifact:bornepsykoterapi,GAVE_RISE_TO,https://pmc.ncbi.nlm.nih.gov/articles/PMC2654842/,belagt
+concept:tilknytningsteori,artifact:bowlby-maternal-care,EXPRESSED_IN,,katalog
+concept:tilknytningsteori,artifact:boerneforsorg,GAVE_RISE_TO,https://pmc.ncbi.nlm.nih.gov/articles/PMC7496263/,belagt
+concept:barndommen-som-konstruktion,artifact:aries-barndommens-historie,EXPRESSED_IN,,katalog
+concept:barndommen-som-konstruktion,artifact:barndomshistorien,GAVE_RISE_TO,https://www.cambridge.org/core/journals/continuity-and-change/article/philippe-ariess-discovery-of-childhood-imagery-and-historical-evidence/F2008C0AB57FEC1EC3CA13778574360A,belagt
+concept:ionisk-naturfilosofi,artifact:thales-fragmenter,EXPRESSED_IN,,katalog
+concept:ionisk-naturfilosofi,artifact:de-fire-elementer,GAVE_RISE_TO,,slaegtskab
+concept:ionisk-naturfilosofi,artifact:atomteorien,GAVE_RISE_TO,,slaegtskab
+concept:ionisk-naturfilosofi,era:antikken,CENTRAL_IN,,katalog
+concept:pythagoraeisme,artifact:pythagoras-skolen,EXPRESSED_IN,,katalog
+concept:pythagoraeisme,artifact:platon-timaios,GAVE_RISE_TO,,slaegtskab
+concept:pythagoraeisme,era:antikken,CENTRAL_IN,,katalog
+concept:eleatisk-skole,artifact:parmenides-digte,EXPRESSED_IN,,katalog
+concept:eleatisk-skole,artifact:aristoteles-metafysik,GAVE_RISE_TO,,slaegtskab
+concept:eleatisk-skole,era:antikken,CENTRAL_IN,,katalog
+concept:sofisme,artifact:protagoras-fragmenter,EXPRESSED_IN,,katalog
+concept:sofisme,artifact:retorik-som-fag,GAVE_RISE_TO,,slaegtskab
+concept:sofisme,era:antikken,CENTRAL_IN,,katalog
+concept:atomisme,artifact:demokrit-fragmenter,EXPRESSED_IN,,katalog
+concept:atomisme,artifact:lucretius-de-rerum-natura,EXPRESSED_IN,,katalog
+concept:atomisme,artifact:atomteorien,GAVE_RISE_TO,,slaegtskab
+concept:atomisme,era:antikken,CENTRAL_IN,,katalog
+concept:kynisme,artifact:diogenes-fragmenter,EXPRESSED_IN,,katalog
+concept:kynisme,artifact:epikurs-have,GAVE_RISE_TO,,slaegtskab
+concept:kynisme,era:antikken,CENTRAL_IN,,katalog
+concept:platonisme,artifact:platon-politeia,EXPRESSED_IN,,katalog
+concept:platonisme,artifact:platon-akademiet,GAVE_RISE_TO,,slaegtskab
+concept:platonisme,artifact:the-matrix,GAVE_RISE_TO,,slaegtskab
+concept:platonisme,era:antikken,CENTRAL_IN,,katalog
+concept:nyplatonisme,artifact:plotin-enneaderne,EXPRESSED_IN,,katalog
+concept:nyplatonisme,artifact:kristendommen,GAVE_RISE_TO,,slaegtskab
+concept:nyplatonisme,artifact:sixtinske-kapel-skabelsen,GAVE_RISE_TO,,slaegtskab
+concept:nyplatonisme,artifact:dantes-guddommelige-komedie,GAVE_RISE_TO,,slaegtskab
+concept:nyplatonisme,concept:platonisme,DEVELOPS_FROM,,slaegtskab
+concept:nyplatonisme,era:antikken,CENTRAL_IN,,katalog
+concept:aristotelisme,artifact:aristoteles-metafysik,EXPRESSED_IN,,katalog
+concept:aristotelisme,artifact:averroes-kommentarer,GAVE_RISE_TO,,slaegtskab
+concept:aristotelisme,artifact:aquinas-summa-theologica,GAVE_RISE_TO,,slaegtskab
+concept:aristotelisme,era:antikken,CENTRAL_IN,,katalog
+concept:epikuraeisme,artifact:epikurs-brev,EXPRESSED_IN,,katalog
+concept:epikuraeisme,artifact:lucretius-de-rerum-natura,GAVE_RISE_TO,,slaegtskab
+concept:epikuraeisme,era:antikken,CENTRAL_IN,,katalog
+concept:stoicisme,artifact:epiktet-haandbogen,EXPRESSED_IN,,katalog
+concept:stoicisme,artifact:stoa-poikile,EXPRESSED_IN,,katalog
+concept:stoicisme,artifact:romerretten,GAVE_RISE_TO,,slaegtskab
+concept:stoicisme,artifact:codex-justinianus,GAVE_RISE_TO,,slaegtskab
+concept:stoicisme,artifact:jediernes-kodeks,GAVE_RISE_TO,,slaegtskab
+concept:stoicisme,artifact:gladiator,GAVE_RISE_TO,,slaegtskab
+concept:stoicisme,era:antikken,CENTRAL_IN,,katalog
+concept:skepticisme,artifact:sextus-pyrrhonske-skitse,EXPRESSED_IN,,katalog
+concept:skepticisme,artifact:hume-traktat,GAVE_RISE_TO,,slaegtskab
+concept:skepticisme,era:antikken,CENTRAL_IN,,katalog
+concept:eklekticisme,artifact:cicero-om-pligterne,EXPRESSED_IN,,katalog
+concept:eklekticisme,artifact:romerretten,GAVE_RISE_TO,,slaegtskab
+concept:eklekticisme,era:antikken,CENTRAL_IN,,katalog
+concept:patristik,artifact:augustin-bekendelser,EXPRESSED_IN,,katalog
+concept:patristik,artifact:kristendommen,GAVE_RISE_TO,,slaegtskab
+concept:patristik,artifact:benediktinerreglen,GAVE_RISE_TO,,slaegtskab
+concept:patristik,era:middelalderen,CENTRAL_IN,,katalog
+concept:skolastik,artifact:aquinas-summa-theologica,EXPRESSED_IN,,katalog
+concept:skolastik,artifact:universitetet-i-paris,GAVE_RISE_TO,,slaegtskab
+concept:skolastik,artifact:universitetet-i-bologna,GAVE_RISE_TO,,slaegtskab
+concept:skolastik,artifact:oxford-universitet,GAVE_RISE_TO,,slaegtskab
+concept:skolastik,artifact:dantes-guddommelige-komedie,GAVE_RISE_TO,,slaegtskab
+concept:skolastik,era:middelalderen,CENTRAL_IN,,katalog
+concept:thomisme,artifact:aquinas-summa-theologica,EXPRESSED_IN,,katalog
+concept:thomisme,artifact:kanonisk-ret,GAVE_RISE_TO,,slaegtskab
+concept:thomisme,artifact:se7en,GAVE_RISE_TO,,slaegtskab
+concept:thomisme,concept:skolastik,DEVELOPS_FROM,,slaegtskab
+concept:thomisme,era:middelalderen,CENTRAL_IN,,katalog
+concept:islamisk-filosofi,artifact:avicenna-al-shifa,EXPRESSED_IN,,katalog
+concept:islamisk-filosofi,artifact:islam,GAVE_RISE_TO,,slaegtskab
+concept:islamisk-filosofi,artifact:islamisk-retstradition,GAVE_RISE_TO,,slaegtskab
+concept:islamisk-filosofi,artifact:al-azhar,GAVE_RISE_TO,,slaegtskab
+concept:islamisk-filosofi,artifact:sadras-transcendente-filosofi,GAVE_RISE_TO,,slaegtskab
+concept:islamisk-filosofi,era:middelalderen,CENTRAL_IN,,katalog
+concept:jodisk-filosofi,artifact:maimonides-dukvane,EXPRESSED_IN,,katalog
+concept:jodisk-filosofi,artifact:maimonides-mishne-torah,GAVE_RISE_TO,,slaegtskab
+concept:jodisk-filosofi,era:middelalderen,CENTRAL_IN,,katalog
+concept:averroisme,artifact:averroes-tahafut-tahafut,EXPRESSED_IN,,katalog
+concept:averroisme,artifact:universitetet-i-paris,GAVE_RISE_TO,,slaegtskab
+concept:averroisme,concept:islamisk-filosofi,DEVELOPS_FROM,,slaegtskab
+concept:averroisme,era:middelalderen,CENTRAL_IN,,katalog
+concept:humanisme,artifact:erasmus-daarskabens-lovprisning,EXPRESSED_IN,,katalog
+concept:humanisme,artifact:david-michelangelo,GAVE_RISE_TO,,slaegtskab
+concept:humanisme,artifact:more-utopia,GAVE_RISE_TO,,slaegtskab
+concept:humanisme,artifact:dannelsesidealet,GAVE_RISE_TO,,slaegtskab
+concept:humanisme,era:renaessancen,CENTRAL_IN,,katalog
+concept:rationalisme,artifact:descartes-meditationer,EXPRESSED_IN,,katalog
+concept:rationalisme,artifact:kant-ren-fornuft,GAVE_RISE_TO,,slaegtskab
+concept:rationalisme,artifact:spinoza-etik,GAVE_RISE_TO,,slaegtskab
+concept:rationalisme,era:renaessancen,CENTRAL_IN,,katalog
+concept:empirisme,artifact:bacon-novum-organum,EXPRESSED_IN,,katalog
+concept:empirisme,artifact:locke-forstand,EXPRESSED_IN,,katalog
+concept:empirisme,artifact:royal-society,GAVE_RISE_TO,,slaegtskab
+concept:empirisme,artifact:locke-opdragelse,GAVE_RISE_TO,,slaegtskab
+concept:empirisme,era:renaessancen,CENTRAL_IN,,katalog
+concept:oplysningsfilosofi,artifact:kant-hvad-er-oplysning,EXPRESSED_IN,,katalog
+concept:oplysningsfilosofi,artifact:diderot-encyclopedien,GAVE_RISE_TO,,slaegtskab
+concept:oplysningsfilosofi,artifact:franske-rettighedserklaering,GAVE_RISE_TO,,slaegtskab
+concept:oplysningsfilosofi,artifact:oplysningsbevaegelsen,GAVE_RISE_TO,,slaegtskab
+concept:oplysningsfilosofi,artifact:folkeskolen,GAVE_RISE_TO,,slaegtskab
+concept:oplysningsfilosofi,artifact:folkeskoleloven-1814,GAVE_RISE_TO,https://journals.ub.umu.se/index.php/njedh/article/view/85,belagt
+concept:oplysningsfilosofi,era:oplysningen,CENTRAL_IN,,katalog
+concept:tysk-idealisme,artifact:hegel-aandens-faenomenologi,EXPRESSED_IN,,katalog
+concept:tysk-idealisme,artifact:humboldt-universitetet,GAVE_RISE_TO,,slaegtskab
+concept:tysk-idealisme,artifact:dannelsesidealet,GAVE_RISE_TO,,slaegtskab
+concept:tysk-idealisme,artifact:romantikbevaegelsen,GAVE_RISE_TO,,slaegtskab
+concept:tysk-idealisme,era:tysk-idealisme,CENTRAL_IN,,katalog
+concept:romantik,artifact:schleiermacher-om-religion,EXPRESSED_IN,,katalog
+concept:romantik,artifact:vandringsmanden-over-taagen,EXPRESSED_IN,,katalog
+concept:romantik,artifact:transcendentalistklubben,GAVE_RISE_TO,,slaegtskab
+concept:romantik,era:tysk-idealisme,CENTRAL_IN,,katalog
+concept:positivisme,artifact:comte-positiv-filosofi,EXPRESSED_IN,,katalog
+concept:positivisme,artifact:sociologien,GAVE_RISE_TO,,slaegtskab
+concept:positivisme,artifact:wienerkredsen,GAVE_RISE_TO,,slaegtskab
+concept:positivisme,era:1800-tallet,CENTRAL_IN,,katalog
+concept:eksistentialisme,artifact:sartre-vaeren-og-intethed,EXPRESSED_IN,,katalog
+concept:eksistentialisme,artifact:kierkegaard-enten-eller,EXPRESSED_IN,,katalog
+concept:eksistentialisme,artifact:sartre-eksistentialisme-er-humanisme,GAVE_RISE_TO,,slaegtskab
+concept:eksistentialisme,artifact:waking-life,GAVE_RISE_TO,,slaegtskab
+concept:eksistentialisme,era:1800-tallet,CENTRAL_IN,,katalog
+concept:marxisme,artifact:kommunistiske-manifest,EXPRESSED_IN,,katalog
+concept:marxisme,artifact:marx-kapitalen,EXPRESSED_IN,,katalog
+concept:marxisme,artifact:sovjetunionen,GAVE_RISE_TO,,slaegtskab
+concept:marxisme,artifact:folkerepublikken-kina,GAVE_RISE_TO,,slaegtskab
+concept:marxisme,artifact:fagbevaegelsen,GAVE_RISE_TO,,slaegtskab
+concept:marxisme,artifact:socialdemokratiet,GAVE_RISE_TO,,slaegtskab
+concept:marxisme,artifact:velfaerdsstaten,GAVE_RISE_TO,,slaegtskab
+concept:marxisme,artifact:kubas-revolution,GAVE_RISE_TO,,slaegtskab
+concept:marxisme,era:1800-tallet,CENTRAL_IN,,katalog
+concept:anarkisme,artifact:proudhon-hvad-er-ejendom,EXPRESSED_IN,,katalog
+concept:anarkisme,artifact:bakunin-gud-og-staten,EXPRESSED_IN,,katalog
+concept:anarkisme,artifact:den-forste-internationale,GAVE_RISE_TO,,slaegtskab
+concept:anarkisme,artifact:le-guin-moerket,GAVE_RISE_TO,,slaegtskab
+concept:anarkisme,era:1800-tallet,CENTRAL_IN,,katalog
+concept:liberalisme,artifact:locke-styre,EXPRESSED_IN,,katalog
+concept:liberalisme,artifact:mill-om-friheden,EXPRESSED_IN,,katalog
+concept:liberalisme,artifact:den-amerikanske-forfatning,GAVE_RISE_TO,,slaegtskab
+concept:liberalisme,artifact:den-danske-grundlov,GAVE_RISE_TO,,slaegtskab
+concept:liberalisme,artifact:borgerretsloven-1964,GAVE_RISE_TO,,slaegtskab
+concept:liberalisme,era:oplysningen,CENTRAL_IN,,katalog
+concept:konservatisme,artifact:burke-refleksioner,EXPRESSED_IN,,katalog
+concept:konservatisme,artifact:de-maistre-om-paven,GAVE_RISE_TO,,slaegtskab
+concept:konservatisme,era:oplysningen,CENTRAL_IN,,katalog
+concept:pragmatisme,artifact:peirce-klare-ideer,EXPRESSED_IN,,katalog
+concept:pragmatisme,artifact:james-pragmatismen,EXPRESSED_IN,,katalog
+concept:pragmatisme,artifact:dewey-demokrati-og-uddannelse,GAVE_RISE_TO,,slaegtskab
+concept:pragmatisme,artifact:progressiv-paedagogik,GAVE_RISE_TO,,slaegtskab
+concept:pragmatisme,era:1800-tallet,CENTRAL_IN,,katalog
+concept:okonomisk-liberalisme,artifact:smith-nationernes-velstand,EXPRESSED_IN,,katalog
+concept:okonomisk-liberalisme,artifact:ricardo-politisk-okonomi,GAVE_RISE_TO,,slaegtskab
+concept:okonomisk-liberalisme,era:1800-tallet,CENTRAL_IN,,katalog
+concept:transcendentalisme,artifact:emerson-nature,EXPRESSED_IN,,katalog
+concept:transcendentalisme,artifact:transcendentalistklubben,GAVE_RISE_TO,,slaegtskab
+concept:transcendentalisme,artifact:emerson-selvtillid,GAVE_RISE_TO,,slaegtskab
+concept:transcendentalisme,era:1800-tallet,CENTRAL_IN,,katalog
+concept:faenomenologi,artifact:husserl-ideer,EXPRESSED_IN,,katalog
+concept:faenomenologi,artifact:heidegger-vaeren-og-tid,GAVE_RISE_TO,,slaegtskab
+concept:faenomenologi,artifact:merleau-ponty-perceptionen,GAVE_RISE_TO,,slaegtskab
+concept:faenomenologi,era:tidligt-1900-tal,CENTRAL_IN,,katalog
+concept:hermeneutik,artifact:gadamer-sandhed-og-metode,EXPRESSED_IN,,katalog
+concept:hermeneutik,artifact:dilthey-aandsvidenskaberne,GAVE_RISE_TO,,slaegtskab
+concept:hermeneutik,artifact:ricoeur-tid-og-fortaelling,GAVE_RISE_TO,,slaegtskab
+concept:hermeneutik,era:tidligt-1900-tal,CENTRAL_IN,,katalog
+concept:analytisk-filosofi,artifact:frege-begriffsschrift,EXPRESSED_IN,,katalog
+concept:analytisk-filosofi,artifact:principia-mathematica,GAVE_RISE_TO,,slaegtskab
+concept:analytisk-filosofi,artifact:wittgenstein-tractatus,GAVE_RISE_TO,,slaegtskab
+concept:analytisk-filosofi,artifact:wienerkredsen,GAVE_RISE_TO,,slaegtskab
+concept:analytisk-filosofi,era:tidligt-1900-tal,CENTRAL_IN,,katalog
+concept:logisk-positivisme,artifact:wienerkredsens-manifest,EXPRESSED_IN,,katalog
+concept:logisk-positivisme,artifact:wienerkredsen,GAVE_RISE_TO,,slaegtskab
+concept:logisk-positivisme,artifact:ayer-sprog-sandhed-logik,GAVE_RISE_TO,,slaegtskab
+concept:logisk-positivisme,concept:analytisk-filosofi,DEVELOPS_FROM,,slaegtskab
+concept:logisk-positivisme,era:tidligt-1900-tal,CENTRAL_IN,,katalog
+concept:kontinental-filosofi,artifact:hegel-aandens-faenomenologi,EXPRESSED_IN,,katalog
+concept:kontinental-filosofi,artifact:heidegger-vaeren-og-tid,GAVE_RISE_TO,,slaegtskab
+concept:kontinental-filosofi,artifact:frankfurterskolen,GAVE_RISE_TO,,slaegtskab
+concept:kontinental-filosofi,era:tidligt-1900-tal,CENTRAL_IN,,katalog
+concept:kritisk-teori,artifact:adorno-oplysningens-dialektik,EXPRESSED_IN,,katalog
+concept:kritisk-teori,artifact:frankfurterskolen,GAVE_RISE_TO,,slaegtskab
+concept:kritisk-teori,artifact:marcuse-studentoproeet,GAVE_RISE_TO,,slaegtskab
+concept:kritisk-teori,artifact:hippiebevaegelsen,GAVE_RISE_TO,,slaegtskab
+concept:kritisk-teori,concept:marxisme,DEVELOPS_FROM,,slaegtskab
+concept:kritisk-teori,era:tidligt-1900-tal,CENTRAL_IN,,katalog
+concept:vestlig-marxisme,artifact:gramsci-faengselsnoter,EXPRESSED_IN,,katalog
+concept:vestlig-marxisme,artifact:lukacs-klassebevidsthed,EXPRESSED_IN,,katalog
+concept:vestlig-marxisme,artifact:frankfurterskolen,GAVE_RISE_TO,,slaegtskab
+concept:vestlig-marxisme,concept:marxisme,DEVELOPS_FROM,,slaegtskab
+concept:vestlig-marxisme,era:tidligt-1900-tal,CENTRAL_IN,,katalog
+concept:antroposofi,artifact:antroposofisk-selskab,EXPRESSED_IN,,katalog
+concept:antroposofi,artifact:waldorfpaedagogik,GAVE_RISE_TO,,slaegtskab
+concept:antroposofi,artifact:goetheanum,GAVE_RISE_TO,,slaegtskab
+concept:antroposofi,era:tidligt-1900-tal,CENTRAL_IN,,katalog
+concept:videnskabsfilosofi,artifact:popper-logikken-i-forskningen,EXPRESSED_IN,,katalog
+concept:videnskabsfilosofi,artifact:kuhn-videnskabelige-revolutioner,GAVE_RISE_TO,,slaegtskab
+concept:videnskabsfilosofi,artifact:feyerabend-mod-metoden,GAVE_RISE_TO,,slaegtskab
+concept:videnskabsfilosofi,era:midt-1900-tal,CENTRAL_IN,,katalog
+concept:ostrigsk-skole,artifact:mises-menneskelig-handlen,EXPRESSED_IN,,katalog
+concept:ostrigsk-skole,artifact:hayek-vejen-til-traeldom,GAVE_RISE_TO,,slaegtskab
+concept:ostrigsk-skole,era:midt-1900-tal,CENTRAL_IN,,katalog
+concept:libertarianisme,artifact:nozick-anarki-stat-utopi,EXPRESSED_IN,,katalog
+concept:libertarianisme,artifact:rand-atlas-shrugged,EXPRESSED_IN,,katalog
+concept:libertarianisme,artifact:rothbard-menneske-okonomi-stat,GAVE_RISE_TO,,slaegtskab
+concept:libertarianisme,artifact:fountainhead-filmen,GAVE_RISE_TO,,slaegtskab
+concept:libertarianisme,concept:liberalisme,DEVELOPS_FROM,,slaegtskab
+concept:libertarianisme,era:midt-1900-tal,CENTRAL_IN,,katalog
+concept:kommunitarisme,artifact:macintyre-after-virtue,EXPRESSED_IN,,katalog
+concept:kommunitarisme,artifact:taylor-selvets-kilder,GAVE_RISE_TO,,slaegtskab
+concept:kommunitarisme,era:midt-1900-tal,CENTRAL_IN,,katalog
+concept:poststrukturalisme,artifact:derrida-grammatologien,EXPRESSED_IN,,katalog
+concept:poststrukturalisme,artifact:foucault-overvaagning-og-straf,GAVE_RISE_TO,,slaegtskab
+concept:poststrukturalisme,artifact:butler-koenets-besvaer,GAVE_RISE_TO,,slaegtskab
+concept:poststrukturalisme,artifact:deleuze-tusind-plateauer,GAVE_RISE_TO,,slaegtskab
+concept:poststrukturalisme,concept:kontinental-filosofi,DEVELOPS_FROM,,slaegtskab
+concept:poststrukturalisme,era:sen-1900-tal-og-nutid,CENTRAL_IN,,katalog
+concept:feministisk-filosofi,artifact:beauvoir-det-andet-koen,EXPRESSED_IN,,katalog
+concept:feministisk-filosofi,artifact:ligestillingsloven,GAVE_RISE_TO,,slaegtskab
+concept:feministisk-filosofi,artifact:me-too,GAVE_RISE_TO,,slaegtskab
+concept:feministisk-filosofi,artifact:butler-koenets-besvaer,GAVE_RISE_TO,,slaegtskab
+concept:feministisk-filosofi,era:sen-1900-tal-og-nutid,CENTRAL_IN,,katalog
+concept:konfucianisme,artifact:konfucius-analekterne,EXPRESSED_IN,,katalog
+concept:konfucianisme,artifact:konfuciansk-eksamensvaesen,GAVE_RISE_TO,,slaegtskab
+concept:konfucianisme,artifact:filial-piety,GAVE_RISE_TO,,slaegtskab
+concept:konfucianisme,artifact:den-gyldne-regel,GAVE_RISE_TO,,slaegtskab
+concept:konfucianisme,era:klassisk-kina,CENTRAL_IN,,katalog
+concept:daoisme,artifact:laozi-daodejing,EXPRESSED_IN,,katalog
+concept:daoisme,artifact:zhuangzi,GAVE_RISE_TO,,slaegtskab
+concept:daoisme,artifact:kinesisk-medicin,GAVE_RISE_TO,,slaegtskab
+concept:daoisme,artifact:feng-shui,GAVE_RISE_TO,,slaegtskab
+concept:daoisme,artifact:tai-chi,GAVE_RISE_TO,,slaegtskab
+concept:daoisme,artifact:zenbuddhisme,GAVE_RISE_TO,,slaegtskab
+concept:daoisme,artifact:daoismen-som-religion,GAVE_RISE_TO,,slaegtskab
+concept:daoisme,era:klassisk-kina,CENTRAL_IN,,katalog

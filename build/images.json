@@ -1,0 +1,2290 @@
+{
+ "era:1800-tallet": {
+  "fil": "era_1800-tallet.jpg",
+  "titel": "19th century"
+ },
+ "artifact:2001-en-rumrejse": {
+  "fil": "artifact_2001-en-rumrejse.jpg",
+  "titel": "2001: A Space Odyssey"
+ },
+ "philosopher:abelard": {
+  "fil": "philosopher_abelard.jpg",
+  "titel": "Peter Abelard"
+ },
+ "artifact:abelard-sic-et-non": {
+  "fil": "artifact_abelard-sic-et-non.jpg",
+  "titel": "Sic et Non"
+ },
+ "concept:absurdisme": {
+  "fil": "concept_absurdisme.jpg",
+  "titel": "Absurdism"
+ },
+ "philosopher:adorno": {
+  "fil": "philosopher_adorno.jpg",
+  "titel": "Theodor W. Adorno"
+ },
+ "artifact:adorno-negativ-dialektik": {
+  "fil": "artifact_adorno-negativ-dialektik.jpg",
+  "titel": "Negative Dialectics"
+ },
+ "artifact:adorno-oplysningens-dialektik": {
+  "fil": "artifact_adorno-oplysningens-dialektik.jpg",
+  "titel": "Dialectic of Enlightenment"
+ },
+ "concept:aktuel-idealisme": {
+  "fil": "concept_aktuel-idealisme.jpg",
+  "titel": "Actual idealism"
+ },
+ "artifact:al-azhar": {
+  "fil": "artifact_al-azhar.jpg",
+  "titel": "Al-Azhar University"
+ },
+ "philosopher:al-ghazali": {
+  "fil": "philosopher_al-ghazali.jpg",
+  "titel": "Al-Ghazali"
+ },
+ "concept:almenviljen": {
+  "fil": "concept_almenviljen.jpg",
+  "titel": "General will"
+ },
+ "philosopher:althusser": {
+  "fil": "philosopher_althusser.jpg",
+  "titel": "Louis Althusser"
+ },
+ "philosopher:anaxagoras": {
+  "fil": "philosopher_anaxagoras.jpg",
+  "titel": "Anaxagoras"
+ },
+ "concept:angstbegrebet": {
+  "fil": "concept_angstbegrebet.jpg",
+  "titel": "Anxiety"
+ },
+ "philosopher:anscombe": {
+  "fil": "philosopher_anscombe.jpg",
+  "titel": "G. E. M. Anscombe"
+ },
+ "concept:antiimperialisme": {
+  "fil": "concept_antiimperialisme.jpg",
+  "titel": "Anti-imperialism"
+ },
+ "artifact:apocalypse-now": {
+  "fil": "artifact_apocalypse-now.jpg",
+  "titel": "Apocalypse Now"
+ },
+ "philosopher:aquinas": {
+  "fil": "philosopher_aquinas.jpg",
+  "titel": "Thomas Aquinas"
+ },
+ "artifact:aquinas-summa-contra-gentiles": {
+  "fil": "artifact_aquinas-summa-contra-gentiles.jpg",
+  "titel": "Summa contra Gentiles"
+ },
+ "artifact:aquinas-summa-theologica": {
+  "fil": "artifact_aquinas-summa-theologica.jpg",
+  "titel": "Summa Theologica"
+ },
+ "concept:arbejdsdeling": {
+  "fil": "concept_arbejdsdeling.jpg",
+  "titel": "Division of labour"
+ },
+ "concept:arbejdsvaerditeori": {
+  "fil": "concept_arbejdsvaerditeori.jpg",
+  "titel": "Labor theory of value"
+ },
+ "artifact:arbejdspladslaering": {
+  "fil": "artifact_arbejdspladslaering.jpg",
+  "titel": "Apprenticeship"
+ },
+ "philosopher:arendt": {
+  "fil": "philosopher_arendt.jpg",
+  "titel": "Hannah Arendt"
+ },
+ "artifact:arendt-eichmann": {
+  "fil": "artifact_arendt-eichmann.jpg",
+  "titel": "Eichmann in Jerusalem"
+ },
+ "philosopher:aries": {
+  "fil": "philosopher_aries.jpg",
+  "titel": "Philippe Ariès"
+ },
+ "artifact:aries-barndommens-historie": {
+  "fil": "artifact_aries-barndommens-historie.jpg",
+  "titel": "Centuries of Childhood"
+ },
+ "philosopher:aristoteles": {
+  "fil": "philosopher_aristoteles.jpg",
+  "titel": "Aristotle"
+ },
+ "artifact:aristoteles-fysik": {
+  "fil": "artifact_aristoteles-fysik.jpg",
+  "titel": "Physics (Aristotle)"
+ },
+ "artifact:aristoteles-metafysik": {
+  "fil": "artifact_aristoteles-metafysik.jpg",
+  "titel": "Metaphysics (Aristotle)"
+ },
+ "artifact:aristoteles-nikomacheiske-etik": {
+  "fil": "artifact_aristoteles-nikomacheiske-etik.jpg",
+  "titel": "Nicomachean Ethics"
+ },
+ "artifact:aristoteles-organon": {
+  "fil": "artifact_aristoteles-organon.jpg",
+  "titel": "Organon"
+ },
+ "concept:aristotelisme": {
+  "fil": "concept_aristotelisme.jpg",
+  "titel": "Aristotelianism"
+ },
+ "concept:artsformynderi": {
+  "fil": "concept_artsformynderi.jpg",
+  "titel": "Speciesism"
+ },
+ "concept:arvesynden": {
+  "fil": "concept_arvesynden.jpg",
+  "titel": "Original sin"
+ },
+ "concept:asketisme": {
+  "fil": "concept_asketisme.jpg",
+  "titel": "Asceticism"
+ },
+ "concept:ataraxia": {
+  "fil": "concept_ataraxia.jpg",
+  "titel": "Ataraxia"
+ },
+ "artifact:atomteorien": {
+  "fil": "artifact_atomteorien.jpg",
+  "titel": "History of atomic theory"
+ },
+ "philosopher:augustin": {
+  "fil": "philosopher_augustin.jpg",
+  "titel": "Augustine of Hippo"
+ },
+ "artifact:augustin-bekendelser": {
+  "fil": "artifact_augustin-bekendelser.jpg",
+  "titel": "Confessions (Augustine)"
+ },
+ "artifact:augustin-gudsstaten": {
+  "fil": "artifact_augustin-gudsstaten.jpg",
+  "titel": "The City of God"
+ },
+ "philosopher:austin": {
+  "fil": "philosopher_austin.jpg",
+  "titel": "J. L. Austin"
+ },
+ "philosopher:averroes": {
+  "fil": "philosopher_averroes.jpg",
+  "titel": "Averroes"
+ },
+ "artifact:averroes-tahafut-tahafut": {
+  "fil": "artifact_averroes-tahafut-tahafut.jpg",
+  "titel": "The Incoherence of the Incoherence"
+ },
+ "concept:averroisme": {
+  "fil": "concept_averroisme.jpg",
+  "titel": "Averroism"
+ },
+ "philosopher:avicenna": {
+  "fil": "philosopher_avicenna.jpg",
+  "titel": "Avicenna"
+ },
+ "artifact:avicenna-kanon": {
+  "fil": "artifact_avicenna-kanon.jpg",
+  "titel": "The Canon of Medicine"
+ },
+ "philosopher:ayer": {
+  "fil": "philosopher_ayer.jpg",
+  "titel": "A. J. Ayer"
+ },
+ "artifact:ayer-sprog-sandhed-logik": {
+  "fil": "artifact_ayer-sprog-sandhed-logik.jpg",
+  "titel": "Language, Truth, and Logic"
+ },
+ "philosopher:bachelard": {
+  "fil": "philosopher_bachelard.jpg",
+  "titel": "Gaston Bachelard"
+ },
+ "philosopher:bacon": {
+  "fil": "philosopher_bacon.jpg",
+  "titel": "Francis Bacon"
+ },
+ "artifact:bacon-novum-organum": {
+  "fil": "artifact_bacon-novum-organum.jpg",
+  "titel": "Novum Organum"
+ },
+ "philosopher:badiou": {
+  "fil": "philosopher_badiou.jpg",
+  "titel": "Alain Badiou"
+ },
+ "philosopher:bakunin": {
+  "fil": "philosopher_bakunin.jpg",
+  "titel": "Mikhail Bakunin"
+ },
+ "artifact:bakunin-gud-og-staten": {
+  "fil": "artifact_bakunin-gud-og-staten.jpg",
+  "titel": "God and the State"
+ },
+ "artifact:bauhaus": {
+  "fil": "artifact_bauhaus.jpg",
+  "titel": "Bauhaus"
+ },
+ "philosopher:beauvoir": {
+  "fil": "philosopher_beauvoir.jpg",
+  "titel": "Simone de Beauvoir"
+ },
+ "philosopher:bandura": {
+  "fil": "philosopher_bandura.jpg",
+  "titel": "Albert Bandura"
+ },
+ "artifact:barndomshistorien": {
+  "fil": "artifact_barndomshistorien.jpg",
+  "titel": "History of childhood"
+ },
+ "artifact:beauvoir-det-andet-koen": {
+  "fil": "artifact_beauvoir-det-andet-koen.jpg",
+  "titel": "The Second Sex"
+ },
+ "artifact:benediktinerreglen": {
+  "fil": "artifact_benediktinerreglen.jpg",
+  "titel": "Rule of Saint Benedict"
+ },
+ "philosopher:benjamin": {
+  "fil": "philosopher_benjamin.jpg",
+  "titel": "Walter Benjamin"
+ },
+ "concept:behovspyramiden": {
+  "fil": "concept_behovspyramiden.jpg",
+  "titel": "Maslow's hierarchy of needs"
+ },
+ "artifact:benjamin-kunstvaerket": {
+  "fil": "artifact_benjamin-kunstvaerket.jpg",
+  "titel": "The Work of Art in the Age of Mechanical Reproduction"
+ },
+ "philosopher:bentham": {
+  "fil": "philosopher_bentham.jpg",
+  "titel": "Jeremy Bentham"
+ },
+ "artifact:bentham-indledning": {
+  "fil": "artifact_bentham-indledning.jpg",
+  "titel": "An Introduction to the Principles of Morals and Legislation"
+ },
+ "artifact:bentham-panoptikon": {
+  "fil": "artifact_bentham-panoptikon.jpg",
+  "titel": "Panopticon"
+ },
+ "philosopher:berdyaev": {
+  "fil": "philosopher_berdyaev.jpg",
+  "titel": "Nikolai Berdyaev"
+ },
+ "philosopher:bergson": {
+  "fil": "philosopher_bergson.jpg",
+  "titel": "Henri Bergson"
+ },
+ "philosopher:berger": {
+  "fil": "philosopher_berger.jpg",
+  "titel": "Peter L. Berger"
+ },
+ "artifact:berger-luckmann-social-konstruktion": {
+  "fil": "artifact_berger-luckmann-social-konstruktion.jpg",
+  "titel": "The Social Construction of Reality"
+ },
+ "artifact:bergson-skabende-evolution": {
+  "fil": "artifact_bergson-skabende-evolution.jpg",
+  "titel": "Creative Evolution (book)"
+ },
+ "philosopher:berkeley": {
+  "fil": "philosopher_berkeley.jpg",
+  "titel": "George Berkeley"
+ },
+ "artifact:berkeley-traktat": {
+  "fil": "artifact_berkeley-traktat.jpg",
+  "titel": "A Treatise Concerning the Principles of Human Knowledge"
+ },
+ "concept:betydning-og-reference": {
+  "fil": "concept_betydning-og-reference.jpg",
+  "titel": "Sense and reference"
+ },
+ "artifact:blade-runner": {
+  "fil": "artifact_blade-runner.jpg",
+  "titel": "Blade Runner"
+ },
+ "philosopher:bloom": {
+  "fil": "philosopher_bloom.jpg",
+  "titel": "Allan Bloom"
+ },
+ "philosopher:boethius": {
+  "fil": "philosopher_boethius.jpg",
+  "titel": "Boethius"
+ },
+ "artifact:boerneforsorg": {
+  "fil": "artifact_boerneforsorg.jpg",
+  "titel": "Foster care"
+ },
+ "artifact:boethius-troest": {
+  "fil": "artifact_boethius-troest.jpg",
+  "titel": "On the Consolation of Philosophy"
+ },
+ "artifact:borgerretsloven-1964": {
+  "fil": "artifact_borgerretsloven-1964.jpg",
+  "titel": "Civil Rights Act of 1964"
+ },
+ "philosopher:bowlby": {
+  "fil": "philosopher_bowlby.jpg",
+  "titel": "John Bowlby"
+ },
+ "artifact:bornehaven": {
+  "fil": "artifact_bornehaven.jpg",
+  "titel": "Kindergarten"
+ },
+ "philosopher:bruno": {
+  "fil": "philosopher_bruno.jpg",
+  "titel": "Giordano Bruno"
+ },
+ "artifact:bowlby-maternal-care": {
+  "fil": "artifact_bowlby-maternal-care.jpg",
+  "titel": "Maternal deprivation"
+ },
+ "philosopher:bruner": {
+  "fil": "philosopher_bruner.jpg",
+  "titel": "Jerome Bruner"
+ },
+ "artifact:bruner-process-of-education": {
+  "fil": "artifact_bruner-process-of-education.jpg",
+  "titel": "Jerome Bruner"
+ },
+ "philosopher:burke": {
+  "fil": "philosopher_burke.jpg",
+  "titel": "Edmund Burke"
+ },
+ "artifact:burke-refleksioner": {
+  "fil": "artifact_burke-refleksioner.jpg",
+  "titel": "Reflections on the Revolution in France"
+ },
+ "philosopher:butler": {
+  "fil": "philosopher_butler.jpg",
+  "titel": "Judith Butler"
+ },
+ "artifact:byggelegepladsen": {
+  "fil": "artifact_byggelegepladsen.jpg",
+  "titel": "Adventure playground"
+ },
+ "philosopher:camus": {
+  "fil": "philosopher_camus.jpg",
+  "titel": "Albert Camus"
+ },
+ "artifact:camus-oproerets-menneske": {
+  "fil": "artifact_camus-oproerets-menneske.jpg",
+  "titel": "The Rebel (book)"
+ },
+ "artifact:caillois-leg-og-spil": {
+  "fil": "artifact_caillois-leg-og-spil.jpg",
+  "titel": "Man, Play and Games"
+ },
+ "philosopher:caillois": {
+  "fil": "philosopher_caillois.jpg",
+  "titel": "Roger Caillois"
+ },
+ "artifact:camus-sisyfos-myten": {
+  "fil": "artifact_camus-sisyfos-myten.jpg",
+  "titel": "The Myth of Sisyphus"
+ },
+ "philosopher:carnap": {
+  "fil": "philosopher_carnap.jpg",
+  "titel": "Rudolf Carnap"
+ },
+ "philosopher:chomsky": {
+  "fil": "philosopher_chomsky.jpg",
+  "titel": "Noam Chomsky"
+ },
+ "philosopher:chrysippos": {
+  "fil": "philosopher_chrysippos.jpg",
+  "titel": "Chrysippus"
+ },
+ "philosopher:cicero": {
+  "fil": "philosopher_cicero.jpg",
+  "titel": "Cicero"
+ },
+ "artifact:cicero-om-lovene": {
+  "fil": "artifact_cicero-om-lovene.jpg",
+  "titel": "De Legibus"
+ },
+ "artifact:cicero-om-pligterne": {
+  "fil": "artifact_cicero-om-pligterne.jpg",
+  "titel": "De Officiis"
+ },
+ "concept:civilsamfundet": {
+  "fil": "concept_civilsamfundet.jpg",
+  "titel": "Civil society"
+ },
+ "artifact:clockwork-orange": {
+  "fil": "artifact_clockwork-orange.jpg",
+  "titel": "A Clockwork Orange (film)"
+ },
+ "artifact:codex-justinianus": {
+  "fil": "artifact_codex-justinianus.jpg",
+  "titel": "Corpus Juris Civilis"
+ },
+ "concept:cogito-ergo-sum": {
+  "fil": "concept_cogito-ergo-sum.jpg",
+  "titel": "Cogito, ergo sum"
+ },
+ "philosopher:comenius": {
+  "fil": "philosopher_comenius.jpg",
+  "titel": "John Amos Comenius"
+ },
+ "concept:common-sense-realismen": {
+  "fil": "concept_common-sense-realismen.jpg",
+  "titel": "Scottish common sense realism"
+ },
+ "philosopher:comte": {
+  "fil": "philosopher_comte.jpg",
+  "titel": "Auguste Comte"
+ },
+ "artifact:comte-positiv-filosofi": {
+  "fil": "artifact_comte-positiv-filosofi.jpg",
+  "titel": "Course of Positive Philosophy"
+ },
+ "artifact:comenius-orbis-pictus": {
+  "fil": "artifact_comenius-orbis-pictus.jpg",
+  "titel": "Orbis Pictus"
+ },
+ "philosopher:croce": {
+  "fil": "philosopher_croce.jpg",
+  "titel": "Benedetto Croce"
+ },
+ "philosopher:csikszentmihalyi": {
+  "fil": "philosopher_csikszentmihalyi.jpg",
+  "titel": "Mihaly Csikszentmihalyi"
+ },
+ "artifact:csikszentmihalyi-flow": {
+  "fil": "artifact_csikszentmihalyi-flow.jpg",
+  "titel": "Flow (psychology)"
+ },
+ "artifact:dagtilbudsloven": {
+  "fil": "artifact_dagtilbudsloven.jpg",
+  "titel": "Child care"
+ },
+ "artifact:dantes-guddommelige-komedie": {
+  "fil": "artifact_dantes-guddommelige-komedie.jpg",
+  "titel": "Divine Comedy"
+ },
+ "concept:dao": {
+  "fil": "concept_dao.jpg",
+  "titel": "Tao"
+ },
+ "concept:daoisme": {
+  "fil": "concept_daoisme.jpg",
+  "titel": "Taoism"
+ },
+ "artifact:daoismen-som-religion": {
+  "fil": "artifact_daoismen-som-religion.jpg",
+  "titel": "Taoism"
+ },
+ "artifact:david-michelangelo": {
+  "fil": "artifact_david-michelangelo.jpg",
+  "titel": "David (Michelangelo)"
+ },
+ "philosopher:davidson": {
+  "fil": "philosopher_davidson.jpg",
+  "titel": "Donald Davidson (philosopher)"
+ },
+ "artifact:de-andres-liv": {
+  "fil": "artifact_de-andres-liv.jpg",
+  "titel": "The Lives of Others"
+ },
+ "artifact:de-fire-elementer": {
+  "fil": "artifact_de-fire-elementer.jpg",
+  "titel": "Classical element"
+ },
+ "philosopher:de-maistre": {
+  "fil": "philosopher_de-maistre.jpg",
+  "titel": "Joseph de Maistre"
+ },
+ "artifact:de-maistre-om-paven": {
+  "fil": "artifact_de-maistre-om-paven.jpg",
+  "titel": "The Pope (book)"
+ },
+ "artifact:de-ti-bud": {
+  "fil": "artifact_de-ti-bud.jpg",
+  "titel": "Ten Commandments"
+ },
+ "artifact:deismen": {
+  "fil": "artifact_deismen.jpg",
+  "titel": "Deism"
+ },
+ "philosopher:deleuze": {
+  "fil": "philosopher_deleuze.jpg",
+  "titel": "Gilles Deleuze"
+ },
+ "philosopher:demokrit": {
+  "fil": "philosopher_demokrit.jpg",
+  "titel": "Democritus"
+ },
+ "artifact:den-amerikanske-forfatning": {
+  "fil": "artifact_den-amerikanske-forfatning.jpg",
+  "titel": "Constitution of the United States"
+ },
+ "artifact:deltagende-aktionsforskning": {
+  "fil": "artifact_deltagende-aktionsforskning.jpg",
+  "titel": "Participatory action research"
+ },
+ "artifact:den-danske-grundlov": {
+  "fil": "artifact_den-danske-grundlov.jpg",
+  "titel": "Constitution of Denmark"
+ },
+ "concept:den-edle-mand": {
+  "fil": "concept_den-edle-mand.jpg",
+  "titel": "Junzi"
+ },
+ "artifact:den-europaeiske-menneskerettighedskonvention": {
+  "fil": "artifact_den-europaeiske-menneskerettighedskonvention.jpg",
+  "titel": "European Convention on Human Rights"
+ },
+ "artifact:den-forste-internationale": {
+  "fil": "artifact_den-forste-internationale.jpg",
+  "titel": "First International"
+ },
+ "artifact:den-gyldne-regel": {
+  "fil": "artifact_den-gyldne-regel.jpg",
+  "titel": "Golden Rule"
+ },
+ "artifact:den-sorte-borgerretsbevaegelse": {
+  "fil": "artifact_den-sorte-borgerretsbevaegelse.jpg",
+  "titel": "Civil rights movement"
+ },
+ "philosopher:dennett": {
+  "fil": "philosopher_dennett.jpg",
+  "titel": "Daniel Dennett"
+ },
+ "philosopher:derrida": {
+  "fil": "philosopher_derrida.jpg",
+  "titel": "Jacques Derrida"
+ },
+ "philosopher:descartes": {
+  "fil": "philosopher_descartes.jpg",
+  "titel": "René Descartes"
+ },
+ "artifact:descartes-meditationer": {
+  "fil": "artifact_descartes-meditationer.jpg",
+  "titel": "Meditations on First Philosophy"
+ },
+ "artifact:descartes-metode": {
+  "fil": "artifact_descartes-metode.jpg",
+  "titel": "Discourse on the Method"
+ },
+ "concept:det-sublime": {
+  "fil": "concept_det-sublime.jpg",
+  "titel": "Sublime (philosophy)"
+ },
+ "philosopher:dewey": {
+  "fil": "philosopher_dewey.jpg",
+  "titel": "John Dewey"
+ },
+ "artifact:dewey-demokrati-og-uddannelse": {
+  "fil": "artifact_dewey-demokrati-og-uddannelse.jpg",
+  "titel": "Democracy and Education"
+ },
+ "philosopher:diderot": {
+  "fil": "philosopher_diderot.jpg",
+  "titel": "Denis Diderot"
+ },
+ "artifact:diderot-encyclopedien": {
+  "fil": "artifact_diderot-encyclopedien.jpg",
+  "titel": "Encyclopédie"
+ },
+ "concept:differens-og-gentagelse": {
+  "fil": "concept_differens-og-gentagelse.jpg",
+  "titel": "Difference and Repetition"
+ },
+ "philosopher:dilthey": {
+  "fil": "philosopher_dilthey.jpg",
+  "titel": "Wilhelm Dilthey"
+ },
+ "philosopher:diogenes": {
+  "fil": "philosopher_diogenes.jpg",
+  "titel": "Diogenes"
+ },
+ "concept:dualisme": {
+  "fil": "concept_dualisme.jpg",
+  "titel": "Dualism"
+ },
+ "philosopher:duns-scotus": {
+  "fil": "philosopher_duns-scotus.jpg",
+  "titel": "Duns Scotus"
+ },
+ "concept:daarlig-tro": {
+  "fil": "concept_daarlig-tro.jpg",
+  "titel": "Bad faith"
+ },
+ "artifact:dweck-mindset": {
+  "fil": "artifact_dweck-mindset.jpg",
+  "titel": "Mindset"
+ },
+ "philosopher:dweck": {
+  "fil": "philosopher_dweck.jpg",
+  "titel": "Carol Dweck"
+ },
+ "concept:eklekticisme": {
+  "fil": "concept_eklekticisme.jpg",
+  "titel": "Eclecticism"
+ },
+ "concept:eleatisk-skole": {
+  "fil": "concept_eleatisk-skole.jpg",
+  "titel": "Eleatics"
+ },
+ "philosopher:emerson": {
+  "fil": "philosopher_emerson.jpg",
+  "titel": "Ralph Waldo Emerson"
+ },
+ "artifact:emerson-nature": {
+  "fil": "artifact_emerson-nature.jpg",
+  "titel": "Nature (essay)"
+ },
+ "artifact:emerson-selvtillid": {
+  "fil": "artifact_emerson-selvtillid.jpg",
+  "titel": "Self-Reliance"
+ },
+ "concept:empirisme": {
+  "fil": "concept_empirisme.jpg",
+  "titel": "Empiricism"
+ },
+ "artifact:en-andalusisk-hund": {
+  "fil": "artifact_en-andalusisk-hund.jpg",
+  "titel": "Un Chien Andalou"
+ },
+ "philosopher:engels": {
+  "fil": "philosopher_engels.jpg",
+  "titel": "Friedrich Engels"
+ },
+ "artifact:engels-dialektik-naturen": {
+  "fil": "artifact_engels-dialektik-naturen.jpg",
+  "titel": "Dialectics of Nature"
+ },
+ "philosopher:epiktet": {
+  "fil": "philosopher_epiktet.jpg",
+  "titel": "Epictetus"
+ },
+ "artifact:epiktet-haandbogen": {
+  "fil": "artifact_epiktet-haandbogen.jpg",
+  "titel": "Enchiridion of Epictetus"
+ },
+ "philosopher:epikur": {
+  "fil": "philosopher_epikur.jpg",
+  "titel": "Epicurus"
+ },
+ "concept:epikuraeisme": {
+  "fil": "concept_epikuraeisme.jpg",
+  "titel": "Epicureanism"
+ },
+ "philosopher:erasmus": {
+  "fil": "philosopher_erasmus.jpg",
+  "titel": "Erasmus"
+ },
+ "artifact:erasmus-daarskabens-lovprisning": {
+  "fil": "artifact_erasmus-daarskabens-lovprisning.jpg",
+  "titel": "In Praise of Folly"
+ },
+ "philosopher:erikson": {
+  "fil": "philosopher_erikson.jpg",
+  "titel": "Erik Erikson"
+ },
+ "concept:etisk-intellektualisme": {
+  "fil": "concept_etisk-intellektualisme.jpg",
+  "titel": "Moral intellectualism"
+ },
+ "artifact:eu-samarbejdet": {
+  "fil": "artifact_eu-samarbejdet.jpg",
+  "titel": "European Union"
+ },
+ "concept:evig-fred": {
+  "fil": "concept_evig-fred.jpg",
+  "titel": "Perpetual Peace: A Philosophical Sketch"
+ },
+ "artifact:erikson-childhood-and-society": {
+  "fil": "artifact_erikson-childhood-and-society.jpg",
+  "titel": "Childhood and Society"
+ },
+ "artifact:ex-machina": {
+  "fil": "artifact_ex-machina.jpg",
+  "titel": "Ex Machina (film)"
+ },
+ "concept:fallibilisme": {
+  "fil": "concept_fallibilisme.jpg",
+  "titel": "Fallibilism"
+ },
+ "artifact:fascismens-doktrin": {
+  "fil": "artifact_fascismens-doktrin.jpg",
+  "titel": "The Doctrine of Fascism"
+ },
+ "artifact:feng-shui": {
+  "fil": "artifact_feng-shui.jpg",
+  "titel": "Feng shui"
+ },
+ "philosopher:feyerabend": {
+  "fil": "philosopher_feyerabend.jpg",
+  "titel": "Paul Feyerabend"
+ },
+ "philosopher:fichte": {
+  "fil": "philosopher_fichte.jpg",
+  "titel": "Johann Gottlieb Fichte"
+ },
+ "artifact:fight-club": {
+  "fil": "artifact_fight-club.jpg",
+  "titel": "Fight Club"
+ },
+ "artifact:filial-piety": {
+  "fil": "artifact_filial-piety.jpg",
+  "titel": "Filial piety"
+ },
+ "artifact:fn-pagten": {
+  "fil": "artifact_fn-pagten.jpg",
+  "titel": "Charter of the United Nations"
+ },
+ "artifact:fns-menneskerettighedserklaering": {
+  "fil": "artifact_fns-menneskerettighedserklaering.jpg",
+  "titel": "Universal Declaration of Human Rights"
+ },
+ "artifact:folkeforbundet": {
+  "fil": "artifact_folkeforbundet.jpg",
+  "titel": "League of Nations"
+ },
+ "artifact:fns-bornekonvention": {
+  "fil": "artifact_fns-bornekonvention.jpg",
+  "titel": "Convention on the Rights of the Child"
+ },
+ "artifact:folkerepublikken-kina": {
+  "fil": "artifact_folkerepublikken-kina.jpg",
+  "titel": "China"
+ },
+ "artifact:folkeretten": {
+  "fil": "artifact_folkeretten.jpg",
+  "titel": "International law"
+ },
+ "philosopher:foucault": {
+  "fil": "philosopher_foucault.jpg",
+  "titel": "Michel Foucault"
+ },
+ "artifact:folkehojskolen": {
+  "fil": "artifact_folkehojskolen.jpg",
+  "titel": "Folk high school"
+ },
+ "artifact:fountainhead-filmen": {
+  "fil": "artifact_fountainhead-filmen.jpg",
+  "titel": "The Fountainhead (film)"
+ },
+ "artifact:frankfurterskolen": {
+  "fil": "artifact_frankfurterskolen.jpg",
+  "titel": "Frankfurt School"
+ },
+ "artifact:franske-rettighedserklaering": {
+  "fil": "artifact_franske-rettighedserklaering.jpg",
+  "titel": "Declaration of the Rights of Man and of the Citizen"
+ },
+ "philosopher:frege": {
+  "fil": "philosopher_frege.jpg",
+  "titel": "Gottlob Frege"
+ },
+ "artifact:frege-begriffsschrift": {
+  "fil": "artifact_frege-begriffsschrift.jpg",
+  "titel": "Begriffsschrift"
+ },
+ "philosopher:freud": {
+  "fil": "philosopher_freud.jpg",
+  "titel": "Sigmund Freud"
+ },
+ "artifact:freire-de-undertryktes-paedagogik": {
+  "fil": "artifact_freire-de-undertryktes-paedagogik.jpg",
+  "titel": "Pedagogy of the Oppressed"
+ },
+ "philosopher:freire": {
+  "fil": "philosopher_freire.jpg",
+  "titel": "Paulo Freire"
+ },
+ "artifact:freud-droemmetydning": {
+  "fil": "artifact_freud-droemmetydning.jpg",
+  "titel": "The Interpretation of Dreams"
+ },
+ "artifact:freud-jeg-og-det": {
+  "fil": "artifact_freud-jeg-og-det.jpg",
+  "titel": "The Ego and the Id"
+ },
+ "concept:fri-vilje": {
+  "fil": "concept_fri-vilje.jpg",
+  "titel": "Free will"
+ },
+ "philosopher:frobel": {
+  "fil": "philosopher_frobel.jpg",
+  "titel": "Friedrich Fröbel"
+ },
+ "philosopher:gadamer": {
+  "fil": "philosopher_gadamer.jpg",
+  "titel": "Hans-Georg Gadamer"
+ },
+ "artifact:gadamer-sandhed-og-metode": {
+  "fil": "artifact_gadamer-sandhed-og-metode.jpg",
+  "titel": "Truth and Method"
+ },
+ "artifact:generativ-ai": {
+  "fil": "artifact_generativ-ai.jpg",
+  "titel": "Generative AI"
+ },
+ "concept:generativ-grammatik": {
+  "fil": "concept_generativ-grammatik.jpg",
+  "titel": "Generative grammar"
+ },
+ "artifact:geneve-konventionerne": {
+  "fil": "artifact_geneve-konventionerne.jpg",
+  "titel": "Geneva Conventions"
+ },
+ "concept:gensidig-hjaelp": {
+  "fil": "concept_gensidig-hjaelp.jpg",
+  "titel": "Mutual aid"
+ },
+ "philosopher:gentile": {
+  "fil": "philosopher_gentile.jpg",
+  "titel": "Giovanni Gentile"
+ },
+ "philosopher:gettier": {
+  "fil": "philosopher_gettier.jpg",
+  "titel": "Edmund Gettier"
+ },
+ "artifact:ghost-in-the-shell": {
+  "fil": "artifact_ghost-in-the-shell.jpg",
+  "titel": "Ghost in the Shell (1995 film)"
+ },
+ "artifact:gladiator": {
+  "fil": "artifact_gladiator.jpg",
+  "titel": "Gladiator (2000 film)"
+ },
+ "artifact:goetheanum": {
+  "fil": "artifact_goetheanum.jpg",
+  "titel": "Goetheanum"
+ },
+ "philosopher:goodman": {
+  "fil": "philosopher_goodman.jpg",
+  "titel": "Nelson Goodman"
+ },
+ "philosopher:gramsci": {
+  "fil": "philosopher_gramsci.jpg",
+  "titel": "Antonio Gramsci"
+ },
+ "artifact:gramsci-faengselsnoter": {
+  "fil": "artifact_gramsci-faengselsnoter.jpg",
+  "titel": "Prison Notebooks"
+ },
+ "philosopher:grotius": {
+  "fil": "philosopher_grotius.jpg",
+  "titel": "Hugo Grotius"
+ },
+ "artifact:grotius-krigens-ret": {
+  "fil": "artifact_grotius-krigens-ret.jpg",
+  "titel": "De jure belli ac pacis"
+ },
+ "artifact:grotius-mare-liberum": {
+  "fil": "artifact_grotius-mare-liberum.jpg",
+  "titel": "Mare Liberum"
+ },
+ "philosopher:habermas": {
+  "fil": "philosopher_habermas.jpg",
+  "titel": "Jürgen Habermas"
+ },
+ "concept:haecceitas": {
+  "fil": "concept_haecceitas.jpg",
+  "titel": "Haecceity"
+ },
+ "philosopher:grundtvig": {
+  "fil": "philosopher_grundtvig.jpg",
+  "titel": "N. F. S. Grundtvig"
+ },
+ "artifact:handicapkonventionen": {
+  "fil": "artifact_handicapkonventionen.jpg",
+  "titel": "Convention on the Rights of Persons with Disabilities"
+ },
+ "artifact:hannah-arendt-filmen": {
+  "fil": "artifact_hannah-arendt-filmen.jpg",
+  "titel": "Hannah Arendt (film)"
+ },
+ "concept:havets-frihed": {
+  "fil": "concept_havets-frihed.jpg",
+  "titel": "Freedom of the seas"
+ },
+ "philosopher:hayek": {
+  "fil": "philosopher_hayek.jpg",
+  "titel": "Friedrich Hayek"
+ },
+ "concept:hedonisme": {
+  "fil": "concept_hedonisme.jpg",
+  "titel": "Hedonism"
+ },
+ "philosopher:hegel": {
+  "fil": "philosopher_hegel.jpg",
+  "titel": "Georg Wilhelm Friedrich Hegel"
+ },
+ "artifact:hegel-retsfilosofien": {
+  "fil": "artifact_hegel-retsfilosofien.jpg",
+  "titel": "Elements of the Philosophy of Right"
+ },
+ "artifact:hegel-aandens-faenomenologi": {
+  "fil": "artifact_hegel-aandens-faenomenologi.jpg",
+  "titel": "The Phenomenology of Spirit"
+ },
+ "philosopher:heidegger": {
+  "fil": "philosopher_heidegger.jpg",
+  "titel": "Martin Heidegger"
+ },
+ "artifact:heidegger-vaeren-og-tid": {
+  "fil": "artifact_heidegger-vaeren-og-tid.jpg",
+  "titel": "Being and Time"
+ },
+ "artifact:heliocentrismen": {
+  "fil": "artifact_heliocentrismen.jpg",
+  "titel": "Heliocentrism"
+ },
+ "philosopher:heraklit": {
+  "fil": "philosopher_heraklit.jpg",
+  "titel": "Heraclitus"
+ },
+ "concept:hermeneutik": {
+  "fil": "concept_hermeneutik.jpg",
+  "titel": "Hermeneutics"
+ },
+ "concept:hermetisme": {
+  "fil": "concept_hermetisme.jpg",
+  "titel": "Hermeticism"
+ },
+ "artifact:hippiebevaegelsen": {
+  "fil": "artifact_hippiebevaegelsen.jpg",
+  "titel": "Hippie"
+ },
+ "philosopher:herbart": {
+  "fil": "philosopher_herbart.jpg",
+  "titel": "Johann Friedrich Herbart"
+ },
+ "concept:historisk-materialisme": {
+  "fil": "concept_historisk-materialisme.jpg",
+  "titel": "Historical materialism"
+ },
+ "concept:hjerne-i-et-kar": {
+  "fil": "concept_hjerne-i-et-kar.jpg",
+  "titel": "Brain in a vat"
+ },
+ "philosopher:hobbes": {
+  "fil": "philosopher_hobbes.jpg",
+  "titel": "Thomas Hobbes"
+ },
+ "artifact:hobbes-leviathan": {
+  "fil": "artifact_hobbes-leviathan.jpg",
+  "titel": "Leviathan (Hobbes book)"
+ },
+ "concept:hulelignelsen": {
+  "fil": "concept_hulelignelsen.jpg",
+  "titel": "Allegory of the cave"
+ },
+ "artifact:humboldt-universitetet": {
+  "fil": "artifact_humboldt-universitetet.jpg",
+  "titel": "Humboldt University of Berlin"
+ },
+ "philosopher:huizinga": {
+  "fil": "philosopher_huizinga.jpg",
+  "titel": "Johan Huizinga"
+ },
+ "artifact:huizinga-homo-ludens": {
+  "fil": "artifact_huizinga-homo-ludens.jpg",
+  "titel": "Homo Ludens"
+ },
+ "philosopher:hume": {
+  "fil": "philosopher_hume.jpg",
+  "titel": "David Hume"
+ },
+ "artifact:hume-traktat": {
+  "fil": "artifact_hume-traktat.jpg",
+  "titel": "A Treatise of Human Nature"
+ },
+ "philosopher:husserl": {
+  "fil": "philosopher_husserl.jpg",
+  "titel": "Edmund Husserl"
+ },
+ "artifact:husserl-krisen": {
+  "fil": "artifact_husserl-krisen.jpg",
+  "titel": "The Crisis of European Sciences and Transcendental Phenomenology"
+ },
+ "concept:ideologikritik": {
+  "fil": "concept_ideologikritik.jpg",
+  "titel": "Critique of ideology"
+ },
+ "artifact:ilo": {
+  "fil": "artifact_ilo.jpg",
+  "titel": "International Labour Organization"
+ },
+ "artifact:illich-deschooling": {
+  "fil": "artifact_illich-deschooling.jpg",
+  "titel": "Deschooling Society"
+ },
+ "philosopher:illich": {
+  "fil": "philosopher_illich.jpg",
+  "titel": "Ivan Illich"
+ },
+ "artifact:imf": {
+  "fil": "artifact_imf.jpg",
+  "titel": "International Monetary Fund"
+ },
+ "concept:immaterialisme": {
+  "fil": "concept_immaterialisme.jpg",
+  "titel": "Subjective idealism"
+ },
+ "artifact:inception": {
+  "fil": "artifact_inception.jpg",
+  "titel": "Inception"
+ },
+ "concept:induktionsproblemet": {
+  "fil": "concept_induktionsproblemet.jpg",
+  "titel": "Problem of induction"
+ },
+ "artifact:informeret-samtykke": {
+  "fil": "artifact_informeret-samtykke.jpg",
+  "titel": "Informed consent"
+ },
+ "artifact:islam": {
+  "fil": "artifact_islam.jpg",
+  "titel": "Islam"
+ },
+ "concept:islamisk-filosofi": {
+  "fil": "concept_islamisk-filosofi.jpg",
+  "titel": "Islamic philosophy"
+ },
+ "artifact:islamisk-retstradition": {
+  "fil": "artifact_islamisk-retstradition.jpg",
+  "titel": "Fiqh"
+ },
+ "philosopher:james": {
+  "fil": "philosopher_james.jpg",
+  "titel": "William James"
+ },
+ "concept:jansenisme": {
+  "fil": "concept_jansenisme.jpg",
+  "titel": "Jansenism"
+ },
+ "artifact:jansenismen": {
+  "fil": "artifact_jansenismen.jpg",
+  "titel": "Jansenism"
+ },
+ "artifact:janteloven": {
+  "fil": "artifact_janteloven.jpg",
+  "titel": "Law of Jante"
+ },
+ "philosopher:jaspers": {
+  "fil": "philosopher_jaspers.jpg",
+  "titel": "Karl Jaspers"
+ },
+ "concept:jodisk-filosofi": {
+  "fil": "concept_jodisk-filosofi.jpg",
+  "titel": "Jewish philosophy"
+ },
+ "philosopher:kant": {
+  "fil": "philosopher_kant.jpg",
+  "titel": "Immanuel Kant"
+ },
+ "artifact:kant-dommekraften": {
+  "fil": "artifact_kant-dommekraften.jpg",
+  "titel": "Critique of Judgment"
+ },
+ "artifact:kant-evig-fred": {
+  "fil": "artifact_kant-evig-fred.jpg",
+  "titel": "Perpetual Peace: A Philosophical Sketch"
+ },
+ "artifact:kant-hvad-er-oplysning": {
+  "fil": "artifact_kant-hvad-er-oplysning.jpg",
+  "titel": "What Is Enlightenment?"
+ },
+ "artifact:kant-praktisk-fornuft": {
+  "fil": "artifact_kant-praktisk-fornuft.jpg",
+  "titel": "Critique of Practical Reason"
+ },
+ "artifact:kant-ren-fornuft": {
+  "fil": "artifact_kant-ren-fornuft.jpg",
+  "titel": "Critique of Pure Reason"
+ },
+ "philosopher:keynes": {
+  "fil": "philosopher_keynes.jpg",
+  "titel": "John Maynard Keynes"
+ },
+ "artifact:keynes-general-teori": {
+  "fil": "artifact_keynes-general-teori.jpg",
+  "titel": "The General Theory of Employment, Interest and Money"
+ },
+ "philosopher:kierkegaard": {
+  "fil": "philosopher_kierkegaard.jpg",
+  "titel": "Søren Kierkegaard"
+ },
+ "artifact:kierkegaard-angstens-begreb": {
+  "fil": "artifact_kierkegaard-angstens-begreb.jpg",
+  "titel": "The Concept of Anxiety"
+ },
+ "artifact:kierkegaard-efterkrift": {
+  "fil": "artifact_kierkegaard-efterkrift.jpg",
+  "titel": "Concluding Unscientific Postscript to Philosophical Fragments"
+ },
+ "artifact:kinesisk-medicin": {
+  "fil": "artifact_kinesisk-medicin.jpg",
+  "titel": "Traditional Chinese medicine"
+ },
+ "concept:klassekamp": {
+  "fil": "concept_klassekamp.jpg",
+  "titel": "Class struggle"
+ },
+ "era:klassisk-kina": {
+  "fil": "era_klassisk-kina.jpg",
+  "titel": "Chinese philosophy"
+ },
+ "artifact:kognitionsvidenskaben": {
+  "fil": "artifact_kognitionsvidenskaben.jpg",
+  "titel": "Cognitive science"
+ },
+ "artifact:kognitiv-adfaerdsterapi": {
+  "fil": "artifact_kognitiv-adfaerdsterapi.jpg",
+  "titel": "Cognitive behavioral therapy"
+ },
+ "artifact:kommunistiske-manifest": {
+  "fil": "artifact_kommunistiske-manifest.jpg",
+  "titel": "The Communist Manifesto"
+ },
+ "concept:konceptualisme": {
+  "fil": "concept_konceptualisme.jpg",
+  "titel": "Conceptualism"
+ },
+ "concept:konfucianisme": {
+  "fil": "concept_konfucianisme.jpg",
+  "titel": "Confucianism"
+ },
+ "artifact:konfuciansk-eksamensvaesen": {
+  "fil": "artifact_konfuciansk-eksamensvaesen.jpg",
+  "titel": "Imperial examination"
+ },
+ "philosopher:konfucius": {
+  "fil": "philosopher_konfucius.jpg",
+  "titel": "Confucius"
+ },
+ "concept:konstitutionalisme": {
+  "fil": "concept_konstitutionalisme.jpg",
+  "titel": "Constitutionalism"
+ },
+ "concept:koranfortolkning": {
+  "fil": "concept_koranfortolkning.jpg",
+  "titel": "Tafsir"
+ },
+ "philosopher:kripke": {
+  "fil": "philosopher_kripke.jpg",
+  "titel": "Saul Kripke"
+ },
+ "artifact:kristendommen": {
+  "fil": "artifact_kristendommen.jpg",
+  "titel": "Christianity"
+ },
+ "artifact:konstruktivistisk-paedagogik": {
+  "fil": "artifact_konstruktivistisk-paedagogik.jpg",
+  "titel": "Constructivism (philosophy of education)"
+ },
+ "concept:kritisk-filosofi": {
+  "fil": "concept_kritisk-filosofi.jpg",
+  "titel": "Critical philosophy"
+ },
+ "concept:kritisk-teori": {
+  "fil": "concept_kritisk-teori.jpg",
+  "titel": "Critical theory"
+ },
+ "philosopher:kropotkin": {
+  "fil": "philosopher_kropotkin.jpg",
+  "titel": "Peter Kropotkin"
+ },
+ "artifact:kropotkin-gensidig-hjaelp": {
+  "fil": "artifact_kropotkin-gensidig-hjaelp.jpg",
+  "titel": "Mutual Aid: A Factor of Evolution"
+ },
+ "artifact:kubas-revolution": {
+  "fil": "artifact_kubas-revolution.jpg",
+  "titel": "Cuban Revolution"
+ },
+ "philosopher:kuhn": {
+  "fil": "philosopher_kuhn.jpg",
+  "titel": "Thomas Kuhn"
+ },
+ "concept:kulturhegemoni": {
+  "fil": "concept_kulturhegemoni.jpg",
+  "titel": "Cultural hegemony"
+ },
+ "concept:kvindefrigoerelse": {
+  "fil": "concept_kvindefrigoerelse.jpg",
+  "titel": "Women's rights"
+ },
+ "artifact:kvindelig-valgret-1915": {
+  "fil": "artifact_kvindelig-valgret-1915.jpg",
+  "titel": "Women in Denmark"
+ },
+ "philosopher:lakatos": {
+  "fil": "philosopher_lakatos.jpg",
+  "titel": "Imre Lakatos"
+ },
+ "philosopher:laozi": {
+  "fil": "philosopher_laozi.jpg",
+  "titel": "Laozi"
+ },
+ "artifact:lab-school": {
+  "fil": "artifact_lab-school.jpg",
+  "titel": "University of Chicago Laboratory Schools"
+ },
+ "philosopher:leibniz": {
+  "fil": "philosopher_leibniz.jpg",
+  "titel": "Gottfried Wilhelm Leibniz"
+ },
+ "artifact:leibniz-monadologien": {
+  "fil": "artifact_leibniz-monadologien.jpg",
+  "titel": "Monadology"
+ },
+ "artifact:leibniz-theodicee": {
+  "fil": "artifact_leibniz-theodicee.jpg",
+  "titel": "Théodicée"
+ },
+ "philosopher:lave": {
+  "fil": "philosopher_lave.jpg",
+  "titel": "Jean Lave"
+ },
+ "philosopher:levinas": {
+  "fil": "philosopher_levinas.jpg",
+  "titel": "Emmanuel Levinas"
+ },
+ "artifact:levinas-totalitet-og-uendelighed": {
+  "fil": "artifact_levinas-totalitet-og-uendelighed.jpg",
+  "titel": "Totality and Infinity"
+ },
+ "concept:livsfilosofi": {
+  "fil": "concept_livsfilosofi.jpg",
+  "titel": "Lebensphilosophie"
+ },
+ "philosopher:locke": {
+  "fil": "philosopher_locke.jpg",
+  "titel": "John Locke"
+ },
+ "artifact:locke-forstand": {
+  "fil": "artifact_locke-forstand.jpg",
+  "titel": "An Essay Concerning Human Understanding"
+ },
+ "artifact:locke-opdragelse": {
+  "fil": "artifact_locke-opdragelse.jpg",
+  "titel": "Some Thoughts Concerning Education"
+ },
+ "artifact:locke-styre": {
+  "fil": "artifact_locke-styre.jpg",
+  "titel": "Two Treatises of Government"
+ },
+ "concept:logisk-positivisme": {
+  "fil": "concept_logisk-positivisme.jpg",
+  "titel": "Logical positivism"
+ },
+ "artifact:lucretius-de-rerum-natura": {
+  "fil": "artifact_lucretius-de-rerum-natura.jpg",
+  "titel": "De rerum natura"
+ },
+ "philosopher:lukacs": {
+  "fil": "philosopher_lukacs.jpg",
+  "titel": "György Lukács"
+ },
+ "artifact:lukacs-klassebevidsthed": {
+  "fil": "artifact_lukacs-klassebevidsthed.jpg",
+  "titel": "History and Class Consciousness"
+ },
+ "philosopher:luxemburg": {
+  "fil": "philosopher_luxemburg.jpg",
+  "titel": "Rosa Luxemburg"
+ },
+ "artifact:luxemburg-akkumulationen": {
+  "fil": "artifact_luxemburg-akkumulationen.jpg",
+  "titel": "The Accumulation of Capital"
+ },
+ "philosopher:machiavelli": {
+  "fil": "philosopher_machiavelli.jpg",
+  "titel": "Niccolò Machiavelli"
+ },
+ "artifact:machiavelli-discorsi": {
+  "fil": "artifact_machiavelli-discorsi.jpg",
+  "titel": "Discourses on Livy"
+ },
+ "artifact:machiavelli-fyrsten": {
+  "fil": "artifact_machiavelli-fyrsten.jpg",
+  "titel": "The Prince"
+ },
+ "philosopher:macintyre": {
+  "fil": "philosopher_macintyre.jpg",
+  "titel": "Alasdair MacIntyre"
+ },
+ "philosopher:maimonides": {
+  "fil": "philosopher_maimonides.jpg",
+  "titel": "Maimonides"
+ },
+ "artifact:maimonides-dukvane": {
+  "fil": "artifact_maimonides-dukvane.jpg",
+  "titel": "The Guide for the Perplexed"
+ },
+ "artifact:maimonides-mishne-torah": {
+  "fil": "artifact_maimonides-mishne-torah.jpg",
+  "titel": "Mishneh Torah"
+ },
+ "philosopher:marcus-aurelius": {
+  "fil": "philosopher_marcus-aurelius.jpg",
+  "titel": "Marcus Aurelius"
+ },
+ "artifact:marcus-aurelius-til-sig-selv": {
+  "fil": "artifact_marcus-aurelius-til-sig-selv.jpg",
+  "titel": "Meditations"
+ },
+ "philosopher:marcuse": {
+  "fil": "philosopher_marcuse.jpg",
+  "titel": "Herbert Marcuse"
+ },
+ "artifact:marcuse-endimensionelle-menneske": {
+  "fil": "artifact_marcuse-endimensionelle-menneske.jpg",
+  "titel": "One-Dimensional Man"
+ },
+ "philosopher:marx": {
+  "fil": "philosopher_marx.jpg",
+  "titel": "Karl Marx"
+ },
+ "artifact:marx-kapitalen": {
+  "fil": "artifact_marx-kapitalen.jpg",
+  "titel": "Das Kapital"
+ },
+ "philosopher:maslow": {
+  "fil": "philosopher_maslow.jpg",
+  "titel": "Abraham Maslow"
+ },
+ "artifact:maslow-motivation-og-personlighed": {
+  "fil": "artifact_maslow-motivation-og-personlighed.jpg",
+  "titel": "Motivation and Personality"
+ },
+ "concept:mayeutik": {
+  "fil": "concept_mayeutik.jpg",
+  "titel": "Socratic method"
+ },
+ "artifact:me-too": {
+  "fil": "artifact_me-too.jpg",
+  "titel": "MeToo movement"
+ },
+ "concept:mediekritik": {
+  "fil": "concept_mediekritik.jpg",
+  "titel": "Media studies"
+ },
+ "artifact:memento": {
+  "fil": "artifact_memento.jpg",
+  "titel": "Memento (film)"
+ },
+ "philosopher:merleau-ponty": {
+  "fil": "philosopher_merleau-ponty.jpg",
+  "titel": "Maurice Merleau-Ponty"
+ },
+ "artifact:merleau-ponty-perceptionen": {
+  "fil": "artifact_merleau-ponty-perceptionen.jpg",
+  "titel": "Phenomenology of Perception"
+ },
+ "concept:mervaerdi": {
+  "fil": "concept_mervaerdi.jpg",
+  "titel": "Surplus value"
+ },
+ "philosopher:mill": {
+  "fil": "philosopher_mill.jpg",
+  "titel": "John Stuart Mill"
+ },
+ "artifact:mill-kvindernes-underkastelse": {
+  "fil": "artifact_mill-kvindernes-underkastelse.jpg",
+  "titel": "The Subjection of Women"
+ },
+ "artifact:mill-om-friheden": {
+  "fil": "artifact_mill-om-friheden.jpg",
+  "titel": "On Liberty"
+ },
+ "artifact:mill-utilitarismen": {
+  "fil": "artifact_mill-utilitarismen.jpg",
+  "titel": "Utilitarianism (book)"
+ },
+ "philosopher:mises": {
+  "fil": "philosopher_mises.jpg",
+  "titel": "Ludwig von Mises"
+ },
+ "artifact:modern-times": {
+  "fil": "artifact_modern-times.jpg",
+  "titel": "Modern Times (film)"
+ },
+ "concept:modoplysning": {
+  "fil": "concept_modoplysning.jpg",
+  "titel": "Counter-Enlightenment"
+ },
+ "concept:monadelaeren": {
+  "fil": "concept_monadelaeren.jpg",
+  "titel": "Monadology"
+ },
+ "concept:monisme": {
+  "fil": "concept_monisme.jpg",
+  "titel": "Monism"
+ },
+ "philosopher:montesquieu": {
+  "fil": "philosopher_montesquieu.jpg",
+  "titel": "Montesquieu"
+ },
+ "artifact:montesquieu-lovens-and": {
+  "fil": "artifact_montesquieu-lovens-and.jpg",
+  "titel": "The Spirit of Law"
+ },
+ "artifact:montessori-paedagogik": {
+  "fil": "artifact_montessori-paedagogik.jpg",
+  "titel": "Montessori education"
+ },
+ "philosopher:montessori": {
+  "fil": "philosopher_montessori.jpg",
+  "titel": "Maria Montessori"
+ },
+ "philosopher:more": {
+  "fil": "philosopher_more.jpg",
+  "titel": "Thomas More"
+ },
+ "artifact:more-utopia": {
+  "fil": "artifact_more-utopia.jpg",
+  "titel": "Utopia (book)"
+ },
+ "artifact:mr-nobody": {
+  "fil": "artifact_mr-nobody.jpg",
+  "titel": "Mr. Nobody (film)"
+ },
+ "artifact:muldvarpens-dag": {
+  "fil": "artifact_muldvarpens-dag.jpg",
+  "titel": "Groundhog Day (film)"
+ },
+ "concept:multikulturalisme": {
+  "fil": "concept_multikulturalisme.jpg",
+  "titel": "Multiculturalism"
+ },
+ "artifact:munch-skriget": {
+  "fil": "artifact_munch-skriget.jpg",
+  "titel": "The Scream"
+ },
+ "artifact:napoleons-code-civil": {
+  "fil": "artifact_napoleons-code-civil.jpg",
+  "titel": "Napoleonic Code"
+ },
+ "artifact:nationalsocialismen": {
+  "fil": "artifact_nationalsocialismen.jpg",
+  "titel": "Nazism"
+ },
+ "concept:naturfilosofi": {
+  "fil": "concept_naturfilosofi.jpg",
+  "titel": "Natural philosophy"
+ },
+ "concept:naturfilosofi-schelling": {
+  "fil": "concept_naturfilosofi-schelling.jpg",
+  "titel": "Naturphilosophie"
+ },
+ "concept:naturlige-rettigheder": {
+  "fil": "concept_naturlige-rettigheder.jpg",
+  "titel": "Natural rights"
+ },
+ "concept:naturret": {
+  "fil": "concept_naturret.jpg",
+  "titel": "Natural law"
+ },
+ "concept:negativ-teologi": {
+  "fil": "concept_negativ-teologi.jpg",
+  "titel": "Apophatic theology"
+ },
+ "philosopher:nietzsche": {
+  "fil": "philosopher_nietzsche.jpg",
+  "titel": "Friedrich Nietzsche"
+ },
+ "artifact:nietzsche-hinsides-godt-ondt": {
+  "fil": "artifact_nietzsche-hinsides-godt-ondt.jpg",
+  "titel": "Beyond Good and Evil"
+ },
+ "artifact:nietzsche-moralens-genealogi": {
+  "fil": "artifact_nietzsche-moralens-genealogi.jpg",
+  "titel": "On the Genealogy of Morality"
+ },
+ "artifact:nietzsche-zarathustra": {
+  "fil": "artifact_nietzsche-zarathustra.jpg",
+  "titel": "Thus Spoke Zarathustra"
+ },
+ "concept:nihilisme": {
+  "fil": "concept_nihilisme.jpg",
+  "titel": "Nihilism"
+ },
+ "concept:nominalisme": {
+  "fil": "concept_nominalisme.jpg",
+  "titel": "Nominalism"
+ },
+ "concept:nous": {
+  "fil": "concept_nous.jpg",
+  "titel": "Nous"
+ },
+ "philosopher:nozick": {
+  "fil": "philosopher_nozick.jpg",
+  "titel": "Robert Nozick"
+ },
+ "philosopher:nussbaum": {
+  "fil": "philosopher_nussbaum.jpg",
+  "titel": "Martha Nussbaum"
+ },
+ "concept:nyplatonisme": {
+  "fil": "concept_nyplatonisme.jpg",
+  "titel": "Neoplatonism"
+ },
+ "philosopher:ockham": {
+  "fil": "philosopher_ockham.jpg",
+  "titel": "William of Ockham"
+ },
+ "concept:ockhams-ragekniv": {
+  "fil": "concept_ockhams-ragekniv.jpg",
+  "titel": "Occam's razor"
+ },
+ "concept:oedipuskomplekset": {
+  "fil": "concept_oedipuskomplekset.jpg",
+  "titel": "Oedipus complex"
+ },
+ "concept:ondskabens-banalitet": {
+  "fil": "concept_ondskabens-banalitet.jpg",
+  "titel": "Eichmann in Jerusalem"
+ },
+ "era:oplysningen": {
+  "fil": "era_oplysningen.jpg",
+  "titel": "Age of Enlightenment"
+ },
+ "concept:oplysningens-dialektik": {
+  "fil": "concept_oplysningens-dialektik.jpg",
+  "titel": "Dialectic of Enlightenment"
+ },
+ "artifact:oplysningsbevaegelsen": {
+  "fil": "artifact_oplysningsbevaegelsen.jpg",
+  "titel": "Age of Enlightenment"
+ },
+ "concept:oplysningsfilosofi": {
+  "fil": "concept_oplysningsfilosofi.jpg",
+  "titel": "Enlightenment philosophy"
+ },
+ "philosopher:ortega": {
+  "fil": "philosopher_ortega.jpg",
+  "titel": "José Ortega y Gasset"
+ },
+ "artifact:otte-timers-arbejdsdagen": {
+  "fil": "artifact_otte-timers-arbejdsdagen.jpg",
+  "titel": "Eight-hour day movement"
+ },
+ "artifact:oxford-universitet": {
+  "fil": "artifact_oxford-universitet.jpg",
+  "titel": "University of Oxford"
+ },
+ "artifact:panteismestriden": {
+  "fil": "artifact_panteismestriden.jpg",
+  "titel": "Pantheism controversy"
+ },
+ "concept:pansofisme": {
+  "fil": "concept_pansofisme.jpg",
+  "titel": "Pansophism"
+ },
+ "philosopher:parmenides": {
+  "fil": "philosopher_parmenides.jpg",
+  "titel": "Parmenides"
+ },
+ "philosopher:pascal": {
+  "fil": "philosopher_pascal.jpg",
+  "titel": "Blaise Pascal"
+ },
+ "artifact:pascal-tanker": {
+  "fil": "artifact_pascal-tanker.jpg",
+  "titel": "Pensées"
+ },
+ "concept:pascals-vaeddemal": {
+  "fil": "concept_pascals-vaeddemal.jpg",
+  "titel": "Pascal's wager"
+ },
+ "concept:patristik": {
+  "fil": "concept_patristik.jpg",
+  "titel": "Patristics"
+ },
+ "philosopher:peirce": {
+  "fil": "philosopher_peirce.jpg",
+  "titel": "Charles Sanders Peirce"
+ },
+ "artifact:penitentiary-act": {
+  "fil": "artifact_penitentiary-act.jpg",
+  "titel": "Penitentiary Act 1779"
+ },
+ "concept:pessimisme": {
+  "fil": "concept_pessimisme.jpg",
+  "titel": "Pessimism"
+ },
+ "philosopher:platon": {
+  "fil": "philosopher_platon.jpg",
+  "titel": "Plato"
+ },
+ "artifact:platon-faidon": {
+  "fil": "artifact_platon-faidon.jpg",
+  "titel": "Phaedo"
+ },
+ "philosopher:piaget": {
+  "fil": "philosopher_piaget.jpg",
+  "titel": "Jean Piaget"
+ },
+ "philosopher:pestalozzi": {
+  "fil": "philosopher_pestalozzi.jpg",
+  "titel": "Johann Heinrich Pestalozzi"
+ },
+ "artifact:platon-politeia": {
+  "fil": "artifact_platon-politeia.jpg",
+  "titel": "Republic (Plato)"
+ },
+ "artifact:platon-symposion": {
+  "fil": "artifact_platon-symposion.jpg",
+  "titel": "Symposium (Plato)"
+ },
+ "artifact:platon-timaios": {
+  "fil": "artifact_platon-timaios.jpg",
+  "titel": "Timaeus (dialogue)"
+ },
+ "concept:platonisme": {
+  "fil": "concept_platonisme.jpg",
+  "titel": "Platonism"
+ },
+ "philosopher:plotin": {
+  "fil": "philosopher_plotin.jpg",
+  "titel": "Plotinus"
+ },
+ "artifact:plotin-enneaderne": {
+  "fil": "artifact_plotin-enneaderne.jpg",
+  "titel": "Enneads"
+ },
+ "concept:politisk-realismen": {
+  "fil": "concept_politisk-realismen.jpg",
+  "titel": "Realism (international relations)"
+ },
+ "philosopher:polanyi": {
+  "fil": "philosopher_polanyi.jpg",
+  "titel": "Michael Polanyi"
+ },
+ "philosopher:popper": {
+  "fil": "philosopher_popper.jpg",
+  "titel": "Karl Popper"
+ },
+ "artifact:popper-det-aabne-samfund": {
+  "fil": "artifact_popper-det-aabne-samfund.jpg",
+  "titel": "The Open Society and Its Enemies"
+ },
+ "artifact:popper-logikken-i-forskningen": {
+  "fil": "artifact_popper-logikken-i-forskningen.jpg",
+  "titel": "The Logic of Scientific Discovery"
+ },
+ "concept:positivisme": {
+  "fil": "concept_positivisme.jpg",
+  "titel": "Positivism"
+ },
+ "artifact:postmodernismen": {
+  "fil": "artifact_postmodernismen.jpg",
+  "titel": "Postmodernism"
+ },
+ "concept:praeetableret-harmoni": {
+  "fil": "concept_praeetableret-harmoni.jpg",
+  "titel": "Mind–body problem"
+ },
+ "concept:pragmatisme": {
+  "fil": "concept_pragmatisme.jpg",
+  "titel": "Pragmatism"
+ },
+ "artifact:principia-mathematica": {
+  "fil": "artifact_principia-mathematica.jpg",
+  "titel": "Principia Mathematica"
+ },
+ "philosopher:protagoras": {
+  "fil": "philosopher_protagoras.jpg",
+  "titel": "Protagoras"
+ },
+ "philosopher:proudhon": {
+  "fil": "philosopher_proudhon.jpg",
+  "titel": "Pierre-Joseph Proudhon"
+ },
+ "artifact:proudhon-hvad-er-ejendom": {
+  "fil": "artifact_proudhon-hvad-er-ejendom.jpg",
+  "titel": "Pierre-Joseph Proudhon"
+ },
+ "artifact:proust-tabte-tid": {
+  "fil": "artifact_proust-tabte-tid.jpg",
+  "titel": "In Search of Lost Time"
+ },
+ "artifact:psykofarmakologi": {
+  "fil": "artifact_psykofarmakologi.jpg",
+  "titel": "Psychopharmacology"
+ },
+ "philosopher:putnam": {
+  "fil": "philosopher_putnam.jpg",
+  "titel": "Hilary Putnam"
+ },
+ "concept:pythagoraeisme": {
+  "fil": "concept_pythagoraeisme.jpg",
+  "titel": "Pythagoreanism"
+ },
+ "concept:psykosociale-stadier": {
+  "fil": "concept_psykosociale-stadier.jpg",
+  "titel": "Erikson's stages of psychosocial development"
+ },
+ "philosopher:pythagoras": {
+  "fil": "philosopher_pythagoras.jpg",
+  "titel": "Pythagoras"
+ },
+ "concept:queer-teori": {
+  "fil": "concept_queer-teori.jpg",
+  "titel": "Queer theory"
+ },
+ "philosopher:quine": {
+  "fil": "philosopher_quine.jpg",
+  "titel": "Willard Van Orman Quine"
+ },
+ "artifact:quine-to-dogmer": {
+  "fil": "artifact_quine-to-dogmer.jpg",
+  "titel": "Two Dogmas of Empiricism"
+ },
+ "concept:radikal-empirisme": {
+  "fil": "concept_radikal-empirisme.jpg",
+  "titel": "Radical empiricism"
+ },
+ "philosopher:rand": {
+  "fil": "philosopher_rand.jpg",
+  "titel": "Ayn Rand"
+ },
+ "philosopher:reid": {
+  "fil": "philosopher_reid.jpg",
+  "titel": "Thomas Reid"
+ },
+ "artifact:reid-menneskelige-sind": {
+  "fil": "artifact_reid-menneskelige-sind.jpg",
+  "titel": "Thomas Reid"
+ },
+ "concept:religionskritik": {
+  "fil": "concept_religionskritik.jpg",
+  "titel": "Criticism of religion"
+ },
+ "artifact:retorik-som-fag": {
+  "fil": "artifact_retorik-som-fag.jpg",
+  "titel": "Rhetoric"
+ },
+ "philosopher:ricardo": {
+  "fil": "philosopher_ricardo.jpg",
+  "titel": "David Ricardo"
+ },
+ "artifact:ricardo-politisk-okonomi": {
+  "fil": "artifact_ricardo-politisk-okonomi.jpg",
+  "titel": "On the Principles of Political Economy and Taxation"
+ },
+ "philosopher:ricoeur": {
+  "fil": "philosopher_ricoeur.jpg",
+  "titel": "Paul Ricœur"
+ },
+ "concept:romantik": {
+  "fil": "concept_romantik.jpg",
+  "titel": "Romanticism"
+ },
+ "artifact:romantikbevaegelsen": {
+  "fil": "artifact_romantikbevaegelsen.jpg",
+  "titel": "Romanticism"
+ },
+ "artifact:romerretten": {
+  "fil": "artifact_romerretten.jpg",
+  "titel": "Roman law"
+ },
+ "philosopher:rothbard": {
+  "fil": "philosopher_rothbard.jpg",
+  "titel": "Murray Rothbard"
+ },
+ "philosopher:rousseau": {
+  "fil": "philosopher_rousseau.jpg",
+  "titel": "Jean-Jacques Rousseau"
+ },
+ "artifact:rousseau-emile": {
+  "fil": "artifact_rousseau-emile.jpg",
+  "titel": "Emile, or On Education"
+ },
+ "artifact:rousseau-samfundskontrakten": {
+  "fil": "artifact_rousseau-samfundskontrakten.jpg",
+  "titel": "The Social Contract"
+ },
+ "artifact:royal-society": {
+  "fil": "artifact_royal-society.jpg",
+  "titel": "Royal Society"
+ },
+ "philosopher:royce": {
+  "fil": "philosopher_royce.jpg",
+  "titel": "Josiah Royce"
+ },
+ "philosopher:russell": {
+  "fil": "philosopher_russell.jpg",
+  "titel": "Bertrand Russell"
+ },
+ "philosopher:ryle": {
+  "fil": "philosopher_ryle.jpg",
+  "titel": "Gilbert Ryle"
+ },
+ "artifact:ryle-sindets-begreb": {
+  "fil": "artifact_ryle-sindets-begreb.jpg",
+  "titel": "The Concept of Mind"
+ },
+ "concept:samfundskontrakten": {
+  "fil": "concept_samfundskontrakten.jpg",
+  "titel": "The Social Contract"
+ },
+ "concept:sandsynlighedsteori": {
+  "fil": "concept_sandsynlighedsteori.jpg",
+  "titel": "Probability theory"
+ },
+ "philosopher:santayana": {
+  "fil": "philosopher_santayana.jpg",
+  "titel": "George Santayana"
+ },
+ "artifact:santayana-sans-for-skønhed": {
+  "fil": "artifact_santayana-sans-for-skønhed.jpg",
+  "titel": "The Sense of Beauty"
+ },
+ "philosopher:sartre": {
+  "fil": "philosopher_sartre.jpg",
+  "titel": "Jean-Paul Sartre"
+ },
+ "artifact:sartre-eksistentialisme-er-humanisme": {
+  "fil": "artifact_sartre-eksistentialisme-er-humanisme.jpg",
+  "titel": "Existentialism Is a Humanism"
+ },
+ "artifact:sartre-vaeren-og-intethed": {
+  "fil": "artifact_sartre-vaeren-og-intethed.jpg",
+  "titel": "Being and Nothingness"
+ },
+ "philosopher:schelling": {
+  "fil": "philosopher_schelling.jpg",
+  "titel": "Friedrich Wilhelm Joseph Schelling"
+ },
+ "artifact:schelling-transcendentale-idealisme": {
+  "fil": "artifact_schelling-transcendentale-idealisme.jpg",
+  "titel": "System of Transcendental Idealism"
+ },
+ "philosopher:schleiermacher": {
+  "fil": "philosopher_schleiermacher.jpg",
+  "titel": "Friedrich Schleiermacher"
+ },
+ "artifact:schleiermacher-om-religion": {
+  "fil": "artifact_schleiermacher-om-religion.jpg",
+  "titel": "On Religion"
+ },
+ "philosopher:schlick": {
+  "fil": "philosopher_schlick.jpg",
+  "titel": "Moritz Schlick"
+ },
+ "philosopher:schmitt": {
+  "fil": "philosopher_schmitt.jpg",
+  "titel": "Carl Schmitt"
+ },
+ "artifact:schmitt-det-politiske": {
+  "fil": "artifact_schmitt-det-politiske.jpg",
+  "titel": "The Concept of the Political"
+ },
+ "philosopher:schopenhauer": {
+  "fil": "philosopher_schopenhauer.jpg",
+  "titel": "Arthur Schopenhauer"
+ },
+ "artifact:schopenhauer-verden-som-vilje": {
+  "fil": "artifact_schopenhauer-verden-som-vilje.jpg",
+  "titel": "The World as Will and Representation"
+ },
+ "artifact:se7en": {
+  "fil": "artifact_se7en.jpg",
+  "titel": "Seven (1995 film)"
+ },
+ "philosopher:seneca": {
+  "fil": "philosopher_seneca.jpg",
+  "titel": "Seneca the Younger"
+ },
+ "artifact:senecas-breve": {
+  "fil": "artifact_senecas-breve.jpg",
+  "titel": "Epistulae Morales ad Lucilium"
+ },
+ "philosopher:sextus-empiricus": {
+  "fil": "philosopher_sextus-empiricus.jpg",
+  "titel": "Sextus Empiricus"
+ },
+ "artifact:sextus-pyrrhonske-skitse": {
+  "fil": "artifact_sextus-pyrrhonske-skitse.jpg",
+  "titel": "Sextus Empiricus"
+ },
+ "philosopher:simmel": {
+  "fil": "philosopher_simmel.jpg",
+  "titel": "Georg Simmel"
+ },
+ "philosopher:singer": {
+  "fil": "philosopher_singer.jpg",
+  "titel": "Peter Singer"
+ },
+ "artifact:sixtinske-kapel-skabelsen": {
+  "fil": "artifact_sixtinske-kapel-skabelsen.jpg",
+  "titel": "The Creation of Adam"
+ },
+ "concept:sjaelens-vandring": {
+  "fil": "concept_sjaelens-vandring.jpg",
+  "titel": "Reincarnation"
+ },
+ "concept:skolastik": {
+  "fil": "concept_skolastik.jpg",
+  "titel": "Scholasticism"
+ },
+ "philosopher:smith": {
+  "fil": "philosopher_smith.jpg",
+  "titel": "Adam Smith"
+ },
+ "artifact:smith-nationernes-velstand": {
+  "fil": "artifact_smith-nationernes-velstand.jpg",
+  "titel": "The Wealth of Nations"
+ },
+ "artifact:socialdemokratiet": {
+  "fil": "artifact_socialdemokratiet.jpg",
+  "titel": "Social democracy"
+ },
+ "concept:sociologi-begreb": {
+  "fil": "concept_sociologi-begreb.jpg",
+  "titel": "Sociology"
+ },
+ "artifact:sociologien": {
+  "fil": "artifact_sociologien.jpg",
+  "titel": "Sociology"
+ },
+ "concept:sofisme": {
+  "fil": "concept_sofisme.jpg",
+  "titel": "Fallacy"
+ },
+ "concept:sofistikeret-falsifikationisme": {
+  "fil": "concept_sofistikeret-falsifikationisme.jpg",
+  "titel": "Falsifiability"
+ },
+ "philosopher:sokrates": {
+  "fil": "philosopher_sokrates.jpg",
+  "titel": "Socrates"
+ },
+ "concept:sokratisk-metode": {
+  "fil": "concept_sokratisk-metode.jpg",
+  "titel": "Socratic method"
+ },
+ "artifact:sokratisk-samtale": {
+  "fil": "artifact_sokratisk-samtale.jpg",
+  "titel": "Socratic dialogue"
+ },
+ "artifact:sovjetunionen": {
+  "fil": "artifact_sovjetunionen.jpg",
+  "titel": "Soviet Union"
+ },
+ "philosopher:spinoza": {
+  "fil": "philosopher_spinoza.jpg",
+  "titel": "Baruch Spinoza"
+ },
+ "artifact:spildesign-og-flow": {
+  "fil": "artifact_spildesign-og-flow.jpg",
+  "titel": "Game design"
+ },
+ "artifact:spinoza-etik": {
+  "fil": "artifact_spinoza-etik.jpg",
+  "titel": "Spinoza's Ethics"
+ },
+ "concept:spoegelset-i-maskinen": {
+  "fil": "concept_spoegelset-i-maskinen.jpg",
+  "titel": "The Ghost in the Machine"
+ },
+ "concept:sprogfilosofi": {
+  "fil": "concept_sprogfilosofi.jpg",
+  "titel": "Philosophy of language"
+ },
+ "artifact:star-wars": {
+  "fil": "artifact_star-wars.jpg",
+  "titel": "Star Wars (film)"
+ },
+ "philosopher:steiner": {
+  "fil": "philosopher_steiner.jpg",
+  "titel": "Rudolf Steiner"
+ },
+ "philosopher:stirner": {
+  "fil": "philosopher_stirner.jpg",
+  "titel": "Max Stirner"
+ },
+ "artifact:stirner-den-eneste": {
+  "fil": "artifact_stirner-den-eneste.jpg",
+  "titel": "The Ego and Its Own"
+ },
+ "concept:stilladsering": {
+  "fil": "concept_stilladsering.jpg",
+  "titel": "Scaffolding"
+ },
+ "artifact:stoa-poikile": {
+  "fil": "artifact_stoa-poikile.jpg",
+  "titel": "Stoa Poikile"
+ },
+ "concept:stoicisme": {
+  "fil": "concept_stoicisme.jpg",
+  "titel": "Stoicism"
+ },
+ "concept:stoisk-logik": {
+  "fil": "concept_stoisk-logik.jpg",
+  "titel": "Stoicism"
+ },
+ "philosopher:strauss": {
+  "fil": "philosopher_strauss.jpg",
+  "titel": "Leo Strauss"
+ },
+ "concept:subjektiv-idealisme": {
+  "fil": "concept_subjektiv-idealisme.jpg",
+  "titel": "Subjective idealism"
+ },
+ "artifact:surrealismen": {
+  "fil": "artifact_surrealismen.jpg",
+  "titel": "Surrealism"
+ },
+ "concept:suveraenitet": {
+  "fil": "concept_suveraenitet.jpg",
+  "titel": "Sovereignty"
+ },
+ "concept:syllogismen": {
+  "fil": "concept_syllogismen.jpg",
+  "titel": "Syllogism"
+ },
+ "philosopher:tabatabai": {
+  "fil": "philosopher_tabatabai.jpg",
+  "titel": "Muhammad Husayn Tabataba'i"
+ },
+ "concept:tabula-rasa": {
+  "fil": "concept_tabula-rasa.jpg",
+  "titel": "Tabula rasa"
+ },
+ "artifact:tai-chi": {
+  "fil": "artifact_tai-chi.jpg",
+  "titel": "Tai chi"
+ },
+ "philosopher:taylor": {
+  "fil": "philosopher_taylor.jpg",
+  "titel": "Charles Taylor (philosopher)"
+ },
+ "concept:teleologi": {
+  "fil": "concept_teleologi.jpg",
+  "titel": "Teleology"
+ },
+ "philosopher:thales": {
+  "fil": "philosopher_thales.jpg",
+  "titel": "Thales of Miletus"
+ },
+ "artifact:the-big-lebowski": {
+  "fil": "artifact_the-big-lebowski.jpg",
+  "titel": "The Big Lebowski"
+ },
+ "artifact:the-good-place": {
+  "fil": "artifact_the-good-place.jpg",
+  "titel": "The Good Place"
+ },
+ "artifact:the-matrix": {
+  "fil": "artifact_the-matrix.jpg",
+  "titel": "The Matrix"
+ },
+ "artifact:the-truman-show": {
+  "fil": "artifact_the-truman-show.jpg",
+  "titel": "The Truman Show"
+ },
+ "concept:theodice": {
+  "fil": "concept_theodice.jpg",
+  "titel": "Theodicy"
+ },
+ "concept:thomisme": {
+  "fil": "concept_thomisme.jpg",
+  "titel": "Thomism"
+ },
+ "era:tidligt-1900-tal": {
+  "fil": "era_tidligt-1900-tal.jpg",
+  "titel": "20th century"
+ },
+ "philosopher:tocqueville": {
+  "fil": "philosopher_tocqueville.jpg",
+  "titel": "Alexis de Tocqueville"
+ },
+ "artifact:tocqueville-demokratiet": {
+  "fil": "artifact_tocqueville-demokratiet.jpg",
+  "titel": "Democracy in America"
+ },
+ "concept:tilknytningsteori": {
+  "fil": "concept_tilknytningsteori.jpg",
+  "titel": "Attachment theory"
+ },
+ "artifact:total-recall": {
+  "fil": "artifact_total-recall.jpg",
+  "titel": "Total Recall (1990 film)"
+ },
+ "concept:totalitarisme": {
+  "fil": "concept_totalitarisme.jpg",
+  "titel": "Totalitarianism"
+ },
+ "concept:transcendental-idealisme": {
+  "fil": "concept_transcendental-idealisme.jpg",
+  "titel": "Transcendental idealism"
+ },
+ "artifact:turing-testen": {
+  "fil": "artifact_turing-testen.jpg",
+  "titel": "Turing test"
+ },
+ "concept:tysk-idealisme": {
+  "fil": "concept_tysk-idealisme.jpg",
+  "titel": "German idealism"
+ },
+ "era:tysk-idealisme": {
+  "fil": "era_tysk-idealisme.jpg",
+  "titel": "German idealism"
+ },
+ "artifact:tysklands-grundgesetz": {
+  "fil": "artifact_tysklands-grundgesetz.jpg",
+  "titel": "Basic Law for the Federal Republic of Germany"
+ },
+ "artifact:udviklingspsykologien": {
+  "fil": "artifact_udviklingspsykologien.jpg",
+  "titel": "Developmental psychology"
+ },
+ "concept:ultramontanisme": {
+  "fil": "concept_ultramontanisme.jpg",
+  "titel": "Ultramontanism"
+ },
+ "concept:universaliestriden": {
+  "fil": "concept_universaliestriden.jpg",
+  "titel": "Problem of universals"
+ },
+ "artifact:universitetet-i-bologna": {
+  "fil": "artifact_universitetet-i-bologna.jpg",
+  "titel": "University of Bologna"
+ },
+ "artifact:universitetet-i-paris": {
+  "fil": "artifact_universitetet-i-paris.jpg",
+  "titel": "University of Paris"
+ },
+ "concept:utopi": {
+  "fil": "concept_utopi.jpg",
+  "titel": "Utopia"
+ },
+ "artifact:vandringsmanden-over-taagen": {
+  "fil": "artifact_vandringsmanden-over-taagen.jpg",
+  "titel": "Wanderer Above the Sea of Fog"
+ },
+ "concept:varefetichisme": {
+  "fil": "concept_varefetichisme.jpg",
+  "titel": "Commodity fetishism"
+ },
+ "concept:vaeksttankesaet": {
+  "fil": "concept_vaeksttankesaet.jpg",
+  "titel": "Mindset"
+ },
+ "artifact:velfaerdsstaten": {
+  "fil": "artifact_velfaerdsstaten.jpg",
+  "titel": "Welfare state"
+ },
+ "artifact:verdensbanken": {
+  "fil": "artifact_verdensbanken.jpg",
+  "titel": "World Bank Group"
+ },
+ "philosopher:voegelin": {
+  "fil": "philosopher_voegelin.jpg",
+  "titel": "Eric Voegelin"
+ },
+ "artifact:vidensledelse": {
+  "fil": "artifact_vidensledelse.jpg",
+  "titel": "Knowledge management"
+ },
+ "philosopher:voltaire": {
+  "fil": "philosopher_voltaire.jpg",
+  "titel": "Voltaire"
+ },
+ "artifact:voltaire-candide": {
+  "fil": "artifact_voltaire-candide.jpg",
+  "titel": "Candide"
+ },
+ "artifact:voltaire-filosofiske-breve": {
+  "fil": "artifact_voltaire-filosofiske-breve.jpg",
+  "titel": "Letters on the English"
+ },
+ "philosopher:vygotsky": {
+  "fil": "philosopher_vygotsky.jpg",
+  "titel": "Lev Vygotsky"
+ },
+ "artifact:wagner-tristan": {
+  "fil": "artifact_wagner-tristan.jpg",
+  "titel": "Tristan und Isolde"
+ },
+ "artifact:waking-life": {
+  "fil": "artifact_waking-life.jpg",
+  "titel": "Waking Life"
+ },
+ "artifact:waldorfpaedagogik": {
+  "fil": "artifact_waldorfpaedagogik.jpg",
+  "titel": "Waldorf education"
+ },
+ "artifact:wall-e": {
+  "fil": "artifact_wall-e.jpg",
+  "titel": "WALL-E"
+ },
+ "philosopher:weber": {
+  "fil": "philosopher_weber.jpg",
+  "titel": "Max Weber"
+ },
+ "artifact:weber-protestantismens-etik": {
+  "fil": "artifact_weber-protestantismens-etik.jpg",
+  "titel": "The Protestant Ethic and the Spirit of Capitalism"
+ },
+ "philosopher:west": {
+  "fil": "philosopher_west.jpg",
+  "titel": "Cornel West"
+ },
+ "philosopher:wenger": {
+  "fil": "philosopher_wenger.jpg",
+  "titel": "Étienne Wenger"
+ },
+ "philosopher:whitehead": {
+  "fil": "philosopher_whitehead.jpg",
+  "titel": "Alfred North Whitehead"
+ },
+ "artifact:whitehead-proces-og-virkelighed": {
+  "fil": "artifact_whitehead-proces-og-virkelighed.jpg",
+  "titel": "Process and Reality"
+ },
+ "artifact:wienerkredsen": {
+  "fil": "artifact_wienerkredsen.jpg",
+  "titel": "Vienna Circle"
+ },
+ "philosopher:winnicott": {
+  "fil": "philosopher_winnicott.jpg",
+  "titel": "Donald Winnicott"
+ },
+ "philosopher:wittgenstein": {
+  "fil": "philosopher_wittgenstein.jpg",
+  "titel": "Ludwig Wittgenstein"
+ },
+ "artifact:wittgenstein-tractatus": {
+  "fil": "artifact_wittgenstein-tractatus.jpg",
+  "titel": "Tractatus Logico-Philosophicus"
+ },
+ "artifact:wittgenstein-undersoegelser": {
+  "fil": "artifact_wittgenstein-undersoegelser.jpg",
+  "titel": "Philosophical Investigations"
+ },
+ "concept:ytringsfrihed": {
+  "fil": "concept_ytringsfrihed.jpg",
+  "titel": "Freedom of speech"
+ },
+ "artifact:zenbuddhisme": {
+  "fil": "artifact_zenbuddhisme.jpg",
+  "titel": "Zen"
+ },
+ "philosopher:zenon-af-kition": {
+  "fil": "philosopher_zenon-af-kition.jpg",
+  "titel": "Zeno of Citium"
+ },
+ "philosopher:zizek": {
+  "fil": "philosopher_zizek.jpg",
+  "titel": "Slavoj Žižek"
+ },
+ "concept:zonen-for-naermeste-udvikling": {
+  "fil": "concept_zonen-for-naermeste-udvikling.jpg",
+  "titel": "Zone of proximal development"
+ }
+}

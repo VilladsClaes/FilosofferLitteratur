@@ -1,0 +1,439 @@
+:ID,id,da,en,kind,note,aar,aarKilde,:LABEL
+concept:naturfilosofi,naturfilosofi,Naturfilosofi,Natural philosophy,teori,At forklare naturen ud fra naturen selv – uden mytologi.,-580,værk,Concept
+concept:vand-som-grundstof,vand-som-grundstof,Vand som grundstof (arkhe),Water as the first principle,teori,Thales: alt er af vand. Verdens første fysiske forklaring.,-580,værk,Concept
+concept:talfilosofi,talfilosofi,Talfilosofi,Philosophy of number,teori,Tallet som verdens egentlige struktur.,-530,værk,Concept
+concept:matematisk-harmoni,matematisk-harmoni,Matematisk harmoni,Mathematical harmony,teori,"Intervaller, sfærernes musik og den talmæssige verdensorden.",-530,værk,Concept
+concept:sjaelens-vandring,sjaelens-vandring,Sjælens vandring (metempsychose),Transmigration of souls,doktrin,Sjælen er udødelig og vandrer mellem legemer.,-530,værk,Concept
+concept:panta-rhei,panta-rhei,"Panta rhei – ""alt flyder""",Panta rhei,doktrin,"Intet blivende, kun forandring; man stiger ikke to gange ned i samme flod.",-500,værk,Concept
+concept:logos,logos,Logos,Logos,begreb,"Verdens fornuftige orden og lov, som kan erkendes.",-500,værk,Concept
+concept:forandringens-filosofi,forandringens-filosofi,Forandringens filosofi,Philosophy of becoming,doktrin,"Blivelsen, ikke væren, er det filosofiske grundfænomen.",-500,værk,Concept
+concept:vaeren-uforanderlig,vaeren-uforanderlig,Væren er uforanderlig,The immutability of Being,doktrin,"Parmenides: det, der er, kan hverken opstå eller forgå.",-475,værk,Concept
+concept:monisme,monisme,Monisme,Monism,doktrin,Virkeligheden er i sidste instans ét eneste princip.,-475,værk,Concept
+concept:nous,nous,Nous (fornuft),Nous,begreb,"Anaxagoras: verdensordnende ånd, det, der sætter kosmos i bevægelse.",-450,værk,Concept
+concept:pluralisme,pluralisme,Pluralisme,Pluralism,doktrin,Mange uafhængige grundelementer slår monismen.,-450,værk,Concept
+concept:relativisme,relativisme,Relativisme,Relativism,doktrin,"Sandhed og værdi er afhængig af den, der dømmer.",-440,værk,Concept
+concept:homo-mensura,homo-mensura,"""Mennesket er alle tings mål""",Homo mensura,princip,Protagoras: mennesket er målestok for alt.,-440,værk,Concept
+concept:materialisme,materialisme,Materialisme,Materialism,doktrin,Alt er materielt – også sjæl og tanke.,-420,værk,Concept
+concept:sokratisk-metode,sokratisk-metode,Sokratisk metode,Socratic method,metode,Kritisk spørgen frem for doceren; at afdække sin egen uvidenhed.,-380,værk,Concept
+concept:mayeutik,mayeutik,Mayeutik (jordemoderkunst),Maieutics,metode,erkendelse fødes af den spørgendes samtale.,-385,værk,Concept
+concept:etisk-intellektualisme,etisk-intellektualisme,Etisk intellektualisme,Ethical intellectualism,doktrin,"Den, der ved hvad det gode er, gør det gode.",-375,værk,Concept
+concept:formernes-teori,formernes-teori,Formernes teori (ideerne),Theory of Forms,teori,"Det sanselige er afbilleder af evige, usanselige former.",-375,værk,Concept
+concept:hulelignelsen,hulelignelsen,Hulelignelsen,Allegory of the Cave,begreb,Menneskene som lænkede tilskuere til skyggebilleder på en væg.,-375,værk,Concept
+concept:idealismen,idealismen,Idealismen,Idealism,isme,"Virkelighedens grund er åndelig eller idémæssig, ikke materiel.",-375,værk,Concept
+concept:syllogismen,syllogismen,Syllogismen,Syllogism,metode,"Logikkens deduktive grundform: præmis, præmis, konklusion.",-340,værk,Concept
+concept:hylomorfisme,hylomorfisme,Hylomorfisme,Hylomorphism,teori,Alt består af stof (hyle) og form (morphe) som uadskillelige aspekter.,-340,værk,Concept
+concept:de-fire-aarsager,de-fire-aarsager,De fire årsager,The four causes,teori,"Stof, form, virkende og formål – hvorfor noget er, som det er.",-350,værk,Concept
+concept:teleologi,teleologi,Teleologi,Teleology,teori,Naturen handler efter formål; det senere skal forklares ud fra det tidligere.,-350,værk,Concept
+concept:dydsetik,dydsetik,Dydsetik,Virtue ethics,isme,"Spørgsmålet er ikke ""hvad må jeg?"", men ""hvordan bliver jeg en god person?"".",-340,værk,Concept
+concept:asketisme,asketisme,Asketisme,Asceticism,praksis,"Dyden vindes ved at give afkald på nydelse, status og eje.",-330,værk,Concept
+concept:kynisk-naturlighed,kynisk-naturlighed,Kynisk naturlighed,Cynic naturalness,doktrin,At leve efter naturen og håne konventionen.,-330,værk,Concept
+concept:hedonisme,hedonisme,Hedonisme,Hedonism,isme,Nydelsen er det højeste gode – men nydelse skal forstås klogt.,-300,værk,Concept
+concept:ataraxia,ataraxia,Ataraxia,Ataraxia,begreb,"Den urokkelige sindsro, der følger af begærsbegrænsning.",-300,værk,Concept
+concept:dyd-er-det-eneste-gode,dyd-er-det-eneste-gode,Dyden er det eneste gode,Virtue is the only good,doktrin,"Zenon: sundhed, rigdom og liv er ""ligegyldige"" i moralsk forstand.",180,værk,Concept
+concept:stoisk-logik,stoisk-logik,Stoisk logik,Stoic logic,metode,Sætningslogikkens forløber: hvis … så … som grundstruktur.,-200,værk,Concept
+concept:determinisme,determinisme,Determinisme,Determinism,doktrin,Alle hændelser følger nødvendigt af tidligere årsager.,-200,værk,Concept
+concept:naturret,naturret,Naturret,Natural law,teori,"Der findes en ret, som er ældre og højere end den vedtagne lov. Grotius gjorde den til grundlag for retten mellem stater.",-51,værk,Concept
+concept:retorisk-filosofi,retorisk-filosofi,Retorisk filosofi,Rhetorical philosophy,metode,"Filosofien skal kunne tale til borgerne, ikke kun til skolen.",-44,værk,Concept
+concept:humanitas,humanitas,Humanitas,Humanitas,begreb,"Dannelsen af det hele menneske gennem sprog, ret og sæder.",-44,værk,Concept
+concept:stoisk-livskunst,stoisk-livskunst,Stoisk livskunst,Stoic art of living,praksis,Filosofien som daglig øvelse i selviagttagelse og mådehold. Epiktets skelnen mellem tingen og dommen om tingen er den direkte forudsætning for den kognitive terapi.,65,værk,Concept
+concept:indre-frihed,indre-frihed,Indre frihed,Inner freedom,doktrin,"Frit er kun det, der står i min magt: min dom og min vilje.",125,værk,Concept
+concept:amor-fati,amor-fati,Amor fati,Amor fati,doktrin,"Kærlighed til skæbnen: at ville det, der sker.",125,værk,Concept
+concept:stoisk-selvdisciplin,stoisk-selvdisciplin,Stoisk selvdisciplin,Stoic self-discipline,praksis,Den daglige øvelse i at herske over sig selv.,180,værk,Concept
+concept:epoche,epoche,Epoché (dommens tilbageholdenhed),Epoché,metode,"At suspendere dommen, fordi grundene på begge sider vejer lige tungt.",200,værk,Concept
+concept:emanation,emanation,Emanation,Emanation,teori,Alt udstråler trinvist fra det Ene og længes tilbage mod kilden.,250,værk,Concept
+concept:det-ene,det-ene,Det Ene,The One,begreb,Det uudsigelige første princip hinsides både væren og tænkning.,250,værk,Concept
+concept:arvesynden,arvesynden,Arvesynden,Original sin,doktrin,Mennesket er født i en brusten tilstand og kan ikke frelse sig selv.,400,værk,Concept
+concept:naadelaeren,naadelaeren,Nådelæren,Doctrine of grace,doktrin,"Frelsen er Guds ufortjente gave, ikke menneskets præstation.",400,værk,Concept
+concept:fri-vilje,fri-vilje,Fri vilje,Free will,problem,"Er valget virkelig mit, hvis Gud forudser alt og naturen er lovbunden?",426,værk,Concept
+concept:gudsstaten,gudsstaten,Gudsstaten mod jordstaten,City of God vs. the earthly city,begreb,"To kærlighedsfællesskaber, som kæmper gennem hele historien.",426,værk,Concept
+concept:forsyn-og-skaebne,forsyn-og-skaebne,Forsyn og skæbne,Providence and fate,begreb,At forlige Guds forudseenhed med menneskets frihed.,524,værk,Concept
+concept:universaliestriden,universaliestriden,Universaliestriden,The problem of universals,problem,"Er almene begreber virkelige, eller findes kun de enkelte ting?",524,værk,Concept
+concept:nodvendig-eksistens,nodvendig-eksistens,Nødvendig eksistens,Necessary existence,teori,"Det, der ikke kan tænkes ikke-værende, er årsag til alt kontingent.",1020,værk,Concept
+concept:essens-og-eksistens,essens-og-eksistens,Essens og eksistens,Essence and existence,begreb,"Hvad noget er, er ikke det samme som at det er.",1020,værk,Concept
+concept:det-flyvende-menneske,det-flyvende-menneske,Det flyvende menneske,The flying man argument,argument,Selv uden krop og sanser må jeg være mig selv bevidst.,1020,værk,Concept
+concept:okkasionalisme,okkasionalisme,Okkasionalisme,Occasionalism,teori,Årsager har ingen egen kraft; Gud skaber hver virkning forfra.,1095,værk,Concept
+concept:sufisme,sufisme,Sufisme,Sufism,praksis,"Indre, erfaret vej til Gud frem for skolastisk bevis.",1095,værk,Concept
+concept:konceptualisme,konceptualisme,Konceptualisme,Conceptualism,doktrin,"Almene begreber findes i sindet, ikke i tingene.",1122,værk,Concept
+concept:dialektisk-metode,dialektisk-metode,Dialektisk metode,Dialectical method,metode,At stille modstridende kilder op mod hinanden for at nå en løsning.,1122,værk,Concept
+concept:dobbelt-sandhed,dobbelt-sandhed,Dobbelt sandhed,Double truth,doktrin,Filosofien og åbenbaringen kan begge være sande på hver sit plan.,1180,værk,Concept
+concept:negativ-teologi,negativ-teologi,Negativ teologi,Negative theology,teori,"Om Gud kan vi kun sige, hvad Gud ikke er.",1190,værk,Concept
+concept:fornuft-og-aabenbaring,fornuft-og-aabenbaring,Fornuft og åbenbaring,Reason and revelation,problem,"Kan fornuften bekræfte, hvad troen fortæller?",1190,værk,Concept
+concept:de-fem-gudsbeviser,de-fem-gudsbeviser,De fem gudsbeviser,The Five Ways,argument,"Bevægelse, årsag, kontingens, grader og formål fører til Gud.",1274,værk,Concept
+concept:voluntarisme,voluntarisme,Voluntarisme,Voluntarism,doktrin,Viljen er højere end fornuften – også i Gud.,1300,værk,Concept
+concept:haecceitas,haecceitas,Haecceitas (dethed),Haecceity,begreb,Det enkelte individs uudsigelige og ikke-generaliserbare identitet.,1300,værk,Concept
+concept:nominalisme,nominalisme,Nominalisme,Nominalism,doktrin,Kun de enkelte ting findes; begreberne er navne.,1323,værk,Concept
+concept:ockhams-ragekniv,ockhams-ragekniv,Ockhams ragekniv,Ockham's razor,princip,Antag ikke flere entiteter end nødvendigt.,1323,værk,Concept
+concept:transcendent-filosofi,transcendent-filosofi,Transcendent filosofi,Transcendent philosophy,doktrin,"Væren er ét og graderet; fornuft, intuition og åbenbaring må forenes.",1650,værk,Concept
+concept:koranfortolkning,koranfortolkning,Koranfortolkning (tafsir),Quranic exegesis,metode,Filosofisk og retslig udlægning af åbenbaringens tekst.,1956,værk,Concept
+concept:tekstfilologi,tekstfilologi,Tekstfilologi,Textual philology,metode,Tilbage til de oprindelige kilder og genopret den ægte tekst.,1511,værk,Concept
+concept:kristen-reformisme,kristen-reformisme,Kristen reformisme,Christian reformism,strømning,"Kirken skal fornyes indefra gennem dannelse, ikke sprænges.",1511,værk,Concept
+concept:politisk-realismen,politisk-realismen,Politisk realisme,Political realism,doktrin,"Se magten som den er, ikke som den burde være.",1532,værk,Concept
+concept:machiavellisme,machiavellisme,Machiavellisme,Machiavellianism,isme,Statens interesse som egen moral; midlet helliges af målet.,1532,værk,Concept
+concept:republikanisme,republikanisme,Republikanisme,Republicanism,doktrin,Frihed som fravær af vilkårlig herredømme i en blandet forfatning.,1531,værk,Concept
+concept:utopi,utopi,Utopi,Utopia,begreb,"Forestillingen om det retfærdige samfund på et sted, der ikke findes.",1516,værk,Concept
+concept:panteisme,panteisme,Panteisme,Pantheism,doktrin,Gud og naturen er ét og det samme.,1584,værk,Concept
+concept:kosmologisk-pluralisme,kosmologisk-pluralisme,Kosmologisk pluralisme,Cosmological pluralism,doktrin,Universet er uendeligt og fyldt med verdener som vores.,1584,værk,Concept
+concept:hermetisme,hermetisme,Hermetisme,Hermeticism,strømning,Verden som besjælet og forbundet; fortolkning som nøgle til kosmos.,1584,værk,Concept
+concept:induktiv-metode,induktiv-metode,Induktiv metode,Inductive method,metode,Fra mange enkeltiagttagelser til almene lovmæssigheder.,1620,værk,Concept
+concept:idolernes-laere,idolernes-laere,Idolernes lære,The four idols,teori,"Sindets, hulens, markedets og teatrets fordomme slører erkendelsen.",1620,værk,Concept
+concept:videnskabelig-metode,videnskabelig-metode,Den videnskabelige metode,The scientific method,metode,"Hypotese, observation og eksperiment som institutionel praksis.",1620,værk,Concept
+concept:samfundskontrakten,samfundskontrakten,Samfundskontrakten,The social contract,teori,"Statens legitimitet bygger på borgernes samtykke, ikke på Guds nåde.",1651,værk,Concept
+concept:naturtilstanden,naturtilstanden,Naturtilstanden,The state of nature,begreb,"Hvordan livet ser ud, før der findes en fælles overmagt.",1651,værk,Concept
+concept:absolutisme,absolutisme,Absolutisme,Absolutism,isme,Suverænens magt er udelt – kun en stærk hånd holder fred.,1651,værk,Concept
+concept:cogito-ergo-sum,cogito-ergo-sum,Cogito ergo sum,Cogito ergo sum,princip,Jeg tænker – altså er jeg. Det utvivlsomme fundament.,1641,værk,Concept
+concept:metodisk-tvivl,metodisk-tvivl,Metodisk tvivl,Methodic doubt,metode,"At tvivle på alt for at finde det, der ikke kan tvivles på.",1641,værk,Concept
+concept:dualisme,dualisme,Dualisme,Dualism,doktrin,Sjæl og legeme er to forskellige substanser.,1641,værk,Concept
+concept:pascals-vaeddemal,pascals-vaeddemal,Pascals væddemål,Pascal's wager,argument,"Tror du, vinder du alt; tager du fejl, taber du intet.",1670,værk,Concept
+concept:fideisme,fideisme,Fideisme,Fideism,doktrin,"Troen har sin egen fornuft, som fornuften ikke kan måle.",1670,værk,Concept
+concept:sandsynlighedsteori,sandsynlighedsteori,Sandsynlighedsteori,Probability theory,teori,Pascals brev til Fermat grundlagde sandsynlighedsregningens sprog.,1670,værk,Concept
+concept:jansenisme,jansenisme,Jansenisme,Jansenism,strømning,Augustinsk nådelære i skarp opposition til jesuitisk frihedsopptimalisme.,1670,værk,Concept
+concept:deus-sive-natura,deus-sive-natura,Deus sive natura,Deus sive natura,doktrin,"""Gud eller naturen"" – den ene substans i sine to aspekter.",1677,værk,Concept
+concept:tabula-rasa,tabula-rasa,Tabula rasa,Tabula rasa,teori,Sindet er ved fødslen et ubeskrevet blad; erfaringen skriver.,1690,værk,Concept
+concept:naturlige-rettigheder,naturlige-rettigheder,Naturlige rettigheder,Natural rights,doktrin,"Liv, frihed og ejendom tilkommer personen før staten.",1689,værk,Concept
+concept:personlig-identitet,personlig-identitet,Personlig identitet,Personal identity,teori,"Jeg er samme person, så længe erindringen rækker.",1690,værk,Concept
+concept:erfaringspaedagogik,erfaringspaedagogik,Erfaringspædagogik,Education through experience,doktrin,Karakter dannes gennem vaner og gentagelse – ikke gennem prygl og prædiken. Lockes breve til forældre blev læst som opdragelsesråd gennem hele 1700-tallet.,1693,værk,Concept
+concept:monadelaeren,monadelaeren,Monadologien,Monadology,teori,"Virkeligheden består af uendelige, perceptionsbeslægtede enheder.",1714,værk,Concept
+concept:praeetableret-harmoni,praeetableret-harmoni,Den præetablerede harmoni,Pre-established harmony,teori,Sjæl og legeme påvirker ikke hinanden – Gud har stemt dem fra begyndelsen.,1714,værk,Concept
+concept:theodice,theodice,Theodicé,Theodicy,teori,Hvordan kan ondskab forliges med en god og almægtig Gud?,1710,værk,Concept
+concept:subjektiv-idealisme,subjektiv-idealisme,Subjektiv idealisme,Subjective idealism,doktrin,Tingene findes kun som forestillinger i en bevidsthed.,1710,værk,Concept
+concept:immaterialisme,immaterialisme,Immaterialisme,Immaterialism,doktrin,Der findes ingen materiel substans – kun ånder og ideer.,1710,værk,Concept
+concept:esse-est-percipi,esse-est-percipi,Esse est percipi,Esse est percipi,princip,At være er at blive sanset.,1710,værk,Concept
+concept:magtens-tredeling,magtens-tredeling,Magtens tredeling,Separation of powers,teori,"Lovgivende, udøvende og dømmende magt skal bremse hinanden.",1748,værk,Concept
+concept:konstitutionalisme,konstitutionalisme,Konstitutionalisme,Constitutionalism,doktrin,Statsmagten er bundet af en grundlov og af borgerrettigheder.,1748,værk,Concept
+concept:deisme,deisme,Deisme,Deism,doktrin,Gud har skabt verden og dens love – og overladt den til sig selv.,1734,værk,Concept
+concept:ytringsfrihed,ytringsfrihed,Ytringsfrihed,Freedom of speech,doktrin,"Tanken skal kunne siges højt, også når den støder.",1734,værk,Concept
+concept:religionskritik,religionskritik,Religionskritik,Critique of religion,metode,At undersøge trosforestillinger med fornuftens og historieskrivningens redskaber.,1759,værk,Concept
+concept:kausalitetskritik,kausalitetskritik,Kausalitetskritik,Critique of causation,teori,"Vi ser rækkefølge, ikke nødvendig sammenhæng.",1739,værk,Concept
+concept:induktionsproblemet,induktionsproblemet,Induktionsproblemet,The problem of induction,problem,Ingen mængde af tilfælde beviser den næste.,1739,værk,Concept
+concept:naturalisme,naturalisme,Naturalisme,Naturalism,doktrin,Mennesket er en del af naturen og skal forklares som sådan.,1739,værk,Concept
+concept:almenviljen,almenviljen,Almenviljen,The general will,begreb,Folkets fælles vilje mod summen af særinteresser.,1762,værk,Concept
+concept:den-aeble-vilde,den-aeble-vilde,Den ædle vilde,The noble savage,begreb,Naturens menneske som moralsk ufordærvet modsætning til civilisationen.,1762,værk,Concept
+concept:naturlig-opdragelse,naturlig-opdragelse,Naturlig opdragelse,Natural education,doktrin,Barnet skal udvikle sig i sit eget tempo og i mødet med naturen.,1762,værk,Concept
+concept:encyklopaedisme,encyklopaedisme,Encyklopædisme,Encyclopédisme,begreb,At samle og offentliggøre al viden som våben mod fordommen.,1772,værk,Concept
+concept:den-usynlige-haand,den-usynlige-haand,Den usynlige hånd,The invisible hand,begreb,Egeninteressen leder til fælles gavn uden nogen intenderede det.,1776,værk,Concept
+concept:arbejdsdeling,arbejdsdeling,Arbejdsdeling,Division of labour,teori,Opsplitningen af arbejdet gør rigdom mulig – og gør arbejderen fremmed.,1776,værk,Concept
+concept:transcendental-idealisme,transcendental-idealisme,Transcendental idealisme,Transcendental idealism,teori,"Vi erkender verden, som den fremtræder for os – formet af vores egne betingelser.",1781,værk,Concept
+concept:det-kategoriske-imperativ,det-kategoriske-imperativ,Det kategoriske imperativ,The categorical imperative,princip,"Handl kun efter det princip, du kan ønske blev almen lov.",1788,værk,Concept
+concept:deontologi,deontologi,Deontologi,Deontology,isme,"Pligtens etik: handlingen bedømmes på princippet, ikke på konsekvensen.",1788,værk,Concept
+concept:kritisk-filosofi,kritisk-filosofi,Kritisk filosofi,Critical philosophy,metode,At granske fornuftens egne grænser og betingelser.,1781,værk,Concept
+concept:autonomi,autonomi,Autonomi,Autonomy,begreb,Selvlovgivning: viljen giver sig selv sin lov. Begrundelsen for at patienten og forsøgspersonen selv skal sige ja.,1788,værk,Concept
+concept:det-sublime,det-sublime,Det sublime,The sublime,begreb,Den skrækblandede henrykkelse foran det grænseløse.,1790,værk,Concept
+concept:organisk-samfundssyn,organisk-samfundssyn,Organisk samfundssyn,Organic view of society,doktrin,"Samfundet er en voksende organisme, ikke en maskine, man kan skille ad.",1790,værk,Concept
+concept:utilitarisme,utilitarisme,Utilitarisme,Utilitarianism,isme,Handlinger bedømmes på deres nytte: den størst mulige lykke for flest – og regnestykket er den etiske begrundelse for samfundsøkonomisk cost-benefit-analyse.,1789,værk,Concept
+concept:panoptisme,panoptisme,Panoptisme,Panopticism,begreb,Det usynlige overvågnings princip: at blive set uden at se.,1791,værk,Concept
+concept:hedonistisk-kalkule,hedonistisk-kalkule,Den hedonistiske kalkule,The felicific calculus,metode,At måle nydelse og smerte og regne den bedste handling ud.,1789,værk,Concept
+concept:retspositivisme,retspositivisme,Retspositivisme,Legal positivism,doktrin,"Lovens gyldighed afhænger af dens vedtagelse, ikke af dens moral.",1789,værk,Concept
+concept:common-sense-realismen,common-sense-realismen,Common sense-realismen,Common sense realism,doktrin,Den sunde fornufts vidnesbyrd vejer tungere end skeptiske konstruktioner.,1764,værk,Concept
+concept:jeget-som-princip,jeget-som-princip,Jeget som absolut princip,The I as absolute principle,doktrin,"Det handlede jeg sætter ikke bare verden, men sig selv.",1794,værk,Concept
+concept:naturfilosofi-schelling,naturfilosofi-schelling,Schellings naturfilosofi,Naturphilosophie,doktrin,"Naturen er synlig ånd, ånden usynlig natur.",1800,værk,Concept
+concept:identitetsfilosofi,identitetsfilosofi,Identitetsfilosofi,Identity philosophy,doktrin,Subjekt og objekt er i grunden det samme.,1800,værk,Concept
+concept:dialektik,dialektik,Dialektik,Dialectics,metode,"Sandhed udvikler sig gennem modsigelse: tese, negation, ny helhed.",1807,værk,Concept
+concept:absolut-idealisme,absolut-idealisme,Absolut idealisme,Absolute idealism,doktrin,Virkeligheden er åndens selvudfoldelse; det fornuftige er virkeligt.,1807,værk,Concept
+concept:verdensaanden,verdensaanden,Verdensånden,World spirit,begreb,Historien som åndens arbejde hen mod frihedens bevidsthed.,1807,værk,Concept
+concept:anerkendelse,anerkendelse,Anerkendelse,Recognition,begreb,"Selvbevidsthed bliver kun til i mødet med en anden, der anerkender den.",1807,værk,Concept
+concept:historiefilosofi,historiefilosofi,Historiefilosofi,Philosophy of history,doktrin,Historien har en retning og kan forstås som helhed.,1837,værk,Concept
+concept:absolut-afhaengighed,absolut-afhaengighed,Følelsen af absolut afhængighed,Feeling of absolute dependence,begreb,"Religionens kerne er erfaring, ikke doktrin.",1799,værk,Concept
+concept:romantisk-teologi,romantisk-teologi,Romantisk teologi,Romantic theology,doktrin,"Tro som inderlighed, følelse og fællesskab frem for lære.",1799,værk,Concept
+concept:pessimisme,pessimisme,Pessimisme,Pessimism,doktrin,Tilværelsen er i bund og grund lidelse; viljen kan ikke tilfredsstilles varigt.,1818,værk,Concept
+concept:viljen-som-tingen-i-sig,viljen-som-tingen-i-sig,Viljen som tingen-i-sig,The will as thing-in-itself,doktrin,"Bag forestillingerne står en blind, ustandselig vilje.",1818,værk,Concept
+concept:trestadie-loven,trestadie-loven,Trestadie-loven,Law of three stages,teori,"Menneskeheden tænker teologisk, metafysisk og endelig positivt.",1830,værk,Concept
+concept:sociologi-begreb,sociologi-begreb,Sociologien som videnskab,Sociology,begreb,Samfundet kan studeres med naturvidenskabens metode.,1830,værk,Concept
+concept:subjektivitet,subjektivitet,Subjektivitet er sandheden,Subjectivity is truth,doktrin,"Det afgørende er ikke systemet, men hvordan jeg lever mit liv.",1846,værk,Concept
+concept:troens-spring,troens-spring,Troens spring,The leap of faith,begreb,Troen kan ikke begrundes – den vælges.,1843,værk,Concept
+concept:angstbegrebet,angstbegrebet,Angsten,Anxiety,begreb,Frihedens svimmelhed foran det mulige.,1844,værk,Concept
+concept:skadeprincippet,skadeprincippet,Skadeprincippet,The harm principle,princip,Friheden må kun begrænses for at forhindre skade på andre.,1859,værk,Concept
+concept:kvindefrigoerelse,kvindefrigoerelse,Kvindefrigørelse,Women's emancipation,doktrin,"Lige rettigheder og lige værdighed for kvinder og mænd. Valgretten 1915 er det danske gennembrud – et bredt idehistorisk bånd til Mill, ikke en dokumenteret enkeltårsag.",1869,værk,Concept
+concept:historisk-materialisme,historisk-materialisme,Historisk materialisme,Historical materialism,teori,Samfundets økonomiske grundlag former dets bevidsthed og institutioner.,1848,værk,Concept
+concept:klassekamp,klassekamp,Klassekamp,Class struggle,begreb,"Historien er historien om kampe mellem klasser. Otte-timers-dagen var arbejderbevægelsens kernkrav længe før krigen og blev ILO's første konvention i 1919 – en bevægelse, der ikke kan reduceres til én tænker.",1848,værk,Concept
+concept:dialektisk-materialisme,dialektisk-materialisme,Dialektisk materialisme,Dialectical materialism,teori,Hegels dialektik vendt på hovedet: modsigelsen er materiel.,1883,værk,Concept
+concept:fremmedgoerelse,fremmedgoerelse,Fremmedgørelse,Alienation,begreb,Arbejderen møder sit eget arbejde og sig selv som noget fremmed.,1867,værk,Concept
+concept:varefetichisme,varefetichisme,Varefetichisme,Commodity fetishism,begreb,Vi tillægger varer en mystisk egenkraft og glemmer arbejdet bag dem.,1867,værk,Concept
+concept:mervaerdi,mervaerdi,Merværdi,Surplus value,teori,Profitten er ubetalt arbejdstid.,1867,værk,Concept
+concept:individualisme-emerson,individualisme-emerson,Individualismen,Individualism,isme,"Den enkelte skal tænke og leve selvstændigt, ikke efter flokkens målestok.",1841,værk,Concept
+concept:selvrealisering,selvrealisering,Selvrealisering,Self-realization,begreb,"At blive den, man er – som dannelsens mål.",1841,værk,Concept
+concept:egoisme,egoisme,Egoisme,Egoism,doktrin,Jeg er min egen sag; ingen almengyldig moral binder mig.,1844,værk,Concept
+concept:individualanarkisme,individualanarkisme,Individualanarkisme,Individualist anarchism,isme,"Ingen stat, ingen gud, ingen sag over den enkelte.",1844,værk,Concept
+concept:mutualisme,mutualisme,Mutualisme,Mutualism,doktrin,"Frit bytte mellem frie producenter uden rente, profit og herremagt.",1840,værk,Concept
+concept:ejendomskritik,ejendomskritik,"""Ejendom er tyveri""",Property is theft,princip,Jordleje og kapitalrente er tilegnelse af andres arbejde.,1840,værk,Concept
+concept:kollektiv-anarkisme,kollektiv-anarkisme,Kollektiv anarkisme,Collectivist anarchism,isme,Fælleseje og fri sammenslutning nedefra og op.,1882,værk,Concept
+concept:anti-autoritarisme,anti-autoritarisme,Anti-autoritarisme,Anti-authoritarianism,doktrin,Ingen autoritet er selvindlysende berettiget.,1882,værk,Concept
+concept:komparative-fordele,komparative-fordele,Komparative fordele,Comparative advantage,teori,"Handel gavner begge parter, også når den ene er bedre til alt.",1817,værk,Concept
+concept:arbejdsvaerditeori,arbejdsvaerditeori,Arbejdsværditeorien,Labour theory of value,teori,Varens værdi bestemmes af arbejdstiden bag den.,1817,værk,Concept
+concept:nihilisme,nihilisme,Nihilisme,Nihilism,doktrin,"Værdiernes grund er borte – ""Gud er død"", og intet svarer til det højeste.",1883,værk,Concept
+concept:overmennesket,overmennesket,Overmennesket,The Übermensch,doktrin,"Det menneske, der skaber egne værdier efter Guds død.",1883,værk,Concept
+concept:viljen-til-magt,viljen-til-magt,Viljen til magt,The will to power,doktrin,"Livets grundimpuls er at vokse i styrke, ikke at overleve.",1886,værk,Concept
+concept:evig-genkomst,evig-genkomst,Den evige genkomst,Eternal recurrence,doktrin,"Ville du sige ja til at leve præcis dette liv igen, uendeligt?",1883,værk,Concept
+concept:ressentiment,ressentiment,Ressentiment,Ressentiment,begreb,Den svages omvendte hævn: at gøre svaghed til dyd.,1887,værk,Concept
+concept:semiotik,semiotik,Semiotik,Semiotics,teori,"Tegn, betydning og fortolkning som systematisk videnskab.",1878,værk,Concept
+concept:fallibilisme,fallibilisme,Fallibilisme,Fallibilism,doktrin,Al erkendelse kan vise sig fejlagtig – og skal kunne revideres.,1878,værk,Concept
+concept:abduktion,abduktion,Abduktion,Abduction,metode,At slutte til den bedste forklaring.,1878,værk,Concept
+concept:radikal-empirisme,radikal-empirisme,Radikal empirisme,Radical empiricism,doktrin,Erfaringen omfatter også relationerne – ikke kun sanseindtrykkene.,1907,værk,Concept
+concept:den-religioese-erfaring,den-religioese-erfaring,Den religiøse erfaring,Religious experience,begreb,"Religion vurderes på, hvad den gør ved dem, der lever den.",1907,værk,Concept
+concept:praedikatslogik,praedikatslogik,Prædikatslogik,Predicate logic,teori,Kvantorer og prædikater afløser den gamle subjekt-prædikat-grammatik.,1879,værk,Concept
+concept:logicisme,logicisme,Logicisme,Logicism,doktrin,Matematikken er logik i forklædning.,1879,værk,Concept
+concept:betydning-og-reference,betydning-og-reference,Betydning og reference,Sense and reference,teori,"Hvad et udtryk betyder, er ikke det samme som hvad det peger på.",1879,værk,Concept
+concept:forstaaelse,forstaaelse,Forståelse (Verstehen),Verstehen,metode,"Åndsvidenskaberne fortolker mening, de forklarer ikke årsager.",1883,værk,Concept
+concept:livsfilosofi,livsfilosofi,Livsfilosofi,Philosophy of life,strømning,Filosofien skal tage udgangspunkt i livet som levet erfaring.,1883,værk,Concept
+concept:ultramontanisme,ultramontanisme,Ultramontanisme,Ultramontanism,doktrin,Pavens autoritet står over nationalstaten og dens fornuft.,1819,værk,Concept
+concept:modoplysning,modoplysning,Modoplysning,Counter-Enlightenment,strømning,"Reaktion mod oplysningens abstrakte fornuft, rettigheder og revolution.",1819,værk,Concept
+concept:demokratianalyse,demokratianalyse,Demokratianalyse,Analysis of democracy,metode,"At studere demokratiet som en social tilstand, ikke blot en styreform.",1835,værk,Concept
+concept:flertallets-tyranni,flertallets-tyranni,Flertallets tyranni,Tyranny of the majority,begreb,Når flertallet kvæler den enkeltes forskellighed uden at bruge vold.,1835,værk,Concept
+concept:civilsamfundet,civilsamfundet,Civilsamfundet,Civil society,begreb,Frivillige foreninger som demokratiets sociale muskel.,1835,værk,Concept
+concept:anarkokommunisme,anarkokommunisme,Anarkokommunisme,Anarcho-communism,isme,Fælles ejendom og frit forbrug efter behov.,1902,værk,Concept
+concept:gensidig-hjaelp,gensidig-hjaelp,Gensidig hjælp,Mutual aid,teori,Samarbejde er en lige så stærk naturkraft som konkurrencen.,1902,værk,Concept
+concept:revolutionaer-socialisme,revolutionaer-socialisme,Revolutionær socialisme,Revolutionary socialism,isme,"Klassekampen skal føres, ikke forhandles væk.",1913,værk,Concept
+concept:spontanitetsteori,spontanitetsteori,Spontanitetsteorien,Theory of spontaneity,teori,Massebevægelsens eget initiativ er mere revolutionært end partiets plan.,1913,værk,Concept
+concept:antiimperialisme,antiimperialisme,Antiimperialisme,Anti-imperialism,doktrin,Kapitalismen lever af at udbytte hele verdensdele.,1913,værk,Concept
+concept:intentionalitet,intentionalitet,Intentionalitet,Intentionality,begreb,Bevidsthed er altid bevidsthed om noget.,1913,værk,Concept
+concept:transcendental-reduktion,transcendental-reduktion,Den transcendentale reduktion,Transcendental reduction,metode,"At sætte verdens ""findes"" i parentes for at beskrive fremtrædelsen.",1913,værk,Concept
+concept:livsverdenen,livsverdenen,Livsverdenen,The lifeworld,begreb,"Den forvidenskabelige hverdagserfaring, som videnskaben forudsætter.",1936,værk,Concept
+concept:varighed,varighed,Varighed (durée),Duration,begreb,"Tid oplevet indefra som ubrudt, uopdelig strøm – ikke målt på uret.",1907,værk,Concept
+concept:intuitionisme,intuitionisme,Intuitionisme,Intuitionism,doktrin,"Den dybeste erkendelse er intuitiv, ikke diskursiv.",1907,værk,Concept
+concept:elan-vital,elan-vital,Élan vital,Élan vital,begreb,Livets skabende kraftpres gennem evolutionen.,1907,værk,Concept
+concept:logisk-atomisme,logisk-atomisme,Logisk atomisme,Logical atomism,doktrin,"Verden består af simple kendsgerninger, som sproget afbilder.",1913,værk,Concept
+concept:typeteori,typeteori,Typeteori,Type theory,teori,At ordne sprogets udtryk i niveauer for at undgå selvreference.,1913,værk,Concept
+concept:procesfilosofi,procesfilosofi,Procesfilosofi,Process philosophy,doktrin,"Det grundlæggende er begivenheder og relationer, ikke substanser.",1929,værk,Concept
+concept:organisk-filosofi,organisk-filosofi,Organisk filosofi,Philosophy of organism,doktrin,Naturen som sammenhængende organisme af erfare tilstande.,1929,værk,Concept
+concept:instrumentalisme,instrumentalisme,Instrumentalisme,Instrumentalism,doktrin,"Ideer er redskaber, der bedømmes på, hvad de udretter.",1916,værk,Concept
+concept:progressiv-paedagogik,progressiv-paedagogik,Progressiv pædagogik,Progressive education,doktrin,"Eleven er aktiv undersøger; skolen er demokrati i det små. Deweys forsøgsskole i Chicago (1896) var rammen, og hans elev Kilpatricks projektmetode (1918) førte ideen ud i klasselokalet.",1916,værk,Concept
+concept:kritisk-realismen,kritisk-realismen,Kritisk realisme,Critical realism,doktrin,"Erkendelsen rammer virkeligheden, men altid gennem fortolkning.",1896,værk,Concept
+concept:aestetisk-erfaring,aestetisk-erfaring,Æstetisk erfaring,Aesthetic experience,begreb,"Skønhed som en biologisk forankret, umiddelbar glæde.",1896,værk,Concept
+concept:loyalitetens-filosofi,loyalitetens-filosofi,Loyalitetens filosofi,The philosophy of loyalty,doktrin,"Vær loyal mod loyaliteten selv – mod det, der binder fællesskaber sammen.",1908,værk,Concept
+concept:sprogspil,sprogspil,Sprogspil,Language games,begreb,"Sprogets betydning ligger i den praksis, det bruges i.",1953,værk,Concept
+concept:billedteori,billedteori,Billedteorien,Picture theory of meaning,teori,Sætningen er et billede af en mulig kendsgerning.,1921,værk,Concept
+concept:sprogfilosofi,sprogfilosofi,Sprogfilosofi,Philosophy of language,strømning,Filosofiens problemer er forviklinger i sproget.,1953,værk,Concept
+concept:dasein,dasein,Dasein,Dasein,begreb,"Det menneskelige væsen, der netop er karakteriseret ved at spørge om sin egen væren.",1927,værk,Concept
+concept:vaeren-i-verden,vaeren-i-verden,Væren-i-verdenen,Being-in-the-world,begreb,"Vi er aldrig isolerede subjekter, men altid allerede i en verden.",1927,værk,Concept
+concept:teknikfilosofi,teknikfilosofi,Teknikkens væsen,The essence of technology,begreb,"Teknikken er ikke et redskab, men en måde at afdække verden på.",1927,værk,Concept
+concept:verifikationsprincip,verifikationsprincip,Verifikationsprincippet,The verification principle,teori,"En sætning er meningsfuld, kun hvis den kan verificeres empirisk.",1929,værk,Concept
+concept:logisk-analyse,logisk-analyse,Logisk analyse,Logical analysis,metode,Filosofiens opgave er at analysere sprogets og videnskabens logiske form.,1928,værk,Concept
+concept:formal-sociologi,formal-sociologi,Formal sociologi,Formal sociology,metode,At studere de sociale former uafhængigt af deres indhold.,1900,værk,Concept
+concept:kulturfilosofi,kulturfilosofi,Kulturfilosofi,Philosophy of culture,strømning,Moderne liv som spænding mellem objektiv kultur og subjektivt liv.,1900,værk,Concept
+concept:idealtyper,idealtyper,Idealtyper,Ideal types,metode,Analytiske konstruktioner til at måle virkeligheden imod.,1905,værk,Concept
+concept:bureaukrati,bureaukrati,Bureaukrati og rationalisering,Bureaucracy and rationalisation,begreb,"Verden affortrylles og styres med regler, skemaer og sagsmapper.",1905,værk,Concept
+concept:protestantismens-etik,protestantismens-etik,Protestantismens etik,The Protestant ethic,teori,Inderlig askese blev til kapitalismens ånd.,1905,værk,Concept
+concept:psykoanalyse,psykoanalyse,Psykoanalyse,Psychoanalysis,metode,"Det ubevidste studeret gennem drømme, fejltagelser og overføring.",1899,værk,Concept
+concept:det-ubevidste,det-ubevidste,Det ubevidste,The unconscious,begreb,"En del af sjælelivet, som ikke er tilgængeligt for bevidstheden.",1899,værk,Concept
+concept:oedipuskomplekset,oedipuskomplekset,Ødipuskomplekset,The Oedipus complex,teori,Barnets ambivalente begær og identifikation i treklangen mor-far-barn.,1899,værk,Concept
+concept:det-topiske-system,det-topiske-system,"Jeg, det og overjeg","Ego, id and superego",teori,Sjælelivets tre instanser i indbyrdes konflikt.,1923,værk,Concept
+concept:historicisme,historicisme,Historicisme,Historicism,doktrin,Alt menneskeligt – også filosofien – må forstås historisk.,1902,værk,Concept
+concept:aestetisk-intuition,aestetisk-intuition,Æstetisk intuition,Aesthetic intuition,begreb,Kunsten er intuitivt udtryk før enhver begrebslig sondring.,1902,værk,Concept
+concept:aktuel-idealisme,aktuel-idealisme,Aktuel idealisme,Actual idealism,doktrin,Ånden er ren handling; staten er tanken blæst op til virkelighed.,1932,værk,Concept
+concept:totalitarisme,totalitarisme,Totalitarisme,Totalitarianism,begreb,"Staten vil ikke bare styre livet, men definere virkeligheden.",1932,værk,Concept
+concept:ratiovitalisme,ratiovitalisme,Ratiovitalisme,Ratiovitalism,doktrin,"Fornuften er ikke blind, men altid forankret i livet.",1930,værk,Concept
+concept:perspektivisme,perspektivisme,Perspektivisme,Perspectivism,doktrin,"Der findes ikke et guddommeligt synspunkt – kun perspektiver. Nietzsche regnes som forløber for postmodernismen, ikke som dens ophavsmand.",1930,værk,Concept
+concept:massemennesket,massemennesket,Massemennesket,The mass man,begreb,"Den, der er tilfreds, fordi han er som alle andre.",1930,værk,Concept
+concept:religioes-eksistentialisme,religioes-eksistentialisme,Religiøs eksistentialisme,Religious existentialism,doktrin,Friheden er guddommelig og kan derfor ikke opgives uden at miste sig selv.,1911,værk,Concept
+concept:kreativitet,kreativitet,Kreativitetens etik,The ethics of creativity,begreb,Menneskets kald er at skabe det nye – også i konflikt med det bestående.,1911,værk,Concept
+concept:kulturhegemoni,kulturhegemoni,Kulturhegemoni,Cultural hegemony,teori,"Herredømme opnås ved samtykke i kulturen, ikke kun ved magt.",1948,værk,Concept
+concept:organisk-intellektuel,organisk-intellektuel,Den organiske intellektuelle,The organic intellectual,begreb,"Den tænker, der vokser ud af en klasse og giver den sprog.",1948,værk,Concept
+concept:reifikation,reifikation,Reifikation,Reification,begreb,Sociale forhold stivner og ser ud som tingenes natur.,1923,værk,Concept
+concept:klassebevidsthed,klassebevidsthed,Klassebevidsthed,Class consciousness,begreb,Når klassen erkender sin historiske rolle og handler derefter.,1923,værk,Concept
+concept:aandsvidenskab,aandsvidenskab,Åndsvidenskab,Geisteswissenschaft,doktrin,Erkendelse af det åndelige i verden gennem trænet iagttagelse.,1913,værk,Concept
+concept:tregrening,tregrening,Social tregrening,Social threefolding,teori,"Åndsliv, retsliv og økonomi bør være selvstændige samfundssfærer.",1913,værk,Concept
+concept:steinerpaedagogik,steinerpaedagogik,Waldorfpædagogik,Waldorf pedagogy,doktrin,Undervisning i rytmer og i hele barnets udviklingsforløb.,1913,værk,Concept
+concept:det-politiske,det-politiske,Det politiske,The political,begreb,Politikkens kerne er intensiteten i ven-fjende-forholdet.,1932,værk,Concept
+concept:suveraenitet,suveraenitet,Suverænitet,Sovereignty,begreb,"Den suveræne er den, der bestemmer over undtagelsen.",1932,værk,Concept
+concept:ven-fjende-distinktionen,ven-fjende-distinktionen,Ven-fjende-distinktionen,Friend-enemy distinction,begreb,"Det politiske bestemmer sig ikke moralsk, men på, hvem der er fjenden.",1932,værk,Concept
+concept:politisk-teologi,politisk-teologi,Politisk teologi,Political theology,doktrin,Statens begreber er sekulariserede teologiske begreber.,1932,værk,Concept
+concept:graensesituationer,graensesituationer,Grænsesituationer,Limit situations,begreb,"Død, lidelse, skyld og kamp – hvor eksistensen bliver alvor.",1950,værk,Concept
+concept:den-aksiale-tid,den-aksiale-tid,Den aksiale tidsalder,The Axial Age,teori,Omkring 500 f.Kr. opstår den reflekterende tænkning overalt på kloden.,1950,værk,Concept
+concept:eksistensfilosofi,eksistensfilosofi,Eksistensfilosofi,Existenzphilosophie,strømning,"Filosofien udspringer af og vender tilbage til den levende eksistens. Angst, frihed og mening gik videre til eksistentiel psykoterapi (Rollo May, Frankl, Yalom).",1950,værk,Concept
+concept:epistemologisk-brud,epistemologisk-brud,Epistemologisk brud,Epistemological break,begreb,Videnskaben bryder med den dagligdags forforståelse for at begynde forfra.,1934,værk,Concept
+concept:epistemologi,epistemologi,Videnskabshistorisk epistemologi,Historical epistemology,doktrin,Erkendelsesformer har deres egen historie og forældes.,1934,værk,Concept
+concept:falsifikationisme,falsifikationisme,Falsifikationisme,Falsificationism,doktrin,"Videnskab er de teorier, der kan gøres til genstand for modbevisning.",1934,værk,Concept
+concept:det-aabne-samfund,det-aabne-samfund,Det åbne samfund,The open society,begreb,"Et samfund, der tillader kritik og kan skifte kurs uden blodsudgydelse.",1945,værk,Concept
+concept:kritisk-rationalisme,kritisk-rationalisme,Kritisk rationalisme,Critical rationalism,strømning,"Erkendelse vokser ved fejlfinding, ikke ved bevis.",1945,værk,Concept
+concept:kunstvaerkets-aura,kunstvaerkets-aura,Kunstværkets aura,The aura of the artwork,begreb,"Det unikke her og nu, som forsvinder i den tekniske reproduktion.",1935,værk,Concept
+concept:kritisk-historieflosofi,kritisk-historieflosofi,Kritisk historiefilosofi,Critical philosophy of history,doktrin,Historien skrives af sejrherrerne – de undertryktes erindring er modgift.,1935,værk,Concept
+concept:oplysningens-dialektik,oplysningens-dialektik,Oplysningens dialektik,Dialectic of Enlightenment,teori,"Den fornuft, der ville befri os, bliver selv et herredømmesredskab.",1947,værk,Concept
+concept:kulturindustri,kulturindustri,Kulturindustrien,The culture industry,begreb,Underholdning standardiseres og gør modstand til et produkt.,1947,værk,Concept
+concept:negativ-dialektik,negativ-dialektik,Negativ dialektik,Negative dialectics,metode,At holde fast i det ikke-identiske i stedet for at lukke systemet.,1966,værk,Concept
+concept:det-endimensionelle-menneske,det-endimensionelle-menneske,Det endimensionelle menneske,One-dimensional man,begreb,"Mennesket, der har lært at ønske det, systemet har brug for.",1964,værk,Concept
+concept:den-store-afvisning,den-store-afvisning,Den store afvisning,The great refusal,begreb,Den spontane nægtelse af at deltage i det bestående.,1964,værk,Concept
+concept:eksistensen-forud-for-essensen,eksistensen-forud-for-essensen,"""Eksistensen går forud for essensen""",Existence precedes essence,princip,Mennesket har ingen forudgiven natur – det skaber sig selv gennem valg.,1946,værk,Concept
+concept:daarlig-tro,daarlig-tro,Dårlig tro (mauvaise foi),Bad faith,begreb,At lyve for sig selv om sin egen frihed og sit ansvar.,1943,værk,Concept
+concept:radikal-frihed,radikal-frihed,Radikal frihed,Radical freedom,begreb,Mennesket er dømt til at være frit – også til at vælge sine bånd.,1943,værk,Concept
+concept:det-andet-koen,det-andet-koen,Det andet køn,The second sex,begreb,Kvinden defineres som den Anden i forhold til mandens selvfølgelige norm.,1949,værk,Concept
+concept:eksistentialistisk-etik,eksistentialistisk-etik,Eksistentialistisk etik,Existentialist ethics,doktrin,"Moralsk bedømmelse af, om man antager sin frihed og andres.",1949,værk,Concept
+concept:absurdisme,absurdisme,Absurdisme,Absurdism,isme,Kravet om mening møder tavsheden – og oprøret består i at leve videre.,1942,værk,Concept
+concept:det-absurde-oproer,det-absurde-oproer,Oprøret,The revolt,begreb,"At sige nej uden dermed at begå den grusomhed, man bekæmper.",1951,værk,Concept
+concept:kropslig-perception,kropslig-perception,Kropslig perception,Embodied perception,begreb,Vi erkender med kroppen: verden gives gennem den levede krop.,1945,værk,Concept
+concept:ansigtets-etik,ansigtets-etik,Ansigtets etik,The ethics of the face,doktrin,"Den Andens ansigt forpligter mig, før jeg har valgt noget.",1961,værk,Concept
+concept:den-anden,den-anden,Den Anden,The Other,begreb,"Den, hvis krav ikke kan reduceres til min egen kategori.",1961,værk,Concept
+concept:etik-som-foerstefilosofi,etik-som-foerstefilosofi,Etik som førstefilosofi,Ethics as first philosophy,doktrin,Moralen går forud for ontologien.,1961,værk,Concept
+concept:ondskabens-banalitet,ondskabens-banalitet,Ondskabens banalitet,The banality of evil,begreb,Den store ondskab udføres af tankeløse funktionærer.,1963,værk,Concept
+concept:vita-activa,vita-activa,Vita activa – handlingen,Vita activa,begreb,At handle er at begynde noget nyt sammen med andre i det offentlige rum.,1958,værk,Concept
+concept:narrativ-identitet,narrativ-identitet,Narrativ identitet,Narrative identity,teori,"Jeg er den fortælling, jeg kan fortælle om mig selv.",1985,værk,Concept
+concept:horisontsammensmeltning,horisontsammensmeltning,Horisontsammensmeltning,Fusion of horizons,begreb,"Forståelse sker, når min horisont smelter sammen med tekstens.",1960,værk,Concept
+concept:virkningshistorie,virkningshistorie,Virkningshistorie,Effective history,begreb,"Vi forstår altid fra en tradition, der allerede har virket på os.",1960,værk,Concept
+concept:emotivisme,emotivisme,Emotivisme,Emotivism,doktrin,"Moralske udsagn udtrykker følelser, ikke kendsgerninger.",1936,værk,Concept
+concept:kategorifejl,kategorifejl,Kategorifejlen,Category mistake,begreb,"At tilskrive noget en egenskab, dets kategori ikke tillader.",1949,værk,Concept
+concept:spoegelset-i-maskinen,spoegelset-i-maskinen,Spøgelset i maskinen,The ghost in the machine,begreb,Den fejlagtige forestilling om sjælen som en lille person i hovedet.,1949,værk,Concept
+concept:holisme,holisme,Holisme,Holism,doktrin,Sætninger bekræftes som hele systemer – aldrig enkeltvis.,1951,værk,Concept
+concept:talehandlingsteori,talehandlingsteori,Talehandlingsteorien,Speech act theory,teori,"At tale er at handle: at love, dømme, spørge og navngive.",1962,værk,Concept
+concept:performativer,performativer,Performativer,Performatives,begreb,"Ytringer, der ikke beskriver, men udfører det, de siger.",1962,værk,Concept
+concept:handlingsfilosofi,handlingsfilosofi,Handlingsfilosofi,Philosophy of action,strømning,"Hvad er en handling, og hvad vil det sige at handle med vilje?",1957,værk,Concept
+concept:ideologiske-statsapparater,ideologiske-statsapparater,Ideologiske statsapparater,Ideological state apparatuses,teori,"Skole, kirke og medier former subjekter uden at bruge vold.",1970,værk,Concept
+concept:strukturel-marxisme,strukturel-marxisme,Strukturel marxisme,Structural Marxism,doktrin,Samfundet analyseret som struktur af niveauer uden reference til individet.,1970,værk,Concept
+concept:esoterisk-hermeneutik,esoterisk-hermeneutik,Esoterisk hermeneutik,Esoteric hermeneutics,metode,Filosoffer har skrevet mellem linjerne for at undgå forfølgelse.,1953,værk,Concept
+concept:gnosticismekritik,gnosticismekritik,Gnosticismekritik,Critique of gnosticism,doktrin,Revolutionære ideologier som sekulariseret frelseslængsel.,1956,værk,Concept
+concept:bevidsthedshistorie,bevidsthedshistorie,Bevidsthedens historie,History of consciousness,metode,"At spore de symboler, hvorigennem mennesket har erfaret orden.",1956,værk,Concept
+concept:praxeologi,praxeologi,Praxeologi,Praxeology,teori,Økonomi som deduktiv videnskab om menneskelig handling.,1949,værk,Concept
+concept:spontan-orden,spontan-orden,Den spontane orden,Spontaneous order,teori,"Komplekse institutioner opstår uden nogen, der har designet dem.",1944,værk,Concept
+concept:objektivisme,objektivisme,Objektivisme,Objectivism,isme,Virkeligheden findes uafhængigt af bevidstheden; fornuften er det eneste redskab.,1957,værk,Concept
+concept:rationel-egoisme,rationel-egoisme,Rationel egoisme,Rational egoism,doktrin,At forfølge sin egen lykke er både rationelt og moralsk rigtigt.,1943,værk,Concept
+concept:laissez-faire-kapitalisme,laissez-faire-kapitalisme,Laissez-faire-kapitalisme,Laissez-faire capitalism,doktrin,Statens eneste opgave er at beskytte rettigheder.,1957,værk,Concept
+concept:anarkokapitalisme,anarkokapitalisme,Anarkokapitalisme,Anarcho-capitalism,isme,Selv retshåndhævelse og forsvar bør være private ydelser.,1962,værk,Concept
+concept:paradigme,paradigme,Paradigme,Paradigm,begreb,"Det fælles eksempelsæt, der definerer, hvad der er et rigtigt spørgsmål.",1962,værk,Concept
+concept:paradigmeskift,paradigmeskift,Paradigmeskift,Paradigm shift,begreb,Når det gamle billede krakelerer og et helt nyt tager over.,1962,værk,Concept
+concept:normalvidenskab,normalvidenskab,Normalvidenskab,Normal science,begreb,Gådeløsning inden for rammerne af det etablerede paradigme.,1962,værk,Concept
+concept:forskningsprogrammer,forskningsprogrammer,Forskningsprogrammer,Research programmes,teori,Hård kerne og beskyttelsesbælte: programmer kan være progressive eller degenererende.,1980,værk,Concept
+concept:sofistikeret-falsifikationisme,sofistikeret-falsifikationisme,Sofistikeret falsifikationisme,Sophisticated falsificationism,doktrin,"Man sammenligner teorier, ikke teorier med observationer.",1980,værk,Concept
+concept:epistemologisk-anarkisme,epistemologisk-anarkisme,Epistemologisk anarkisme,Epistemological anarchism,doktrin,Ingen metode er altid den rigtige – videnskaben har også brug for kaos.,1975,værk,Concept
+concept:anomal-monisme,anomal-monisme,Anomal monisme,Anomalous monism,teori,"Mental og fysisk er ét, men uden lovmæssige forbindelser.",1980,værk,Concept
+concept:radikal-fortolkning,radikal-fortolkning,Radikal fortolkning,Radical interpretation,metode,At fortolke et fremmed sprog ud fra hensigtsmæssighed og sandhed.,1980,værk,Concept
+concept:nyt-induktionsproblem,nyt-induktionsproblem,"Nyt induktionsproblem (""grue"")",The new riddle of induction,problem,Hvilke ligheder er de rette at generalisere efter?,1954,værk,Concept
+concept:konstruktionisme,konstruktionisme,Konstruktionisme,Constructivism,doktrin,"Verdener konstrueres med symboler, ikke blot opdages.",1954,værk,Concept
+concept:symbolteori,symbolteori,Symbolteori,Theory of symbols,teori,Kunst og videnskab er forskellige symbolsystemer i samme erkendelsesprojekt.,1954,værk,Concept
+concept:mulige-verdener,mulige-verdener,Mulige verdener,Possible worlds,teori,Nødvendighed forstås som sandhed i alle mulige verdener.,1980,værk,Concept
+concept:modallogik,modallogik,Modallogik,Modal logic,metode,Logikken over nødvendighed og mulighed.,1980,værk,Concept
+concept:stiv-identifikation,stiv-identifikation,Stive designatorer,Rigid designation,begreb,"Navne peger på det samme i alle verdener, hvor tingen findes.",1980,værk,Concept
+concept:magt-viden,magt-viden,Magt/viden,Power/knowledge,begreb,"Viden er ikke uskyldig: den producerer de felter, den beskriver. Foucault gjorde selv kritikken til praksis i fængselsinformationsgruppen.",1975,værk,Concept
+concept:biopolitik,biopolitik,Biopolitik,Biopolitics,begreb,"Magten forvalter livet selv: befolkning, sundhed, seksualitet.",1976,værk,Concept
+concept:diskursanalyse,diskursanalyse,Diskursanalyse,Discourse analysis,metode,"At undersøge, hvordan bestemte udsagn bliver mulige og sande i en epoke.",1976,værk,Concept
+concept:dekonstruktion,dekonstruktion,Dekonstruktion,Deconstruction,metode,"At vise, hvordan enhver tekst modsiger den orden, den indstifter.",1967,værk,Concept
+concept:differance,differance,Différance,Différance,begreb,Betydningen opsættes altid og er aldrig helt nærværende.,1967,værk,Concept
+concept:logocentrisme,logocentrisme,Logocentrismekritikken,Critique of logocentrism,begreb,"Kritikken af vestens tro på ét privilegeret, nærværende ord.",1967,værk,Concept
+concept:rhizom,rhizom,Rhizomet,The rhizome,begreb,"Viden som netværk uden centrum, begyndelse eller slutning.",1980,værk,Concept
+concept:differens-og-gentagelse,differens-og-gentagelse,Differens og gentagelse,Difference and repetition,doktrin,Gentagelsen skaber forskel; det evigt tilbagevendende bliver aldrig identisk.,1980,værk,Concept
+concept:immanens,immanens,Immanens,Immanence,begreb,Intet står uden for verden – der findes ingen transcendent dommer.,1980,værk,Concept
+concept:kommunikativ-handlen,kommunikativ-handlen,Kommunikativ handlen,Communicative action,teori,Handling styret af forståelse frem for strategi og succes.,1981,værk,Concept
+concept:diskursetik,diskursetik,Diskursetik,Discourse ethics,doktrin,"Et norm er gyldigt, hvis alle berørte kunne tilslutte sig det i fri samtale.",1981,værk,Concept
+concept:offentlighed,offentlighed,Offentligheden,The public sphere,begreb,Rummet hvor private bliver til publikum og meninger bliver til kritik.,1962,værk,Concept
+concept:generativ-grammatik,generativ-grammatik,Generativ grammatik,Generative grammar,teori,Et endeligt regelsæt kan frembringe uendeligt mange sætninger.,1957,værk,Concept
+concept:nativisme,nativisme,Nativisme,Nativism,doktrin,"Sprogets form er medfødt, ikke indlært fra bunden.",1957,værk,Concept
+concept:mediekritik,mediekritik,Mediekritik,Media criticism,metode,At undersøge hvordan nyheder rammesætter dagsordenen.,1988,værk,Concept
+concept:anarkosyndikalisme,anarkosyndikalisme,Anarkosyndikalisme,Anarcho-syndicalism,isme,Fagforeningen som revolutionsorganisering og samfundsmodel.,1988,værk,Concept
+concept:funktionalisme,funktionalisme,Funktionalisme,Functionalism,teori,"Mental tilstand er defineret ved sin funktion, ikke sit materiale.",1981,værk,Concept
+concept:semantisk-eksternalisme,semantisk-eksternalisme,Semantisk eksternalisme,Semantic externalism,doktrin,"Betydning afhænger af omverdenen, ikke kun af det, der foregår i hovedet.",1981,værk,Concept
+concept:hjerne-i-et-kar,hjerne-i-et-kar,Hjernen i et kar,Brain in a vat,argument,Kan hele min erfaring være en illusion styret udefra?,1981,værk,Concept
+concept:neopragmatisme,neopragmatisme,Neopragmatisme,Neopragmatism,doktrin,Filosofien skal holde op med at spejle naturen og hellere fortsætte samtalen.,1979,værk,Concept
+concept:anti-fundamentisme,anti-fundamentisme,Anti-fundamentisme,Anti-foundationalism,doktrin,Der findes ingen privilegeret grund under erkendelsen.,1979,værk,Concept
+concept:liberal-ironiker,liberal-ironiker,Den liberale ironiker,The liberal ironist,begreb,At leve med sin egen private ironi og offentligt værne om andres frihed.,1979,værk,Concept
+concept:kompatibilisme,kompatibilisme,Kompatibilisme,Compatibilism,doktrin,Frihed og determinisme udelukker ikke hinanden.,1991,værk,Concept
+concept:multiple-drafts,multiple-drafts,Det multiple udkast,The multiple drafts model,teori,"Bevidsthed er ikke et sted i hjernen, men et resultat af parallelle processer.",1991,værk,Concept
+concept:evolutionaer-filosofi,evolutionaer-filosofi,Evolutionær filosofi,Evolutionary philosophy,strømning,"Hvorfor noget er, forklares ved hvordan det kunne have gavnet.",1991,værk,Concept
+concept:rettighedsteori,rettighedsteori,Rettighedsteorien,Entitlement theory,teori,"Retfærdighed er historisk: er det, du har, erhvervet uden svig og tvang?",1974,værk,Concept
+concept:minimalstaten,minimalstaten,Minimalstaten,The minimal state,begreb,"En stat, der kun beskytter mod vold, tyveri og svig er den mest omfattende, der kan retfærdiggøres.",1974,værk,Concept
+concept:praeferenceutilitarisme,praeferenceutilitarisme,Præferenceutilitarisme,Preference utilitarianism,doktrin,Nytte måles på opfyldelsen af de berørtes præferencer.,1975,værk,Concept
+concept:dyreetik,dyreetik,Dyreetik,Animal ethics,strømning,Kan de lide? Så tæller deres lidelse moralsk lige så tungt.,1975,værk,Concept
+concept:effektiv-altruisme,effektiv-altruisme,Effektiv altruisme,Effective altruism,doktrin,Gør mest muligt godt for pengene – også på verdensplan.,1975,værk,Concept
+concept:ideologikritik,ideologikritik,Ideologikritik,Ideology critique,metode,"At afdække den fantasi, der holder den bestående orden sammen.",1989,værk,Concept
+concept:lacansk-marxisme,lacansk-marxisme,Lacansk marxisme,Lacanian Marxism,doktrin,Marxisme læst gennem psykoanalysen og begærets økonomi.,1989,værk,Concept
+concept:performativitet,performativitet,Performativitet,Performativity,teori,"Køn er noget, der gøres, igen og igen, gennem gentagelse af normer.",1990,værk,Concept
+concept:koensteori,koensteori,Kønsteori,Gender theory,strømning,Skelnen mellem biologisk køn og socialt konstrueret køn.,1990,værk,Concept
+concept:queer-teori,queer-teori,Queer-teori,Queer theory,strømning,"Kritik af enhver fast identitetskategori, også de frigørende.",1990,værk,Concept
+concept:begivenhedsfilosofi,begivenhedsfilosofi,Begivenhedsfilosofi,Philosophy of the event,doktrin,"Sandhed opstår i begivenheder, der ikke kan forklares af situationens viden.",1988,værk,Concept
+concept:sandhedsprocedurer,sandhedsprocedurer,Sandhedsprocedurer,Truth procedures,begreb,"Politik, kunst, videnskab og kærlighed som måder at producere sandhed.",1988,værk,Concept
+concept:autenticitet,autenticitet,Autenticitet,Authenticity,begreb,At være sig selv er et historisk opstået ideal med et ansvar i sig.,1989,værk,Concept
+concept:multikulturalisme,multikulturalisme,Multikulturalisme,Multiculturalism,doktrin,Fælles politisk ramme uden at kræve kulturel ensretning.,1989,værk,Concept
+concept:kapabilitetstilgangen,kapabilitetstilgangen,Kapabilitetstilgangen,The capability approach,teori,"Det afgørende er, hvad mennesker reelt er i stand til at være og gøre.",1986,værk,Concept
+concept:kosmopolitisme,kosmopolitisme,Kosmopolitisme,Cosmopolitanism,doktrin,Alle mennesker er borgere i samme verden – grænsen er ikke den yderste horisont.,1986,værk,Concept
+concept:profetisk-pragmatisme,profetisk-pragmatisme,Profetisk pragmatisme,Prophetic pragmatism,doktrin,"Tænkning, der blander sig: filosofien må være urolig og optaget af lidelse.",1982,værk,Concept
+concept:racekritik,racekritik,Racekritik,Race critique,strømning,Race som social konstruktion med håndgribelige konsekvenser.,1982,værk,Concept
+concept:kulturkritik,kulturkritik,Kulturkritik,Cultural criticism,strømning,Nutidens åndsliv måles og findes let.,1987,værk,Concept
+concept:kulturel-relativisme,kulturel-relativisme,Kulturel relativisme,Cultural relativism,problem,"Er værdier blot konventioner, eller findes der fælles målestokke?",1987,værk,Concept
+concept:ren-medmenneskelighed,ren-medmenneskelighed,Ren – medmenneskelighed,Ren,begreb,At elske andre som sig selv og altid springe fra sig selv til den anden.,-480,værk,Concept
+concept:li-ritualer,li-ritualer,Li – ritualer og skikke,Li,begreb,Det formrigtige i det daglige liv holder samfundet sammen.,-480,værk,Concept
+concept:den-edle-mand,den-edle-mand,Junzi – den ædle mand,Junzi,begreb,"Det dannet-moderne menneske ideal, som dannelsesromanen siden spejler.",-480,værk,Concept
+concept:meritokrati,meritokrati,Meritokrati,Meritocracy,doktrin,"Den bedst egnede skal have magten – målt på dannelse, ikke byrd.",-480,værk,Concept
+concept:wu-wei,wu-wei,Wu wei – at handle ved ikke at handle,Wu wei,princip,"Den virkningsfulde handling, der ikke tvinger.",-400,værk,Concept
+concept:dao,dao,Dao – vejen,Dao,begreb,"Den uudsigelige orden, som alt følger og ingen kan navngive.",-400,værk,Concept
+concept:naturlig-harmoni,naturlig-harmoni,Naturlig harmoni,Natural harmony,doktrin,Menneskets velbefindende er afhængigt af samspillet med naturen.,-400,værk,Concept
+concept:evig-fred,evig-fred,Den evige fred (statsforbundet),Perpetual peace,doktrin,"Kant: freden sikres ikke ved traktater alene, men ved et forbund af republikker, der giver afkald på krig. Idéen er en dokumenteret forudsætning for Folkeforbundet og FN-pagten – ikke en byggetegning, de blev rejst efter.",1795,værk,Concept
+concept:havets-frihed,havets-frihed,Mare liberum – havets frihed,Freedom of the seas,doktrin,"Havet er fælles ejendom for alle folk. Grotius' stridsskrift mod de opdelte verdenshave blev indgangen til en ret mellem stater, der bygger på fornuft og sædvane.",1609,værk,Concept
+concept:keynesianisme,keynesianisme,Keynesianismen,Keynesian economics,teori,Staten kan dæmpe ledighed og kriser ved at styre den samlede efterspørgsel. Keynes var en af hovedmændene bag Bretton Woods-institutionerne 1944.,1936,værk,Concept
+concept:artsformynderi,artsformynderi,Artsformynderi (speciesisme),Speciesism,doktrin,"At tildele dyr mindre moralsk vægt, alene fordi de ikke er mennesker. Singer vendte kriteriet til følelsesevnen – og Bentham havde formuleret spørgsmålet 150 år før: ""Kan de lide?""",1975,værk,Concept
+concept:pansofisme,pansofisme,Pansofisme,Pansophism,doktrin,"Al viden for alle, ordnet trinvist. Comenius skitserede fire skoletrin og en systematisk sanselig metode; at kalde ham den moderne klasseundervisnings opfinder er en overdrivelse. Kilden beskriver en dokumenteret pædagogisk indflydelse.",1657,værk,Concept
+concept:didaktik,didaktik,Didaktik (undervisningens kunst),Didactics,metode,"Undervisningen som et systematisk fag: orden, sanselighed og trin. Orbis Sensualium Pictus (1658) er den illustrerede lærebogs forløber.",1657,værk,Concept
+concept:elementarmetoden,elementarmetoden,Pestalozzis elementarmetode,Pestalozzi's method,metode,"Hoved, hjerte og hånd skal dannes sammen, og undervisningen begynde i det konkrete. Yverdon blev et forbillede for læreruddannelsen – Pestalozzi grundlagde ikke folkeskolen alene.",1781,værk,Concept
+concept:videnskabelig-paedagogik,videnskabelig-paedagogik,Videnskabelig pædagogik,Scientific pedagogy,teori,"Pædagogik som videnskab: apperception, opdragende undervisning og undervisningens trin. Den standardiserede femtrins-model blev udformet af herbartianerne senere i århundredet, ikke af Herbart selv.",1806,værk,Concept
+concept:leg-som-dannelse,leg-som-dannelse,Leg som dannelse,Play as formation,doktrin,"Fröbel gjorde legen til barnets eget arbejde: haven, gaverne og den frie leg (institution 1837, navnet Kindergarten 1840). Hedevig Bagger førte den til Danmark. Byggelegepladsen i Emdrup (1943) er udtryk for samme grundtanke, men opstod i en dansk landskabsarkitekttradition – ikke som udløber af Fröbel.",1826,værk,Concept
+concept:skole-for-livet,skole-for-livet,Skolen for livet,School for life,doktrin,"Folkeoplysning frem for eksamen: en skole for livet, ikke for embedseksamen. Rødding (1844) blev rejst på Grundtvigs idé, men af Christian Flor. Folkehøjskoleloven (2019) skriver livsoplysning, folkelig oplysning og demokratisk dannelse som skolernes formål.",1808,værk,Concept
+concept:det-levende-ord,det-levende-ord,Det levende ord,The living word,metode,Den talte formidling frem for den døde bog. Christen Kold førte den ud i praksis: han underviste mundtligt og skrev næsten intet. Ryslinge 1851 blev forbillede for friskolerne.,1808,værk,Concept
+concept:forberedte-omgivelser,forberedte-omgivelser,De forberedte omgivelser,The prepared environment,metode,"Barnet vælger selv i et omhyggeligt tilrettelagt miljø, og materialerne er lavet til at vise fejlen. Casa dei Bambini (1907) blev udgangspunktet for Montessori-skoler verden over.",1909,værk,Concept
+concept:myndighed,myndighed,Myndighed – ud af selvforskyldt umyndighed,Intellectual maturity,begreb,"Kant: oplysning er at turde bruge sin egen forstand i stedet for at lade andre tænke for sig. Han mente åndelig myndighed, ikke juridisk – kilderne giver ingen linje fra essayet til den juridiske myndighedsalder.",1784,værk,Concept
+concept:kognitiv-udviklingstrappe,kognitiv-udviklingstrappe,Piagets stadier,Piaget's stages of cognitive development,teori,"Barnet konstruerer selv sin forståelse gennem faser. Indflydelsen på pædagogikken er bred og dokumenteret, men skolerne indførte ikke nogen fast Piaget-tidsplan, og aldersgrænserne er omstridte.",1923,værk,Concept
+concept:zonen-for-naermeste-udvikling,zonen-for-naermeste-udvikling,Zonen for nærmeste udvikling,Zone of proximal development,teori,"Det, barnet kan med hjælp, ligger forud for det, det kan alene. Ordet stilladsering er ikke Vygotskys: metaforen kom med Wood, Bruner og Ross i 1976 og blev først senere knyttet til zonen.",1934,værk,Concept
+concept:legens-betydning,legens-betydning,Legens betydning for udviklingen,The role of play in development,teori,"Vygotsky så legen som den vigtigste udviklingszone: i legen overskrider barnet sit aktuelle niveau. Den danske dagtilbudslovgivning gør legen grundlæggende i læringsmiljøet – et fagligt bånd over et århundrede, ikke en dokumenteret enkeltårsag.",1934,værk,Concept
+concept:stilladsering,stilladsering,Stilladsering (scaffolding),Scaffolding,metode,"Den voksne bygger støtte om opgaven og fjerner den, efterhånden som barnet kan selv. Ordet blev indført i en undersøgelse af børns problemløsning med en tutor i 1976.",1976,værk,Concept
+concept:spiral-laereplan,spiral-laereplan,Den spiralformede læreplan,Spiral curriculum,teori,Store ideer skal tages igen på stadig højere niveau. Bruners bog fra Woods Hole-konferencen (1959/1960) blev afsæt for læreplansreformerne i naturfagene.,1960,værk,Concept
+concept:blooms-taksonomi,blooms-taksonomi,Blooms taksonomi,Bloom's taxonomy,metode,"Undervisningsmål ordnet efter erkendelsesniveau, fra viden til vurdering. Rammen fra 1956 gjorde målene målbare; den reviderede udgave er fra 2001 og må ikke forveksles med den oprindelige.",1956,værk,Concept
+concept:tavs-viden,tavs-viden,Tavs viden (tacit knowledge),Tacit knowledge,begreb,"Vi kan vide mere, end vi kan fortælle: viden sidder i hænder, vaner og dømmekraft. Polanyis skelnen blev grundlag for vidensledelse (Nonaka 1991). Mesterlære er en ældre praksis, som teorien forklarer – ikke en, den skabte.",1966,værk,Concept
+concept:gettier-problemet,gettier-problemet,Gettier-problemet,The Gettier problem,problem,"Viden som retfærdiggjort sand tro tåler ikke mod-eksempler. Den tre sider lange artikel fra 1963 udløste et helt forskningsprogram – men grundlagde ikke epistemologien, som er meget ældre.",1963,værk,Concept
+concept:social-konstruktion,social-konstruktion,Virkelighedens sociale konstruktion,The social construction of reality,teori,"Institutioner bliver til, når handlinger gentages og glemmer deres ophav. Bogen (1966) er en del af baggrunden for socialkonstruktivistisk pædagogik, men er ikke identisk med den – skolens konstruktivisme har også rødder hos Piaget og Vygotsky.",1966,værk,Concept
+concept:situeret-laering,situeret-laering,Situeret læring,Situated learning,teori,"Læring er deltagelse i et praksisfællesskab, hvor den nye bevæger sig fra periferien mod midten. Lave og Wenger analyserede mesterlære hos jordemødre og skræddere – de opfandt den ikke.",1991,værk,Concept
+concept:kritisk-paedagogik,kritisk-paedagogik,Kritisk pædagogik,Critical pedagogy,strømning,"Dialog og problemformulering frem for bankundervisning. Angicos-kampagnen (1963) kom før bogen (1968); Freire gav deltagende aktionsforskning et epistemologisk grundlag, men opfandt den ikke.",1968,værk,Concept
+concept:afskoling,afskoling,Afskoling,Deschooling,doktrin,"Illichs kritik: institutionel skolegang gør læring til en vare og skjuler, at man kan lære uden den. Kritikken er direkte; linjen videre til hjemmeundervisning og unschooling er et bredt slægtskab, ikke en dokumenteret ophavslinje.",1971,værk,Concept
+concept:behovspyramiden,behovspyramiden,Behovspyramiden,Hierarchy of needs,teori,"Behov i rækkefølge, fra fysiologi til selvrealisering. Vejen ind i ledelse og HR er bredt dokumenteret – men den populære femtrins-pyramide er en forenkling, og teorien er blevet kritiseret empirisk og kulturelt.",1954,værk,Concept
+concept:tofaktorteori,tofaktorteori,To-faktor-teorien,Two-factor theory,teori,"Utilfredshed fjernes med vilkår; motivation skabes med ansvar, præstation og vækst. Artiklen fra 1968 drev jobberigelse frem, og forsøg i britiske virksomheder byggede netop de elementer ind i jobbene.",1968,værk,Concept
+concept:flow,flow,Flow,Flow,teori,"Fuld optagethed, når udfordring og kunnen balancerer. Flow blev et designprincip i spil; undersøgelsen fra 2022 finder den bedste balance omkring spillerens eget niveau – og advarer om, at flow også kan øge trangen til at blive ved.",1990,værk,Concept
+concept:tiltro-til-egen-formaaen,tiltro-til-egen-formaaen,Tiltro til egen formåen (self-efficacy),Self-efficacy,begreb,"Troen på, at man kan udføre handlingen, er en forudsætning for at gøre den. Begrebet blev grundlag for interventioner i sundhed, arbejde og skole; håndbogen bag er bag betalingsmur, så kun abstract og bibliografi kunne læses.",1977,værk,Concept
+concept:vaeksttankesaet,vaeksttankesaet,Væksttankesættet (growth mindset),Growth mindset,teori,Fast eller udviklende opfattelse af sine egne evner. Interventionslinjen er dokumenteret – en stor undersøgelse løftede karakterer for svagere elever – men effekterne er uensartede og afhænger af elevernes vilkår og af klassens og kammeraternes kultur.,2006,værk,Concept
+concept:psykosociale-stadier,psykosociale-stadier,Eriksons psykosociale stadier,Erikson's stages of psychosocial development,teori,"Udviklingen fortsætter hele livet: identitet, intimitet, generativitet og integritet. En dokumenteret vej ind i livsløbspsykologien – ikke en lov om, at alle går gennem stadierne på faste alderstrin.",1950,værk,Concept
+concept:leg-som-kultur,leg-som-kultur,Leg som kultur,Play as culture,teori,"Legen er ikke en pause fra kulturen, men en af dens kilder: ret, krig, kunst og religion har legens form. Huizinga er en dokumenteret reference i spilforskningen – det betyder ikke, at al spilforskning stammer fra ham.",1938,værk,Concept
+concept:legenes-former,legenes-former,Legens fire former,The four categories of play,teori,"Agôn (konkurrence), alea (tilfælde), mimicry (efterligning) og ilinx (svimmelhed) – en taksonomi til at analysere leg og spil. Det er ikke spilteori i matematisk forstand.",1958,værk,Concept
+concept:overgangsobjekt,overgangsobjekt,Overgangsobjektet,Transitional object,begreb,"Tæppet eller bamsen, der holder barnet mellem indre og ydre virkelighed. Winnicotts leg og den tilstrækkeligt gode mor (1953) blev en klinisk ramme – det er ikke Bowlbys tilknytningsteori.",1971,værk,Concept
+concept:tilknytningsteori,tilknytningsteori,Tilknytningsteorien,Attachment theory,teori,Barnets tidlige bånd har betydning hele livet. WHO-rapporten (1951) blev talerør for synet og prægede behandlingen af adskilte børn; senere forskning har kritiseret Bowlbys metoder og konklusioner.,1951,værk,Concept
+concept:barndommen-som-konstruktion,barndommen-som-konstruktion,Barndommen som historisk størrelse,Childhood as a historical construct,teori,"Barndommen har selv en historie og skiftende vilkår. Ariès (1960) gjorde den til et forskningsemne; hans påstand om middelalderens manglende barndomsbegreb er senere bestridt, blandt andet på grund af hans brug af billedkilder.",1960,værk,Concept
+concept:ionisk-naturfilosofi,ionisk-naturfilosofi,Ionisk naturfilosofi,Ionian natural philosophy,skole,"Milet-skolen: Thales, Anaximander, Anaximenes.",-580,værk,Concept;Tradition
+concept:pythagoraeisme,pythagoraeisme,Pythagoræisme,Pythagoreanism,skole,"Tal, harmoni og sjælevandring som religiøst-matematisk program.",-530,værk,Concept;Tradition
+concept:eleatisk-skole,eleatisk-skole,Den eleatiske skole,Eleatic school,skole,Parmenides og Zenon: væren er én og uforanderlig.,-475,værk,Concept;Tradition
+concept:sofisme,sofisme,Sofismen,Sophism,strømning,"Protagoras og Gorgias: retorik, relativisme og betalt undervisning.",-440,værk,Concept;Tradition
+concept:atomisme,atomisme,Atomisme,Atomism,doktrin,Leukippos og Demokrit: virkeligheden består af atomer og tomrum.,-420,værk,Concept;Tradition
+concept:kynisme,kynisme,Kynismen,Cynicism,skole,Diogenes: dyd er selvtilstrækkelighed og frigørelse fra konventioner.,-330,værk,Concept;Tradition
+concept:platonisme,platonisme,Platonismen,Platonism,skole,Akademiet og læren om formerne.,-375,værk,Concept;Tradition
+concept:nyplatonisme,nyplatonisme,Nyplatonismen,Neoplatonism,skole,Plotin: emanation fra det Ene.,250,værk,Concept;Tradition
+concept:aristotelisme,aristotelisme,Aristotelismen (den peripatetiske skole),Aristotelianism,skole,Lykeion og den peripatetiske tradition.,-340,værk,Concept;Tradition
+concept:epikuraeisme,epikuraeisme,Epikuræismen,Epicureanism,skole,"""Haven"" i Athen: ataraxia gennem begærsbegrænsning.",-300,værk,Concept;Tradition
+concept:stoicisme,stoicisme,Stoicismen,Stoicism,skole,"Stoa Poikile: dyd, logos og accept af skæbnen.",-460,værk,Concept;Tradition
+concept:skepticisme,skepticisme,Skepticismen,Skepticism,strømning,Pyrrhon og Sextus: epoché og dommens tilbageholdenhed.,200,værk,Concept;Tradition
+concept:eklekticisme,eklekticisme,Eklekticismen,Eclecticism,strømning,"Cicero: det bedste fra hver skole, formidlet på latin.",-44,værk,Concept;Tradition
+concept:patristik,patristik,Patristikken,Patristics,strømning,Kirkefædrene: kristendom møder græsk filosofi.,400,værk,Concept;Tradition
+concept:skolastik,skolastik,Skolastikken,Scholasticism,strømning,"Universiteterne i Paris, Oxford og Bologna.",1274,værk,Concept;Tradition
+concept:thomisme,thomisme,Thomismen,Thomism,skole,Aquinas: aristotelisme i kristen form.,1274,værk,Concept;Tradition
+concept:islamisk-filosofi,islamisk-filosofi,Islamisk filosofi (falsafa),Islamic philosophy,strømning,"Avicenna, al-Ghazali, Averroes: græsk filosofi på arabisk.",1020,værk,Concept;Tradition
+concept:jodisk-filosofi,jodisk-filosofi,Jødisk filosofi,Jewish philosophy,strømning,Maimonides: fornuft og åbenbaring i dialog.,1190,værk,Concept;Tradition
+concept:averroisme,averroisme,Averroismen (latinsk aristotelisme),Averroism,skole,Radikal aristotelisme ved Paris-universitetet.,1180,værk,Concept;Tradition
+concept:humanisme,humanisme,Humanismen,Humanism,strømning,Studia humanitatis og kilderne tilbage til græsk og latin.,1511,værk,Concept;Tradition
+concept:rationalisme,rationalisme,Rationalismen,Rationalism,retning,"Descartes, Spinoza, Leibniz: fornuften som kilde til viden.",1641,værk,Concept;Tradition
+concept:empirisme,empirisme,Empirismen,Empiricism,retning,"Bacon, Locke, Berkeley, Hume: erfaringen som kilde til viden.",1620,værk,Concept;Tradition
+concept:oplysningsfilosofi,oplysningsfilosofi,Oplysningsfilosofien,Enlightenment philosophy,strømning,Fornuftens offentlige brug mod fordomme og autoritet.,1784,værk,Concept;Tradition
+concept:tysk-idealisme,tysk-idealisme,Den tyske idealisme,German idealism,retning,"Kant, Fichte, Schelling, Hegel: ånden som virkelighedens grund.",1807,værk,Concept;Tradition
+concept:romantik,romantik,Romantikken,Romanticism,strømning,"Følelse, natur, ironi og det uendelige.",1799,værk,Concept;Tradition
+concept:positivisme,positivisme,Positivismen,Positivism,retning,Comte: videnskaben erstatter metafysikken.,1830,værk,Concept;Tradition
+concept:eksistentialisme,eksistentialisme,Eksistentialismen,Existentialism,strømning,Kierkegaard til Sartre: den enkeltes eksistens og valg.,1843,værk,Concept;Tradition
+concept:marxisme,marxisme,Marxismen,Marxism,retning,Historisk materialisme som samfundskritik og politisk praksis.,1848,værk,Concept;Tradition
+concept:anarkisme,anarkisme,Anarkismen,Anarchism,retning,"Proudhon, Bakunin, Kropotkin: afskaffelse af stat og autoritet.",1840,værk,Concept;Tradition
+concept:liberalisme,liberalisme,Liberalismen,Liberalism,retning,"Lockes rettigheder, Smiths marked, Mills frihedsbegreb.",1689,værk,Concept;Tradition
+concept:konservatisme,konservatisme,Konservatismen,Conservatism,retning,"Burke og de Maistre: tradition, organisk samfund og mistillid til fornuftsrevolutioner.",1790,værk,Concept;Tradition
+concept:pragmatisme,pragmatisme,Pragmatismen,Pragmatism,retning,"Peirce, James, Dewey: betydning og sandhed måles på virkning i praksis.",1878,værk,Concept;Tradition
+concept:okonomisk-liberalisme,okonomisk-liberalisme,Klassisk økonomi,Classical economics,retning,"Smith og Ricardo: marked, arbejdsdeling og komparative fordele.",1776,værk,Concept;Tradition
+concept:transcendentalisme,transcendentalisme,Transcendentalismen,Transcendentalism,strømning,"Emerson: selvtillid, natur og det over-individuelle.",1836,værk,Concept;Tradition
+concept:faenomenologi,faenomenologi,Fænomenologien,Phenomenology,retning,Husserl: tilbage til sagerne selv gennem beskrivelse af bevidstheden.,1913,værk,Concept;Tradition
+concept:hermeneutik,hermeneutik,Hermeneutikken,Hermeneutics,strømning,Forståelsens teori fra Schleiermacher over Dilthey til Gadamer.,1960,værk,Concept;Tradition
+concept:analytisk-filosofi,analytisk-filosofi,Den analytiske filosofi,Analytic philosophy,retning,"Frege, Russell, Wittgenstein: sprog og logik som filosofiens metode.",1879,værk,Concept;Tradition
+concept:logisk-positivisme,logisk-positivisme,Logisk positivisme,Logical positivism,skole,Verifikationsprincippet og afvisningen af metafysik.,1929,værk,Concept;Tradition
+concept:kontinental-filosofi,kontinental-filosofi,Den kontinentale filosofi,Continental philosophy,retning,"Tyskland og Frankrig: historie, erfaring, magt og fortolkning.",1807,værk,Concept;Tradition
+concept:kritisk-teori,kritisk-teori,Kritisk teori,Critical theory,skole,"Oplysningens dialektik, kulturindustri og emancipation.",1947,værk,Concept;Tradition
+concept:vestlig-marxisme,vestlig-marxisme,Vestlig marxisme,Western Marxism,retning,"Gramsci, Lukács, Althusser: kultur, ideologi og stat.",1923,værk,Concept;Tradition
+concept:antroposofi,antroposofi,Antroposofien,Anthroposophy,strømning,"Steiner: åndsvidenskab, pædagogik og social tregrening.",1913,værk,Concept;Tradition
+concept:videnskabsfilosofi,videnskabsfilosofi,Videnskabsfilosofien,Philosophy of science,strømning,"Popper, Kuhn, Lakatos, Feyerabend: hvad er videnskabelig viden?",1934,værk,Concept;Tradition
+concept:ostrigsk-skole,ostrigsk-skole,Den østrigske skole,Austrian School,skole,"Mises og Hayek: praxeologi, spontan orden og klassisk liberalisme.",1949,værk,Concept;Tradition
+concept:libertarianisme,libertarianisme,Libertarianismen,Libertarianism,retning,"Rand, Rothbard, Nozick: selvbestemmelse og minimalstat.",1957,værk,Concept;Tradition
+concept:kommunitarisme,kommunitarisme,Kommunitarismen,Communitarianism,retning,"MacIntyre og Taylor: fællesskab, tradition og det gode liv mod liberal proceduralisme.",1981,værk,Concept;Tradition
+concept:poststrukturalisme,poststrukturalisme,Poststrukturalismen,Post-structuralism,retning,"Foucault, Derrida, Deleuze: sprog, magt, differens og decentrering.",1967,værk,Concept;Tradition
+concept:feministisk-filosofi,feministisk-filosofi,Feministisk filosofi,Feminist philosophy,retning,de Beauvoir til Butler: køn som filosofisk problem.,1949,værk,Concept;Tradition
+concept:konfucianisme,konfucianisme,Konfucianismen,Confucianism,skole,"Dyd, ritualer, medmenneskelighed og det harmoniske samfund.",-480,værk,Concept;Tradition
+concept:daoisme,daoisme,Daoismen,Daoism,skole,"Dao (""vejen""), wu wei og den naturlige harmoni.",-400,værk,Concept;Tradition

@@ -1,0 +1,411 @@
+:ID,id,da,type,year,en,note,:LABEL
+artifact:thales-fragmenter,thales-fragmenter,Thales' fragmenter,Text,-580,Fragments of Thales,De overleverede vidnesbyrd om Thales' naturfilosofi.,Artifact;Text
+artifact:anaxagoras-fragmenter,anaxagoras-fragmenter,Anaxagoras' fragmenter,Text,-450,Fragments of Anaxagoras,Kilden til læren om nous og frøene (spermata).,Artifact;Text
+artifact:heraklit-fragmenter,heraklit-fragmenter,Heraklits fragmenter (Om naturen),Text,-500,Fragments of Heraclitus,Aforismerne om logos og det evigt strømmende.,Artifact;Text
+artifact:parmenides-digte,parmenides-digte,Parmenides' digt Om naturen,Poem,-475,On Nature (Parmenides),Det filosofiske heltedigt om væren og skin.,Artifact;Poem
+artifact:protagoras-fragmenter,protagoras-fragmenter,Protagoras' fragmenter,Text,-440,Fragments of Protagoras,"Bl.a. ""Mennesket er alle tings mål"".",Artifact;Text
+artifact:demokrit-fragmenter,demokrit-fragmenter,Demokrits fragmenter,Text,-420,Fragments of Democritus,Atomlæren og den etiske siden af Demokrits tænkning.,Artifact;Text
+artifact:platon-politeia,platon-politeia,Platons Staten (Politeia),Book,-375,Republic,"Om retfærdighed, idealstaten og hulebilledet.",Artifact;Book
+artifact:platon-symposion,platon-symposion,Platons Symposion,Book,-385,Symposium,Om eros og skønhedens trappetrin.,Artifact;Book
+artifact:platon-faidon,platon-faidon,Platons Faidon,Book,-380,Phaedo,Sjælens udødelighed og ideerne.,Artifact;Book
+artifact:platon-timaios,platon-timaios,Platons Timaios,Book,-360,Timaeus,Kosmologien og demiurgen – nyplatonismens hovedtekst.,Artifact;Book
+artifact:aristoteles-organon,aristoteles-organon,Aristoteles' Organon,Book,-340,Organon,Logikkens grundlæggelse: syllogismen og kategorierne.,Artifact;Book
+artifact:aristoteles-metafysik,aristoteles-metafysik,Aristoteles' Metafysik,Book,-340,Metaphysics,"Væren som væren, hylomorfisme og den ubevægede bevæger.",Artifact;Book
+artifact:aristoteles-fysik,aristoteles-fysik,Aristoteles' Fysik,Book,-350,Physics,De fire årsager og teleologien i naturen.,Artifact;Book
+artifact:aristoteles-nikomacheiske-etik,aristoteles-nikomacheiske-etik,Den nikomacheiske etik,Book,-340,Nicomachean Ethics,"Dydsetik, eudaimonia og den gyldne middelvej.",Artifact;Book
+artifact:aristoteles-politik,aristoteles-politik,Aristoteles' Politik,Book,-335,Politics,Mennesket som zoon politikon og statsformernes cyklus.,Artifact;Book
+artifact:epikurs-brev,epikurs-brev,Epikurs breve og hovedsætninger,Text,-300,Letters and Principal Doctrines,"Ataraxia, begærsbegrænsning og atomlæren.",Artifact;Text
+artifact:lucretius-de-rerum-natura,lucretius-de-rerum-natura,Lucretius: Om tingenes natur,Poem,-55,De rerum natura,Epikuræisk atomisme formidlet som digt.,Artifact;Poem
+artifact:senecas-breve,senecas-breve,Senecas breve til Lucilius,Book,65,Letters to Lucilius,Stoisk livskunst i epistolær form.,Artifact;Book
+artifact:epiktet-haandbogen,epiktet-haandbogen,Epiktets Håndbog (Enchiridion),Book,125,Enchiridion,"Indre frihed og accept af det, der ikke står i vores magt.",Artifact;Book
+artifact:marcus-aurelius-til-sig-selv,marcus-aurelius-til-sig-selv,Marcus Aurelius: Til sig selv,Book,180,Meditations,Kejserens stoiske selvdisciplinering.,Artifact;Book
+artifact:cicero-om-pligterne,cicero-om-pligterne,Cicero: Om pligterne,Book,-44,De Officiis,Eklektisk moralfilosofi og politisk etik.,Artifact;Book
+artifact:cicero-om-lovene,cicero-om-lovene,Cicero: Om lovene,Book,-51,De Legibus,Naturrettens klassiske formulering: ret og fornuft er ét.,Artifact;Book
+artifact:sextus-pyrrhonske-skitse,sextus-pyrrhonske-skitse,Sextus Empiricus: Pyrrhonske skitser,Book,200,Outlines of Pyrrhonism,Skepticismens systematik og epoché.,Artifact;Book
+artifact:krisippos-fragmenter,krisippos-fragmenter,Chrysippos' fragmenter,Text,-200,Fragments of Chrysippus,"Den stoiske logiks og determinismes systematik, overleveret i fragmenter.",Artifact;Text
+artifact:plotin-enneaderne,plotin-enneaderne,Plotins Enneader,Book,250,Enneads,"Det Ene, emanationslæren og henvendelsen indad.",Artifact;Book
+artifact:pythagoras-skolen,pythagoras-skolen,Pythagoras' skole i Kroton,Institution,-530,Pythagorean school of Croton,Religiøst-matematisk broderskab; talfilosofiens vugge.,Artifact;Institution
+artifact:platon-akademiet,platon-akademiet,Platons Akademi,Institution,-387,The Academy,Antikkens mest langlivede filosofiske institution (indtil 529 e.Kr.).,Artifact;Institution
+artifact:aristoteles-lykeion,aristoteles-lykeion,Aristoteles' Lykeion,Institution,-335,The Lyceum,Den peripatetiske skole med vandrende forelæsninger.,Artifact;Institution
+artifact:stoa-poikile,stoa-poikile,Stoa Poikile,Building,-460,Stoa Poikile,"Den malede søjlehal i Athen, som stoicismen har navn efter.",Artifact;Building
+artifact:epikurs-have,epikurs-have,Epikurs Have,Building,-306,The Garden,"Fællesskabet uden for Athens mure: ""Lev ubemærket"".",Artifact;Building
+artifact:romerretten,romerretten,Romerretten (ius civile),Legislation,-450,Roman law,Retssystemet som naturrets- og stoisk tankegods formede.,Artifact;Legislation
+artifact:retorik-som-fag,retorik-som-fag,Retorikken som fag,Pedagogy,-460,Rhetoric as a discipline,Sofisternes undervisningsform og demokratiets talerkunst.,Artifact;Pedagogy
+artifact:diogenes-fragmenter,diogenes-fragmenter,Diogenes' fragmenter og anekdoter,Text,-330,Fragments of Diogenes,"Kynismens provokerende livsfilosofi, overleveret som anekdoter.",Artifact;Text
+artifact:augustin-bekendelser,augustin-bekendelser,Augustins Bekendelser,Book,400,Confessions,"Selvbiografi og teologi: uroligt hjerte, nåde og synd.",Artifact;Book
+artifact:augustin-gudsstaten,augustin-gudsstaten,Augustins Gudsstat,Book,426,City of God,Historiens to byer og kristen historiefilosofi.,Artifact;Book
+artifact:boethius-troest,boethius-troest,Boëthius: Filosofiens trøst,Book,524,Consolation of Philosophy,Stoisk-platonisk trøst i dødsventerummet.,Artifact;Book
+artifact:avicenna-al-shifa,avicenna-al-shifa,Avicennas Al-Shifa (Helbredelsen),Book,1020,The Book of Healing,"Encyklopædisk systematik: metafysik, logik, naturfilosofi.",Artifact;Book
+artifact:avicenna-kanon,avicenna-kanon,Avicennas Kanon over lægevidenskaben,Book,1025,The Canon of Medicine,Europæisk og islamisk medicin i 600 år.,Artifact;Book
+artifact:al-ghazali-tahafut,al-ghazali-tahafut,Al-Ghazalis Filosofernes selvmodsigelse,Book,1095,The Incoherence of the Philosophers,Angrebet på falsafa og forsvaret for okkasionalismen.,Artifact;Book
+artifact:averroes-tahafut-tahafut,averroes-tahafut-tahafut,Averroes: Selvmodsigelsens selvmodsigelse,Book,1180,The Incoherence of the Incoherence,Forsvaret for aristotelisk filosofi mod al-Ghazali.,Artifact;Book
+artifact:averroes-kommentarer,averroes-kommentarer,Averroes' Aristoteles-kommentarer,Book,1170,Commentaries on Aristotle,"Den ""kommentator"", som latinsk skolastik kaldte Aristoteles.",Artifact;Book
+artifact:maimonides-dukvane,maimonides-dukvane,Maimonides: Dukvane for vildfarende,Book,1190,Guide for the Perplexed,"Negativ teologi, fornuft og åbenbaring.",Artifact;Book
+artifact:maimonides-mishne-torah,maimonides-mishne-torah,Maimonides: Mishneh Torah,Book,1180,Mishneh Torah,"Jødisk retskodifikation, stadig normativ i halakha.",Artifact;Book
+artifact:duns-scotus-ordinatio,duns-scotus-ordinatio,Duns Scotus: Ordinatio,Book,1300,Ordinatio,"Haecceitas, voluntarisme og Guds absolutte frihed.",Artifact;Book
+artifact:ockham-summa-logicae,ockham-summa-logicae,Ockham: Summa Logicae,Book,1323,Summa Logicae,Nominalismens logik og rageknivens økonomiprincip.,Artifact;Book
+artifact:aquinas-summa-theologica,aquinas-summa-theologica,Thomas Aquinas: Summa Theologica,Book,1274,Summa Theologica,"Skolastikkens storværk: naturret, nåde og de fem veje.",Artifact;Book
+artifact:aquinas-summa-contra-gentiles,aquinas-summa-contra-gentiles,Aquinas: Summa contra Gentiles,Book,1265,Summa contra Gentiles,Fornuftens argumenter over for ikke-kristne.,Artifact;Book
+artifact:abelard-sic-et-non,abelard-sic-et-non,Abelard: Sic et Non,Book,1122,Sic et Non,Dialektisk metode: still modstridende autoriteter op og lad læseren dømme.,Artifact;Book
+artifact:dantes-guddommelige-komedie,dantes-guddommelige-komedie,Dantes Den guddommelige komedie,Poem,1320,The Divine Comedy,"Thomistisk verdensbillede i terziner – helvede, skærsild, paradis.",Artifact;Poem
+artifact:de-ti-bud,de-ti-bud,De ti bud,MoralCode,-1300,The Ten Commandments,"Den moralkodeks, som augustinsk og thomistisk etik udfoldede.",Artifact;MoralCode
+artifact:den-gyldne-regel,den-gyldne-regel,Den gyldne regel,MoralCode,-500,The Golden Rule,"Gensidighedsprincippet i konfuciansk, jødisk, kristen og stoisk form.",Artifact;MoralCode
+artifact:benediktinerreglen,benediktinerreglen,Benediktinerreglen,MoralCode,530,Rule of Saint Benedict,Klosterlivets ora et labora – augustinsk nådelære i praksis.,Artifact;MoralCode
+artifact:codex-justinianus,codex-justinianus,Codex Justinianus,Legislation,534,Corpus Juris Civilis,Aftryk af stoisk naturret i romersk kejserlov.,Artifact;Legislation
+artifact:kanonisk-ret,kanonisk-ret,Kanonisk ret (Decretum Gratiani og senere),Legislation,1150,Canon law,"Kirkens retssystem, formet af naturret og thomisme.",Artifact;Legislation
+artifact:islamisk-retstradition,islamisk-retstradition,Islamisk retstradition (fiqh),Legislation,800,Islamic jurisprudence (fiqh),Usul al-fiqh; diskuteret af al-Ghazali og Averroes.,Artifact;Legislation
+artifact:al-azhar,al-azhar,Al-Azhar,Institution,970,Al-Azhar,Kairo-universitetet og islamisk lærdomscentrum.,Artifact;Institution
+artifact:universitetet-i-bologna,universitetet-i-bologna,Universitetet i Bologna,Institution,1088,University of Bologna,"Verdens ældste universitet, født af retsvidenskaben.",Artifact;Institution
+artifact:universitetet-i-paris,universitetet-i-paris,Universitetet i Paris (Sorbonne),Institution,1150,University of Paris,"Skolastikkens centrum, hjemsted for averroismestriden.",Artifact;Institution
+artifact:oxford-universitet,oxford-universitet,Oxford Universitet,Institution,1096,University of Oxford,Hjemsted for Ockhams nominalisme og senere den analytiske filosofi.,Artifact;Institution
+artifact:kristendommen,kristendommen,Kristendommen,Religion,33,Christianity,Patristikkens og skolastikkens teologiske ramme.,Artifact;Religion
+artifact:protestantismen,protestantismen,Protestantismen,Religion,1517,Protestantism,Reformationen: augustinsk nådelære og fri vilje genforhandlet.,Artifact;Religion
+artifact:jansenismen,jansenismen,Jansenismen,Movement,1640,Jansenism,Augustinsk nådenådeisme i Port-Royal – Pascals miljø.,Artifact;Movement
+artifact:islam,islam,Islam,Religion,622,Islam,"Den religion, som falsafa, kalam og retstraditionen udfoldede sig inden for.",Artifact;Religion
+artifact:sadras-transcendente-filosofi,sadras-transcendente-filosofi,Mulla Sadras transcendentale teosofi,Book,1650,Transcendent theosophy,"Iransk hovedskole, som Tabataba'i videreførte i det 20. århundrede.",Artifact;Book
+artifact:al-mizan,al-mizan,Tabataba'is Al-Mizan (koranfortolkning),Book,1956,Al-Mizan,27-bindigt tafsir-værk med filosofisk og retslig udlægning.,Artifact;Book
+artifact:erasmus-daarskabens-lovprisning,erasmus-daarskabens-lovprisning,Erasmus: Dårskabens lovprisning,Book,1511,In Praise of Folly,Satirisk humanisme og kirkekritik.,Artifact;Book
+artifact:machiavelli-fyrsten,machiavelli-fyrsten,Machiavelli: Fyrsten,Book,1532,The Prince,"Politisk realisme: magten, lykken og virtù.",Artifact;Book
+artifact:machiavelli-discorsi,machiavelli-discorsi,Machiavelli: Diskurser over Livius,Book,1531,Discourses on Livy,Republikanismen og magtens institutionelle balance.,Artifact;Book
+artifact:more-utopia,more-utopia,Thomas More: Utopia,Book,1516,Utopia,Opdigter en idealstat – og en ny litterær genre.,Artifact;Book
+artifact:bruno-uendelige-univers,bruno-uendelige-univers,Bruno: Om det uendelige univers og verdener,Book,1584,On the Infinite Universe and Worlds,Kosmologisk pluralisme og panteistisk verdenssyn.,Artifact;Book
+artifact:bacon-novum-organum,bacon-novum-organum,Bacon: Novum Organum,Book,1620,Novum Organum,Induktionsmetoden og de fire idoler.,Artifact;Book
+artifact:hobbes-leviathan,hobbes-leviathan,Hobbes: Leviathan,Book,1651,Leviathan,"Naturtilstand, samfundskontrakt og suverænitet.",Artifact;Book
+artifact:descartes-metode,descartes-metode,Descartes: Afhandling om metoden,Book,1637,Discourse on Method,Den metodiske tvivl og cogito.,Artifact;Book
+artifact:descartes-meditationer,descartes-meditationer,Descartes: Meditationer over den første filosofi,Book,1641,Meditations on First Philosophy,"Dualisme, Gudsbevis og erkendelsens fundament.",Artifact;Book
+artifact:pascal-tanker,pascal-tanker,Pascal: Tanker (Pensées),Book,1670,Pensées,"Væddemålet, menneskets storhed og elendighed.",Artifact;Book
+artifact:spinoza-etik,spinoza-etik,Spinoza: Etik,Book,1677,Ethics,"Ordnet i geometriske beviser: panteisme, monisme, determinisme.",Artifact;Book
+artifact:locke-forstand,locke-forstand,Locke: Om den menneskelige forstand,Book,1690,Essay Concerning Human Understanding,Tabula rasa og erfaringens ideer.,Artifact;Book
+artifact:locke-styre,locke-styre,Locke: To afhandlinger om styre,Book,1689,Two Treatises of Government,"Naturlige rettigheder, samtykke og retten til modstand.",Artifact;Book
+artifact:locke-opdragelse,locke-opdragelse,Locke: Tanker om opdragelse,Book,1693,Some Thoughts Concerning Education,"Empirismens pædagogik: vane, erfaring og dannelse af karakteren.",Artifact;Book
+artifact:leibniz-monadologien,leibniz-monadologien,Leibniz: Monadologien,Book,1714,Monadology,"Monader, præetableret harmoni og kompossibilitet.",Artifact;Book
+artifact:leibniz-theodicee,leibniz-theodicee,Leibniz: Théodicée,Book,1710,Théodicée,"Forsvaret for Guds godhed: ""den bedst mulige verden"".",Artifact;Book
+artifact:berkeley-traktat,berkeley-traktat,Berkeley: Om principperne for menneskelig erkendelse,Book,1710,Principles of Human Knowledge,Esse est percipi – immaterialismen.,Artifact;Book
+artifact:royal-society,royal-society,Royal Society,Institution,1660,The Royal Society,Bacons induktive metode institutionaliseret i London.,Artifact;Institution
+artifact:david-michelangelo,david-michelangelo,Michelangelos David,Artwork,1504,David (Michelangelo),Renæssancehumanismens krops- og menneskeideal i marmor.,Artifact;Artwork
+artifact:sixtinske-kapel-skabelsen,sixtinske-kapel-skabelsen,Adams skabelse (Den sixtinske kappel),Artwork,1512,The Creation of Adam,Nyplatonisk ikonografi i Michelangelos loftmaleri.,Artifact;Artwork
+artifact:montesquieu-lovens-and,montesquieu-lovens-and,Montesquieu: Lovens ånd,Book,1748,The Spirit of the Laws,Magtens tredeling og klimatets og sædernes betydning.,Artifact;Book
+artifact:voltaire-candide,voltaire-candide,Voltaire: Candide,Book,1759,Candide,"Satire over Leibniz' optimisme; ""dyrk vores have"".",Artifact;Book
+artifact:voltaire-filosofiske-breve,voltaire-filosofiske-breve,Voltaire: Filosofiske breve fra England,Book,1734,Letters Concerning the English Nation,"Ytringsfrihed, deisme og religionskritik.",Artifact;Book
+artifact:hume-traktat,hume-traktat,Hume: Afhandling om den menneskelige natur,Book,1739,A Treatise of Human Nature,"Kausalitetskritik, induktionsproblemet og moralens følelser.",Artifact;Book
+artifact:rousseau-samfundskontrakten,rousseau-samfundskontrakten,Rousseau: Om samfundskontrakten,Book,1762,The Social Contract,"Almenviljen, folkesuveræniteten og frihedens tvang.",Artifact;Book
+artifact:rousseau-emile,rousseau-emile,"Rousseau: Émile, eller Om opdragelsen",Book,1762,Emile,Naturlig opdragelse og barnets egen udvikling.,Artifact;Book
+artifact:diderot-encyclopedien,diderot-encyclopedien,Encyklopædien,Book,1772,Encyclopédie,Diderots og d'Alemberts oplysningsprojekt i 28 bind.,Artifact;Book
+artifact:smith-nationernes-velstand,smith-nationernes-velstand,Adam Smith: Nationernes velstand,Book,1776,The Wealth of Nations,"Arbejdsdeling, marked og den usynlige hånd.",Artifact;Book
+artifact:kant-ren-fornuft,kant-ren-fornuft,Kant: Kritik af den rene fornuft,Book,1781,Critique of Pure Reason,Den kopernikanske vending og den transcendentale idealisme.,Artifact;Book
+artifact:kant-praktisk-fornuft,kant-praktisk-fornuft,Kant: Kritik af den praktiske fornuft,Book,1788,Critique of Practical Reason,Det kategoriske imperativ og den autonome vilje.,Artifact;Book
+artifact:kant-dommekraften,kant-dommekraften,Kant: Kritik af dømmekraften,Book,1790,Critique of Judgment,"Æstetik, det sublime og teleologien.",Artifact;Book
+artifact:kant-hvad-er-oplysning,kant-hvad-er-oplysning,Kant: Hvad er oplysning?,Text,1784,What Is Enlightenment?,Sapere aude – fornuftens offentlige brug.,Artifact;Text
+artifact:burke-refleksioner,burke-refleksioner,Burke: Refleksioner over revolutionen i Frankrig,Book,1790,Reflections on the Revolution in France,"Konservatismens grundtekst: tradition, forfædrenes kontrakt og organisk samfund.",Artifact;Book
+artifact:bentham-indledning,bentham-indledning,Bentham: Indledning til moral og lovgivning,Book,1789,Introduction to the Principles of Morals and Legislation,Nytteprincippet og den hedonistiske kalkule.,Artifact;Book
+artifact:bentham-panoptikon,bentham-panoptikon,Panoptikon,Building,1791,The Panopticon,Benthams fængselsarkitektur: usynligt opsyn med alle fra ét centralt tårn.,Artifact;Building
+artifact:penitentiary-act,penitentiary-act,Penitentiary Act,Legislation,1779,Penitentiary Act,Engelsk straffereform: fængslet som opdragelsesinstitution.,Artifact;Legislation
+artifact:reid-menneskelige-sind,reid-menneskelige-sind,Reid: Undersøgelse af menneskesindet efter common sense,Book,1764,Inquiry into the Human Mind,Common sense-realismen mod Humes skepticisme.,Artifact;Book
+artifact:den-amerikanske-forfatning,den-amerikanske-forfatning,Den amerikanske forfatning,Constitution,1787,United States Constitution,"Magtens tredeling, rettigheder og checks and balances.",Artifact;Constitution
+artifact:franske-rettighedserklaering,franske-rettighedserklaering,Erklæringen om menneskets og borgerens rettigheder,Legislation,1789,Declaration of the Rights of Man and of the Citizen,Naturret og samfundskontrakt i revolutionær tekst.,Artifact;Legislation
+artifact:napoleons-code-civil,napoleons-code-civil,Code Civil (Napoleons Code),Legislation,1804,Napoleonic Code,Naturretlig lighed og ejendomsret kodificeret i Europa.,Artifact;Legislation
+artifact:den-danske-grundlov,den-danske-grundlov,Danmarks Riges Grundlov,Constitution,1849,Constitution of Denmark,Magtens tredeling og borgerrettigheder i dansk grundlov.,Artifact;Constitution
+artifact:deismen,deismen,Deismen,Religion,1700,Deism,Verdensurmagerversionen af Gud – oplysningens rationelle religion.,Artifact;Religion
+artifact:panteismestriden,panteismestriden,Panteismestriden,Event,1785,The Pantheism Controversy,Jacobi mod Mendelssohn om Spinozas arv – tysk åndshistories vendepunkt.,Artifact;Event
+artifact:fichte-videnskabslaeren,fichte-videnskabslaeren,Fichte: Videnskabslæren,Book,1794,Wissenschaftslehre,Jeget som absolutsættende princip.,Artifact;Book
+artifact:schelling-transcendentale-idealisme,schelling-transcendentale-idealisme,Schelling: Systemet for den transcendentale idealisme,Book,1800,System of Transcendental Idealism,Natur og ånd som ét: identitetsfilosofien.,Artifact;Book
+artifact:hegel-aandens-faenomenologi,hegel-aandens-faenomenologi,Hegel: Åndens fænomenologi,Book,1807,Phenomenology of Spirit,Herre-træl-dialektikken og åndens dannelse.,Artifact;Book
+artifact:hegel-retsfilosofien,hegel-retsfilosofien,Hegel: Retsfilosofien,Book,1820,Elements of the Philosophy of Right,"Sædelighed, stat og verdenshistorien.",Artifact;Book
+artifact:hegel-forelaesninger-filosofiens-historie,hegel-forelaesninger-filosofiens-historie,Hegel: Forelæsninger over filosofiens historie,Book,1837,Lectures on the History of Philosophy,Filosofihistorien som åndens selvbevidsthed – grundlaget for enhver senere oversigt.,Artifact;Book
+artifact:schopenhauer-verden-som-vilje,schopenhauer-verden-som-vilje,Schopenhauer: Verden som vilje og forestilling,Book,1818,The World as Will and Representation,Viljen som tingen-i-sig og pessimismen.,Artifact;Book
+artifact:schleiermacher-om-religion,schleiermacher-om-religion,Schleiermacher: Om religion – taler til de dannede,Book,1799,On Religion: Speeches,Religion som følelsen af absolut afhængighed.,Artifact;Book
+artifact:humboldt-universitetet,humboldt-universitetet,Humboldt-Universitetet i Berlin,Institution,1810,Humboldt University of Berlin,"Forskningsbaseret dannelse: ""Bildung"" gennem lærerfrihed og forskning.",Artifact;Institution
+artifact:vandringsmanden-over-taagen,vandringsmanden-over-taagen,Caspar David Friedrich: Vandringsmanden over tågehavet,Artwork,1818,Wanderer above the Sea of Fog,Romantikkens subjekt ansigt til ansigt med den uendelige natur.,Artifact;Artwork
+artifact:romantikbevaegelsen,romantikbevaegelsen,Romantikbevægelsen,Movement,1800,Romanticism,"Følelse, ironi, fortid og uendelighedslængsel i litteratur og kunst.",Artifact;Movement
+artifact:dannelsesidealet,dannelsesidealet,Dannelsesidealet (Bildung),Pedagogy,1800,Bildung,Dannelse som selvudvikling – tysk idealismes pædagogiske arv.,Artifact;Pedagogy
+artifact:comte-positiv-filosofi,comte-positiv-filosofi,Comte: Kursus i positiv filosofi,Book,1830,Course of Positive Philosophy,Trestadie-loven og sociologiens fødsel.,Artifact;Book
+artifact:kierkegaard-enten-eller,kierkegaard-enten-eller,Kierkegaard: Enten-eller,Book,1843,Either/Or,De æstetiske og etiske livsanskuelser.,Artifact;Book
+artifact:kierkegaard-angstens-begreb,kierkegaard-angstens-begreb,Kierkegaard: Begrebet Angest,Book,1844,The Concept of Anxiety,Angsten som frihedens svimmelhed.,Artifact;Book
+artifact:kierkegaard-efterkrift,kierkegaard-efterkrift,Kierkegaard: Afsluttende uvidenskabeligt Efterskrift,Book,1846,Concluding Unscientific Postscript,Subjektiviteten er sandheden.,Artifact;Book
+artifact:mill-om-friheden,mill-om-friheden,Mill: Om friheden,Book,1859,On Liberty,Skadeprincippet og ytringsfrihedens grænser.,Artifact;Book
+artifact:mill-utilitarismen,mill-utilitarismen,Mill: Utilitarismen,Book,1861,Utilitarianism,Kvalitativ nytte og reglen om den største lykke.,Artifact;Book
+artifact:mill-kvindernes-underkastelse,mill-kvindernes-underkastelse,Mill: Kvindernes underkastelse,Book,1869,The Subjection of Women,Lige rettigheder for kvinder – skrevet sammen med Harriet Taylor Mill.,Artifact;Book
+artifact:kommunistiske-manifest,kommunistiske-manifest,Det kommunistiske manifest,Book,1848,The Communist Manifesto,"Klassekamp, historisk materialisme og proletariatets program.",Artifact;Book
+artifact:marx-kapitalen,marx-kapitalen,Marx: Kapitalen,Book,1867,Das Kapital,"Varefetichisme, mer værdi og kapitalens akkumulation.",Artifact;Book
+artifact:engels-dialektik-naturen,engels-dialektik-naturen,Engels: Dialektikken i naturen,Book,1883,Dialectics of Nature,Naturdialektik og dialektisk materialisme.,Artifact;Book
+artifact:emerson-nature,emerson-nature,Emerson: Nature,Book,1836,Nature,Transcendentalismens manifest.,Artifact;Book
+artifact:emerson-selvtillid,emerson-selvtillid,Emerson: Selvtillid (Self-Reliance),Text,1841,Self-Reliance,Individualismens etik: tro på egen stemme.,Artifact;Text
+artifact:stirner-den-eneste,stirner-den-eneste,Stirner: Den eneste og hans ejendom,Book,1844,The Ego and Its Own,Egoismen og kritikken af enhver abstrakt sag.,Artifact;Book
+artifact:proudhon-hvad-er-ejendom,proudhon-hvad-er-ejendom,Proudhon: Hvad er ejendom?,Book,1840,What Is Property?,"""Ejendom er tyveri"" og mutualismen.",Artifact;Book
+artifact:bakunin-gud-og-staten,bakunin-gud-og-staten,Bakunin: Gud og staten,Book,1882,God and the State,Anti-autoritarisme og kollektiv anarkisme.,Artifact;Book
+artifact:ricardo-politisk-okonomi,ricardo-politisk-okonomi,Ricardo: Principper for politisk økonomi og beskatning,Book,1817,Principles of Political Economy and Taxation,Komparative fordele og arbejdsværditeorien.,Artifact;Book
+artifact:nietzsche-zarathustra,nietzsche-zarathustra,Nietzsche: Således talte Zarathustra,Book,1883,Thus Spoke Zarathustra,"Overmennesket, evig genkomst og ""Gud er død"".",Artifact;Book
+artifact:nietzsche-hinsides-godt-ondt,nietzsche-hinsides-godt-ondt,Nietzsche: Hinsides godt og ondt,Book,1886,Beyond Good and Evil,Viljen til magt og perspektivismen.,Artifact;Book
+artifact:nietzsche-moralens-genealogi,nietzsche-moralens-genealogi,Nietzsche: Moralens genealogi,Book,1887,On the Genealogy of Morality,"Herre- og slavemoral, ressentiment.",Artifact;Book
+artifact:peirce-klare-ideer,peirce-klare-ideer,Peirce: Hvordan vores ideer bliver klare,Text,1878,How to Make Our Ideas Clear,Pragmatismens fødsel og fallibilismen.,Artifact;Text
+artifact:james-pragmatismen,james-pragmatismen,James: Pragmatismen,Book,1907,Pragmatism,"Sandhed som det, der virker i praksis.",Artifact;Book
+artifact:frege-begriffsschrift,frege-begriffsschrift,Frege: Begriffsschrift,Book,1879,Begriffsschrift,Prædikatslogikken og sprogets formelle sprog.,Artifact;Book
+artifact:dilthey-aandsvidenskaberne,dilthey-aandsvidenskaberne,Dilthey: Indledning til åndsvidenskaberne,Book,1883,Introduction to the Human Sciences,Forståelse (Verstehen) mod forklaring – hermeneutikkens program.,Artifact;Book
+artifact:de-maistre-om-paven,de-maistre-om-paven,de Maistre: Om paven,Book,1819,On the Pope,"Ultramontanisme, autoritet og modoplysning.",Artifact;Book
+artifact:tocqueville-demokratiet,tocqueville-demokratiet,Tocqueville: Om demokratiet i Amerika,Book,1835,Democracy in America,Demokratiets muligheder og flertallets tyranni.,Artifact;Book
+artifact:kropotkin-gensidig-hjaelp,kropotkin-gensidig-hjaelp,Kropotkin: Gensidig hjælp,Book,1902,Mutual Aid,Samarbejde som evolutionær og moralsk kraft.,Artifact;Book
+artifact:luxemburg-akkumulationen,luxemburg-akkumulationen,Luxemburg: Kapitalens akkumulation,Book,1913,The Accumulation of Capital,Imperialisme og revolutionær spontanitet.,Artifact;Book
+artifact:wagner-tristan,wagner-tristan,Wagner: Tristan og Isolde,Artwork,1865,Tristan und Isolde,Schopenhauersk verdensvilje som musikalsk erotik og død.,Artifact;Artwork
+artifact:munch-skriget,munch-skriget,Munch: Skriget,Artwork,1893,The Scream,Kierkegaardsk angst som billede.,Artifact;Artwork
+artifact:transcendentalistklubben,transcendentalistklubben,Transcendentalistklubben,Movement,1836,Transcendental Club,"Emerson, Thoreau og Fuller i Boston.",Artifact;Movement
+artifact:socialdemokratiet,socialdemokratiet,Socialdemokratiet / den socialdemokratiske bevægelse,Party,1871,Social democracy,Marxismens reformistiske gren: klassekamp gennem valg og velfærd.,Artifact;Party
+artifact:den-forste-internationale,den-forste-internationale,Den Første Internationale,Movement,1864,First International,Arbejdernes internationale sammenslutning – Marx mod Bakunin.,Artifact;Movement
+artifact:sovjetunionen,sovjetunionen,Sovjetunionen,State,1922,Soviet Union,Den marxistisk-leninistiske stat: planøkonomi og partidiktatur.,Artifact;State
+artifact:folkerepublikken-kina,folkerepublikken-kina,Folkerepublikken Kina,State,1949,People's Republic of China,Maoistisk marxisme i praksis.,Artifact;State
+artifact:kubas-revolution,kubas-revolution,Den cubanske revolution,Revolution,1959,Cuban Revolution,Guerilla-marxisme og antiimperialisme.,Artifact;Revolution
+artifact:velfaerdsstaten,velfaerdsstaten,Velfærdsstaten,Institution,1933,The welfare state,Sociale rettigheder og omfordeling – socialdemokratiets kompromis.,Artifact;Institution
+artifact:fagbevaegelsen,fagbevaegelsen,Fagbevægelsen,Movement,1870,The trade union movement,Organiseret arbejde som kollektiv modmagt.,Artifact;Movement
+artifact:husserl-ideer,husserl-ideer,Husserl: Ideer til en ren fænomenologi,Book,1913,Ideas Pertaining to a Pure Phenomenology,"Intentionalitet, epoché og transcendental reduktion.",Artifact;Book
+artifact:husserl-krisen,husserl-krisen,Husserl: Krisen i de europæiske videnskaber,Book,1936,The Crisis of European Sciences,Livsverdenen som videnskabernes glemte grund.,Artifact;Book
+artifact:bergson-skabende-evolution,bergson-skabende-evolution,Bergson: Den skabende evolution,Book,1907,Creative Evolution,Élan vital og varighed mod mekanistisk tid.,Artifact;Book
+artifact:proust-tabte-tid,proust-tabte-tid,Proust: På sporet af den tabte tid,Book,1913,In Search of Lost Time,Erindringens ufrivillige varighed – bergsonsk durée i romanform.,Artifact;Book
+artifact:principia-mathematica,principia-mathematica,Russell & Whitehead: Principia Mathematica,Book,1913,Principia Mathematica,Logicismen: matematikken udledt af logikken.,Artifact;Book
+artifact:whitehead-proces-og-virkelighed,whitehead-proces-og-virkelighed,Whitehead: Proces og virkelighed,Book,1929,Process and Reality,"Procesfilosofi: virkeligheden som begivenheder, ikke substanser.",Artifact;Book
+artifact:dewey-demokrati-og-uddannelse,dewey-demokrati-og-uddannelse,Dewey: Demokrati og uddannelse,Book,1916,Democracy and Education,Learning by doing og skolen som demokratiets værksted.,Artifact;Book
+artifact:santayana-sans-for-skønhed,santayana-sans-for-skønhed,Santayana: Sans for skønhed,Book,1896,The Sense of Beauty,"Æstetikken som naturlig, biologisk forankret erfaring.",Artifact;Book
+artifact:royce-loyalitetens-filosofi,royce-loyalitetens-filosofi,Royce: Loyalitetens filosofi,Book,1908,The Philosophy of Loyalty,Loyalitet mod loyaliteten som etisk princip.,Artifact;Book
+artifact:wittgenstein-tractatus,wittgenstein-tractatus,Wittgenstein: Tractatus Logico-Philosophicus,Book,1921,Tractatus Logico-Philosophicus,"Billedteorien og ""hvad man ikke kan tale om, må man tie om"".",Artifact;Book
+artifact:wittgenstein-undersoegelser,wittgenstein-undersoegelser,Wittgenstein: Filosofiske undersøgelser,Book,1953,Philosophical Investigations,"Sprogspil, familielighed og regelfølgen.",Artifact;Book
+artifact:heidegger-vaeren-og-tid,heidegger-vaeren-og-tid,Heidegger: Væren og tid,Book,1927,Being and Time,"Dasein, væren-i-verden, kastethed og døden som egen mulighed.",Artifact;Book
+artifact:wienerkredsens-manifest,wienerkredsens-manifest,Wienerkredsens manifest,Text,1929,The Scientific World-Conception,Verifikationsprincippet og metafysikkens afvisning.,Artifact;Text
+artifact:carnap-verdens-opbygning,carnap-verdens-opbygning,Carnap: Verdens logiske opbygning,Book,1928,The Logical Structure of the World,Konstitution af begreber og logisk analyse.,Artifact;Book
+artifact:wienerkredsen,wienerkredsen,Wienerkredsen,Institution,1924,The Vienna Circle,"Schlick, Carnap, Neurath m.fl.: logisk positivisme som fællesskab.",Artifact;Institution
+artifact:simmel-pengefilosofi,simmel-pengefilosofi,Simmel: Pengenes filosofi,Book,1900,The Philosophy of Money,Modernitetens blaserthed og kvantificering af sociale relationer.,Artifact;Book
+artifact:weber-protestantismens-etik,weber-protestantismens-etik,Weber: Den protestantiske etik og kapitalismens ånd,Book,1905,The Protestant Ethic and the Spirit of Capitalism,"Bureaukrati, rationalisering, idealtyper og protestantismens rolle.",Artifact;Book
+artifact:freud-droemmetydning,freud-droemmetydning,Freud: Drømmetydning,Book,1899,The Interpretation of Dreams,Det ubevidste og drømmens skjulte arbejde.,Artifact;Book
+artifact:freud-jeg-og-det,freud-jeg-og-det,Freud: Jeg'et og det'et,Book,1923,The Ego and the Id,"Det topiske system: id, jeg og overjeg.",Artifact;Book
+artifact:croce-aestetik,croce-aestetik,Croce: Æstetikken som videnskab og som udtrykkets almindelige form,Book,1902,Aesthetic as Science of Expression,Intuition og udtryk som kunstens grund.,Artifact;Book
+artifact:fascismens-doktrin,fascismens-doktrin,Fascismens doktrin,Ideology,1932,The Doctrine of Fascism,Gentiles aktuelle idealisme formuleret som statens totalitet.,Artifact;Ideology
+artifact:nationalsocialismen,nationalsocialismen,Nationalsocialismen,Ideology,1920,National Socialism,Nietzsches vilje til magt blev her læst som rasepolitik – forfalskning og misbrug.,Artifact;Ideology
+artifact:undtagelsestilstanden,undtagelsestilstanden,Undtagelsestilstanden (Reichstagsbrand-forordningen 1933),Legislation,1933,State of exception,Schmitts princip anvendt i Weimar-republikkens dekretlovgivning 1933.,Artifact;Legislation
+artifact:ortega-massernes-oproer,ortega-massernes-oproer,Ortega y Gasset: Massernes oprør,Book,1930,The Revolt of the Masses,Massemennesket og perspektivismen.,Artifact;Book
+artifact:berdyaev-frihedens-filosofi,berdyaev-frihedens-filosofi,Berdyaev: Frihedens filosofi,Book,1911,The Philosophy of Freedom,"Frihed, kreativitet og teandrisk eksistens.",Artifact;Book
+artifact:gramsci-faengselsnoter,gramsci-faengselsnoter,Gramsci: Fængselsnotesbøgerne,Book,1948,Prison Notebooks,"Hegemoni, organisk intellektuel og civil samfund.",Artifact;Book
+artifact:lukacs-klassebevidsthed,lukacs-klassebevidsthed,Lukács: Historie og klassebevidsthed,Book,1923,History and Class Consciousness,Reifikation og det proletariske standpunkts epistemologi.,Artifact;Book
+artifact:waldorfpaedagogik,waldorfpaedagogik,Waldorfpædagogik,Pedagogy,1919,Waldorf education,"Steiners antroposofiske skoleform: hoved, hjerte og hånd.",Artifact;Pedagogy
+artifact:goetheanum,goetheanum,Goetheanum,Building,1928,Goetheanum,Steiners organiske arkitektur i Dornach – antroposofiens hovedsæde.,Artifact;Building
+artifact:antroposofisk-selskab,antroposofisk-selskab,Antroposofisk Selskab,Institution,1913,Anthroposophical Society,Åndsvidenskab som institution.,Artifact;Institution
+artifact:schmitt-det-politiske,schmitt-det-politiske,Schmitt: Begrebet om det politiske,Book,1932,The Concept of the Political,"Ven-fjende-distinktionen, suverænitet og undtagelsestilstanden.",Artifact;Book
+artifact:jaspers-filosofien,jaspers-filosofien,Jaspers: Indføring i filosofien,Book,1950,Introduction to Philosophy,"Eksistens, grænsesituationer og den aksiale tidsalder.",Artifact;Book
+artifact:bachelard-videnskabelige-sind,bachelard-videnskabelige-sind,Bachelard: Det nye videnskabelige sind,Book,1934,The New Scientific Spirit,Epistemologiske brud og videnskabens historiske erkendelsesformer.,Artifact;Book
+artifact:metropolis,metropolis,Metropolis,Film,1927,Metropolis,"Fritz Langs maskinby: klasse, arbejde og teknologi som frelsende og truende.",Artifact;Film
+artifact:panserkrydseren-potyomkin,panserkrydseren-potyomkin,Panserkrydseren Potyomkin,Film,1925,Battleship Potemkin,Eisensteins revolutionsmyte og montagens dialektik.,Artifact;Film
+artifact:marcuse-studentoproeet,marcuse-studentoproeet,Studentoprøret omkring 1968,Movement,1968,The 1968 student movement,Marcuses og Adornos begreber på barrikaderne.,Artifact;Movement
+artifact:dialektikken,dialektikken,Dialektikken som metode,ScientificTheory,1812,Dialectics,Modsigelsens motor i erkendelse og historie – fra Hegel til Adorno og Marx.,Artifact;ScientificTheory
+artifact:sociologien,sociologien,Sociologien som videnskab,ScientificTheory,1838,Sociology,Comtes navngivning af samfundsvidenskaben – positivisme i praksis.,Artifact;ScientificTheory
+artifact:popper-det-aabne-samfund,popper-det-aabne-samfund,Popper: Det åbne samfund og dets fjender,Book,1945,The Open Society and Its Enemies,"Kritik af Platon, Hegel og Marx; det åbne samfund som ideal.",Artifact;Book
+artifact:popper-logikken-i-forskningen,popper-logikken-i-forskningen,Popper: Logikken i den videnskabelige forskning,Book,1934,The Logic of Scientific Discovery,Falsifikationisme og demarkationsproblemet.,Artifact;Book
+artifact:benjamin-kunstvaerket,benjamin-kunstvaerket,Benjamin: Kunstværket i dets tekniske reproducerbarheds tidsalder,Text,1935,The Work of Art in the Age of Mechanical Reproduction,Auraens forfald og massemediernes politik.,Artifact;Text
+artifact:adorno-oplysningens-dialektik,adorno-oplysningens-dialektik,Adorno & Horkheimer: Oplysningens dialektik,Book,1947,Dialectic of Enlightenment,Kulturindustri og fornuftens instrumentalisering.,Artifact;Book
+artifact:adorno-negativ-dialektik,adorno-negativ-dialektik,Adorno: Negativ dialektik,Book,1966,Negative Dialectics,Det ikke-identiske og kritikken af identitetstænkningen.,Artifact;Book
+artifact:marcuse-endimensionelle-menneske,marcuse-endimensionelle-menneske,Marcuse: Det endimensionelle menneske,Book,1964,One-Dimensional Man,Det industrialiserede samfunds integrering og nye modstandskraft.,Artifact;Book
+artifact:frankfurterskolen,frankfurterskolen,Frankfurterskolen (Institut für Sozialforschung),Institution,1923,The Frankfurt School,Kritisk teori som institutionelt projekt.,Artifact;Institution
+artifact:sartre-vaeren-og-intethed,sartre-vaeren-og-intethed,Sartre: Væren og intethed,Book,1943,Being and Nothingness,"Frihed, dårlig tro og den Andens blik.",Artifact;Book
+artifact:sartre-eksistentialisme-er-humanisme,sartre-eksistentialisme-er-humanisme,Sartre: Eksistentialisme er humanisme,Text,1946,Existentialism Is a Humanism,Eksistensen går forud for essensen.,Artifact;Text
+artifact:beauvoir-det-andet-koen,beauvoir-det-andet-koen,de Beauvoir: Det andet køn,Book,1949,The Second Sex,"""Man fødes ikke som kvinde, man bliver det"" – kvinden som den Anden.",Artifact;Book
+artifact:camus-sisyfos-myten,camus-sisyfos-myten,Camus: Sisyfos-myten,Book,1942,The Myth of Sisyphus,"Det absurde, oprøret og ""man må forestille sig Sisyfos lykkelig"".",Artifact;Book
+artifact:camus-oproerets-menneske,camus-oproerets-menneske,Camus: Oprørets menneske,Book,1951,The Rebel,Oprør mod metafysisk og politisk terror.,Artifact;Book
+artifact:merleau-ponty-perceptionen,merleau-ponty-perceptionen,Merleau-Ponty: Perceptionens fænomenologi,Book,1945,Phenomenology of Perception,"Den kropslige perception og ""kroppen er ikke et objekt"".",Artifact;Book
+artifact:levinas-totalitet-og-uendelighed,levinas-totalitet-og-uendelighed,Levinas: Totalitet og uendelighed,Book,1961,Totality and Infinity,Ansigtets etik og den Andens absolutte krav.,Artifact;Book
+artifact:arendt-menneskets-vilkaar,arendt-menneskets-vilkaar,Arendt: Menneskets vilkår,Book,1958,The Human Condition,"Arbejde, fremstilling og handling – vita activa.",Artifact;Book
+artifact:arendt-eichmann,arendt-eichmann,Arendt: Eichmann i Jerusalem,Book,1963,Eichmann in Jerusalem,Ondskabens banalitet og ansvar under totalitarisme.,Artifact;Book
+artifact:ricoeur-tid-og-fortaelling,ricoeur-tid-og-fortaelling,Ricoeur: Tid og fortælling,Book,1985,Time and Narrative,Narrativ identitet og fortællingens hermeneutik.,Artifact;Book
+artifact:gadamer-sandhed-og-metode,gadamer-sandhed-og-metode,Gadamer: Sandhed og metode,Book,1960,Truth and Method,Horisontsammensmeltning og virkningshistorie.,Artifact;Book
+artifact:ayer-sprog-sandhed-logik,ayer-sprog-sandhed-logik,"Ayer: Sprog, sandhed og logik",Book,1936,"Language, Truth and Logic",Emotivismen og den logiske positivismes etik.,Artifact;Book
+artifact:ryle-sindets-begreb,ryle-sindets-begreb,Ryle: Sindets begreb,Book,1949,The Concept of Mind,Spøgelset i maskinen og kategorifejlen.,Artifact;Book
+artifact:quine-to-dogmer,quine-to-dogmer,Quine: To dogmer for empirismen,Text,1951,Two Dogmas of Empiricism,Holisme og opgøret med den analytisk-syntetiske skelnen.,Artifact;Text
+artifact:austin-talehandlinger,austin-talehandlinger,Austin: Hvordan man gør ting med ord,Book,1962,How to Do Things with Words,Talehandlingsteorien og performativerne.,Artifact;Book
+artifact:anscombe-intention,anscombe-intention,Anscombe: Intention,Book,1957,Intention,Handlingens beskrivelse og genoplivningen af dydsetikken.,Artifact;Book
+artifact:althusser-ideologiske-statsapparater,althusser-ideologiske-statsapparater,Althusser: Ideologi og ideologiske statsapparater,Text,1970,Ideology and Ideological State Apparatuses,Interpellation og den strukturelle marxisme.,Artifact;Text
+artifact:strauss-naturret-og-historie,strauss-naturret-og-historie,Strauss: Naturret og historie,Book,1953,Natural Right and History,Esoterisk læsning og kritik af historismen.,Artifact;Book
+artifact:voegelin-orden-og-historie,voegelin-orden-og-historie,Voegelin: Orden og historie,Book,1956,Order and History,"Symboler, gnosticisme og ordenens historie.",Artifact;Book
+artifact:mises-menneskelig-handlen,mises-menneskelig-handlen,Mises: Menneskelig handlen,Book,1949,Human Action,Praxeologi og den østrigske økonomis liberalisme.,Artifact;Book
+artifact:hayek-vejen-til-traeldom,hayek-vejen-til-traeldom,Hayek: Vejen til trældom,Book,1944,The Road to Serfdom,Planøkonomiens frihedstab og den spontane orden.,Artifact;Book
+artifact:rand-fountainhead,rand-fountainhead,Ayn Rand: The Fountainhead,Book,1943,The Fountainhead,Den skabende individualist mod kollektivismen.,Artifact;Book
+artifact:rand-atlas-shrugged,rand-atlas-shrugged,Ayn Rand: Atlas Shrugged,Book,1957,Atlas Shrugged,Objektivisme og rationel egoisme som roman.,Artifact;Book
+artifact:fountainhead-filmen,fountainhead-filmen,The Fountainhead (film),Film,1949,The Fountainhead,Rands roman filmatiseret som arkitekturens frihedsmanifest.,Artifact;Film
+artifact:rothbard-menneske-okonomi-stat,rothbard-menneske-okonomi-stat,"Rothbard: Menneske, økonomi og stat",Book,1962,"Man, Economy, and State",Anarkokapitalisme på østrigsk grund.,Artifact;Book
+artifact:mont-pelerin-selskabet,mont-pelerin-selskabet,Mont Pelerin Selskabet,Institution,1947,Mont Pelerin Society,Hayek og Mises' netværk for klassisk liberalisme og spontan orden.,Artifact;Institution
+artifact:thatcherismen,thatcherismen,Thatcherismen,Ideology,1979,Thatcherism,Markedsliberalisme ført ud i livet: privatisering og minimalstat.,Artifact;Ideology
+artifact:kuhn-videnskabelige-revolutioner,kuhn-videnskabelige-revolutioner,Kuhn: De videnskabelige revolutioners struktur,Book,1962,The Structure of Scientific Revolutions,"Paradigmer, normalvidenskab og paradigmskifter.",Artifact;Book
+artifact:lakatos-forskningsprogrammer,lakatos-forskningsprogrammer,Lakatos: Falsifikation og forskningsprogrammer,Book,1980,Falsification and the Methodology of Scientific Research Programmes,Forskningsprogrammernes hårde kerne og beskyttelsesbælte.,Artifact;Book
+artifact:feyerabend-mod-metoden,feyerabend-mod-metoden,Feyerabend: Mod metoden,Book,1975,Against Method,"""Anything goes"" og epistemologisk anarkisme.",Artifact;Book
+artifact:davidson-handlinger,davidson-handlinger,Davidson: Essays om handlinger og begivenheder,Book,1980,Essays on Actions and Events,Anomal monisme og radikal fortolkning.,Artifact;Book
+artifact:goodman-kendsgerninger,goodman-kendsgerninger,"Goodman: Kendsgerninger, fiktion og forudsigelse",Book,1954,"Fact, Fiction, and Forecast",Grue-problemet og konstruktionismen.,Artifact;Book
+artifact:kripke-navngivning,kripke-navngivning,Kripke: Navngivning og nødvendighed,Book,1980,Naming and Necessity,"Mulige verdener, stive designatorer og modallogik.",Artifact;Book
+artifact:amerikansk-psyko,amerikansk-psyko,American Psycho,Book,1991,American Psycho,Rationel egoisme læst som tomhed og vold – en litterær karikatur af objektivismen.,Artifact;Book
+artifact:rawls-retfaerdighed,rawls-retfaerdighed,Rawls: En teori om retfærdighed,Book,1971,A Theory of Justice,Rettens princip bag uvidenhedens slør – Nozicks og kommunitaristernes hovedmodstander.,Artifact;Book
+artifact:foucault-overvaagning-og-straf,foucault-overvaagning-og-straf,Foucault: Overvågning og straf,Book,1975,Discipline and Punish,"Panoptisme, disciplinærmagt og fængslets genealogi.",Artifact;Book
+artifact:foucault-seksualitetens-historie,foucault-seksualitetens-historie,Foucault: Seksualitetens historie,Book,1976,The History of Sexuality,"Biopolitik, diskurs og magtens produktive karakter.",Artifact;Book
+artifact:derrida-grammatologien,derrida-grammatologien,Derrida: Om grammatologien,Book,1967,Of Grammatology,"Dekonstruktion, différance og kritikken af logocentrismen.",Artifact;Book
+artifact:derrida-skriften-og-differancen,derrida-skriften-og-differancen,Derrida: Skriften og differancen,Book,1967,Writing and Difference,Dekonstruktive læsninger af filosofihistorien.,Artifact;Book
+artifact:deleuze-tusind-plateauer,deleuze-tusind-plateauer,Deleuze & Guattari: Tusind plateauer,Book,1980,A Thousand Plateaus,"Rhizom, nomadologi og immanensens plan.",Artifact;Book
+artifact:habermas-kommunikativ-handlen,habermas-kommunikativ-handlen,Habermas: Teorien om den kommunikative handlen,Book,1981,The Theory of Communicative Action,"Diskursetik, livsverden og systemets kolonisering.",Artifact;Book
+artifact:habermas-offentlighed,habermas-offentlighed,Habermas: Borgerlig offentlighed,Book,1962,The Structural Transformation of the Public Sphere,Den offentlige samtales historie og forfald.,Artifact;Book
+artifact:chomsky-syntaktiske-strukturer,chomsky-syntaktiske-strukturer,Chomsky: Syntaktiske strukturer,Book,1957,Syntactic Structures,Generativ grammatik og sprogets medfødte kerne.,Artifact;Book
+artifact:chomsky-manufacturing-consent,chomsky-manufacturing-consent,Chomsky & Herman: Manufacturing Consent,Book,1988,Manufacturing Consent,"Mediekritik og den ""propagandamodellen"".",Artifact;Book
+artifact:putnam-fornuft-sandhed-historie,putnam-fornuft-sandhed-historie,"Putnam: Fornuft, sandhed og historie",Book,1981,"Reason, Truth and History","Semantisk eksternalisme og ""hjerner i kar"".",Artifact;Book
+artifact:rorty-filosofi-og-spejlet,rorty-filosofi-og-spejlet,Rorty: Filosofi og naturens spejl,Book,1979,Philosophy and the Mirror of Nature,Neopragmatisme og anti-fundamentisme.,Artifact;Book
+artifact:dennett-bevidsthed,dennett-bevidsthed,Dennett: Bevidsthed forklaret,Book,1991,Consciousness Explained,Kompatibilisme og det multiple skitsesystem.,Artifact;Book
+artifact:nozick-anarki-stat-utopi,nozick-anarki-stat-utopi,"Nozick: Anarki, stat og utopi",Book,1974,"Anarchy, State, and Utopia",Rettighedsteori og minimalstaten som eneste retfærdige stat.,Artifact;Book
+artifact:singer-dyrenes-frigoerelse,singer-dyrenes-frigoerelse,Singer: Dyrenes frigørelse,Book,1975,Animal Liberation,"Præferenceutilitarisme, dyreetik og effektiv altruisme.",Artifact;Book
+artifact:zizek-ideologiens-sublime-objekt,zizek-ideologiens-sublime-objekt,Žižek: Ideologiens sublime objekt,Book,1989,The Sublime Object of Ideology,Lacansk marxisme og ideologikritik.,Artifact;Book
+artifact:butler-koenets-besvaer,butler-koenets-besvaer,Butler: Kønnets besvær,Book,1990,Gender Trouble,"Performativitet, queer-teori og kritik af identitetspolitik.",Artifact;Book
+artifact:badiou-vaeren-og-begivenhed,badiou-vaeren-og-begivenhed,Badiou: Væren og begivenhed,Book,1988,Being and Event,"Mængdelære, begivenhed og sandhedsprocedurer.",Artifact;Book
+artifact:macintyre-after-virtue,macintyre-after-virtue,MacIntyre: After Virtue,Book,1981,After Virtue,Dydsetikkens genoprejsning og kritik af moderne moralformalisme.,Artifact;Book
+artifact:taylor-selvets-kilder,taylor-selvets-kilder,Taylor: Selvets kilder,Book,1989,Sources of the Self,"Autenticitet, multikulturalisme og identitetens historie.",Artifact;Book
+artifact:nussbaum-det-gode-livs-skaerhed,nussbaum-det-gode-livs-skaerhed,Nussbaum: Det gode livs skørhed,Book,1986,The Fragility of Goodness,Sårbarhed og dyd i den aristoteliske tradition.,Artifact;Book
+artifact:west-race-matters,west-race-matters,Cornel West: Race Matters,Book,1982,Race Matters,Profetisk pragmatisme og racekritik.,Artifact;Book
+artifact:bloom-american-mind,bloom-american-mind,Bloom: The Closing of the American Mind,Book,1987,The Closing of the American Mind,Kulturkritik og forsvaret for den klassiske dannelse.,Artifact;Book
+artifact:konfucius-analekterne,konfucius-analekterne,Konfucius: Analekterne (Lunyu),Book,-480,The Analects,"Mesterens samtaler om dyd, ritualer og medmenneskelighed.",Artifact;Book
+artifact:laozi-daodejing,laozi-daodejing,Laozi: Daodejing,Book,-400,Tao Te Ching,"81 kapitler om dao, wu wei og den naturlige harmoni.",Artifact;Book
+artifact:zhuangzi,zhuangzi,Zhuangzi,Book,-300,Zhuangzi,Daoistisk fortællekunst og relativismens sommerfugl.,Artifact;Book
+artifact:konfuciansk-eksamensvaesen,konfuciansk-eksamensvaesen,Det kejserlige eksamensvæsen,Institution,605,Imperial examination system,Meritokrati i praksis: embedsmænd valgt på konfuciansk lærdom.,Artifact;Institution
+artifact:filial-piety,filial-piety,Filial fromhed (xiao),MoralCode,-500,Filial piety,Familien som moralens kerne i konfuciansk etik.,Artifact;MoralCode
+artifact:daoismen-som-religion,daoismen-som-religion,Daoismen som religion,Religion,142,Daoist religion,"Tianshi-dao: ritualer, præster og udødelighedsstræben.",Artifact;Religion
+artifact:zenbuddhisme,zenbuddhisme,Zenbuddhismen,Religion,500,Zen Buddhism,Daoistisk naturlighed i mødet med buddhismen.,Artifact;Religion
+artifact:kinesisk-medicin,kinesisk-medicin,Kinesisk medicin,Practice,-200,Traditional Chinese medicine,Yin-yang og qi som daoistisk naturforståelse i praksis.,Artifact;Practice
+artifact:feng-shui,feng-shui,Feng shui,Practice,300,Feng shui,Daoistisk geomani: harmonien mellem menneske og sted.,Artifact;Practice
+artifact:tai-chi,tai-chi,Tai chi,Practice,1600,Tai chi,Wu wei som kropslig bevægelsesform.,Artifact;Practice
+artifact:star-wars,star-wars,Star Wars,Film,1977,Star Wars,"Kraften, balance og ikke-handlen læst gennem daoisme og stoicisme.",Artifact;Film
+artifact:jediernes-kodeks,jediernes-kodeks,Jediernes kodeks,MoralCode,1977,The Jedi Code,Populærkulturens daoistisk-stoiske moralkodeks.,Artifact;MoralCode
+artifact:kung-fu-panda,kung-fu-panda,Kung Fu Panda,Film,2008,Kung Fu Panda,Wu wei og Den uendelige bog som daoistisk dannelsesrejse.,Artifact;Film
+artifact:the-big-lebowski,the-big-lebowski,The Big Lebowski,Film,1998,The Big Lebowski,"""The Dude abides"": wu wei som livsstil.",Artifact;Film
+artifact:the-matrix,the-matrix,The Matrix,Film,1999,The Matrix,"Hulelignelsen, Descartes' dæmon og ""hjerner i kar"" i blockbusterformat.",Artifact;Film
+artifact:the-truman-show,the-truman-show,The Truman Show,Film,1998,The Truman Show,Et liv i hulen: den konstruerede virkelighed som tv-studie.,Artifact;Film
+artifact:inception,inception,Inception,Film,2010,Inception,"Den metodiske tvivl og spørgsmålet om, hvad der er drøm.",Artifact;Film
+artifact:2001-en-rumrejse,2001-en-rumrejse,2001: A Space Odyssey,Film,1968,2001: A Space Odyssey,Nietzsches overmenneske og menneskets næste evolutionære spring.,Artifact;Film
+artifact:muldvarpens-dag,muldvarpens-dag,Muldvarpens dag (Groundhog Day),Film,1993,Groundhog Day,Evig genkomst og absurdismens oprør i komedieform.,Artifact;Film
+artifact:fight-club,fight-club,Fight Club,Film,1999,Fight Club,"Marxistisk fremmedgørelse, Nietzsches selvovertrædelse og Freudo-narrativ.",Artifact;Film
+artifact:modern-times,modern-times,Moderne tider (Modern Times),Film,1936,Modern Times,Chaplins maskinmenneske: marxistisk fremmedgørelse som slapstick.,Artifact;Film
+artifact:blade-runner,blade-runner,Blade Runner,Film,1982,Blade Runner,"Dualisme, kopi-identitet og hvad det vil sige at være bevidst.",Artifact;Film
+artifact:ghost-in-the-shell,ghost-in-the-shell,Ghost in the Shell,Film,1995,Ghost in the Shell,Funktionalisme og kropslighed: hvortil hører bevidstheden?,Artifact;Film
+artifact:ex-machina,ex-machina,Ex Machina,Film,2014,Ex Machina,"Turing-testen, funktionalisme og kunstig bevidsthed.",Artifact;Film
+artifact:memento,memento,Memento,Film,2000,Memento,Personlig identitet og erindringens konstitution af selvet.,Artifact;Film
+artifact:total-recall,total-recall,Total Recall,Film,1990,Total Recall,"Erindring, identitet og tvivlen om egen historie.",Artifact;Film
+artifact:en-andalusisk-hund,en-andalusisk-hund,En andalusisk hund,Film,1929,Un Chien Andalou,Surrealismens ubevidste i fri association.,Artifact;Film
+artifact:hannah-arendt-filmen,hannah-arendt-filmen,Hannah Arendt (film),Film,2012,Hannah Arendt,Ondskabens banalitet som biografisk drama.,Artifact;Film
+artifact:de-andres-liv,de-andres-liv,De andres liv,Film,2006,The Lives of Others,Panoptisk overvågning og disciplinærmagt i DDR.,Artifact;Film
+artifact:se7en,se7en,Se7en,Film,1995,Se7en,Dødssynderne som thomistisk moralkodeks vendt til seriemord.,Artifact;Film
+artifact:waking-life,waking-life,Waking Life,Film,2001,Waking Life,Eksistentialisme og drøm som filosofisk samtaleform.,Artifact;Film
+artifact:mr-nobody,mr-nobody,Mr. Nobody,Film,2009,Mr. Nobody,"Determinisme, tilfælde og betydningen af valg.",Artifact;Film
+artifact:wall-e,wall-e,WALL-E,Film,2008,WALL-E,Det endimensionelle forbrugersamfund – Marcuse i animationsform.,Artifact;Film
+artifact:the-good-place,the-good-place,The Good Place,TVSeries,2016,The Good Place,"Kant, utilitarisme og dydsetik som tv-serie.",Artifact;TVSeries
+artifact:clockwork-orange,clockwork-orange,A Clockwork Orange,Film,1971,A Clockwork Orange,"Fri vilje mod adfærdskontrol: ""hvad betyder et menneske uden valg?""",Artifact;Film
+artifact:apocalypse-now,apocalypse-now,Apocalypse Now,Film,1979,Apocalypse Now,Zarathustras afgrundmetaforik i krigens hjerte.,Artifact;Film
+artifact:1984,1984,1984,Book,1949,Nineteen Eighty-Four,"Totalitær ideologi, ny-sprog og statens indgriben i erkendelsen.",Artifact;Book
+artifact:sofies-verden,sofies-verden,Sofies verden,Book,1991,Sophie's World,Filosofihistorien fortalt som spørgende dannelsesroman.,Artifact;Book
+artifact:sofies-verden-filmen,sofies-verden-filmen,Sofies verden (film),Film,1999,Sophie's World,Filosofihistorien på film.,Artifact;Film
+artifact:gladiator,gladiator,Gladiator,Film,2000,Gladiator,Marcus Aurelius' stoiske kejserideal i moderne filmfortælling.,Artifact;Film
+artifact:le-guin-moerket,le-guin-moerket,Ursula K. Le Guin: De besiddelsesløse,Book,1974,The Dispossessed,Anarkistisk utopi og kritik af såvel kapitalisme som statssocialisme.,Artifact;Book
+artifact:janteloven,janteloven,Janteloven,MoralCode,1933,The Law of Jante,Aksel Sandemoses kodeks mod konformitet – udlæst som ressentimentets sociale moral.,Artifact;MoralCode
+artifact:fns-menneskerettighedserklaering,fns-menneskerettighedserklaering,FN's Verdenserklæring om Menneskerettighederne,Legislation,1948,Universal Declaration of Human Rights,Menneskets værdighed og naturret kodificeret globalt.,Artifact;Legislation
+artifact:tysklands-grundgesetz,tysklands-grundgesetz,Tysklands Grundgesetz,Constitution,1949,Basic Law for the Federal Republic of Germany,Artikel 1: menneskets værdighed som reaktion på lovløsheden.,Artifact;Constitution
+artifact:borgerretsloven-1964,borgerretsloven-1964,Den amerikanske borgerrettighedslov,Legislation,1964,Civil Rights Act,Lighed for loven gennemført efter borgerretsbevægelsen.,Artifact;Legislation
+artifact:ligestillingsloven,ligestillingsloven,Ligestillingsloven,Legislation,1978,Gender Equality Act,Kønsligestilling som juridisk norm.,Artifact;Legislation
+artifact:dyrevelfaerdsloven,dyrevelfaerdsloven,Dyrevelfærdsloven,Legislation,1991,Animal Welfare Act,"""Kan de lide?"" – Benthams spørgsmål blev til lov.",Artifact;Legislation
+artifact:handicapkonventionen,handicapkonventionen,FN's Handicapkonvention,Legislation,2006,Convention on the Rights of Persons with Disabilities,Kapabilitetstilgangen som menneskerettighed.,Artifact;Legislation
+artifact:nurnbergkodekset,nurnbergkodekset,Nürnbergkodekset,MoralCode,1947,The Nuremberg Code,Informeret samtykke efter lægeeksperimenterne: menneskets værdighed som grænse.,Artifact;MoralCode
+artifact:eu-samarbejdet,eu-samarbejdet,Det europæiske samarbejde (EU),Institution,1993,European Union,Magtens tredeling og folkesuverænitet i overnational form.,Artifact;Institution
+artifact:folkeskolen,folkeskolen,Folkeskolen,Institution,1814,The Danish public school,Almen dannelse for alle – oplysningens og dannelsesidealets institution.,Artifact;Institution
+artifact:progressiv-paedagogik,progressiv-paedagogik,Progressiv pædagogik,Pedagogy,1916,Progressive education,Eleven som aktiv undersøger frem for passiv modtager.,Artifact;Pedagogy
+artifact:montessori-paedagogik,montessori-paedagogik,Montessori-pædagogik,Pedagogy,1907,Montessori education,Selvstændighed og forberedte omgivelser – parallelt med Deweys indsigt.,Artifact;Pedagogy
+artifact:sokratisk-samtale,sokratisk-samtale,Den sokratiske samtale,Pedagogy,-420,Socratic dialogue,"Undervisningsform hvor læreren kun spørger, og eleven selv finder svaret.",Artifact;Pedagogy
+artifact:bauhaus,bauhaus,Bauhaus,Institution,1919,Bauhaus,Kunstskolen der gjorde værkstedet til klasselokale: form følger funktion.,Artifact;Institution
+artifact:kognitionsvidenskaben,kognitionsvidenskaben,Kognitionsvidenskaben,ScientificTheory,1975,Cognitive science,Bevidsthed og sprog undersøgt som informationsbehandling.,Artifact;ScientificTheory
+artifact:turing-testen,turing-testen,Turing-testen,Technology,1950,The Turing test,Maskinens intelligens bedømt på samtalen – funktionalismens lakmusprøve.,Artifact;Technology
+artifact:generativ-ai,generativ-ai,Generativ AI,Technology,2022,Generative AI,Sprogteknologi på statistisk grundlag – og Chomskys indvending mod den.,Artifact;Technology
+artifact:atomteorien,atomteorien,Atomteorien,ScientificTheory,-400,Atomic theory,Fra Demokrits atomer til moderne fysik og kemi.,Artifact;ScientificTheory
+artifact:de-fire-elementer,de-fire-elementer,De fire elementer,ScientificTheory,-450,The four elements,"Jord, vand, luft og ild som naturfilosofisk grundmodel i 2000 år.",Artifact;ScientificTheory
+artifact:heliocentrismen,heliocentrismen,Heliocentrismen og det uendelige univers,ScientificTheory,1543,Heliocentrism,Jorden flyttet fra centrum – forudsat af brunosk kosmologi.,Artifact;ScientificTheory
+artifact:psykofarmakologi,psykofarmakologi,Den psykofarmakologiske psykiatri,Practice,1952,Psychopharmacology,"Biologisk psykiatri, der fortrængte det psykoanalytiske paradigme.",Artifact;Practice
+artifact:surrealismen,surrealismen,Surrealismen,Movement,1924,Surrealism,Det ubevidste som æstetisk program – Freud omsat til kunst.,Artifact;Movement
+artifact:oplysningsbevaegelsen,oplysningsbevaegelsen,Oplysningsbevægelsen,Movement,1750,The Enlightenment movement,"Fornuft, offentlighed og kritik som social bevægelse.",Artifact;Movement
+artifact:den-sorte-borgerretsbevaegelse,den-sorte-borgerretsbevaegelse,Borgerretsbevægelsen i USA,Movement,1955,The civil rights movement,Lighedsidealet fra naturret og samfundskontrakt ført i marken.,Artifact;Movement
+artifact:me-too,me-too,#MeToo,Movement,2017,MeToo movement,Køn som magtstruktur gjort til offentlig anklage.,Artifact;Movement
+artifact:hippiebevaegelsen,hippiebevaegelsen,Hippiebevægelsen,Movement,1965,The hippie movement,Marcuses modkultur og kritik af det endimensionelle samfund.,Artifact;Movement
+artifact:kant-evig-fred,kant-evig-fred,Kant: Den evige fred,Text,1795,Perpetual Peace: A Philosophical Sketch,"Freden skal ikke hvile på traktater, men på et forbund af republikker.",Artifact;Text
+artifact:folkeforbundet,folkeforbundet,Folkeforbundet,Institution,1920,League of Nations,Det første forsøg på at sætte et statsforbund i verden – og dets sammenbrud i 1930'erne.,Artifact;Institution
+artifact:fn-pagten,fn-pagten,FN-pagten,Legislation,1945,Charter of the United Nations,Forbud mod angrebskrig og et forbund af stater med egne retsregler.,Artifact;Legislation
+artifact:folkeretten,folkeretten,Folkeretten,Legislation,1625,International law,"En ret mellem staterne, bygget på naturretten i stedet for på magt alene.",Artifact;Legislation
+artifact:geneve-konventionerne,geneve-konventionerne,Genève-konventionerne,Legislation,1949,The Geneva Conventions,Krigens ret kodificeret: også fjenden og de civile har krav på beskyttelse.,Artifact;Legislation
+artifact:den-europaeiske-menneskerettighedskonvention,den-europaeiske-menneskerettighedskonvention,Den Europæiske Menneskerettighedskonvention,Legislation,1950,European Convention on Human Rights,Individet kan klage over sin egen stat til en international domstol (dansk lov 1992).,Artifact;Legislation
+artifact:grotius-mare-liberum,grotius-mare-liberum,Grotius: Mare liberum (Det frie hav),Text,1609,Mare Liberum,Havet er fælles ejendom – opgøret med de opdelte verdenshave.,Artifact;Text
+artifact:grotius-krigens-ret,grotius-krigens-ret,Grotius: Om krigens og fredens ret,Book,1625,De iure belli ac pacis,Folkerettens grundbog: naturretten gælder også mellem stater.,Artifact;Book
+artifact:keynes-general-teori,keynes-general-teori,"Keynes: The General Theory of Employment, Interest and Money",Book,1936,"The General Theory of Employment, Interest and Money","Den samlede efterspørgsel, ikke markedet selv, bestemmer beskæftigelsen.",Artifact;Book
+artifact:imf,imf,Den internationale Valutafond (IMF),Institution,1944,International Monetary Fund,Overvågning af valutaer og betalingsbalancer – skabt på Bretton Woods-konferencen.,Artifact;Institution
+artifact:verdensbanken,verdensbanken,Verdensbanken,Institution,1944,World Bank,Genopbygning og udviklingslån som international opgave.,Artifact;Institution
+artifact:kognitiv-adfaerdsterapi,kognitiv-adfaerdsterapi,Kognitiv adfærdsterapi (CBT),Practice,1955,Cognitive behavioural therapy,Epiktets skelnen mellem tingen og dommen om tingen gjort til metode mod angst og depression.,Artifact;Practice
+artifact:eksistentiel-psykoterapi,eksistentiel-psykoterapi,Eksistentiel psykoterapi,Practice,1946,Existential psychotherapy,"Angst, frihed, ansvar og mening som terapiens emner – videre fra Kierkegaard, Heidegger og Sartre.",Artifact;Practice
+artifact:gip-faengselsgruppen,gip-faengselsgruppen,Fængselsinformationsgruppen (GIP),Movement,1971,Prison Information Group,Foucault og de indsattes egne vidnesbyrd som kritisk praksis.,Artifact;Movement
+artifact:informeret-samtykke,informeret-samtykke,Informeret samtykke,Practice,1947,Informed consent,Selvbestemmelse som etisk og retlig norm i behandling og forskning.,Artifact;Practice
+artifact:helsinki-deklarationen,helsinki-deklarationen,Helsingforsdeklarationen,MoralCode,1964,Declaration of Helsinki,Lægevidenskabens etiske grundlag: forsøgspersonens samtykke og velbefindende først.,Artifact;MoralCode
+artifact:cost-benefit-analyse,cost-benefit-analyse,Cost-benefit-analysen,Practice,1936,Cost–benefit analysis,"Nytte og omkostninger opgjort i tal, når samfundet skal vælge mellem projekter.",Artifact;Practice
+artifact:kvindelig-valgret-1915,kvindelig-valgret-1915,Kvindernes valgret i Danmark 1915,Legislation,1915,Women's suffrage in Denmark,Grundlovsændringen gav kvinder og tjenestefolk stemmeret; første valg med de nye regler var 1918.,Artifact;Legislation
+artifact:otte-timers-arbejdsdagen,otte-timers-arbejdsdagen,Otte-timers-arbejdsdagen,Legislation,1919,The eight-hour workday,"Arbejderbevægelsens kernkrav, gjort til ILO's første konvention efter Første Verdenskrig.",Artifact;Legislation
+artifact:ilo,ilo,Den internationale Arbejdsorganisation (ILO),Institution,1919,International Labour Organization,"Arbejdernes vilkår som international ret: det, klassekampen gjorde til et verdensspørgsmål.",Artifact;Institution
+artifact:folkeskoleloven-1814,folkeskoleloven-1814,Skoleloven af 1814 og lovskolen,Legislation,1814,The Danish School Acts of 1814,Almueskolen skulle lære alle børn at læse og tænke – oplysningens skolelovgivning i Danmark.,Artifact;Legislation
+artifact:postmodernismen,postmodernismen,Postmodernismen,Movement,1979,Postmodernism,Mistillid til de store fortællinger og til sandheden som ét perspektiv – Nietzsches perspektivisme i efterkrigstidens teori.,Artifact;Movement
+artifact:comenius-didactica-magna,comenius-didactica-magna,Comenius: Didactica Magna (Den store undervisningslære),Book,1657,Didactica Magna,"Undervisningens kunst som system: fire skoletrin, sanselighed og orden – alle børn skal kunne lære alt.",Artifact;Book
+artifact:comenius-orbis-pictus,comenius-orbis-pictus,Comenius: Orbis Sensualium Pictus,Book,1658,Orbis Sensualium Pictus,Den første illustrerede lærebog for børn: billede og ord side om side.,Artifact;Book
+artifact:pestalozzi-leonard-og-gertrud,pestalozzi-leonard-og-gertrud,Pestalozzi: Leonard og Gertrud,Book,1781,Lienhard und Gertrud,"Opdragelsesroman om landsbyens børn: hoved, hjerte og hånd skal dannes sammen.",Artifact;Book
+artifact:herbart-almindelig-paedagogik,herbart-almindelig-paedagogik,Herbart: Almen pædagogik,Book,1806,Allgemeine Pädagogik,"Pædagogikken som videnskab: apperception, opdragende undervisning og undervisningens trin.",Artifact;Book
+artifact:frobel-menneskets-opdragelse,frobel-menneskets-opdragelse,Fröbel: Menneskets opdragelse,Book,1826,The Education of Man,Legen og det selvvalgte arbejde som barnets egen dannelse.,Artifact;Book
+artifact:grundtvig-nordens-mytologi,grundtvig-nordens-mytologi,Grundtvig: Nordens Mytologi,Book,1808,Northern Mythology,Grundtvigs gennembrudsværk. Hans skoletanker om folkelig oplysning findes i taler og skrifter gennem hele livet.,Artifact;Book
+artifact:montessori-metoden,montessori-metoden,Montessori: Den videnskabelige pædagogiks metode,Book,1909,The Montessori Method,Metoden udsprang af arbejdet med børnene i Casa dei Bambini.,Artifact;Book
+artifact:piaget-sprog-og-taenkning,piaget-sprog-og-taenkning,Piaget: Sprog og tænkning hos barnet,Book,1923,The Language and Thought of the Child,Barnets tanke udvikler sig i faser gennem egen virksomhed.,Artifact;Book
+artifact:piaget-leg-drom-efterligning,piaget-leg-drom-efterligning,"Piaget: Leg, drøm og efterligning",Book,1962,"Play, Dreams and Imitation in Childhood","Legens former: øvelsesleg, symbolsk leg og spil med regler.",Artifact;Book
+artifact:vygotsky-taenkning-og-sprog,vygotsky-taenkning-og-sprog,Vygotsky: Tænkning og sprog,Book,1934,Thought and Language,Tænkningen bliver til i sproget og i samarbejdet med andre.,Artifact;Book
+artifact:bruner-process-of-education,bruner-process-of-education,Bruner: The Process of Education,Book,1960,The Process of Education,Woods Hole-konferencen 1959: store ideer skal tages igen på højere niveau.,Artifact;Book
+artifact:wood-bruner-ross-stilladsering,wood-bruner-ross-stilladsering,"Wood, Bruner & Ross: The Role of Tutoring in Problem Solving",Text,1976,The Role of Tutoring in Problem Solving,"Artiklen der indførte ordet «scaffolding» om den støtte, en voksen giver og gradvist trækker tilbage.",Artifact;Text
+artifact:bloom-taksonomi,bloom-taksonomi,Bloom: Taxonomi for undervisningsmål,Book,1956,Taxonomy of Educational Objectives,"Viden, forståelse, anvendelse, analyse, syntese og vurdering – mål ordnet efter erkendelsesniveau.",Artifact;Book
+artifact:polanyi-tavs-viden,polanyi-tavs-viden,Polanyi: The Tacit Dimension,Book,1966,The Tacit Dimension,"""We can know more than we can tell"" – viden der sidder i hænder og vaner.",Artifact;Book
+artifact:gettier-artikel,gettier-artikel,Gettier: Is Justified True Belief Knowledge?,Text,1963,Is Justified True Belief Knowledge?,Tre sider der vælter den klassiske definition af viden.,Artifact;Text
+artifact:freire-de-undertryktes-paedagogik,freire-de-undertryktes-paedagogik,Freire: De undertryktes pædagogik,Book,1968,Pedagogy of the Oppressed,"Bankundervisningens modsætning: dialog, problemformulering og frigørelse.",Artifact;Book
+artifact:illich-deschooling,illich-deschooling,Illich: Det skoleløse samfund,Book,1971,Deschooling Society,Skolen som institution gør læring til vare; Illich foreslog læringsnetværk i stedet.,Artifact;Book
+artifact:huizinga-homo-ludens,huizinga-homo-ludens,Huizinga: Homo Ludens,Book,1938,Homo Ludens,"Legen som en af kulturens kilder – ret, krig, kunst og religion har legens form.",Artifact;Book
+artifact:caillois-leg-og-spil,caillois-leg-og-spil,Caillois: Leg og spil,Book,1958,"Man, Play and Games","Legens fire former: konkurrence, tilfælde, efterligning og svimmelhed.",Artifact;Book
+artifact:winnicott-leg-og-virkelighed,winnicott-leg-og-virkelighed,Winnicott: Leg og virkelighed,Book,1971,Playing and Reality,"Legen som det mellemområde, hvor barnet prøver virkeligheden af.",Artifact;Book
+artifact:bowlby-maternal-care,bowlby-maternal-care,Bowlby: Maternal Care and Mental Health,Book,1951,Maternal Care and Mental Health,WHO-rapporten om adskilte børn – tilknytningsteoriens internationale gennembrud.,Artifact;Book
+artifact:aries-barndommens-historie,aries-barndommens-historie,Ariès: Barndommens historie,Book,1960,Centuries of Childhood,"Barndommen er ikke en naturkonstant, men har sin egen historie.",Artifact;Book
+artifact:maslow-motivation-og-personlighed,maslow-motivation-og-personlighed,Maslow: Motivation and Personality,Book,1954,Motivation and Personality,Behovene i rækkefølge – og selvrealisering som det øverste.,Artifact;Book
+artifact:herzberg-one-more-time,herzberg-one-more-time,Herzberg: One More Time – How Do You Motivate Employees?,Text,1968,One More Time: How Do You Motivate Employees?,"Utilfredshed fjernes med vilkår; motivation skabes med ansvar, præstation og vækst.",Artifact;Text
+artifact:csikszentmihalyi-flow,csikszentmihalyi-flow,Csikszentmihalyi: Flow,Book,1990,Flow: The Psychology of Optimal Experience,"Fuld optagethed, når udfordring og kunnen balancerer.",Artifact;Book
+artifact:bandura-self-efficacy,bandura-self-efficacy,Bandura: Self-efficacy,Text,1977,Self-efficacy: Toward a Unifying Theory of Behavioral Change,"Troen på, at man kan, er en forudsætning for at gøre.",Artifact;Text
+artifact:dweck-mindset,dweck-mindset,Dweck: Mindset,Book,2006,Mindset,Fast eller udviklende tankesæt om sine egne evner.,Artifact;Book
+artifact:erikson-childhood-and-society,erikson-childhood-and-society,Erikson: Childhood and Society,Book,1950,Childhood and Society,"Otte stadier gennem hele livet – identitet, intimitet, generativitet, integritet.",Artifact;Book
+artifact:berger-luckmann-social-konstruktion,berger-luckmann-social-konstruktion,Berger & Luckmann: Den sociale konstruktion af virkeligheden,Book,1966,The Social Construction of Reality,"Viden om hverdagen bliver til institutioner, når handlinger gentages og glemmer deres ophav.",Artifact;Book
+artifact:lave-wenger-situeret-laering,lave-wenger-situeret-laering,Lave & Wenger: Situated Learning,Book,1991,Situated Learning: Legitimate Peripheral Participation,Læring som deltagelse: den nye bevæger sig fra periferien mod fællesskabets centrum.,Artifact;Book
+artifact:den-trinopdelte-skole,den-trinopdelte-skole,Den trinopdelte skole med klasseundervisning,Pedagogy,1657,Graded schooling,Comenius skitserede fire skoletrin og en systematisk metode. At kalde ham den moderne klasseundervisnings opfinder er for meget; båndet er en dokumenteret pædagogisk indflydelse.,Artifact;Pedagogy
+artifact:foraeldrevejledning,foraeldrevejledning,Forældrevejledning og opdragelsesråd,Practice,1693,Parenting advice,"Lockes breve til forældre blev læst som håndbog i opdragelse – vane, eksempel og mådehold frem for prygl.",Artifact;Practice
+artifact:pestalozzi-yverdon,pestalozzi-yverdon,Pestalozzis institut i Yverdon,Institution,1805,Yverdon institute,Mønsterskole og læreruddannelsessted: principperne blev båret videre af lærere derfra.,Artifact;Institution
+artifact:herbart-seminaret,herbart-seminaret,Det pædagogiske seminar med øvelsesskole,Institution,1810,Pedagogical seminar,Herbarts seminar i Königsberg bandt pædagogik til universitetet og til en øvelsesskole.,Artifact;Institution
+artifact:folkehojskolen,folkehojskolen,Folkehøjskolen,Institution,1844,Folk high school,Rødding 1844 blev rejst på Grundtvigs idé om en skole for livet – af Christian Flor. Folkehøjskolen som nordisk skoleform.,Artifact;Institution
+artifact:grundtvig-koldske-friskoler,grundtvig-koldske-friskoler,De grundtvig-koldske friskoler,Movement,1851,Danish free schools,Kold åbnede sin skole i Ryslinge i 1851 og gjorde den mundtlige formidling til praksis; friskolerne voksede ud af miljøet omkring Grundtvig og Kold.,Artifact;Movement
+artifact:folkehojskoleloven,folkehojskoleloven,Folkehøjskoleloven,Legislation,2019,Act on Folk High Schools,"Folkehøjskolerne skal ifølge formålsparagraffen give livsoplysning, folkelig oplysning og demokratisk dannelse – Grundtvigs ord om livet gælder endnu i loven.",Artifact;Legislation
+artifact:bornehaven,bornehaven,Børnehaven,Institution,1871,Kindergarten,"Den danske børnehave er en Fröbel-institution. Årstallet 1871 kommer fra lex.dk; Hedevig Bagger åbnede sin børnehave i 1880, og den fröbelske linje er den dokumenterede.",Artifact;Institution
+artifact:froebelseminariet,froebelseminariet,Frøbelseminariet,Institution,1904,Fröbel seminar,Danmarks uddannelse af børnehavepædagoger: Hedevig Bagger førte Fröbels leg og gaver ind i den danske pædagoguddannelse.,Artifact;Institution
+artifact:byggelegepladsen,byggelegepladsen,Byggelegepladsen i Emdrup,Practice,1943,Adventure playground,C.Th. Sørensens idé (1931) om skrammellegepladsen blev virkelighed i Emdrup 15. august 1943: børnene byggede selv af løst materiale.,Artifact;Practice
+artifact:dagtilbudsloven,dagtilbudsloven,Dagtilbudsloven og den styrkede læreplan,Legislation,2007,Danish Day Care Act,Den danske daginstitutionslov (2007) gjorde en skriftlig læreplan obligatorisk; reformen 2018 gjorde legen grundlæggende i læringsmiljøet.,Artifact;Legislation
+artifact:fns-bornekonvention,fns-bornekonvention,FN's Børnekonvention,Legislation,1989,Convention on the Rights of the Child,"Barnet som retssubjekt. Artikel 31 giver børn ret til leg og fritid – men konventionen udspringer ikke af legens teoretikere, den viderefører menneskerettighedstraditionen.",Artifact;Legislation
+artifact:lab-school,lab-school,Laboratorieskolen i Chicago,Institution,1896,University of Chicago Laboratory Schools,"Deweys forsøgsskole: undervisning som undersøgelse i samarbejde, ikke som afhøring.",Artifact;Institution
+artifact:projektmetoden,projektmetoden,Projektmetoden,Practice,1918,Project method,"Kilpatricks artikel fra 1918 gjorde det helhjertede, formålshavende arbejde til undervisningsform.",Artifact;Practice
+artifact:angicos,angicos,Angicos-experimentet,Event,1963,Angicos experiment,Freires læsekampagne i Angicos: 300 landarbejdere blev vurderet læsekyndige på få måneder.,Artifact;Event
+artifact:deltagende-aktionsforskning,deltagende-aktionsforskning,Deltagende aktionsforskning,Practice,1970,Participatory action research,Forskning hvor de berørte selv er med til at stille spørgsmålene og handle på svarene.,Artifact;Practice
+artifact:udviklingspsykologien,udviklingspsykologien,Udviklingspsykologien,ScientificTheory,1950,Developmental psychology,"Barnets udvikling gjort til videnskabeligt felt – båret ind i skolen, klinikken og familierådgivningen.",Artifact;ScientificTheory
+artifact:stilladsering-i-undervisningen,stilladsering-i-undervisningen,Stilladsering i undervisningen,Practice,1976,Instructional scaffolding,"Den voksne bygger støtte om opgaven og fjerner den, efterhånden som barnet kan selv.",Artifact;Practice
+artifact:laereplansreform,laereplansreform,Læreplansreformen efter Sputnik,Pedagogy,1960,Curriculum reform,"Naturfagene skulle bygges op omkring få store ideer, der vendte tilbage gennem hele skolegangen.",Artifact;Pedagogy
+artifact:laeringsmaalsformulering,laeringsmaalsformulering,Læringsmål og evaluering,Practice,1956,Learning objectives,Undervisningen formulerer hvad eleven skal kunne – og prøver efter det.,Artifact;Practice
+artifact:vidensledelse,vidensledelse,Vidensledelse,Practice,1991,Knowledge management,"Virksomheder begyndte at regne tavs viden som en ressource, der skal gøres fælles.",Artifact;Practice
+artifact:arbejdspladslaering,arbejdspladslaering,Arbejdspladslæring og mesterlære,Practice,1991,Workplace learning,"At lære ved at deltage i arbejdet – fra perifer til erfaren, med fællesskabets øvrige som lærere.",Artifact;Practice
+artifact:post-gettier-epistemologi,post-gettier-epistemologi,Den post-gettierske vidensanalyse,ScientificTheory,1963,Post-Gettier epistemology,Forskningsprogrammet der i årtier har forsøgt at reparere eller erstatte definitionen af viden.,Artifact;ScientificTheory
+artifact:konstruktivistisk-paedagogik,konstruktivistisk-paedagogik,Konstruktivistisk pædagogik,Pedagogy,1970,Constructivist pedagogy,Eleven bygger selv sin forståelse; læreren stiller opgaver og spørgsmål frem for at overføre facit.,Artifact;Pedagogy
+artifact:hr-ledelse,hr-ledelse,HR og medarbejdermotivation,Practice,1954,Human resource management,"Motivationsteorierne flyttede ind i personalepolitikken: behov, udvikling og selvrealisering på arbejdspladsen.",Artifact;Practice
+artifact:jobberigelse,jobberigelse,Jobberigelse,Practice,1968,Job enrichment,"Jobbet bygges om, så det selv indeholder ansvar, præstation og mulighed for at vokse.",Artifact;Practice
+artifact:spildesign-og-flow,spildesign-og-flow,Flow som designprincip i spil,Practice,1990,Flow in game design,"Sværhedsgraden skrues efter spilleren, så udfordring og kunnen følges ad – undersøgelser af mobilspillere finder den bedste balance omkring spillerens eget niveau.",Artifact;Practice
+artifact:adfaerdsinterventioner,adfaerdsinterventioner,Adfærdsændringsinterventioner,Practice,2020,Behaviour-change interventions,"Programmer i sundhed, arbejde og skole der arbejder med mestringserfaring, forbilleder og overbevisning om egen formåen.",Artifact;Practice
+artifact:mindset-interventioner,mindset-interventioner,Væksttankesæt-interventioner i skolen,Practice,2020,Growth mindset interventions,Korte online-forløb har løftet karakterer for svagere elever – men effekterne afhænger af elevernes vilkår og af klassens kultur.,Artifact;Practice
+artifact:spilforskningen,spilforskningen,Spilforskningen,ScientificTheory,2001,Game studies,"Leg og spil som selvstændigt forskningsfelt, med Homo Ludens og Leg og spil som faste referencer.",Artifact;ScientificTheory
+artifact:bornepsykoterapi,bornepsykoterapi,Børnepsykoterapi og leg i behandlingen,Practice,1953,Child psychotherapy,Legen som barnets eget sprog i behandlingen – overgangsobjektet og det tilstrækkeligt gode som klinisk ramme.,Artifact;Practice
+artifact:boerneforsorg,boerneforsorg,Børneforsorg og anbringelse uden for hjemmet,Practice,1951,Child welfare,WHO-rapporten om adskilte børn satte bånd og stabilitet på dagsordenen i behandlingen af anbragte børn.,Artifact;Practice
+artifact:barndomshistorien,barndomshistorien,Barndomshistorien som forskningsfelt,ScientificTheory,1960,History of childhood,Barndommens skiftende vilkår og begreber blev et historisk emne – med Ariès som den omstridte pioner.,Artifact;ScientificTheory

@@ -1,0 +1,955 @@
+Billeder hentet fra den engelske Wikipedia (artikel-thumbnail).
+Licens: se den enkelte fils beskrivelsesside på Wikimedia Commons.
+
+Noder med billede: 572
+  era:1800-tallet                                19th century                                               → 19th century
+  artifact:2001-en-rumrejse                      2001: A Space Odyssey (film)                               → 2001: A Space Odyssey
+  philosopher:abelard                            Peter Abelard                                              → Peter Abelard
+  artifact:abelard-sic-et-non                    Sic et Non                                                 → Sic et Non
+  concept:absurdisme                             Absurdism                                                  → Absurdism
+  philosopher:adorno                             Theodor W. Adorno                                          → Theodor W. Adorno
+  artifact:adorno-negativ-dialektik              Negative Dialectics                                        → Negative Dialectics
+  artifact:adorno-oplysningens-dialektik         Dialectic of Enlightenment                                 → Dialectic of Enlightenment
+  concept:aktuel-idealisme                       Actual idealism                                            → Actual idealism
+  artifact:al-azhar                              Al-Azhar University                                        → Al-Azhar University
+  philosopher:al-ghazali                         Al-Ghazali                                                 → Al-Ghazali
+  concept:almenviljen                            The general will                                           → General will
+  philosopher:althusser                          Louis Althusser                                            → Louis Althusser
+  philosopher:anaxagoras                         Anaxagoras                                                 → Anaxagoras
+  concept:angstbegrebet                          Anxiety                                                    → Anxiety
+  philosopher:anscombe                           G. E. M. Anscombe                                          → G. E. M. Anscombe
+  concept:antiimperialisme                       Anti-imperialism                                           → Anti-imperialism
+  artifact:apocalypse-now                        Apocalypse Now                                             → Apocalypse Now
+  philosopher:aquinas                            Thomas Aquinas                                             → Thomas Aquinas
+  artifact:aquinas-summa-contra-gentiles         Summa contra Gentiles                                      → Summa contra Gentiles
+  artifact:aquinas-summa-theologica              Summa Theologica                                           → Summa Theologica
+  concept:arbejdsdeling                          Division of labour                                         → Division of labour
+  artifact:arbejdspladslaering                   Apprenticeship                                             → Apprenticeship
+  concept:arbejdsvaerditeori                     Labour theory of value                                     → Labor theory of value
+  philosopher:arendt                             Hannah Arendt                                              → Hannah Arendt
+  artifact:arendt-eichmann                       Eichmann in Jerusalem                                      → Eichmann in Jerusalem
+  philosopher:aries                              Philippe Ariès                                             → Philippe Ariès
+  artifact:aries-barndommens-historie            Centuries of Childhood                                     → Centuries of Childhood
+  philosopher:aristoteles                        Aristotle                                                  → Aristotle
+  artifact:aristoteles-fysik                     Physics (Aristotle)                                        → Physics (Aristotle)
+  artifact:aristoteles-metafysik                 Metaphysics (Aristotle)                                    → Metaphysics (Aristotle)
+  artifact:aristoteles-nikomacheiske-etik        Nicomachean Ethics                                         → Nicomachean Ethics
+  artifact:aristoteles-organon                   Organon                                                    → Organon
+  concept:aristotelisme                          Aristotelianism                                            → Aristotelianism
+  concept:artsformynderi                         Speciesism                                                 → Speciesism
+  concept:arvesynden                             Original sin                                               → Original sin
+  concept:asketisme                              Asceticism                                                 → Asceticism
+  concept:ataraxia                               Ataraxia                                                   → Ataraxia
+  artifact:atomteorien                           Atomic theory                                              → History of atomic theory
+  philosopher:augustin                           Augustine of Hippo                                         → Augustine of Hippo
+  artifact:augustin-bekendelser                  Confessions (Augustine)                                    → Confessions (Augustine)
+  artifact:augustin-gudsstaten                   The City of God                                            → The City of God
+  philosopher:austin                             J. L. Austin                                               → J. L. Austin
+  philosopher:averroes                           Averroes                                                   → Averroes
+  artifact:averroes-tahafut-tahafut              The Incoherence of the Incoherence                         → The Incoherence of the Incoherence
+  concept:averroisme                             Averroism                                                  → Averroism
+  philosopher:avicenna                           Avicenna                                                   → Avicenna
+  artifact:avicenna-kanon                        The Canon of Medicine                                      → The Canon of Medicine
+  philosopher:ayer                               Alfred Jules Ayer                                          → A. J. Ayer
+  artifact:ayer-sprog-sandhed-logik              Language, Truth, and Logic                                 → Language, Truth, and Logic
+  philosopher:bachelard                          Gaston Bachelard                                           → Gaston Bachelard
+  philosopher:bacon                              Francis Bacon (philosopher)                                → Francis Bacon
+  artifact:bacon-novum-organum                   Novum Organum                                              → Novum Organum
+  philosopher:badiou                             Alain Badiou                                               → Alain Badiou
+  philosopher:bakunin                            Mikhail Bakunin                                            → Mikhail Bakunin
+  artifact:bakunin-gud-og-staten                 God and the State                                          → God and the State
+  philosopher:bandura                            Albert Bandura                                             → Albert Bandura
+  artifact:barndomshistorien                     History of childhood                                       → History of childhood
+  artifact:bauhaus                               Bauhaus                                                    → Bauhaus
+  philosopher:beauvoir                           Simone de Beauvoir                                         → Simone de Beauvoir
+  artifact:beauvoir-det-andet-koen               The Second Sex                                             → The Second Sex
+  concept:behovspyramiden                        Hierarchy of needs                                         → Maslow's hierarchy of needs
+  artifact:benediktinerreglen                    Rule of Saint Benedict                                     → Rule of Saint Benedict
+  philosopher:benjamin                           Walter Benjamin                                            → Walter Benjamin
+  artifact:benjamin-kunstvaerket                 The Work of Art in the Age of Mechanical Reproduction      → The Work of Art in the Age of Mechanical Reproduction
+  philosopher:bentham                            Jeremy Bentham                                             → Jeremy Bentham
+  artifact:bentham-indledning                    An Introduction to the Principles of Morals and Legislation → An Introduction to the Principles of Morals and Legislation
+  artifact:bentham-panoptikon                    Panopticon                                                 → Panopticon
+  philosopher:berdyaev                           Nikolai Berdyaev                                           → Nikolai Berdyaev
+  philosopher:berger                             Peter L. Berger                                            → Peter L. Berger
+  artifact:berger-luckmann-social-konstruktion   The Social Construction of Reality                         → The Social Construction of Reality
+  philosopher:bergson                            Henri Bergson                                              → Henri Bergson
+  artifact:bergson-skabende-evolution            Creative Evolution (book)                                  → Creative Evolution (book)
+  philosopher:berkeley                           George Berkeley                                            → George Berkeley
+  artifact:berkeley-traktat                      A Treatise Concerning the Principles of Human Knowledge    → A Treatise Concerning the Principles of Human Knowledge
+  concept:betydning-og-reference                 Sense and reference                                        → Sense and reference
+  artifact:blade-runner                          Blade Runner                                               → Blade Runner
+  philosopher:bloom                              Allan Bloom                                                → Allan Bloom
+  artifact:boerneforsorg                         Foster care                                                → Foster care
+  philosopher:boethius                           Boethius                                                   → Boethius
+  artifact:boethius-troest                       The Consolation of Philosophy                              → On the Consolation of Philosophy
+  artifact:borgerretsloven-1964                  Civil Rights Act of 1964                                   → Civil Rights Act of 1964
+  artifact:bornehaven                            Kindergarten                                               → Kindergarten
+  philosopher:bowlby                             John Bowlby                                                → John Bowlby
+  artifact:bowlby-maternal-care                  Maternal deprivation                                       → Maternal deprivation
+  philosopher:bruner                             Jerome Bruner                                              → Jerome Bruner
+  artifact:bruner-process-of-education           The Process of Education                                   → Jerome Bruner
+  philosopher:bruno                              Giordano Bruno                                             → Giordano Bruno
+  philosopher:burke                              Edmund Burke                                               → Edmund Burke
+  artifact:burke-refleksioner                    Reflections on the Revolution in France                    → Reflections on the Revolution in France
+  philosopher:butler                             Judith Butler                                              → Judith Butler
+  artifact:byggelegepladsen                      Adventure playground                                       → Adventure playground
+  philosopher:caillois                           Roger Caillois                                             → Roger Caillois
+  artifact:caillois-leg-og-spil                  Man, Play and Games                                        → Man, Play and Games
+  philosopher:camus                              Albert Camus                                               → Albert Camus
+  artifact:camus-oproerets-menneske              The Rebel (book)                                           → The Rebel (book)
+  artifact:camus-sisyfos-myten                   The Myth of Sisyphus                                       → The Myth of Sisyphus
+  philosopher:carnap                             Rudolf Carnap                                              → Rudolf Carnap
+  philosopher:chomsky                            Noam Chomsky                                               → Noam Chomsky
+  philosopher:chrysippos                         Chrysippus                                                 → Chrysippus
+  philosopher:cicero                             Cicero                                                     → Cicero
+  artifact:cicero-om-lovene                      De Legibus                                                 → De Legibus
+  artifact:cicero-om-pligterne                   De Officiis                                                → De Officiis
+  concept:civilsamfundet                         Civil society                                              → Civil society
+  artifact:clockwork-orange                      A Clockwork Orange (film)                                  → A Clockwork Orange (film)
+  artifact:codex-justinianus                     Corpus Juris Civilis                                       → Corpus Juris Civilis
+  concept:cogito-ergo-sum                        Cogito ergo sum                                            → Cogito, ergo sum
+  philosopher:comenius                           John Amos Comenius                                         → John Amos Comenius
+  artifact:comenius-orbis-pictus                 Orbis Pictus                                               → Orbis Pictus
+  concept:common-sense-realismen                 Common sense realism                                       → Scottish common sense realism
+  philosopher:comte                              Auguste Comte                                              → Auguste Comte
+  artifact:comte-positiv-filosofi                Course of Positive Philosophy                              → Course of Positive Philosophy
+  philosopher:croce                              Benedetto Croce                                            → Benedetto Croce
+  philosopher:csikszentmihalyi                   Mihaly Csikszentmihalyi                                    → Mihaly Csikszentmihalyi
+  artifact:csikszentmihalyi-flow                 Flow (psychology)                                          → Flow (psychology)
+  artifact:dagtilbudsloven                       Day care                                                   → Child care
+  artifact:dantes-guddommelige-komedie           Divine Comedy                                              → Divine Comedy
+  concept:dao                                    Dao                                                        → Tao
+  concept:daoisme                                Daoism                                                     → Taoism
+  artifact:daoismen-som-religion                 Taoism                                                     → Taoism
+  artifact:david-michelangelo                    David (Michelangelo)                                       → David (Michelangelo)
+  philosopher:davidson                           Donald Davidson (philosopher)                              → Donald Davidson (philosopher)
+  artifact:de-andres-liv                         The Lives of Others                                        → The Lives of Others
+  artifact:de-fire-elementer                     Classical element                                          → Classical element
+  philosopher:de-maistre                         Joseph de Maistre                                          → Joseph de Maistre
+  artifact:de-maistre-om-paven                   On the Pope                                                → The Pope (book)
+  artifact:de-ti-bud                             Ten Commandments                                           → Ten Commandments
+  artifact:deismen                               Deism                                                      → Deism
+  philosopher:deleuze                            Gilles Deleuze                                             → Gilles Deleuze
+  artifact:deltagende-aktionsforskning           Participatory action research                              → Participatory action research
+  philosopher:demokrit                           Democritus                                                 → Democritus
+  artifact:den-amerikanske-forfatning            United States Constitution                                 → Constitution of the United States
+  artifact:den-danske-grundlov                   Constitution of Denmark                                    → Constitution of Denmark
+  concept:den-edle-mand                          Junzi                                                      → Junzi
+  artifact:den-europaeiske-menneskerettighedskonvention European Convention on Human Rights                        → European Convention on Human Rights
+  artifact:den-forste-internationale             International Workingmen's Association                     → First International
+  artifact:den-gyldne-regel                      Golden Rule                                                → Golden Rule
+  artifact:den-sorte-borgerretsbevaegelse        Civil rights movement                                      → Civil rights movement
+  philosopher:dennett                            Daniel Dennett                                             → Daniel Dennett
+  philosopher:derrida                            Jacques Derrida                                            → Jacques Derrida
+  philosopher:descartes                          René Descartes                                             → René Descartes
+  artifact:descartes-meditationer                Meditations on First Philosophy                            → Meditations on First Philosophy
+  artifact:descartes-metode                      Discourse on Method                                        → Discourse on the Method
+  concept:det-sublime                            The sublime                                                → Sublime (philosophy)
+  philosopher:dewey                              John Dewey                                                 → John Dewey
+  artifact:dewey-demokrati-og-uddannelse         Democracy and Education                                    → Democracy and Education
+  philosopher:diderot                            Denis Diderot                                              → Denis Diderot
+  artifact:diderot-encyclopedien                 Encyclopédie                                               → Encyclopédie
+  concept:differens-og-gentagelse                Difference and repetition                                  → Difference and Repetition
+  philosopher:dilthey                            Wilhelm Dilthey                                            → Wilhelm Dilthey
+  philosopher:diogenes                           Diogenes                                                   → Diogenes
+  concept:dualisme                               Dualism                                                    → Dualism
+  philosopher:duns-scotus                        Duns Scotus                                                → Duns Scotus
+  philosopher:dweck                              Carol Dweck                                                → Carol Dweck
+  artifact:dweck-mindset                         Mindset                                                    → Mindset
+  concept:daarlig-tro                            Bad faith                                                  → Bad faith
+  concept:eklekticisme                           Eclecticism                                                → Eclecticism
+  concept:eleatisk-skole                         Eleatic school                                             → Eleatics
+  philosopher:emerson                            Ralph Waldo Emerson                                        → Ralph Waldo Emerson
+  artifact:emerson-nature                        Nature (essay)                                             → Nature (essay)
+  artifact:emerson-selvtillid                    Self-Reliance                                              → Self-Reliance
+  concept:empirisme                              Empiricism                                                 → Empiricism
+  artifact:en-andalusisk-hund                    Un Chien Andalou                                           → Un Chien Andalou
+  philosopher:engels                             Friedrich Engels                                           → Friedrich Engels
+  artifact:engels-dialektik-naturen              Dialectics of Nature                                       → Dialectics of Nature
+  philosopher:epiktet                            Epictetus                                                  → Epictetus
+  artifact:epiktet-haandbogen                    Enchiridion of Epictetus                                   → Enchiridion of Epictetus
+  philosopher:epikur                             Epicurus                                                   → Epicurus
+  concept:epikuraeisme                           Epicureanism                                               → Epicureanism
+  philosopher:erasmus                            Erasmus                                                    → Erasmus
+  artifact:erasmus-daarskabens-lovprisning       In Praise of Folly                                         → In Praise of Folly
+  philosopher:erikson                            Erik Erikson                                               → Erik Erikson
+  artifact:erikson-childhood-and-society         Childhood and Society                                      → Childhood and Society
+  concept:etisk-intellektualisme                 Ethical intellectualism                                    → Moral intellectualism
+  artifact:eu-samarbejdet                        European Union                                             → European Union
+  concept:evig-fred                              Perpetual peace                                            → Perpetual Peace: A Philosophical Sketch
+  artifact:ex-machina                            Ex Machina (film)                                          → Ex Machina (film)
+  concept:fallibilisme                           Fallibilism                                                → Fallibilism
+  artifact:fascismens-doktrin                    The Doctrine of Fascism                                    → The Doctrine of Fascism
+  artifact:feng-shui                             Feng shui                                                  → Feng shui
+  philosopher:feyerabend                         Paul Feyerabend                                            → Paul Feyerabend
+  philosopher:fichte                             Johann Gottlieb Fichte                                     → Johann Gottlieb Fichte
+  artifact:fight-club                            Fight Club (film)                                          → Fight Club
+  artifact:filial-piety                          Filial piety                                               → Filial piety
+  artifact:fn-pagten                             Charter of the United Nations                              → Charter of the United Nations
+  artifact:fns-bornekonvention                   Convention on the Rights of the Child                      → Convention on the Rights of the Child
+  artifact:fns-menneskerettighedserklaering      Universal Declaration of Human Rights                      → Universal Declaration of Human Rights
+  artifact:folkeforbundet                        League of Nations                                          → League of Nations
+  artifact:folkehojskolen                        Folk high school                                           → Folk high school
+  artifact:folkerepublikken-kina                 China                                                      → China
+  artifact:folkeretten                           International law                                          → International law
+  philosopher:foucault                           Michel Foucault                                            → Michel Foucault
+  artifact:fountainhead-filmen                   The Fountainhead (film)                                    → The Fountainhead (film)
+  artifact:frankfurterskolen                     Frankfurt School                                           → Frankfurt School
+  artifact:franske-rettighedserklaering          Declaration of the Rights of Man and of the Citizen        → Declaration of the Rights of Man and of the Citizen
+  philosopher:frege                              Gottlob Frege                                              → Gottlob Frege
+  artifact:frege-begriffsschrift                 Begriffsschrift                                            → Begriffsschrift
+  philosopher:freire                             Paulo Freire                                               → Paulo Freire
+  artifact:freire-de-undertryktes-paedagogik     Pedagogy of the Oppressed                                  → Pedagogy of the Oppressed
+  philosopher:freud                              Sigmund Freud                                              → Sigmund Freud
+  artifact:freud-droemmetydning                  The Interpretation of Dreams                               → The Interpretation of Dreams
+  artifact:freud-jeg-og-det                      The Ego and the Id                                         → The Ego and the Id
+  concept:fri-vilje                              Free will                                                  → Free will
+  philosopher:frobel                             Friedrich Fröbel                                           → Friedrich Fröbel
+  philosopher:gadamer                            Hans-Georg Gadamer                                         → Hans-Georg Gadamer
+  artifact:gadamer-sandhed-og-metode             Truth and Method                                           → Truth and Method
+  artifact:generativ-ai                          Generative artificial intelligence                         → Generative AI
+  concept:generativ-grammatik                    Generative grammar                                         → Generative grammar
+  artifact:geneve-konventionerne                 Geneva Conventions                                         → Geneva Conventions
+  concept:gensidig-hjaelp                        Mutual aid                                                 → Mutual aid
+  philosopher:gentile                            Giovanni Gentile                                           → Giovanni Gentile
+  philosopher:gettier                            Edmund Gettier                                             → Edmund Gettier
+  artifact:ghost-in-the-shell                    Ghost in the Shell (1995 film)                             → Ghost in the Shell (1995 film)
+  artifact:gladiator                             Gladiator (2000 film)                                      → Gladiator (2000 film)
+  artifact:goetheanum                            Goetheanum                                                 → Goetheanum
+  philosopher:goodman                            Nelson Goodman                                             → Nelson Goodman
+  philosopher:gramsci                            Antonio Gramsci                                            → Antonio Gramsci
+  artifact:gramsci-faengselsnoter                Prison Notebooks                                           → Prison Notebooks
+  philosopher:grotius                            Hugo Grotius                                               → Hugo Grotius
+  artifact:grotius-krigens-ret                   De jure belli ac pacis                                     → De jure belli ac pacis
+  artifact:grotius-mare-liberum                  Mare Liberum                                               → Mare Liberum
+  philosopher:grundtvig                          N. F. S. Grundtvig                                         → N. F. S. Grundtvig
+  philosopher:habermas                           Jürgen Habermas                                            → Jürgen Habermas
+  concept:haecceitas                             Haecceity                                                  → Haecceity
+  artifact:handicapkonventionen                  Convention on the Rights of Persons with Disabilities      → Convention on the Rights of Persons with Disabilities
+  artifact:hannah-arendt-filmen                  Hannah Arendt (film)                                       → Hannah Arendt (film)
+  concept:havets-frihed                          Freedom of the seas                                        → Freedom of the seas
+  philosopher:hayek                              Friedrich Hayek                                            → Friedrich Hayek
+  concept:hedonisme                              Hedonism                                                   → Hedonism
+  philosopher:hegel                              Georg Wilhelm Friedrich Hegel                              → Georg Wilhelm Friedrich Hegel
+  artifact:hegel-retsfilosofien                  Elements of the Philosophy of Right                        → Elements of the Philosophy of Right
+  artifact:hegel-aandens-faenomenologi           Phenomenology of Spirit                                    → The Phenomenology of Spirit
+  philosopher:heidegger                          Martin Heidegger                                           → Martin Heidegger
+  artifact:heidegger-vaeren-og-tid               Being and Time                                             → Being and Time
+  artifact:heliocentrismen                       Heliocentrism                                              → Heliocentrism
+  philosopher:heraklit                           Heraclitus                                                 → Heraclitus
+  philosopher:herbart                            Johann Friedrich Herbart                                   → Johann Friedrich Herbart
+  concept:hermeneutik                            Hermeneutics                                               → Hermeneutics
+  concept:hermetisme                             Hermeticism                                                → Hermeticism
+  artifact:hippiebevaegelsen                     Hippie                                                     → Hippie
+  concept:historisk-materialisme                 Historical materialism                                     → Historical materialism
+  concept:hjerne-i-et-kar                        Brain in a vat                                             → Brain in a vat
+  philosopher:hobbes                             Thomas Hobbes                                              → Thomas Hobbes
+  artifact:hobbes-leviathan                      Leviathan (Hobbes book)                                    → Leviathan (Hobbes book)
+  philosopher:huizinga                           Johan Huizinga                                             → Johan Huizinga
+  artifact:huizinga-homo-ludens                  Homo Ludens                                                → Homo Ludens
+  concept:hulelignelsen                          Allegory of the Cave                                       → Allegory of the cave
+  artifact:humboldt-universitetet                Humboldt University of Berlin                              → Humboldt University of Berlin
+  philosopher:hume                               David Hume                                                 → David Hume
+  artifact:hume-traktat                          A Treatise of Human Nature                                 → A Treatise of Human Nature
+  philosopher:husserl                            Edmund Husserl                                             → Edmund Husserl
+  artifact:husserl-krisen                        The Crisis of European Sciences and Transcendental Phenomenology → The Crisis of European Sciences and Transcendental Phenomenology
+  concept:ideologikritik                         Ideology critique                                          → Critique of ideology
+  philosopher:illich                             Ivan Illich                                                → Ivan Illich
+  artifact:illich-deschooling                    Deschooling Society                                        → Deschooling Society
+  artifact:ilo                                   International Labour Organization                          → International Labour Organization
+  artifact:imf                                   International Monetary Fund                                → International Monetary Fund
+  concept:immaterialisme                         Immaterialism                                              → Subjective idealism
+  artifact:inception                             Inception                                                  → Inception
+  concept:induktionsproblemet                    The problem of induction                                   → Problem of induction
+  artifact:informeret-samtykke                   Informed consent                                           → Informed consent
+  artifact:islam                                 Islam                                                      → Islam
+  concept:islamisk-filosofi                      Islamic philosophy                                         → Islamic philosophy
+  artifact:islamisk-retstradition                Fiqh                                                       → Fiqh
+  philosopher:james                              William James                                              → William James
+  concept:jansenisme                             Jansenism                                                  → Jansenism
+  artifact:jansenismen                           Jansenism                                                  → Jansenism
+  artifact:janteloven                            Law of Jante                                               → Law of Jante
+  philosopher:jaspers                            Karl Jaspers                                               → Karl Jaspers
+  concept:jodisk-filosofi                        Jewish philosophy                                          → Jewish philosophy
+  philosopher:kant                               Immanuel Kant                                              → Immanuel Kant
+  artifact:kant-dommekraften                     Critique of Judgment                                       → Critique of Judgment
+  artifact:kant-evig-fred                        Perpetual peace                                            → Perpetual Peace: A Philosophical Sketch
+  artifact:kant-hvad-er-oplysning                Answering the Question: What Is Enlightenment?             → What Is Enlightenment?
+  artifact:kant-praktisk-fornuft                 Critique of Practical Reason                               → Critique of Practical Reason
+  artifact:kant-ren-fornuft                      Critique of Pure Reason                                    → Critique of Pure Reason
+  philosopher:keynes                             John Maynard Keynes                                        → John Maynard Keynes
+  artifact:keynes-general-teori                  The General Theory of Employment, Interest and Money       → The General Theory of Employment, Interest and Money
+  philosopher:kierkegaard                        Søren Kierkegaard                                          → Søren Kierkegaard
+  artifact:kierkegaard-angstens-begreb           The Concept of Anxiety                                     → The Concept of Anxiety
+  artifact:kierkegaard-efterkrift                Concluding Unscientific Postscript to Philosophical Fragments → Concluding Unscientific Postscript to Philosophical Fragments
+  artifact:kinesisk-medicin                      Traditional Chinese medicine                               → Traditional Chinese medicine
+  concept:klassekamp                             Class struggle                                             → Class struggle
+  era:klassisk-kina                              Classical Chinese philosophy                               → Chinese philosophy
+  artifact:kognitionsvidenskaben                 Cognitive science                                          → Cognitive science
+  artifact:kognitiv-adfaerdsterapi               Cognitive behavioral therapy                               → Cognitive behavioral therapy
+  artifact:kommunistiske-manifest                The Communist Manifesto                                    → The Communist Manifesto
+  concept:konceptualisme                         Conceptualism                                              → Conceptualism
+  concept:konfucianisme                          Confucianism                                               → Confucianism
+  artifact:konfuciansk-eksamensvaesen            Imperial examination                                       → Imperial examination
+  philosopher:konfucius                          Confucius                                                  → Confucius
+  concept:konstitutionalisme                     Constitutionalism                                          → Constitutionalism
+  artifact:konstruktivistisk-paedagogik          Constructivism (philosophy of education)                   → Constructivism (philosophy of education)
+  concept:koranfortolkning                       Quranic exegesis                                           → Tafsir
+  philosopher:kripke                             Saul Kripke                                                → Saul Kripke
+  artifact:kristendommen                         Christianity                                               → Christianity
+  concept:kritisk-filosofi                       Critical philosophy                                        → Critical philosophy
+  concept:kritisk-teori                          Critical theory                                            → Critical theory
+  philosopher:kropotkin                          Peter Kropotkin                                            → Peter Kropotkin
+  artifact:kropotkin-gensidig-hjaelp             Mutual Aid: A Factor of Evolution                          → Mutual Aid: A Factor of Evolution
+  artifact:kubas-revolution                      Cuban Revolution                                           → Cuban Revolution
+  philosopher:kuhn                               Thomas Kuhn                                                → Thomas Kuhn
+  concept:kulturhegemoni                         Cultural hegemony                                          → Cultural hegemony
+  concept:kvindefrigoerelse                      Women's emancipation                                       → Women's rights
+  artifact:kvindelig-valgret-1915                Women's suffrage in Denmark                                → Women in Denmark
+  artifact:lab-school                            University of Chicago Laboratory Schools                   → University of Chicago Laboratory Schools
+  philosopher:lakatos                            Imre Lakatos                                               → Imre Lakatos
+  philosopher:laozi                              Laozi                                                      → Laozi
+  philosopher:lave                               Jean Lave                                                  → Jean Lave
+  philosopher:leibniz                            Gottfried Wilhelm Leibniz                                  → Gottfried Wilhelm Leibniz
+  artifact:leibniz-monadologien                  Monadology                                                 → Monadology
+  artifact:leibniz-theodicee                     Théodicée                                                  → Théodicée
+  philosopher:levinas                            Emmanuel Levinas                                           → Emmanuel Levinas
+  artifact:levinas-totalitet-og-uendelighed      Totality and Infinity                                      → Totality and Infinity
+  concept:livsfilosofi                           Philosophy of life                                         → Lebensphilosophie
+  philosopher:locke                              John Locke                                                 → John Locke
+  artifact:locke-forstand                        An Essay Concerning Human Understanding                    → An Essay Concerning Human Understanding
+  artifact:locke-opdragelse                      Some Thoughts Concerning Education                         → Some Thoughts Concerning Education
+  artifact:locke-styre                           Two Treatises of Government                                → Two Treatises of Government
+  concept:logisk-positivisme                     Logical positivism                                         → Logical positivism
+  artifact:lucretius-de-rerum-natura             De rerum natura                                            → De rerum natura
+  philosopher:lukacs                             György Lukács                                              → György Lukács
+  artifact:lukacs-klassebevidsthed               History and Class Consciousness                            → History and Class Consciousness
+  philosopher:luxemburg                          Rosa Luxemburg                                             → Rosa Luxemburg
+  artifact:luxemburg-akkumulationen              The Accumulation of Capital                                → The Accumulation of Capital
+  philosopher:machiavelli                        Niccolò Machiavelli                                        → Niccolò Machiavelli
+  artifact:machiavelli-discorsi                  Discourses on Livy                                         → Discourses on Livy
+  artifact:machiavelli-fyrsten                   The Prince                                                 → The Prince
+  philosopher:macintyre                          Alasdair MacIntyre                                         → Alasdair MacIntyre
+  philosopher:maimonides                         Maimonides                                                 → Maimonides
+  artifact:maimonides-dukvane                    The Guide for the Perplexed                                → The Guide for the Perplexed
+  artifact:maimonides-mishne-torah               Mishneh Torah                                              → Mishneh Torah
+  philosopher:marcus-aurelius                    Marcus Aurelius                                            → Marcus Aurelius
+  artifact:marcus-aurelius-til-sig-selv          Meditations                                                → Meditations
+  philosopher:marcuse                            Herbert Marcuse                                            → Herbert Marcuse
+  artifact:marcuse-endimensionelle-menneske      One-Dimensional Man                                        → One-Dimensional Man
+  philosopher:marx                               Karl Marx                                                  → Karl Marx
+  artifact:marx-kapitalen                        Das Kapital                                                → Das Kapital
+  philosopher:maslow                             Abraham Maslow                                             → Abraham Maslow
+  artifact:maslow-motivation-og-personlighed     Motivation and Personality                                 → Motivation and Personality
+  concept:mayeutik                               Maieutics                                                  → Socratic method
+  artifact:me-too                                MeToo movement                                             → MeToo movement
+  concept:mediekritik                            Media criticism                                            → Media studies
+  artifact:memento                               Memento (film)                                             → Memento (film)
+  philosopher:merleau-ponty                      Maurice Merleau-Ponty                                      → Maurice Merleau-Ponty
+  artifact:merleau-ponty-perceptionen            Phenomenology of Perception                                → Phenomenology of Perception
+  concept:mervaerdi                              Surplus value                                              → Surplus value
+  philosopher:mill                               John Stuart Mill                                           → John Stuart Mill
+  artifact:mill-kvindernes-underkastelse         The Subjection of Women                                    → The Subjection of Women
+  artifact:mill-om-friheden                      On Liberty                                                 → On Liberty
+  artifact:mill-utilitarismen                    Utilitarianism (book)                                      → Utilitarianism (book)
+  philosopher:mises                              Ludwig von Mises                                           → Ludwig von Mises
+  artifact:modern-times                          Modern Times (film)                                        → Modern Times (film)
+  concept:modoplysning                           Counter-Enlightenment                                      → Counter-Enlightenment
+  concept:monadelaeren                           Monadology                                                 → Monadology
+  concept:monisme                                Monism                                                     → Monism
+  philosopher:montesquieu                        Montesquieu                                                → Montesquieu
+  artifact:montesquieu-lovens-and                The Spirit of the Laws                                     → The Spirit of Law
+  philosopher:montessori                         Maria Montessori                                           → Maria Montessori
+  artifact:montessori-paedagogik                 Montessori education                                       → Montessori education
+  philosopher:more                               Thomas More                                                → Thomas More
+  artifact:more-utopia                           Utopia (book)                                              → Utopia (book)
+  artifact:mr-nobody                             Mr. Nobody (film)                                          → Mr. Nobody (film)
+  artifact:muldvarpens-dag                       Groundhog Day (film)                                       → Groundhog Day (film)
+  concept:multikulturalisme                      Multiculturalism                                           → Multiculturalism
+  artifact:munch-skriget                         The Scream                                                 → The Scream
+  artifact:napoleons-code-civil                  Napoleonic Code                                            → Napoleonic Code
+  artifact:nationalsocialismen                   Nazism                                                     → Nazism
+  concept:naturfilosofi                          Natural philosophy                                         → Natural philosophy
+  concept:naturfilosofi-schelling                Naturphilosophie                                           → Naturphilosophie
+  concept:naturlige-rettigheder                  Natural rights                                             → Natural rights
+  concept:naturret                               Natural law                                                → Natural law
+  concept:negativ-teologi                        Negative theology                                          → Apophatic theology
+  philosopher:nietzsche                          Friedrich Nietzsche                                        → Friedrich Nietzsche
+  artifact:nietzsche-hinsides-godt-ondt          Beyond Good and Evil                                       → Beyond Good and Evil
+  artifact:nietzsche-moralens-genealogi          On the Genealogy of Morality                               → On the Genealogy of Morality
+  artifact:nietzsche-zarathustra                 Thus Spoke Zarathustra                                     → Thus Spoke Zarathustra
+  concept:nihilisme                              Nihilism                                                   → Nihilism
+  concept:nominalisme                            Nominalism                                                 → Nominalism
+  concept:nous                                   Nous                                                       → Nous
+  philosopher:nozick                             Robert Nozick                                              → Robert Nozick
+  philosopher:nussbaum                           Martha Nussbaum                                            → Martha Nussbaum
+  concept:nyplatonisme                           Neoplatonism                                               → Neoplatonism
+  philosopher:ockham                             William of Ockham                                          → William of Ockham
+  concept:ockhams-ragekniv                       Ockham's razor                                             → Occam's razor
+  concept:oedipuskomplekset                      The Oedipus complex                                        → Oedipus complex
+  concept:ondskabens-banalitet                   The banality of evil                                       → Eichmann in Jerusalem
+  era:oplysningen                                The Enlightenment                                          → Age of Enlightenment
+  concept:oplysningens-dialektik                 Dialectic of Enlightenment                                 → Dialectic of Enlightenment
+  artifact:oplysningsbevaegelsen                 Age of Enlightenment                                       → Age of Enlightenment
+  concept:oplysningsfilosofi                     Enlightenment philosophy                                   → Enlightenment philosophy
+  philosopher:ortega                             José Ortega y Gasset                                       → José Ortega y Gasset
+  artifact:otte-timers-arbejdsdagen              Eight-hour day                                             → Eight-hour day movement
+  artifact:oxford-universitet                    University of Oxford                                       → University of Oxford
+  concept:pansofisme                             Pansophism                                                 → Pansophism
+  artifact:panteismestriden                      Pantheism controversy                                      → Pantheism controversy
+  philosopher:parmenides                         Parmenides                                                 → Parmenides
+  philosopher:pascal                             Blaise Pascal                                              → Blaise Pascal
+  artifact:pascal-tanker                         Pensées                                                    → Pensées
+  concept:pascals-vaeddemal                      Pascal's wager                                             → Pascal's wager
+  concept:patristik                              Patristics                                                 → Patristics
+  philosopher:peirce                             Charles Sanders Peirce                                     → Charles Sanders Peirce
+  artifact:penitentiary-act                      Penitentiary Act                                           → Penitentiary Act 1779
+  concept:pessimisme                             Pessimism                                                  → Pessimism
+  philosopher:pestalozzi                         Johann Heinrich Pestalozzi                                 → Johann Heinrich Pestalozzi
+  philosopher:piaget                             Jean Piaget                                                → Jean Piaget
+  philosopher:platon                             Plato                                                      → Plato
+  artifact:platon-faidon                         Phaedo                                                     → Phaedo
+  artifact:platon-politeia                       Republic (Plato)                                           → Republic (Plato)
+  artifact:platon-symposion                      Symposium (Plato)                                          → Symposium (Plato)
+  artifact:platon-timaios                        Timaeus (dialogue)                                         → Timaeus (dialogue)
+  concept:platonisme                             Platonism                                                  → Platonism
+  philosopher:plotin                             Plotinus                                                   → Plotinus
+  artifact:plotin-enneaderne                     Enneads                                                    → Enneads
+  philosopher:polanyi                            Michael Polanyi                                            → Michael Polanyi
+  concept:politisk-realismen                     Political realism                                          → Realism (international relations)
+  philosopher:popper                             Karl Popper                                                → Karl Popper
+  artifact:popper-det-aabne-samfund              The Open Society and Its Enemies                           → The Open Society and Its Enemies
+  artifact:popper-logikken-i-forskningen         The Logic of Scientific Discovery                          → The Logic of Scientific Discovery
+  concept:positivisme                            Positivism                                                 → Positivism
+  artifact:postmodernismen                       Postmodernism                                              → Postmodernism
+  concept:praeetableret-harmoni                  Pre-established harmony                                    → Mind–body problem
+  concept:pragmatisme                            Pragmatism                                                 → Pragmatism
+  artifact:principia-mathematica                 Principia Mathematica                                      → Principia Mathematica
+  philosopher:protagoras                         Protagoras                                                 → Protagoras
+  philosopher:proudhon                           Pierre-Joseph Proudhon                                     → Pierre-Joseph Proudhon
+  artifact:proudhon-hvad-er-ejendom              What Is Property?                                          → Pierre-Joseph Proudhon
+  artifact:proust-tabte-tid                      In Search of Lost Time                                     → In Search of Lost Time
+  artifact:psykofarmakologi                      Psychopharmacology                                         → Psychopharmacology
+  concept:psykosociale-stadier                   Erikson's stages of psychosocial development               → Erikson's stages of psychosocial development
+  philosopher:putnam                             Hilary Putnam                                              → Hilary Putnam
+  concept:pythagoraeisme                         Pythagoreanism                                             → Pythagoreanism
+  philosopher:pythagoras                         Pythagoras                                                 → Pythagoras
+  concept:queer-teori                            Queer theory                                               → Queer theory
+  philosopher:quine                              Willard Van Orman Quine                                    → Willard Van Orman Quine
+  artifact:quine-to-dogmer                       Two Dogmas of Empiricism                                   → Two Dogmas of Empiricism
+  concept:radikal-empirisme                      Radical empiricism                                         → Radical empiricism
+  philosopher:rand                               Ayn Rand                                                   → Ayn Rand
+  philosopher:reid                               Thomas Reid                                                → Thomas Reid
+  artifact:reid-menneskelige-sind                An Inquiry into the Human Mind on the Principles of Common Sense → Thomas Reid
+  concept:religionskritik                        Critique of religion                                       → Criticism of religion
+  artifact:retorik-som-fag                       Rhetoric                                                   → Rhetoric
+  philosopher:ricardo                            David Ricardo                                              → David Ricardo
+  artifact:ricardo-politisk-okonomi              On the Principles of Political Economy and Taxation        → On the Principles of Political Economy and Taxation
+  philosopher:ricoeur                            Paul Ricoeur                                               → Paul Ricœur
+  concept:romantik                               Romanticism                                                → Romanticism
+  artifact:romantikbevaegelsen                   Romanticism                                                → Romanticism
+  artifact:romerretten                           Roman law                                                  → Roman law
+  philosopher:rothbard                           Murray Rothbard                                            → Murray Rothbard
+  philosopher:rousseau                           Jean-Jacques Rousseau                                      → Jean-Jacques Rousseau
+  artifact:rousseau-emile                        Emile, or On Education                                     → Emile, or On Education
+  artifact:rousseau-samfundskontrakten           The Social Contract                                        → The Social Contract
+  artifact:royal-society                         Royal Society                                              → Royal Society
+  philosopher:royce                              Josiah Royce                                               → Josiah Royce
+  philosopher:russell                            Bertrand Russell                                           → Bertrand Russell
+  philosopher:ryle                               Gilbert Ryle                                               → Gilbert Ryle
+  artifact:ryle-sindets-begreb                   The Concept of Mind                                        → The Concept of Mind
+  concept:samfundskontrakten                     The social contract                                        → The Social Contract
+  concept:sandsynlighedsteori                    Probability theory                                         → Probability theory
+  philosopher:santayana                          George Santayana                                           → George Santayana
+  artifact:santayana-sans-for-skønhed            The Sense of Beauty                                        → The Sense of Beauty
+  philosopher:sartre                             Jean-Paul Sartre                                           → Jean-Paul Sartre
+  artifact:sartre-eksistentialisme-er-humanisme  Existentialism Is a Humanism                               → Existentialism Is a Humanism
+  artifact:sartre-vaeren-og-intethed             Being and Nothingness                                      → Being and Nothingness
+  philosopher:schelling                          Friedrich Wilhelm Joseph Schelling                         → Friedrich Wilhelm Joseph Schelling
+  artifact:schelling-transcendentale-idealisme   System of Transcendental Idealism                          → System of Transcendental Idealism
+  philosopher:schleiermacher                     Friedrich Schleiermacher                                   → Friedrich Schleiermacher
+  artifact:schleiermacher-om-religion            On Religion: Speeches to its Cultured Despisers            → On Religion
+  philosopher:schlick                            Moritz Schlick                                             → Moritz Schlick
+  philosopher:schmitt                            Carl Schmitt                                               → Carl Schmitt
+  artifact:schmitt-det-politiske                 The Concept of the Political                               → The Concept of the Political
+  philosopher:schopenhauer                       Arthur Schopenhauer                                        → Arthur Schopenhauer
+  artifact:schopenhauer-verden-som-vilje         The World as Will and Representation                       → The World as Will and Representation
+  artifact:se7en                                 Seven (1995 film)                                          → Seven (1995 film)
+  philosopher:seneca                             Seneca the Younger                                         → Seneca the Younger
+  artifact:senecas-breve                         Epistulae Morales ad Lucilium                              → Epistulae Morales ad Lucilium
+  philosopher:sextus-empiricus                   Sextus Empiricus                                           → Sextus Empiricus
+  artifact:sextus-pyrrhonske-skitse              Outlines of Pyrrhonism                                     → Sextus Empiricus
+  philosopher:simmel                             Georg Simmel                                               → Georg Simmel
+  philosopher:singer                             Peter Singer                                               → Peter Singer
+  artifact:sixtinske-kapel-skabelsen             The Creation of Adam                                       → The Creation of Adam
+  concept:sjaelens-vandring                      Transmigration of souls                                    → Reincarnation
+  concept:skolastik                              Scholasticism                                              → Scholasticism
+  philosopher:smith                              Adam Smith                                                 → Adam Smith
+  artifact:smith-nationernes-velstand            The Wealth of Nations                                      → The Wealth of Nations
+  artifact:socialdemokratiet                     Social democracy                                           → Social democracy
+  concept:sociologi-begreb                       Sociology                                                  → Sociology
+  artifact:sociologien                           Sociology                                                  → Sociology
+  concept:sofisme                                Sophism                                                    → Fallacy
+  concept:sofistikeret-falsifikationisme         Sophisticated falsificationism                             → Falsifiability
+  philosopher:sokrates                           Socrates                                                   → Socrates
+  concept:sokratisk-metode                       Socratic method                                            → Socratic method
+  artifact:sokratisk-samtale                     Socratic dialogue                                          → Socratic dialogue
+  artifact:sovjetunionen                         Soviet Union                                               → Soviet Union
+  artifact:spildesign-og-flow                    Game design                                                → Game design
+  philosopher:spinoza                            Baruch Spinoza                                             → Baruch Spinoza
+  artifact:spinoza-etik                          Ethics (Spinoza book)                                      → Spinoza's Ethics
+  concept:spoegelset-i-maskinen                  The ghost in the machine                                   → The Ghost in the Machine
+  concept:sprogfilosofi                          Philosophy of language                                     → Philosophy of language
+  artifact:star-wars                             Star Wars (film)                                           → Star Wars (film)
+  philosopher:steiner                            Rudolf Steiner                                             → Rudolf Steiner
+  concept:stilladsering                          Scaffolding                                                → Scaffolding
+  philosopher:stirner                            Max Stirner                                                → Max Stirner
+  artifact:stirner-den-eneste                    The Ego and Its Own                                        → The Ego and Its Own
+  artifact:stoa-poikile                          Stoa Poikile                                               → Stoa Poikile
+  concept:stoicisme                              Stoicism                                                   → Stoicism
+  concept:stoisk-logik                           Stoic logic                                                → Stoicism
+  philosopher:strauss                            Leo Strauss                                                → Leo Strauss
+  concept:subjektiv-idealisme                    Subjective idealism                                        → Subjective idealism
+  artifact:surrealismen                          Surrealism                                                 → Surrealism
+  concept:suveraenitet                           Sovereignty                                                → Sovereignty
+  concept:syllogismen                            Syllogism                                                  → Syllogism
+  philosopher:tabatabai                          Muhammad Husayn Tabataba'i                                 → Muhammad Husayn Tabataba'i
+  concept:tabula-rasa                            Tabula rasa                                                → Tabula rasa
+  artifact:tai-chi                               Tai chi                                                    → Tai chi
+  philosopher:taylor                             Charles Taylor (philosopher)                               → Charles Taylor (philosopher)
+  concept:teleologi                              Teleology                                                  → Teleology
+  philosopher:thales                             Thales of Miletus                                          → Thales of Miletus
+  artifact:the-big-lebowski                      The Big Lebowski                                           → The Big Lebowski
+  artifact:the-good-place                        The Good Place                                             → The Good Place
+  artifact:the-matrix                            The Matrix                                                 → The Matrix
+  artifact:the-truman-show                       The Truman Show                                            → The Truman Show
+  concept:theodice                               Theodicy                                                   → Theodicy
+  concept:thomisme                               Thomism                                                    → Thomism
+  era:tidligt-1900-tal                           Early 20th century                                         → 20th century
+  concept:tilknytningsteori                      Attachment theory                                          → Attachment theory
+  philosopher:tocqueville                        Alexis de Tocqueville                                      → Alexis de Tocqueville
+  artifact:tocqueville-demokratiet               Democracy in America                                       → Democracy in America
+  artifact:total-recall                          Total Recall (1990 film)                                   → Total Recall (1990 film)
+  concept:totalitarisme                          Totalitarianism                                            → Totalitarianism
+  concept:transcendental-idealisme               Transcendental idealism                                    → Transcendental idealism
+  artifact:turing-testen                         Turing test                                                → Turing test
+  concept:tysk-idealisme                         German idealism                                            → German idealism
+  era:tysk-idealisme                             German idealism                                            → German idealism
+  artifact:tysklands-grundgesetz                 Basic Law for the Federal Republic of Germany              → Basic Law for the Federal Republic of Germany
+  artifact:udviklingspsykologien                 Developmental psychology                                   → Developmental psychology
+  concept:ultramontanisme                        Ultramontanism                                             → Ultramontanism
+  concept:universaliestriden                     The problem of universals                                  → Problem of universals
+  artifact:universitetet-i-bologna               University of Bologna                                      → University of Bologna
+  artifact:universitetet-i-paris                 University of Paris                                        → University of Paris
+  concept:utopi                                  Utopia                                                     → Utopia
+  concept:vaeksttankesaet                        Growth mindset                                             → Mindset
+  artifact:vandringsmanden-over-taagen           Wanderer above the Sea of Fog                              → Wanderer Above the Sea of Fog
+  concept:varefetichisme                         Commodity fetishism                                        → Commodity fetishism
+  artifact:velfaerdsstaten                       Welfare state                                              → Welfare state
+  artifact:verdensbanken                         World Bank                                                 → World Bank Group
+  artifact:vidensledelse                         Knowledge management                                       → Knowledge management
+  philosopher:voegelin                           Eric Voegelin                                              → Eric Voegelin
+  philosopher:voltaire                           Voltaire                                                   → Voltaire
+  artifact:voltaire-candide                      Candide                                                    → Candide
+  artifact:voltaire-filosofiske-breve            Letters Concerning the English Nation                      → Letters on the English
+  philosopher:vygotsky                           Lev Vygotsky                                               → Lev Vygotsky
+  artifact:wagner-tristan                        Tristan und Isolde                                         → Tristan und Isolde
+  artifact:waking-life                           Waking Life                                                → Waking Life
+  artifact:waldorfpaedagogik                     Waldorf education                                          → Waldorf education
+  artifact:wall-e                                WALL-E                                                     → WALL-E
+  philosopher:weber                              Max Weber                                                  → Max Weber
+  artifact:weber-protestantismens-etik           The Protestant Ethic and the Spirit of Capitalism          → The Protestant Ethic and the Spirit of Capitalism
+  philosopher:wenger                             Etienne Wenger                                             → Étienne Wenger
+  philosopher:west                               Cornel West                                                → Cornel West
+  philosopher:whitehead                          Alfred North Whitehead                                     → Alfred North Whitehead
+  artifact:whitehead-proces-og-virkelighed       Process and Reality                                        → Process and Reality
+  artifact:wienerkredsen                         Vienna Circle                                              → Vienna Circle
+  philosopher:winnicott                          Donald Winnicott                                           → Donald Winnicott
+  philosopher:wittgenstein                       Ludwig Wittgenstein                                        → Ludwig Wittgenstein
+  artifact:wittgenstein-tractatus                Tractatus Logico-Philosophicus                             → Tractatus Logico-Philosophicus
+  artifact:wittgenstein-undersoegelser           Philosophical Investigations                               → Philosophical Investigations
+  concept:ytringsfrihed                          Freedom of speech                                          → Freedom of speech
+  artifact:zenbuddhisme                          Zen                                                        → Zen
+  philosopher:zenon-af-kition                    Zeno of Citium                                             → Zeno of Citium
+  philosopher:zizek                              Slavoj Žižek                                               → Slavoj Žižek
+  concept:zonen-for-naermeste-udvikling          Zone of proximal development                               → Zone of proximal development
+
+Noder uden billede (genereret planet): 375
+  concept:abduktion                              Abduction                                                  → Abduction  (flertydig side)
+  concept:absolut-afhaengighed                   Feeling of absolute dependence                             → Feeling of absolute dependence  (artiklen har intet billede)
+  concept:absolut-idealisme                      Absolute idealism                                          → Absolute idealism  (artiklen har intet billede)
+  concept:absolutisme                            Absolutism                                                 → Absolutism  (flertydig side)
+  concept:aestetisk-erfaring                     Aesthetic experience                                       → Aesthetics  (artiklen har intet billede)
+  concept:aestetisk-intuition                    Aesthetic intuition                                        → Aesthetic intuition  (artiklen har intet billede)
+  concept:afskoling                              Deschooling                                                → Deschooling  (artiklen har intet billede)
+  artifact:al-ghazali-tahafut                    The Incoherence of the Philosophers                        → The Incoherence of the Philosophers  (artiklen har intet billede)
+  artifact:althusser-ideologiske-statsapparater  Ideology and Ideological State Apparatuses                 → Ideology and Ideological State Apparatuses  (artiklen har intet billede)
+  concept:amor-fati                              Amor fati                                                  → Amor fati  (artiklen har intet billede)
+  concept:analytisk-filosofi                     Analytic philosophy                                        → Analytic philosophy  (artiklen har intet billede)
+  concept:anarkisme                              Anarchism                                                  → Anarchism  (artiklen har intet billede)
+  concept:anarkokapitalisme                      Anarcho-capitalism                                         → Anarcho-capitalism  (kun ikon/skabelonbillede)
+  concept:anarkokommunisme                       Anarcho-communism                                          → Anarchist communism  (artiklen har intet billede)
+  concept:anarkosyndikalisme                     Anarcho-syndicalism                                        → Anarcho-syndicalism  (artiklen har intet billede)
+  concept:anerkendelse                           Recognition                                                → Recognition  (flertydig side)
+  concept:anomal-monisme                         Anomalous monism                                           → Anomalous monism  (artiklen har intet billede)
+  concept:ansigtets-etik                         The ethics of the face                                     → The ethics of the face  (artiklen har intet billede)
+  concept:anti-autoritarisme                     Anti-authoritarianism                                      → Anti-authoritarianism  (artiklen har intet billede)
+  concept:anti-fundamentisme                     Anti-foundationalism                                       → Anti-foundationalism  (artiklen har intet billede)
+  era:antikken                                   Antiquity                                                  → Antiquity  (flertydig side)
+  concept:antroposofi                            Anthroposophy                                              → Anthroposophy  (artiklen har intet billede)
+  artifact:antroposofisk-selskab                 Anthroposophical Society                                   → Anthroposophical Society  (artiklen har intet billede)
+  artifact:arendt-menneskets-vilkaar             The Human Condition (book)                                 → Human condition (disambiguation)  (flertydig side)
+  artifact:aristoteles-lykeion                   Lyceum                                                     → Lyceum  (artiklen har intet billede)
+  artifact:aristoteles-politik                   Politics (Aristotle)                                       → Politics (Aristotle)  (artiklen har intet billede)
+  concept:atomisme                               Atomism                                                    → Atomism  (artiklen har intet billede)
+  concept:autenticitet                           Authenticity                                               → Authenticity  (flertydig side)
+  concept:autonomi                               Autonomy                                                   → Autonomy  (artiklen har intet billede)
+  artifact:avicenna-al-shifa                     The Book of Healing                                        → The Book of Healing  (artiklen har intet billede)
+  artifact:bachelard-videnskabelige-sind         The New Scientific Spirit                                  → The New Scientific Spirit  (artiklen har intet billede)
+  concept:barndommen-som-konstruktion            Childhood as a historical construct                        → Childhood as a historical construct  (artiklen har intet billede)
+  concept:begivenhedsfilosofi                    Philosophy of the event                                    → Philosophy of the event  (artiklen har intet billede)
+  concept:bevidsthedshistorie                    History of consciousness                                   → History of Consciousness  (artiklen har intet billede)
+  concept:billedteori                            Picture theory of meaning                                  → Picture theory of language  (artiklen har intet billede)
+  concept:biopolitik                             Biopolitics                                                → Biopolitics  (artiklen har intet billede)
+  philosopher:bloom-benjamin                     Benjamin Bloom                                             → Benjamin Bloom  (artiklen har intet billede)
+  artifact:bloom-taksonomi                       Bloom's taxonomy                                           → Bloom's taxonomy  (artiklen har intet billede)
+  concept:blooms-taksonomi                       Bloom's taxonomy                                           → Bloom's taxonomy  (artiklen har intet billede)
+  artifact:bruno-uendelige-univers               De l'infinito, universo e mondi                            → De l'infinito, universo e mondi  (artiklen har intet billede)
+  concept:bureaukrati                            Bureaucracy and rationalisation                            → Bureaucracy and rationalisation  (artiklen har intet billede)
+  artifact:carnap-verdens-opbygning              The Logical Structure of the World                         → The Logical Structure of the World  (artiklen har intet billede)
+  artifact:cost-benefit-analyse                  Cost–benefit analysis                                      → Cost–benefit analysis  (artiklen har intet billede)
+  artifact:dannelsesidealet                      Bildung                                                    → Bildung  (artiklen har intet billede)
+  concept:dasein                                 Dasein                                                     → Dasein  (artiklen har intet billede)
+  concept:de-fem-gudsbeviser                     The Five Ways                                              → The Five Ways  (artiklen har intet billede)
+  concept:de-fire-aarsager                       The four causes                                            → The four causes  (artiklen har intet billede)
+  concept:deisme                                 Deism                                                      → Deism  (kun ikon/skabelonbillede)
+  concept:dekonstruktion                         Deconstruction                                             → Deconstruction  (artiklen har intet billede)
+  concept:demokratianalyse                       Analysis of democracy                                      → Analysis of democracy  (artiklen har intet billede)
+  concept:den-aeble-vilde                        The noble savage                                           → The noble savage  (artiklen har intet billede)
+  concept:den-aksiale-tid                        The Axial Age                                              → The Axial Age  (artiklen har intet billede)
+  concept:den-anden                              The Other                                                  → Other  (flertydig side)
+  concept:den-religioese-erfaring                Religious experience                                       → Mystical or religious experience  (artiklen har intet billede)
+  concept:den-store-afvisning                    The great refusal                                          → The great refusal  (artiklen har intet billede)
+  concept:den-usynlige-haand                     The invisible hand                                         → The invisible hand  (artiklen har intet billede)
+  concept:deontologi                             Deontology                                                 → Deontology  (artiklen har intet billede)
+  concept:det-absurde-oproer                     The revolt                                                 → The revolt  (artiklen har intet billede)
+  concept:det-andet-koen                         The second sex                                             → The second sex  (artiklen har intet billede)
+  concept:det-endimensionelle-menneske           One-dimensional man                                        → One-dimensional man  (artiklen har intet billede)
+  concept:det-ene                                The One                                                    → The One  (flertydig side)
+  concept:det-flyvende-menneske                  The flying man argument                                    → The flying man argument  (artiklen har intet billede)
+  concept:det-kategoriske-imperativ              The categorical imperative                                 → The categorical imperative  (artiklen har intet billede)
+  concept:det-levende-ord                        The living word                                            → The living word  (artiklen har intet billede)
+  concept:det-politiske                          The political                                              → The political  (artiklen har intet billede)
+  concept:det-topiske-system                     Ego, id and superego                                       → Ego, id and superego  (artiklen har intet billede)
+  concept:det-ubevidste                          The unconscious                                            → Unconscious mind  (artiklen har intet billede)
+  concept:det-aabne-samfund                      The open society                                           → Open society  (artiklen har intet billede)
+  concept:determinisme                           Determinism                                                → Determinism  (artiklen har intet billede)
+  concept:deus-sive-natura                       Deus sive natura                                           → Deus sive natura  (artiklen har intet billede)
+  concept:dialektik                              Dialectics                                                 → Dialectic  (artiklen har intet billede)
+  artifact:dialektikken                          Dialectic                                                  → Dialectic  (artiklen har intet billede)
+  concept:dialektisk-materialisme                Dialectical materialism                                    → Dialectical materialism  (artiklen har intet billede)
+  concept:dialektisk-metode                      Dialectical method                                         → Dialectic  (artiklen har intet billede)
+  concept:didaktik                               Didactics                                                  → Didactic method  (artiklen har intet billede)
+  concept:differance                             Différance                                                 → Différance  (artiklen har intet billede)
+  artifact:dilthey-aandsvidenskaberne            Introduction to the Human Sciences                         → Introduction to the Human Sciences  (artiklen har intet billede)
+  concept:diskursanalyse                         Discourse analysis                                         → Discourse analysis  (artiklen har intet billede)
+  concept:diskursetik                            Discourse ethics                                           → Discourse ethics  (artiklen har intet billede)
+  concept:dobbelt-sandhed                        Double truth                                               → Double truth  (artiklen har intet billede)
+  concept:dyd-er-det-eneste-gode                 Virtue is the only good                                    → Virtue is the only good  (artiklen har intet billede)
+  concept:dydsetik                               Virtue ethics                                              → Virtue ethics  (artiklen har intet billede)
+  concept:dyreetik                               Animal ethics                                              → Animal ethics  (artiklen har intet billede)
+  concept:effektiv-altruisme                     Effective altruism                                         → Effective altruism  (artiklen har intet billede)
+  concept:egoisme                                Egoism                                                     → Egoism  (artiklen har intet billede)
+  concept:ejendomskritik                         Property is theft                                          → Pierre-Joseph Proudhon  (personside, ikke begrebet)
+  concept:eksistensen-forud-for-essensen         Existence precedes essence                                 → Existence precedes essence  (artiklen har intet billede)
+  concept:eksistensfilosofi                      Existenzphilosophie                                        → Existenzphilosophie  (artiklen har intet billede)
+  concept:eksistentialisme                       Existentialism                                             → Existentialism  (artiklen har intet billede)
+  concept:eksistentialistisk-etik                Existentialist ethics                                      → Existentialism  (artiklen har intet billede)
+  artifact:eksistentiel-psykoterapi              Existential psychotherapy                                  → Existential therapy  (artiklen har intet billede)
+  concept:elan-vital                             Élan vital                                                 → Élan vital  (artiklen har intet billede)
+  concept:elementarmetoden                       Pestalozzi's method                                        → Pestalozzi's method  (artiklen har intet billede)
+  concept:emanation                              Emanation                                                  → Emanation  (flertydig side)
+  concept:emotivisme                             Emotivism                                                  → Emotivism  (artiklen har intet billede)
+  concept:encyklopaedisme                        Encyclopédisme                                             → Encyclopédisme  (artiklen har intet billede)
+  artifact:epikurs-brev                          Principal Doctrines                                        → Principal Doctrines  (artiklen har intet billede)
+  concept:epistemologi                           Historical epistemology                                    → French philosophy  (artiklen har intet billede)
+  concept:epistemologisk-anarkisme               Epistemological anarchism                                  → Paul Feyerabend  (personside, ikke begrebet)
+  concept:epistemologisk-brud                    Epistemological break                                      → Epistemological rupture  (artiklen har intet billede)
+  concept:epoche                                 Epoché                                                     → Epoché  (artiklen har intet billede)
+  concept:erfaringspaedagogik                    Education through experience                               → Education through experience  (artiklen har intet billede)
+  concept:esoterisk-hermeneutik                  Esoteric hermeneutics                                      → Esoteric hermeneutics  (artiklen har intet billede)
+  concept:esse-est-percipi                       Esse est percipi                                           → George Berkeley  (personside, ikke begrebet)
+  concept:essens-og-eksistens                    Essence and existence                                      → Essence  (artiklen har intet billede)
+  concept:etik-som-foerstefilosofi               Ethics as first philosophy                                 → Ethics as first philosophy  (artiklen har intet billede)
+  concept:evig-genkomst                          Eternal recurrence                                         → Eternal return  (artiklen har intet billede)
+  concept:evolutionaer-filosofi                  Evolutionary philosophy                                    → Philosophy of evolution  (artiklen har intet billede)
+  concept:faenomenologi                          Phenomenology                                              → Phenomenology  (flertydig side)
+  artifact:fagbevaegelsen                        Trade union                                                → Trade union  (artiklen har intet billede)
+  concept:falsifikationisme                      Falsificationism                                           → Falsificationism  (flertydig side)
+  concept:feministisk-filosofi                   Feminist philosophy                                        → Feminist philosophy  (artiklen har intet billede)
+  concept:fideisme                               Fideism                                                    → Fideism  (artiklen har intet billede)
+  concept:flertallets-tyranni                    Tyranny of the majority                                    → Tyranny of the majority  (artiklen har intet billede)
+  concept:flow                                   Flow                                                       → Flow  (flertydig side)
+  artifact:folkeskoleloven-1814                  School Act of 1814                                         → School Act of 1814  (artiklen har intet billede)
+  concept:forandringens-filosofi                 Philosophy of becoming                                     → Philosophy of becoming  (artiklen har intet billede)
+  concept:forberedte-omgivelser                  The prepared environment                                   → The prepared environment  (artiklen har intet billede)
+  concept:formal-sociologi                       Formal sociology                                           → Formal sociology  (artiklen har intet billede)
+  concept:formernes-teori                        Theory of Forms                                            → Theory of forms  (artiklen har intet billede)
+  concept:fornuft-og-aabenbaring                 Reason and revelation                                      → Reason and revelation  (artiklen har intet billede)
+  concept:forskningsprogrammer                   Research programmes                                        → Research programmes  (artiklen har intet billede)
+  concept:forstaaelse                            Verstehen                                                  → Verstehen  (artiklen har intet billede)
+  concept:forsyn-og-skaebne                      Providence and fate                                        → Providence and fate  (artiklen har intet billede)
+  concept:fremmedgoerelse                        Alienation                                                 → Alienation  (flertydig side)
+  concept:funktionalisme                         Functionalism                                              → Functionalism  (flertydig side)
+  concept:gettier-problemet                      The Gettier problem                                        → Gettier problem  (artiklen har intet billede)
+  artifact:gip-faengselsgruppen                  Groupe d'information sur les prisons                       → Groupe d'information sur les prisons  (artiklen har intet billede)
+  concept:gnosticismekritik                      Critique of gnosticism                                     → Critique of gnosticism  (artiklen har intet billede)
+  concept:graensesituationer                     Limit situations                                           → Limit situations  (artiklen har intet billede)
+  concept:gudsstaten                             City of God vs. the earthly city                           → City of God vs. the earthly city  (artiklen har intet billede)
+  concept:handlingsfilosofi                      Philosophy of action                                       → Action theory (philosophy)  (artiklen har intet billede)
+  concept:hedonistisk-kalkule                    The felicific calculus                                     → The felicific calculus  (artiklen har intet billede)
+  artifact:hegel-forelaesninger-filosofiens-historie Lectures on the History of Philosophy                      → Lectures on the History of Philosophy  (artiklen har intet billede)
+  artifact:helsinki-deklarationen                Declaration of Helsinki                                    → Declaration of Helsinki  (artiklen har intet billede)
+  philosopher:herzberg                           Frederick Herzberg                                         → Frederick Herzberg  (artiklen har intet billede)
+  concept:historicisme                           Historicism                                                → Historicism  (artiklen har intet billede)
+  concept:historiefilosofi                       Philosophy of history                                      → Philosophy of history  (artiklen har intet billede)
+  concept:holisme                                Holism                                                     → Holism  (artiklen har intet billede)
+  concept:homo-mensura                           Homo mensura                                               → Protagoras  (personside, ikke begrebet)
+  concept:horisontsammensmeltning                Fusion of horizons                                         → Fusion of horizons  (artiklen har intet billede)
+  artifact:hr-ledelse                            Human resource management                                  → Human resource management  (artiklen har intet billede)
+  concept:humanisme                              Humanism                                                   → Humanism  (artiklen har intet billede)
+  concept:humanitas                              Humanitas                                                  → Humanitas  (artiklen har intet billede)
+  artifact:husserl-ideer                         Ideas Pertaining to a Pure Phenomenology and to a Phenomenological Philosophy → Ideas Pertaining to a Pure Phenomenology and to a Phenomenological Philosophy  (artiklen har intet billede)
+  concept:hylomorfisme                           Hylomorphism                                               → Hylomorphism  (artiklen har intet billede)
+  concept:idealismen                             Idealism                                                   → Idealism  (artiklen har intet billede)
+  concept:idealtyper                             Ideal types                                                → Ideal type  (artiklen har intet billede)
+  concept:identitetsfilosofi                     Identity philosophy                                        → Identity philosophy  (artiklen har intet billede)
+  concept:ideologiske-statsapparater             Ideological state apparatuses                              → Ideology and Ideological State Apparatuses  (artiklen har intet billede)
+  concept:idolernes-laere                        The four idols                                             → The four idols  (artiklen har intet billede)
+  concept:immanens                               Immanence                                                  → Immanence  (artiklen har intet billede)
+  concept:individualanarkisme                    Individualist anarchism                                    → Individualist anarchism  (artiklen har intet billede)
+  concept:individualisme-emerson                 Individualism                                              → Individualism  (artiklen har intet billede)
+  concept:indre-frihed                           Inner freedom                                              → Inner freedom  (artiklen har intet billede)
+  concept:induktiv-metode                        Inductive method                                           → Inductive reasoning  (artiklen har intet billede)
+  concept:instrumentalisme                       Instrumentalism                                            → Instrumentalism  (artiklen har intet billede)
+  concept:intentionalitet                        Intentionality                                             → Intentionality  (artiklen har intet billede)
+  concept:intuitionisme                          Intuitionism                                               → Intuitionism  (artiklen har intet billede)
+  concept:ionisk-naturfilosofi                   Ionian natural philosophy                                  → Ionian natural philosophy  (artiklen har intet billede)
+  artifact:james-pragmatismen                    Pragmatism: A New Name for Some Old Ways of Thinking       → Pragmatism: A New Name for Some Old Ways of Thinking  (artiklen har intet billede)
+  concept:jeget-som-princip                      The I as absolute principle                                → The I as absolute principle  (artiklen har intet billede)
+  artifact:jobberigelse                          Job enrichment                                             → Job enrichment  (artiklen har intet billede)
+  artifact:kanonisk-ret                          Canon law                                                  → Canon law  (artiklen har intet billede)
+  concept:kapabilitetstilgangen                  The capability approach                                    → The capability approach  (artiklen har intet billede)
+  concept:kategorifejl                           Category mistake                                           → Category mistake  (artiklen har intet billede)
+  concept:kausalitetskritik                      Critique of causation                                      → Critique of causation  (artiklen har intet billede)
+  concept:keynesianisme                          Keynesian economics                                        → Keynesian economics  (artiklen har intet billede)
+  artifact:kierkegaard-enten-eller               Either/Or                                                  → Either/or  (flertydig side)
+  concept:klassebevidsthed                       Class consciousness                                        → Class consciousness  (artiklen har intet billede)
+  concept:koensteori                             Gender theory                                              → Gender studies  (artiklen har intet billede)
+  concept:kognitiv-udviklingstrappe              Piaget's stages of cognitive development                   → Piaget's stages of cognitive development  (artiklen har intet billede)
+  philosopher:kold                               Christen Kold                                              → Christen Kold  (artiklen har intet billede)
+  concept:kollektiv-anarkisme                    Collectivist anarchism                                     → Collectivist anarchism  (artiklen har intet billede)
+  concept:kommunikativ-handlen                   Communicative action                                       → Communicative action  (artiklen har intet billede)
+  concept:kommunitarisme                         Communitarianism                                           → Communitarianism  (artiklen har intet billede)
+  concept:komparative-fordele                    Comparative advantage                                      → Comparative advantage  (artiklen har intet billede)
+  concept:kompatibilisme                         Compatibilism                                              → Compatibilism  (artiklen har intet billede)
+  concept:konservatisme                          Conservatism                                               → Conservatism  (artiklen har intet billede)
+  concept:konstruktionisme                       Constructivism                                             → Constructivism  (flertydig side)
+  concept:kontinental-filosofi                   Continental philosophy                                     → Continental philosophy  (artiklen har intet billede)
+  concept:kosmologisk-pluralisme                 Cosmological pluralism                                     → Cosmological pluralism  (artiklen har intet billede)
+  concept:kosmopolitisme                         Cosmopolitanism                                            → Cosmopolitanism  (artiklen har intet billede)
+  concept:kreativitet                            The ethics of creativity                                   → The ethics of creativity  (artiklen har intet billede)
+  concept:kristen-reformisme                     Christian reformism                                        → Christian reformism  (artiklen har intet billede)
+  concept:kritisk-historieflosofi                Critical philosophy of history                             → Critical philosophy of history  (artiklen har intet billede)
+  concept:kritisk-paedagogik                     Critical pedagogy                                          → Critical pedagogy  (artiklen har intet billede)
+  concept:kritisk-rationalisme                   Critical rationalism                                       → Critical rationalism  (artiklen har intet billede)
+  concept:kritisk-realismen                      Critical realism                                           → Critical realism  (flertydig side)
+  concept:kropslig-perception                    Embodied perception                                        → Embodied perception  (artiklen har intet billede)
+  concept:kulturel-relativisme                   Cultural relativism                                        → Cultural relativism  (artiklen har intet billede)
+  concept:kulturfilosofi                         Philosophy of culture                                      → Philosophy of culture  (artiklen har intet billede)
+  concept:kulturindustri                         The culture industry                                       → The culture industry  (artiklen har intet billede)
+  concept:kulturkritik                           Cultural criticism                                         → Cultural critic  (artiklen har intet billede)
+  artifact:kung-fu-panda                         Kung Fu Panda                                              → Kung Fu Panda  (artiklen har intet billede)
+  concept:kunstvaerkets-aura                     The aura of the artwork                                    → The aura of the artwork  (artiklen har intet billede)
+  concept:kynisk-naturlighed                     Cynic naturalness                                          → Cynic naturalness  (artiklen har intet billede)
+  concept:kynisme                                Cynicism                                                   → Cynic  (flertydig side)
+  concept:lacansk-marxisme                       Lacanian Marxism                                           → Lacanian Marxism  (artiklen har intet billede)
+  concept:laissez-faire-kapitalisme              Laissez-faire capitalism                                   → Laissez-faire  (artiklen har intet billede)
+  artifact:lave-wenger-situeret-laering          Situated learning                                          → Situated learning  (artiklen har intet billede)
+  concept:leg-som-dannelse                       Play as formation                                          → Play as formation  (artiklen har intet billede)
+  concept:leg-som-kultur                         Play as culture                                            → Play as culture  (artiklen har intet billede)
+  concept:legenes-former                         The four categories of play                                → The four categories of play  (artiklen har intet billede)
+  concept:legens-betydning                       The role of play in development                            → The role of play in development  (artiklen har intet billede)
+  concept:li-ritualer                            Li                                                         → Li  (flertydig side)
+  concept:liberal-ironiker                       The liberal ironist                                        → The liberal ironist  (artiklen har intet billede)
+  concept:liberalisme                            Liberalism                                                 → Liberalism  (artiklen har intet billede)
+  concept:libertarianisme                        Libertarianism                                             → Libertarianism  (artiklen har intet billede)
+  concept:livsverdenen                           The lifeworld                                              → The lifeworld  (artiklen har intet billede)
+  concept:logicisme                              Logicism                                                   → Logicism  (artiklen har intet billede)
+  concept:logisk-analyse                         Logical analysis                                           → Logic translation  (artiklen har intet billede)
+  concept:logisk-atomisme                        Logical atomism                                            → Logical atomism  (artiklen har intet billede)
+  concept:logocentrisme                          Critique of logocentrism                                   → Critique of logocentrism  (artiklen har intet billede)
+  concept:logos                                  Logos                                                      → Logos  (kun ikon/skabelonbillede)
+  concept:loyalitetens-filosofi                  The philosophy of loyalty                                  → The philosophy of loyalty  (artiklen har intet billede)
+  philosopher:luckmann                           Thomas Luckmann                                            → Thomas Luckmann  (artiklen har intet billede)
+  concept:machiavellisme                         Machiavellianism                                           → Machiavellianism  (flertydig side)
+  concept:magt-viden                             Power/knowledge                                            → Power-knowledge  (artiklen har intet billede)
+  concept:magtens-tredeling                      Separation of powers                                       → Separation of powers  (artiklen har intet billede)
+  concept:marxisme                               Marxism                                                    → Marxism  (artiklen har intet billede)
+  concept:massemennesket                         The mass man                                               → The mass man  (artiklen har intet billede)
+  concept:matematisk-harmoni                     Mathematical harmony                                       → Mathematical harmony  (artiklen har intet billede)
+  concept:materialisme                           Materialism                                                → Materialism  (artiklen har intet billede)
+  concept:meritokrati                            Meritocracy                                                → Meritocracy  (artiklen har intet billede)
+  concept:metodisk-tvivl                         Methodic doubt                                             → Cartesian doubt  (artiklen har intet billede)
+  era:middelalderen                              Middle Ages & the Islamic Golden Age                       → Middle Ages & the Islamic Golden Age  (artiklen har intet billede)
+  era:midt-1900-tal                              Mid-20th century                                           → Mid-20th century  (artiklen har intet billede)
+  concept:minimalstaten                          The minimal state                                          → The minimal state  (artiklen har intet billede)
+  concept:modallogik                             Modal logic                                                → Modal logic  (artiklen har intet billede)
+  artifact:mont-pelerin-selskabet                Mont Pelerin Society                                       → Mont Pelerin Society  (artiklen har intet billede)
+  artifact:montessori-metoden                    The Montessori Method                                      → The Montessori Method  (artiklen har intet billede)
+  concept:mulige-verdener                        Possible worlds                                            → Possible world  (artiklen har intet billede)
+  concept:multiple-drafts                        The multiple drafts model                                  → The multiple drafts model  (artiklen har intet billede)
+  concept:mutualisme                             Mutualism                                                  → Mutualism  (flertydig side)
+  concept:myndighed                              Intellectual maturity                                      → Intellectual maturity  (artiklen har intet billede)
+  concept:narrativ-identitet                     Narrative identity                                         → Narrative identity  (artiklen har intet billede)
+  concept:nativisme                              Nativism                                                   → Nativism  (flertydig side)
+  concept:naturalisme                            Naturalism                                                 → Naturalism  (flertydig side)
+  concept:naturlig-harmoni                       Natural harmony                                            → Natural harmony  (artiklen har intet billede)
+  concept:naturlig-opdragelse                    Natural education                                          → Natural education  (artiklen har intet billede)
+  concept:naturtilstanden                        The state of nature                                        → The state of nature  (artiklen har intet billede)
+  concept:negativ-dialektik                      Negative dialectics                                        → Negative dialectics  (artiklen har intet billede)
+  concept:neopragmatisme                         Neopragmatism                                              → Neopragmatism  (artiklen har intet billede)
+  concept:nodvendig-eksistens                    Necessary existence                                        → Necessary existence  (artiklen har intet billede)
+  concept:normalvidenskab                        Normal science                                             → Normal science  (artiklen har intet billede)
+  artifact:nurnbergkodekset                      Nuremberg Code                                             → Nuremberg Code  (artiklen har intet billede)
+  concept:nyt-induktionsproblem                  The new riddle of induction                                → The new riddle of induction  (artiklen har intet billede)
+  concept:naadelaeren                            Doctrine of grace                                          → Doctrine of grace  (artiklen har intet billede)
+  concept:objektivisme                           Objectivism                                                → Objectivism  (artiklen har intet billede)
+  artifact:ockham-summa-logicae                  Summa Logicae                                              → Sum of Logic  (artiklen har intet billede)
+  concept:offentlighed                           The public sphere                                          → The public sphere  (artiklen har intet billede)
+  concept:okkasionalisme                         Occasionalism                                              → Occasionalism  (artiklen har intet billede)
+  concept:okonomisk-liberalisme                  Classical economics                                        → Classical economics  (artiklen har intet billede)
+  concept:organisk-filosofi                      Philosophy of organism                                     → Process philosophy  (artiklen har intet billede)
+  concept:organisk-intellektuel                  The organic intellectual                                   → The organic intellectual  (artiklen har intet billede)
+  concept:organisk-samfundssyn                   Organic view of society                                    → Organic view of society  (artiklen har intet billede)
+  artifact:ortega-massernes-oproer               The Revolt of the Masses                                   → The Revolt of the Masses  (artiklen har intet billede)
+  concept:ostrigsk-skole                         Austrian School                                            → Austrian school of economics  (artiklen har intet billede)
+  concept:overgangsobjekt                        Transitional object                                        → Comfort object  (artiklen har intet billede)
+  concept:overmennesket                          The Übermensch                                             → The Übermensch  (artiklen har intet billede)
+  concept:panoptisme                             Panopticism                                                → Panopticon  (kun ikon/skabelonbillede)
+  concept:panta-rhei                             Panta rhei                                                 → Panta Rhei  (flertydig side)
+  concept:panteisme                              Pantheism                                                  → Pantheism  (kun ikon/skabelonbillede)
+  concept:paradigme                              Paradigm                                                   → Paradigm  (artiklen har intet billede)
+  concept:paradigmeskift                         Paradigm shift                                             → Paradigm shift  (artiklen har intet billede)
+  artifact:peirce-klare-ideer                    How to Make Our Ideas Clear                                → How to Make Our Ideas Clear  (artiklen har intet billede)
+  concept:performativer                          Performatives                                              → Performative utterance  (artiklen har intet billede)
+  concept:performativitet                        Performativity                                             → Performativity  (artiklen har intet billede)
+  concept:personlig-identitet                    Personal identity                                          → Personal identity  (artiklen har intet billede)
+  concept:perspektivisme                         Perspectivism                                              → Perspectivism  (artiklen har intet billede)
+  artifact:piaget-sprog-og-taenkning             The Language and Thought of the Child                      → The Language and Thought of the Child  (artiklen har intet billede)
+  artifact:platon-akademiet                      Platonic Academy                                           → Platonic Academy  (artiklen har intet billede)
+  concept:pluralisme                             Pluralism                                                  → Pluralism  (flertydig side)
+  artifact:polanyi-tavs-viden                    The Tacit Dimension                                        → The Tacit Dimension  (artiklen har intet billede)
+  concept:politisk-teologi                       Political theology                                         → Political theology  (artiklen har intet billede)
+  artifact:post-gettier-epistemologi             Gettier problem                                            → Gettier problem  (artiklen har intet billede)
+  concept:poststrukturalisme                     Post-structuralism                                         → Post-structuralism  (artiklen har intet billede)
+  concept:praedikatslogik                        Predicate logic                                            → First-order logic  (artiklen har intet billede)
+  concept:praeferenceutilitarisme                Preference utilitarianism                                  → Preference utilitarianism  (artiklen har intet billede)
+  concept:praxeologi                             Praxeology                                                 → Praxeology  (artiklen har intet billede)
+  concept:procesfilosofi                         Process philosophy                                         → Process philosophy  (artiklen har intet billede)
+  concept:profetisk-pragmatisme                  Prophetic pragmatism                                       → Prophetic pragmatism  (artiklen har intet billede)
+  concept:progressiv-paedagogik                  Progressive education                                      → Progressive education  (artiklen har intet billede)
+  artifact:progressiv-paedagogik                 Progressive education                                      → Progressive education  (artiklen har intet billede)
+  artifact:projektmetoden                        Project method                                             → Project method  (artiklen har intet billede)
+  artifact:protestantismen                       Protestantism                                              → Protestantism  (artiklen har intet billede)
+  concept:protestantismens-etik                  The Protestant ethic                                       → The Protestant ethic  (artiklen har intet billede)
+  concept:psykoanalyse                           Psychoanalysis                                             → Psychoanalysis  (artiklen har intet billede)
+  concept:racekritik                             Race critique                                              → Race critique  (artiklen har intet billede)
+  concept:radikal-fortolkning                    Radical interpretation                                     → Radical interpretation  (artiklen har intet billede)
+  concept:radikal-frihed                         Radical freedom                                            → Radical freedom  (artiklen har intet billede)
+  concept:rationalisme                           Rationalism                                                → Rationalism  (artiklen har intet billede)
+  concept:rationel-egoisme                       Rational egoism                                            → Rational egoism  (artiklen har intet billede)
+  concept:ratiovitalisme                         Ratiovitalism                                              → José Ortega y Gasset  (personside, ikke begrebet)
+  concept:reifikation                            Reification                                                → Reification  (flertydig side)
+  concept:relativisme                            Relativism                                                 → Relativism  (artiklen har intet billede)
+  concept:religioes-eksistentialisme             Religious existentialism                                   → Existentialism  (artiklen har intet billede)
+  concept:ren-medmenneskelighed                  Ren                                                        → Ren  (flertydig side)
+  era:renaessancen                               Renaissance & early modern                                 → Renaissance & early modern  (artiklen har intet billede)
+  concept:republikanisme                         Republicanism                                              → Republicanism  (artiklen har intet billede)
+  concept:ressentiment                           Ressentiment                                               → Ressentiment  (artiklen har intet billede)
+  concept:retorisk-filosofi                      Rhetorical philosophy                                      → Rhetorical philosophy  (artiklen har intet billede)
+  concept:retspositivisme                        Legal positivism                                           → Legal positivism  (artiklen har intet billede)
+  concept:rettighedsteori                        Entitlement theory                                         → Entitlement theory  (artiklen har intet billede)
+  concept:revolutionaer-socialisme               Revolutionary socialism                                    → Revolutionary socialism  (artiklen har intet billede)
+  concept:rhizom                                 The rhizome                                                → The rhizome  (artiklen har intet billede)
+  artifact:ricoeur-tid-og-fortaelling            Time and Narrative                                         → Time and Narrative  (artiklen har intet billede)
+  concept:romantisk-teologi                      Romantic theology                                          → Charles Williams (British writer)  (personside, ikke begrebet)
+  philosopher:rorty                              Richard Rorty                                              → Richard Rorty  (artiklen har intet billede)
+  artifact:royce-loyalitetens-filosofi           The Philosophy of Loyalty                                  → The Philosophy of Loyalty  (artiklen har intet billede)
+  artifact:sadras-transcendente-filosofi         Transcendent theosophy                                     → Transcendent theosophy  (artiklen har intet billede)
+  concept:sandhedsprocedurer                     Truth procedures                                           → Truth procedures  (artiklen har intet billede)
+  concept:selvrealisering                        Self-realization                                           → Self-realization  (artiklen har intet billede)
+  concept:semantisk-eksternalisme                Semantic externalism                                       → Semantic externalism  (artiklen har intet billede)
+  concept:semiotik                               Semiotics                                                  → Semiotics  (artiklen har intet billede)
+  era:sen-1900-tal-og-nutid                      Late 20th century & today                                  → Late 20th century & today  (artiklen har intet billede)
+  artifact:simmel-pengefilosofi                  The Philosophy of Money                                    → The Philosophy of Money  (artiklen har intet billede)
+  concept:situeret-laering                       Situated learning                                          → Situated learning  (artiklen har intet billede)
+  concept:skadeprincippet                        The harm principle                                         → The harm principle  (artiklen har intet billede)
+  concept:skepticisme                            Skepticism                                                 → Skepticism  (artiklen har intet billede)
+  concept:skole-for-livet                        School for life                                            → School for life  (artiklen har intet billede)
+  concept:social-konstruktion                    The social construction of reality                         → The social construction of reality  (artiklen har intet billede)
+  artifact:sofies-verden-filmen                  Sophie's World (film)                                      → Sophie's World (film)  (artiklen har intet billede)
+  artifact:spilforskningen                       Game studies                                               → Game studies  (artiklen har intet billede)
+  concept:spiral-laereplan                       Spiral curriculum                                          → Philosophy of education  (artiklen har intet billede)
+  concept:spontan-orden                          Spontaneous order                                          → Spontaneous order  (artiklen har intet billede)
+  concept:spontanitetsteori                      Theory of spontaneity                                      → Theory of spontaneity  (artiklen har intet billede)
+  concept:sprogspil                              Language games                                             → Language game  (artiklen har intet billede)
+  concept:steinerpaedagogik                      Waldorf pedagogy                                           → Waldorf pedagogy  (artiklen har intet billede)
+  artifact:stilladsering-i-undervisningen        Instructional scaffolding                                  → Instructional scaffolding  (artiklen har intet billede)
+  concept:stiv-identifikation                    Rigid designation                                          → Rigid designator  (artiklen har intet billede)
+  concept:stoisk-livskunst                       Stoic art of living                                        → Stoic art of living  (artiklen har intet billede)
+  concept:stoisk-selvdisciplin                   Stoic self-discipline                                      → Stoic self-discipline  (artiklen har intet billede)
+  concept:strukturel-marxisme                    Structural Marxism                                         → Structural Marxism  (artiklen har intet billede)
+  concept:subjektivitet                          Subjectivity is truth                                      → Subjectivity is truth  (artiklen har intet billede)
+  concept:sufisme                                Sufism                                                     → Sufism  (artiklen har intet billede)
+  concept:symbolteori                            Theory of symbols                                          → Theory of symbols  (artiklen har intet billede)
+  concept:talehandlingsteori                     Speech act theory                                          → Speech act  (artiklen har intet billede)
+  concept:talfilosofi                            Philosophy of number                                       → Philosophy of number  (artiklen har intet billede)
+  concept:tavs-viden                             Tacit knowledge                                            → Tacit knowledge  (artiklen har intet billede)
+  concept:teknikfilosofi                         The essence of technology                                  → The essence of technology  (artiklen har intet billede)
+  concept:tekstfilologi                          Textual philology                                          → Textual philology  (artiklen har intet billede)
+  artifact:thatcherismen                         Thatcherism                                                → Thatcherism  (artiklen har intet billede)
+  concept:tiltro-til-egen-formaaen               Self-efficacy                                              → Self-efficacy  (artiklen har intet billede)
+  concept:tofaktorteori                          Two-factor theory                                          → Two-factor theory  (artiklen har intet billede)
+  concept:transcendent-filosofi                  Transcendent philosophy                                    → Transcendent philosophy  (artiklen har intet billede)
+  concept:transcendental-reduktion               Transcendental reduction                                   → Bracketing (phenomenology)  (artiklen har intet billede)
+  concept:transcendentalisme                     Transcendentalism                                          → Transcendentalism  (artiklen har intet billede)
+  artifact:transcendentalistklubben              Transcendental Club                                        → Transcendental Club  (artiklen har intet billede)
+  concept:tregrening                             Social threefolding                                        → Social threefolding  (artiklen har intet billede)
+  concept:trestadie-loven                        Law of three stages                                        → Law of three stages  (artiklen har intet billede)
+  concept:troens-spring                          The leap of faith                                          → The leap of faith  (artiklen har intet billede)
+  concept:typeteori                              Type theory                                                → Type theory  (artiklen har intet billede)
+  artifact:undtagelsestilstanden                 State of exception                                         → State of exception  (artiklen har intet billede)
+  concept:utilitarisme                           Utilitarianism                                             → Utilitarianism  (artiklen har intet billede)
+  concept:vaeren-i-verden                        Being-in-the-world                                         → Martin Heidegger  (personside, ikke begrebet)
+  concept:vaeren-uforanderlig                    The immutability of Being                                  → The immutability of Being  (artiklen har intet billede)
+  concept:vand-som-grundstof                     Water as the first principle                               → Water as the first principle  (artiklen har intet billede)
+  concept:varighed                               Duration                                                   → Duration  (flertydig side)
+  concept:ven-fjende-distinktionen               Friend-enemy distinction                                   → Friend-enemy distinction  (artiklen har intet billede)
+  concept:verdensaanden                          World spirit                                               → World spirit  (artiklen har intet billede)
+  concept:verifikationsprincip                   The verification principle                                 → The verification principle  (artiklen har intet billede)
+  concept:vestlig-marxisme                       Western Marxism                                            → Western Marxism  (artiklen har intet billede)
+  concept:videnskabelig-metode                   The scientific method                                      → Scientific method  (artiklen har intet billede)
+  concept:videnskabelig-paedagogik               Scientific pedagogy                                        → Scientific pedagogy  (artiklen har intet billede)
+  concept:videnskabsfilosofi                     Philosophy of science                                      → Philosophy of science  (artiklen har intet billede)
+  concept:viljen-som-tingen-i-sig                The will as thing-in-itself                                → The will as thing-in-itself  (artiklen har intet billede)
+  concept:viljen-til-magt                        The will to power                                          → Will to power  (artiklen har intet billede)
+  concept:virkningshistorie                      Effective history                                          → Effective history  (artiklen har intet billede)
+  concept:vita-activa                            Vita activa                                                → Vita activa  (artiklen har intet billede)
+  concept:voluntarisme                           Voluntarism                                                → Voluntarism  (flertydig side)
+  artifact:wienerkredsens-manifest               The Scientific Conception of the World                     → The Scientific Conception of the World  (artiklen har intet billede)
+  concept:wu-wei                                 Wu wei                                                     → Wu wei  (artiklen har intet billede)
+  concept:aandsvidenskab                         Geisteswissenschaft                                        → Geisteswissenschaft  (artiklen har intet billede)
+
+Kuraterede titler der ikke matcher nogen node:

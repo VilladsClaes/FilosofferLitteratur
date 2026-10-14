@@ -1,0 +1,19 @@
+{
+  "name": "filosofi-graf",
+  "version": "1.0.0",
+  "description": "Neo4j-grafdatabase over filosoffer fra oldtiden til i dag, deres begreber og den kulturskabte virkelighed begreberne gav ophav til.",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "build": "node scripts/build.js",
+    "validate": "node scripts/validate.js",
+    "verify": "node scripts/verify.js",
+    "check": "node scripts/build.js && node scripts/validate.js && node scripts/verify.js",
+    "images": "node scripts/images.js",
+    "serve": "node scripts/serve.js",
+    "load": "bash scripts/load-neo4j.sh"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
